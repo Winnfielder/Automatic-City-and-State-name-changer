@@ -13,8 +13,6 @@ zipObj.write("descriptor.mod")
 
 zipObj.close()
 
-# TODO create .mod file in root by copying descriptor and adding dynamically path
-
 mod_file_dist = os.path.join(root_mod_dir, "TWR_Localized_State_and_City_names.mod")
 if os.path.exists(mod_file_dist):
     os.remove(mod_file_dist)
