@@ -1,0 +1,91 @@
+is_south_slav_country = {
+
+	OR = {
+		tag = YUG
+		tag = SER
+		tag = CRO
+		tag = MNT
+		tag = BOS
+		tag = MAC
+	}
+}
+
+is_serbian_speaking_country = {
+
+	OR = {
+		tag = SER
+		tag = MNT
+	}
+}
+
+is_german_speaking_country = {
+
+	OR = {
+		tag = GER
+		tag = AUS
+		tag = BAY
+		tag = SAX
+		tag = PRE
+		AND = {
+			tag = HUN
+			HUN = { has_cosmetic_tag = HUN_EMPIRE }
+		}
+	}
+}
+
+is_czechoslovak_country = {
+
+	OR = {
+		tag = CZE
+		tag = SLO
+	}
+}
+
+is_romanian_country = {
+
+	OR = {
+		tag = ROM
+		tag = MOL
+	}
+}
+
+is_english_speaking_country = {
+
+	OR = {
+		tag = ENG
+		tag = USA
+		tag = AST
+		tag = NZL
+	}
+}
+
+is_chinese_speaking_country = {
+
+	OR = {
+		tag = CHI
+		tag = PRC
+		tag = GXC
+		tag = YUN
+		tag = SIK
+		tag = XSM
+		tag = SHX
+		tag = MEN
+		tag = MAN
+	}
+}
+
+is_arabic_speaking_country = {
+
+	OR = {
+		tag = SAU
+		tag = OMA
+		tag = YEM
+		tag = SYR
+		tag = IRQ
+		tag = JOR
+		tag = PAL
+		tag = QAT
+	}
+
+}
+
