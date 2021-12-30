@@ -2,11 +2,11 @@ import pandas as pd
 import os
 
 states = pd.read_csv("states.csv", index_col=0)
-provices = pd.read_csv("provinces.csv",index_col=0)
+provices = pd.read_csv("provinces.csv",index_col=1)
 
 languages = set(states.columns)
 
-scripted_effects_folder = "scripted_effect_temp"
+scripted_effects_folder = "common/scripted_effects"
 if not os.path.exists(scripted_effects_folder):
     os.makedirs(scripted_effects_folder)
 

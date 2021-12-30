@@ -1,11 +1,9 @@
-name="TWR Localized State and City names"
+name="Automatic City and State name changer"
+picture="thumbnail.png"
 tags={
 	"Map"
 	"Translation"
 	"Utilities"
-}
-dependencies = {
-	"Thousand Week Reich"
 }
 version="v1"
 supported_version="1.11.4"
