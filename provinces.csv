@@ -3946,7 +3946,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12262,325,,,,,,,,,,,,,,,,,,,,,,,,
 12282,325,,,,,,,,,,,,,,,,,,,,,,,,
 10062,326,Hong Kong,,,,,Hongkong,Hongkong,Hongkong,Hong Kong,Hongkong,,Hongkong,Hong Kong,Hong Kong,,Honkonga,Honkongas,Hongkong,Hong Kong,,Hongkong,Hong Kong,,Hong Kong
-1221,327,Batangas,,,,,Batangas,Batangas,Batangas,Batangas,Provinz Batangas,,Batangas,Batangas,Provincia di Batangas,,Batangas,Batangas,Batangas,Batangas,,Batangas,Batangas,,Batangas
+1221,327,Batangas,,,,,Batangas,Batangas,Batangas,Batangas,Batangas,,Batangas,Batangas,Batangas,,Batangas,Batangas,Batangas,Batangas,,Batangas,Batangas,,Batangas
 1288,327,,,,,,,,,,,,,,,,,,,,,,,,
 7275,327,,,,,,,,,,,,,,,,,,,,,,,,
 7323,327,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6727,7 +6727,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 2136,508,,,,,,,,,,,,,,,,,,,,,,,,
 2224,508,,,,,,,,,,,,,,,,,,,,,,,,
 8195,508,,,,,,,,,,,,,,,,,,,,,,,,
-8216,508,Tucumán,,,,,Tucumán,Tucumán,Tucumánin,Tucumán,Provinz Tucumán,,Tucumán,Tucumán,Provincia di Tucumán,,Tukumanas province,Tukumano provincija,Tucumán,Provincia Tucumán,,Tucumán,Tucumán,,Tucumán
+8216,508,Tucumán,,,,,Tucumán,Tucumán,Tucumánin,Tucumán,Tucumán,,Tucumán,Tucumán,Tucumán,,Tukumanas ,Tukumano,Tucumán,Tucumán,,Tucumán,Tucumán,,Tucumán
 8253,508,,,,,,,,,,,,,,,,,,,,,,,,
 11001,508,,,,,,,,,,,,,,,,,,,,,,,,
 12928,508,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7946,7 +7946,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12658,586,,,,,,,,,,,,,,,,,,,,,,,,
 475,587,,,,,,,,,,,,,,,,,,,,,,,,
 642,587,,,,,,,,,,,,,,,,,,,,,,,,
-1517,587,Mangystau,,,,,Mangystauská oblast,Manggõstau oblast,Mañğıstawin alue,Oblys de Mañğıstaw,Mangghystau,,Mangystau,Mangystau,Regione di Mangghystau,,Manghistau apgabals,Mangystau sritis,Obwód mangystauski,Provincia Mańǵystaý,,Mangghystaw,Mangistav Eyaleti,,Mangystau
+1517,587,Mangystau,,,,,Mangystauská,Manggõstau,Mañğıstawin,Mañğıstaw,Mangghystau,,Mangystau,Mangystau,Mangghystau,,Manghistau,Mangystau,mangystauski,Mańǵystaý,,Mangghystaw,Mangistav,,Mangystau
 3593,587,,,,,,,,,,,,,,,,,,,,,,,,
 4523,587,,,,,,,,,,,,,,,,,,,,,,,,
 4620,587,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8627,7 +8627,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10186,628,,,,,,,,,,,,,,,,,,,,,,,,
 10302,628,,,,,,,,,,,,,,,,,,,,,,,,
 12112,628,,,,,,,,,,,,,,,,,,,,,,,,
-12118,628,Cebu,,,,,Cebu,Cebu,Cebun provinssi,Cebu,Provinz Cebu,,Cebu,Cebu,Provincia di Cebu,,Cebu,Sebu,Cebu,Cebu,,Cebu,Cebu,,Cebu
+12118,628,Cebu,,,,,Cebu,Cebu,Cebun,Cebu,Cebu,,Cebu,Cebu,Cebu,,Cebu,Sebu,Cebu,Cebu,,Cebu,Cebu,,Cebu
 12153,628,,,,,,,,,,,,,,,,,,,,,,,,
 4180,629,Honolulu,,,,,Honolulu,Honolulu,Honolulu,Honolulu,Honolulu,,Honolulu,Honolulu,Honolulu,,Honolulu,Honolulu,Honolulu,Honolulu,,Honolulu,Honolulu,,Honolul
 7112,629,,,,,,,,,,,,,,,,,,,,,,,,
