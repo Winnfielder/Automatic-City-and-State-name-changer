@@ -34,10 +34,10 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 33,Centre-Sud ,,,,,Centre-Sud ,Centre-Sud ,Centre-Sud ,Centre-Sud ,Centre-Sud,Centre-Sud ,,Centre-Sud ,Centre-Sud ,,Centre-Sud ,Centre-Sud ,Centre-Sud ,Centre-Sud ,,Centre-Sud ,Centre-Sud ,,Centre-Sud 
 34,Wallonie ,,,,,Wallonie ,Wallonie ,Wallonie ,Wallonie ,Wallonie,Wallonie ,,Wallonie ,Vallonia,,Wallonie ,Wallonie ,Wallonie ,Wallonie ,,Wallonie ,Wallonie ,,Wallonie 
 35,Brabant ,,,,,Brabant,Brabant ,Brabant ,Brabant,Brabant,Brabant,,Brabant,Brabante,,Brabant ,Brabantas,Brabancja,Brabant,,Brabant,Brabant ,,Brabant
-36,Friesland,,,,,Frísko,Friesland ,Friisimaa provints,Friisinmaa,Frise,Provinz Friesland,,Frízföld,Frisia,,Frīzlande,Fryzija,Fryzja,Provincia Frizia,,Friesland,Frizya,,Friesland 
+36,Friesland,,,,,Frísko,Friesland ,Friisimaa ,Friisinmaa,Frise,Friesland,,Frízföld,Frisia,,Frīzlande,Fryzija,Fryzja, Frizia,,Friesland,Frizya,,Friesland 
 37,Zealand,,,,,Sjælland,Sjaelland ,Sjælland,Sjælland,Seeland,Seeland,,Sjælland,Selandia,,Zēlande,Zelandija,Zelandia,Sjælland,,Själland,Sjælland,,Zeland
 38,Norrland ,,,,,Norrland,Norrland ,Norrland,Norlanti,Norrland,Norrland,,Norrland,Norrland,,Norlande,Norlandas,Norrland,Norrland,,Norrland,Norrland,,Norrland
-39,Provinca autonome e Bolcanos,,,,,Bolzano,South Tyrol ,Bolzano,Etelä-Tiroli,Bolzano,Südtirol,,Bolzano,Alto Adige,,Bolcāno,Pietų Tirolis,Bozen-Südtirol,Bolzano,,Sydtyrolen,Güney Tirol,,Bocen
+39,Bolcanos,,,,,Bolzano,South Tyrol ,Bolzano,Etelä-Tiroli,Bolzano,Südtirol,,Bolzano,Alto Adige,,Bolcāno,Pietų Tirolis,Bozen-Südtirol,Bolzano,,Sydtyrolen,Güney Tirol,,Bocen
 40,Barnaul ,,,,,Barnaul,Barnaul ,Barnaul,Barnaul,Barnaoul,Barnaul,,Barnaul,Barnaul,,Barnaula,Barnaulas,Barnauł,Barnaul,,Barnaul,Barnaul,,Barnaul
 41,Madridi,,,,,Madrid,Madrid ,Madrid,Madrid,Madrid,Madrid,,Madrid,Madrid,,Madride,Madridas,Madryt,Madrid,,Madrid,Madrid,,Madrid
 42,Moselland ,,,,,Moselland ,Moselland ,Moselland ,Moselland ,Moselland ,Moselland ,,Moselland ,Moselland ,,Moselland ,Moselland ,Moselland ,Moselland ,,Moselland ,Moselland ,,Moselland 
@@ -109,11 +109,11 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 108,Morava ,,,,,Morava,Morava ,Morava,Morava ,Morava,Morava,,Morava ,Morava ,,Morava ,Morava,Morava,Morava,,Morava,Morava ,,Morava
 109,Kroacia,,,,,Chorvatsko,Croatia ,Horvaatia,Kroatia,Croatie,Kroatien,,Horvátország,Croazia,,Horvātija,Kroatija,Chorwacja,Croația,,Kroatien,Hırvatistan,,Hrvatska
 110,Østlandet,,,,,Østlandet,Østlandet ,Østlandet,Østlandet,Østlandet,Østlandet,,Østlandet,Østlandet,,Østlandet ,Rytų Norvegija,Østlandet,Østlandet,,Østlandet,Doğu Norveç,,Østlandet 
-111,Uusimaa,,,,,Uusimaa,Uusimaa ,Uusimaa maakond,Uudenmaan maakunta,Uusimaa,Uusimaa,,Nyland tartomány,Uusimaa,,Uusimaa ,Ūsima,Uusimaa,Uusimaa,,Nyland,Uusimaa,,Uusimaa 
+111,Uusimaa,,,,,Uusimaa,Uusimaa ,Uusimaa,Uudenmaan maakunta,Uusimaa,Uusimaa,,Nyland tartomány,Uusimaa,,Uusimaa ,Ūsima,Uusimaa,Uusimaa,,Nyland,Uusimaa,,Uusimaa 
 112,Lisbona,,,,,Lisabon,Lisbon ,Lissabon,Lissabon,Lisbonne,Lissabon,,Lisszabon,Lisbona,,Lisabona,Lisabona,Lizbona,Lisabona,,Lissabon,Lizbon,,Lisabon
-113,Leinsteri,,,,,Leinster,Leinster ,Leinsteri provints,Leinster,Leinster,Leinster,,Leinster ,Leinster,,Lenstera,Lensteris,Leinster,Leinster ,,Leinster,Leinster,,Cúige Laighean
-114,Sardenja,,,,,Sardinie,Sardinia ,Sardiinia maakond,Sardinia,Sardaigne,Sardinien,,Szardínia,Sardegna,,Sardīnija,Sardinija,Sardynia,Sardinia,,Sardinien,Sardinya Özerk Bölgesi,,Sardinija
-115,Siçilia,,,,,Sicílie,Sicily ,Sitsiilia maakond,Sisilian alue,Sicile,Autonome Region Sizilien,,Szicília,Sicilia,,Sicīlija,Sicilija,Sycylia,Sicilia,,Sicilien,Sicilya,,Sicilija
+113,Leinsteri,,,,,Leinster,Leinster ,Leinsteri,Leinster,Leinster,Leinster,,Leinster ,Leinster,,Lenstera,Lensteris,Leinster,Leinster ,,Leinster,Leinster,,Cúige Laighean
+114,Sardenja,,,,,Sardinie,Sardinia ,Sardiinia,Sardinia,Sardaigne,Sardinien,,Szardínia,Sardegna,,Sardīnija,Sardinija,Sardynia,Sardinia,,Sardinien,Sardinya Özerk Bölgesi,,Sardinija
+115,Siçilia,,,,,Sicílie,Sicily ,Sitsiilia,Sisilian alue,Sicile,Sizilien,,Szicília,Sicilia,,Sicīlija,Sicilija,Sycylia,Sicilia,,Sicilien,Sicilya,,Sicilija
 116,Malta,,,,,Malta,Malta ,Malta,Malta,Malte,Malta,,Málta,Malta,,Malta,Malta,Malta,Malta,,Malta,Malta,,Malta
 117,Kampania,,,,,Kampánie,Campania ,Campania,Campania,Campanie,Kampanien,,Campania,Campania,,Kampānija,Kampanija,Kampania,Campania,,Kampanien,Campania,,Kampanija
 118,Gjibraltari,,,,,Gibraltar,Gibraltar ,Gibraltar,Gibraltar,Gibraltar,Gibraltar,,Gibraltár,Gibilterra,,Gibraltārs,Gibraltaras,Gibraltar,Gibraltar,,Gibraltar,Cebelitarık,,Gibraltar
@@ -132,18 +132,18 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 131,Northern England ,,,,,Northern England ,Northern England ,Northern England ,Northern England ,Nord de l'Angleterre,Nordengland,,Northern England ,Inghilterra settentrionale,,Northern England ,Šiaurės Anglija,Anglia Północna,Northern England ,,Northern England ,Northern England ,,Northern England 
 132,Lancashire ,,,,,Lancashire,Lancashire ,Lancashire,Lancashire,Lancashire,Lancashire,,Lancashire,Lancashire,,Lankašīra,Lankašyras,Lancashire,Lancashire,,Lancashire,Lancashire,,Lancashire 
 133,Lanark ,,,,,Lanark ,Lanark ,Lanark ,Lanark,Lanark,Lanark,,Lanark ,Lanark,,Lanark ,Lanark ,Lanark,Lanark ,,Lanark,Lanark,,Lanark 
-134,Connaught ,,,,,Connacht,Connaught ,Connachti provints,Connacht,Connacht,Connacht,,Connacht,Connacht,,Connaught ,Konachtas,Connacht,Connaught ,,Connacht,Connacht,,Cúige Chonnacht
-135,Munsteri,,,,,Munster,Munster ,Munsteri provints,Munster,Munster,Munster,,Munster ,Munster,,Manstera,Mansteris,Munster,Munster ,,Munste,Munster,,Cúige Mumhan
+134,Connaught ,,,,,Connacht,Connaught ,Connachti ,Connacht,Connacht,Connacht,,Connacht,Connacht,,Connaught ,Konachtas,Connacht,Connaught ,,Connacht,Connacht,,Cúige Chonnacht
+135,Munsteri,,,,,Munster,Munster ,Munsteri ,Munster,Munster,Munster,,Munster ,Munster,,Manstera,Mansteris,Munster,Munster ,,Munste,Munster,,Cúige Mumhan
 136,Aberdeenshire ,,,,,Aberdeenshire,Aberdeenshire ,Aberdeenshire,Aberdeenshire,Aberdeenshire,Aberdeenshire,,Aberdeenshire,Aberdeenshire,,Aberdeenshire ,Aberdynšyras,Aberdeenshire,Aberdeenshire,,Aberdeenshire,Aberdeenshire ,,Aberdeenshire 
-137,Krimea,,,,,Krym,Crimea ,Krimmi poolsaar,Krim,Crimée,Krim,,Krím,Crimea,,Krima,Krymas,Półwysep Krymski,Crimeea,,Krim,Kırım,,Krim
-138,Skåne,,,,,Scania ,Scania ,Skåne maakond,Skåne,Scanie,Schonen,,Skåne tartomány,Scania,,Scania ,Scania ,Skania,Skåne,,Skåne,Skåne,,Skåne
+137,Krimea,,,,,Krym,Crimea ,Krimmi ,Krim,Crimée,Krim,,Krím,Crimea,,Krima,Krymas,Półwysep Krymski,Crimeea,,Krim,Kırım,,Krim
+138,Skåne,,,,,Scania ,Scania ,Skåne ,Skåne,Scanie,Schonen,,Skåne tartomány,Scania,,Scania ,Scania ,Skania,Skåne,,Skåne,Skåne,,Skåne
 139,Småland,,,,,Småland,Småland ,Småland,Småland,Småland,Småland,,Småland tartomány,Småland,,Småland ,Smolandas,Smalandia,Småland,,Småland,Småland,,Småland
 140,Västergötland,,,,,Västergötland ,Västergötland ,Västergötland,Länsi-Götanmaa,Västergötland,Västergötland,,Västergötland tartomány,Västergötland,,Västergötland ,Västergötland ,Västergötland,Västergötland ,,Västergötland,Västergötland,,Västergötland
 141,Svealand ,,,,,Svealand,Svealand ,Svealand,Sveanmaa,Svealand,Svealand,,Svealand,Svealand,,Svēlande,Svealandas,Svealand,Svealand ,,Svealand,Svealand,,Svealand
 142,Vestlandet,,,,,Vestlandet ,Vestlandet ,Vestlandet,Vestlandet,Vestlandet,Vestlandet,,Vestlandet,Vestlandet,,Vestlandet ,Vestlandet ,Vestlandet,Vestlandet,,Vestlandet,Batı Norveç,,Vestlandet 
 143,Trøndelag,,,,,Trøndelag,Trøndelag ,Trøndelag ,Trøndelagin fylke,Comté de Trøndelag,Trøndelag,,Trøndelag,Trøndelag,,Trendelāga,Triondelagas,Trøndelag,Trøndelag,,Trøndelag fylke,Trøndelag,,Trøndelag 
 144,Nord-Norge,,,,,Nord-Norge ,Nord-Norge ,Põhja-Norra,Pohjois-Norja,Nord-Norge,Nord-Norge,,Észak-Norvégia,Nord-Norge,,Nord-Norge ,Šiaurės Norvegija,Nord-Norge,Nord-Norge,,Nordnorge,Kuzey Norveç,,Nord-Norge 
-145,Ishujt Oland,,,,,Alandy,Åland ,Ahvenamaa maakond,Ahvenanmaan maakunta,Åland,Åland,,Åland,Isole Åland,,Olande,Alandai,Wyspy Alandzkie,Insulele Åland,,Åland,Åland,,Ålandski otoci
+145,Ishujt Oland,,,,,Alandy,Åland ,Ahvenamaa ,Ahvenanmaan maakunta,Åland,Åland,,Åland,Isole Åland,,Olande,Alandai,Wyspy Alandzkie,Insulele Åland,,Åland,Åland,,Ålandski otoci
 146,Karjala ,,,,,Karjala,Karjala ,Karjala ,Karjala,Karjala ,Karjala ,,Karjala ,Karjala ,,Karjala ,Karjala ,Karjala ,Karjala ,,Karjala,Karjala ,,Karjala 
 147,Sall,,,,,Salla,Salla ,Salla vald,Salla,Salla,Salla,,Salla ,Salla,,Salla ,Salla ,Salla,Salla,,Sall,Salla,,Salla 
 148,Lappi ,,,,,Lappi ,Lappi ,Lappi ,Lappi,Lappi,Lappi,,Lappi ,Lappi,,Lappi ,Lappi ,Lappi ,Lappi ,,Lappi,Lappi ,,Lappi 
@@ -411,14 +411,14 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 410,Sistan ,,,,,Sístán,Sistan ,Sistan ,Sistan ,Sistan,Sistan,,Szisztán,Sistan,,Sistan ,Sistanas,Sistan,Sistan ,,Sistan,Sistan,,Sistan
 411,Isfahani,,,,,Isfahán,Isfahan ,Eşfahān,Isfahan,Ispahan,Isfahan,,Iszfahán,Esfahan,,Isfahāna,Isfahanas,Isfahan,Isfahan,,Esfahan,İsfahan,,Isfahan
 412,Fars ,,,,,Fars,Fars ,Fars ,Fars ,FARS,Fars,,Fars ,Fars ,,Fars ,Farsas,Fars ,Fars ,,Färs,Fars,,Fars 
-413,Khuzestan ,,,,,Chúzistán,Khuzestan ,Khūzestāni provints,Khūzestān,Khouzistan,Chuzestan,,Huzesztán tartomány,Khūzestān,,Hūzestāna,Chuzestano provincija,Chuzestan,Khuzestan ,,Khuzestan,Huzistan Eyaleti,,Huzestan
+413,Khuzestan ,,,,,Chúzistán,Khuzestan ,Khūzestāni ,Khūzestān,Khouzistan,Chuzestan,,Huzesztán tartomány,Khūzestān,,Hūzestāna,Chuzestano ,Chuzestan,Khuzestan ,,Khuzestan,Huzistan Eyaleti,,Huzestan
 414,Kerman ,,,,,Kermán,Kerman ,Kerman ,Kerman,Kerman,Kerman,,Kermán,Kerman,,Kerman ,Kermanas,Kerman,Kerman,,Kerman,Kirman,,Kerman
 415,Herat,,,,,Herát,Herat ,Herāt,Herat,Hérat,Herat,,Herát,Herat,,Herāta,Heratas,Herat,Herat,,Herat,Herat,,Herat
 416,Khorasan ,,,,,Khorasan ,Khorasan ,Khorasan ,Khorasan ,Khorasan ,Khorasan ,,Khorasan ,Khorasan ,,Khorasan ,Khorasan ,Khorasan ,Khorasan ,,Khorasan ,Khorasan ,,Khorasan 
 417,Hamadan ,,,,,Hamadán,Hamadan ,Hamadan ,Hamedan,Hamadan,Hamadan,,Hamadán,Hamadan,,Hamadan ,Hamadanas,Hamadan,Hamadan,,Hamadan,Hemedan,,Hamadan
 418,Semnan ,,,,,Semnan ,Semnan ,Semnan ,Semnan ,Semnan ,Semnan,,Semnan ,Semnan ,,Semnan ,Semnan ,Semnan ,Semnan ,,Semnan,Semnan ,,Semnan 
 419,Tibriz ,,,,,Tibriz ,Tibriz ,Tibriz ,Tibriz ,Tibriz ,Tibriz ,,Tibriz ,Tibriz ,,Tibriz ,Tibriz ,Tibriz ,Tibriz ,,Tibriz ,Tibriz ,,Tibriz 
-420,Gilan ,,,,,Gílán,Gilan ,Gīlāni provints,Gīlān,Guilan,Gilan,,Gilán tartomány,Provincia di Gilan,,Gīlāna,Gilano provincija,Gilan,Provincia Gilan,,Gilan,Gilan Eyaleti,,Gilan
+420,Gilan ,,,,,Gílán,Gilan ,Gīlāni ,Gīlān,Guilan,Gilan,,Gilán tartomány, di Gilan,,Gīlāna,Gilano ,Gilan, Gilan,,Gilan,Gilan Eyaleti,,Gilan
 421,Kurdistani,,,,,Kurdistán,Kurdistan ,Kurdistan,Kurdistan,Kurdistan,Kurdistan,,Kurdisztán,Kurdistan,,Kurdistāna,Kurdistanas,Kurdystan,Kurdistan,,Kurdistan,Kürdistan,,Kurdistan
 422,Sri Lanka,,,,,Srí Lanka,Ceylon ,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,,Srí Lanka,Sri Lanka,,Šrilanka,Šri Lanka,Sri Lanka,Sri Lanka,,Sri Lanka,Sri Lanka,,Šri Lanka
 423,Madurai ,,,,,Madurai,Madurai ,Madurai,Madurai,Madurai,Madurai,,Maduráj,Madurai,,Maduraja,Madurajus,Maduraj,Madurai,,Madurai,Madurai,,Madurai 
@@ -441,7 +441,7 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 440,Punjab ,,,,,Paňdžáb,Punjab ,Pandžab,Punjab,Pendjab,Punjab,,Pandzsáb régió,Punjab,,Pendžāba,Pandžabas,Pendżab,Punjab ,,Punjab ,Pencap,,Pendžab
 441,Kashmir ,,,,,Kašmír,Kashmir ,Kashmir,Kashmir,Cachemire,Kaschmir,,Kasmír,Kashmir,,Kašmīra,Kašmyras,Dżammu i Kaszmir,Cașmir,,Kashmir,Keşmir,,Kašmir
 442,Peshawar ,,,,,Péšávar,Peshawar ,Peshawar,Peshawar,Peshawar,Peschawar,,Pesavar,Peshawar,,Pešāvara,Pešavaras,Peszawar,Peshawar,,Peshawar,Peşaver,,Pešavar
-443,Sind,,,,,Sindh,Sind ,Sindhi provints,Sindh,Sind,Sindh,,Szindh,Sindh,,Sinda,Sindhas,Sindh,Sindh,,Sindh,Sind,,Sind
+443,Sind,,,,,Sindh,Sind ,Sindhi ,Sindh,Sind,Sindh,,Szindh,Sindh,,Sinda,Sindhas,Sindh,Sindh,,Sindh,Sind,,Sind
 444,Baluchistan ,,,,,Balúčistán,Baluchistan ,Belutšistan,Belutšistan,Baloutchistan,Belutschistan,,Baluchistan ,Belucistan,,Beludžistāna,Beludžistanas,Beludżystan,Belucistan,,Baluchistan ,Belucistan,,Beludžistan
 445,Quetta ,,,,,Kvéta,Quetta ,Quetta ,Quetta,Quetta,Quetta,,Kvetta,Quetta,,Quetta ,Kveta,Kweta,Quetta ,,Quetta,Ketta,,Quetta 
 446,Kajro,,,,,Káhira,Cairo ,Kairo,Kairo,Le Caire,Kairo,,Kairó,Il Cairo,,Kaira,Kairas,Kair,Cairo,,Kairo,Kahire,,Kairo
@@ -465,9 +465,9 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 464,Skocia e Re,,,,,Nové Skotsko,Nova Scotia ,Nova Scotia,Nova Scotia,Nouvelle-Écosse,Nova Scotia,,Új-Skócia,Nuova Scozia,,Jaunskotija,Naujoji Škotija,Nowa Szkocja,Noua Scoție,,Nova Scotia,Yeni İskoçya,,Nova Škotska
 465,New Brunswick,,,,,Nový Brunšvik,New Brunswick ,New Brunswick,New Brunswick,Nouveau-Brunswick,New Brunswick,,Új-Brunswick,Nuovo Brunswick,,Ņūbransvika,Naujasis Bransvikas,Nowy Brunszwik,Noul Brunswick,,New Brunswick,Yeni Brunswick,,Novi Brunswick
 466,Kebeku,,,,,Québec,Quebec ,Québec,Quebec,Québec,Québec,,Québec,Québec,,Kvebeka,Kvebekas,Quebec,Québec,,Québec,Québec,,Québec
-467,Manitoba,,,,,Manitoba,Manitoba ,Manitoba provints,Manitoba,Manitoba,Manitoba,,Manitoba,Manitoba,,Manitoba,Manitoba,Manitoba,Manitoba,,Manitoba,Manitoba,,Manitoba
+467,Manitoba,,,,,Manitoba,Manitoba ,Manitoba ,Manitoba,Manitoba,Manitoba,,Manitoba,Manitoba,,Manitoba,Manitoba,Manitoba,Manitoba,,Manitoba,Manitoba,,Manitoba
 468,Saint Lawrence ,,,,,Svatý Vavřinec,Saint Lawrence ,Laurentius,Pyhä Laurentius,Laurent de Rome,Laurentius von Rom,,Szent Lőrinc,San Lorenzo,,Svētais Labrencis,Šv. Laurynas,Wawrzyniec z Rzymu,Laurențiu de Roma,,Sankt Lars,Saint Lawrence,,Sveti Lovro
-469,Saskatchewan,,,,,Saskatchewan,Saskatchewan ,Saskatchewani provints,Saskatchewan,Saskatchewan,Saskatchewan,,Saskatchewan,Saskatchewan,,Saskačevana,Saskačevanas,Saskatchewan,Saskatchewan,,Saskatchewan,Saskatchewan,,Saskatchewan
+469,Saskatchewan,,,,,Saskatchewan,Saskatchewan ,Saskatchewani ,Saskatchewan,Saskatchewan,Saskatchewan,,Saskatchewan,Saskatchewan,,Saskačevana,Saskačevanas,Saskatchewan,Saskatchewan,,Saskatchewan,Saskatchewan,,Saskatchewan
 470,Alberta,,,,,Alberta,Alberta ,Alberta,Alberta,Alberta,Alberta,,Alberta,Alberta,,Alberta,Alberta,Alberta,Alberta,,Alberta,Alberta,,Alberta
 471,Northwestern Canada ,,,,,Northwestern Canada ,Northwestern Canada ,Northwestern Canada ,Northwestern Canada ,Northwestern Canada ,Northwestern Canada ,,Northwestern Canada ,Northwestern Canada ,,Northwestern Canada ,Northwestern Canada ,Northwestern Canada ,Northwestern Canada ,,Northwestern Canada ,Northwestern Canada ,,Northwestern Canada 
 472,Northern Canada ,,,,,Northern Canada ,Northern Canada ,Northern Canada ,Northern Canada ,Nord canadien,Northern Canada ,,Northern Canada ,Canada settentrionale,,Northern Canada ,Northern Canada ,Północ Kanady,Northern Canada ,,Norra Kanada,Kuzey Kanada,,Northern Canada 
@@ -506,7 +506,7 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 505,Goias ,,,,,Goiás,Goias ,Goiási osariik,Goiás,Goiás,Goiás,,Goiás,Goiás,,Gojasa,Gojasas,Goiás,Goiás,,Goiás,Goiás,,Goiás
 506,Antofagasta ,,,,,Antofagasta,Antofagasta ,Antofagasta,Antofagasta,Antofagasta,Antofagasta,,Antofagasta,Antofagasta,,Antofagasta,Antofagasta,Antofagasta,Antofagasta,,Antofagasta,Antofagast,,Antofagasta
 507,Magallanes ,,,,,Magallanes ,Magallanes ,Magallanes ,Magallanes ,Magallanes,Magallanes,,Magallanes ,Magallanes,,Magallanes ,Magallanes ,Magallanes ,Magallanes ,,Magallanes,Magallanes ,,Magallanes
-508,Tucuman ,,,,,Tucumán,Tucuman ,Tucuman ,Tucumánin maakunta,Province de Tucumán,Provinz Tucumán,,Tucuman ,Provincia di Tucumán,,Tukumanas province,Tukumano provincija,Tucumán,Provincia Tucumán,,Tucumán,Tucumán,,Tucuman 
+508,Tucuman ,,,,,Tucumán,Tucuman ,Tucuman ,Tucumánin maakunta,Province de Tucumán,Provinz Tucumán,,Tucuman ,Tucumán,,Tukumanas province,Tukumano ,Tucumán, Tucumán,,Tucumán,Tucumán,,Tucuman 
 509,Chaco Austral ,,,,,Chaco Austral ,Chaco Austral ,Chaco Austral ,Chaco Austral ,Chaco Austral ,Chaco Austral ,,Chaco Austral ,Chaco Australe,,Chaco Austral ,Chaco Austral ,Chaco Austral ,Chaco Austral ,,Chaco Austral ,Chaco Austral ,,Chaco Austral 
 510,Mesopotamia,,,,,Mezopotámie,Mesopotamia ,Mesopotaamia,Mesopotamia,Mésopotamie,Mesopotamien,,Mezopotámia,Mesopotamia,,Senā Divupe,Mesopotamija,Mezopotamia,Mesopotamia,,Mesopotamien,Mezopotamya,,Mezopotamija
 511,Mendoza ,,,,,Mendoza,Mendoza ,Mendoza ,Mendoza ,Mendoza,Mendoza,,Mendoza ,Mendoza,,Mendoza ,Mendosa,Mendoza,Mendoza ,,Mendoza,Mendoza ,,Mendoza 
@@ -524,18 +524,18 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 523,Papua ,,,,,Papua,Papua ,Papua ,Papua,Papouasie,Papua,,Pápua,Papua,,Papua,Papua,Papua,Papua ,,Papua ,Papua ,,Papua 
 524,Republika e Kinës,,,,,Tchaj-wan,Taiwan ,Taiwan,Taiwan,Taïwan,Republik China,,Kínai Köztársaság,Taiwan,,Ķīnas Republika,Taivanas,Republika Chińska,Taiwan,,Taiwan,Tayvan,,Republika Kina
 525,Koreja e Jugut,,,,,Jižní Korea,South Korea ,Lõuna-Korea,Korean tasavalta,Corée du Sud,Südkorea,,Dél-Korea,Corea del Sud,,Dienvidkoreja,Pietų Korėja,Korea Południowa,Coreea de Sud,,Sydkorea,Güney Kore,,Južna Koreja
-526,Okinawa ,,,,,Prefektura Okinawa,Okinawa ,Okinawa prefektuur,Okinawan prefektuuri,Préfecture d'Okinawa,Präfektur Okinawa,,Okinava prefektúra,Prefettura di Okinawa,,Okinavas prefektūra,Okinavos prefektūra,Prefektura Okinawa,Prefectura Okinawa,,Okinawa prefektur,Okinawa,,Okinawa
+526,Okinawa ,,,,,Prefektura Okinawa,Okinawa ,Okinawa prefektuur,Okinawan prefektuuri,Préfecture d'Okinawa,Präfektur Okinawa,,Okinava prefektúra,Okinawa,,Okinavas prefektūra,Okinavos prefektūra,Prefektura Okinawa,Prefectura Okinawa,,Okinawa prefektur,Okinawa,,Okinawa
 527,Koreja e Veriut,,,,,Severní Korea,North Korea ,Põhja-Korea,Korean demokraattinen kansantasavalta,Corée du Nord,Nordkorea,,Észak-Korea,Corea del Nord,,Ziemeļkoreja,Šiaurės Korėja,Korea Północna,Coreea de Nord,,Nordkorea,Kuzey Kore,,Sjeverna Koreja
 528,Kyūshū,,,,,Kjúšú,Kyushu ,Kyūshū,Kyūshū,Kyūshū,Kyūshū,,Kjúsú,Kyūshū,,Kjusju,Kiūšiū,Kiusiu,Kyushu,,Kyushu,Kyūshū,,Kyushu
 529,Chugoku ,,,,,Čúgoku,Chugoku ,Chugoku ,Chūgoku,Région du Chūgoku,Chūgoku,,Csúgoku,Chūgoku,,Čjūgoku reģions,Čiūgoku regionas,Region Chūgoku,Regiunea Chūgoku,,Chugoku,Chūgoku,,Chūgoku
 530,Shikoku,,,,,Šikoku,Shikoku ,Shikoku,Shikoku,Shikoku,Shikoku,,Sikoku,Shikoku,,Šikoku,Šikoku,Sikoku,Shikoku,,Shikoku,Shikoku,,Shikoku
 531,Kansai ,,,,,Kansai,Kansai ,Kansai ,Kansai,Région du Kansai,Kinki,,Kanszai,Kansai,,Kansai reģions,Kansajaus regionas,Region Kinki,Regiunea Kansai,,Kansai,Kansai,,Kansai
 532,Tokai ,,,,,Tokai ,Tokai ,Tokai ,Tokai ,Tokai,Tokai,,Tokai ,Tokai,,Tokai ,Tokai ,Tokai ,Tokai,,Tokai,Tokai ,,Tokai 
-533,Tohoku ,,,,,Tóhoku,Tohoku ,Tohoku ,Tōhoku,Région du Tōhoku,Tōhoku,,Tóhoku,Regione di Tōhoku,,Tohoku reģions,Tohoku regionas,Region Tōhoku,Regiunea Tōhoku,,Tohoku,Tōhoku,,Tōhoku
+533,Tohoku ,,,,,Tóhoku,Tohoku ,Tohoku ,Tōhoku,Région du Tōhoku,Tōhoku,,Tóhoku,Tōhoku,,Tohoku reģions,Tohoku regionas,Region Tōhoku,Regiunea Tōhoku,,Tohoku,Tōhoku,,Tōhoku
 534,Hokuriku ,,,,,Hokuriku ,Hokuriku ,Hokuriku ,Hokuriku ,Hokuriku ,Hokuriku ,,Hokuriku ,Hokuriku ,,Hokuriku ,Hokuriku ,Hokuriku ,Hokuriku ,,Hokuriku ,Hokuriku ,,Hokuriku 
-535,Koshinetsu ,,,,,Kóšinecu,Koshinetsu ,Koshinetsu ,Kōshin’etsu,Région du Kōshinetsu,Koshinetsu ,,Koshinetsu ,Regione di Kōshin'etsu,,Koshinetsu ,Košinecu regionas,Region Kōshin’etsu,Koshinetsu ,,Koshinetsu,Kōshin'etsu,,Kōshin'etsu
+535,Koshinetsu ,,,,,Kóšinecu,Koshinetsu ,Koshinetsu ,Kōshin’etsu,Région du Kōshinetsu,Koshinetsu ,,Koshinetsu ,Kōshin'etsu,,Koshinetsu ,Košinecu regionas,Region Kōshin’etsu,Koshinetsu ,,Koshinetsu,Kōshin'etsu,,Kōshin'etsu
 536,Hokaido,,,,,Hokkaidó,Hokkaido ,Hokkaidō,Hokkaidō,Hokkaidō,Hokkaidō,,Hokkaidó,Hokkaidō,,Hokaido,Hokaidas,Hokkaido,Insula Hokkaidō,,Hokkaido,Hokkaidō,,Hokkaido
-537,South Sakhalin ,,,,,Prefektura Karafuto,South Sakhalin ,South Sakhalin ,South Sakhalin ,Préfecture de Karafuto,Präfektur Karafuto,,Karafuto prefektúra,Prefettura di Karafuto,,South Sakhalin ,South Sakhalin ,South Sakhalin ,South Sakhalin ,,South Sakhalin ,Karafuto,,Karafuto
+537,South Sakhalin ,,,,,Prefektura Karafuto,South Sakhalin ,South Sakhalin ,South Sakhalin ,Préfecture de Karafuto,Präfektur Karafuto,,Karafuto prefektúra,Karafuto,,South Sakhalin ,South Sakhalin ,South Sakhalin ,South Sakhalin ,,South Sakhalin ,Karafuto,,Karafuto
 538,Central Congo ,,,,,Central Congo ,Central Congo ,Central Congo ,Central Congo ,Central Congo ,Central Congo ,,Central Congo ,Congo Centrale,,Central Congo ,Central Congo ,Central Congo ,Central Congo ,,Central Congo ,Central Congo ,,Central Congo 
 539,Gaboni,,,,,Gabon,Gabon ,Gabon,Gabon,Gabon,Gabun,,Gabon,Gabon,,Gabona,Gabonas,Gabon,Gabon,,Gabon,Gabon,,Gabon
 540,South Angola ,,,,,South Angola ,South Angola ,South Angola ,South Angola ,South Angola ,South Angola ,,South Angola ,South Angola ,,South Angola ,South Angola ,South Angola ,South Angola ,,South Angola ,South Angola ,,South Angola 
@@ -585,11 +585,11 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 584,Aschgabat,,,,,Ašchabad,Ashkhabad ,Aşgabat,Ašgabat,Achgabat,Aşgabat,,Aşgabat,Aşgabat,,Ašgabata,Ašchabadas,Aszchabad,Așgabat,,Asjchabad,Aşkabat,,Ašgabat
 585,Urgench ,,,,,Urgench ,Urgench ,Urgench ,Urganch,Ourguentch,Urganch,,Urganch,Urgench,,Urgench ,Urgenčas,Urgencz,Urghenci,,Urgentj,Ürgenç,,Urgench 
 586,Almaty,,,,,Almaty,Alma-Ata ,Almatõ,Almaty,Almaty,Almaty,,Almati,Almaty,,Almati,Almata,Ałmaty,Almaty,,Almaty,Almatı,,Almati
-587,Ust Urt ,,,,,Ustjurtská plošina,Ust Urt ,Üstirt,Ustjurt,Plateau d'Oust-Ourt,Ustjurt-Plateau,,Ust Urt ,Altopiano di Ustyurt,,Ust Urt ,Ustiurto plynaukštė,Ustiurt,Ust Urt ,,Ustiurtplatån,Ust Urt ,,Ustjurt
+587,Ust Urt ,,,,,Ustjurtská plošina,Ust Urt ,Üstirt,Ustjurt,Plateau d'Oust-Ourt,Ustjurt-Plateau,,Ust Urt ,Ustyurt,,Ust Urt ,Ustiurto plynaukštė,Ustiurt,Ust Urt ,,Ustiurtplatån,Ust Urt ,,Ustjurt
 588,Semej,,,,,Semej,Semipalatinsk ,Semej,Semey,Semeï,Semei,,Szemej,Semej,,Semeja,Semejus,Semej,Semeı,,Semej,Semey,,Semipalatinsk 
 589,Ayaguz ,,,,,Ayaguz ,Ayaguz ,Ayaguz ,Ayagöz,Aïagouz,Ajagös,,Ayaguz ,Ayaguz ,,Ayaguz ,Ajagozas,Ajagöz,Ayaguz ,,Ajagöz,Ayaguz ,,Ayaguz 
 590,Nursultan,,,,,Nur-Sultan,Akmolinsk ,Nur-Sultan,Nur-Sultan,Noursoultan,Nur-Sultan,,Nur-Szultan,Nur-Sultan,,Nursultana,Nur Sultanas,Nur-Sułtan,Nur-Sultan,,Nur-Sultan,Nur-Sultan,,Nur-Sultan
-591,Hainan ,,,,,Chaj-nan,Hainan ,Hainani provints,Hainan,Hainan,Hainan,,Hajnan,Hainan,,Hainaņa,Hainanas,Hajnan,Hainan,,Hainan,Hainan,,Hainan
+591,Hainan ,,,,,Chaj-nan,Hainan ,Hainani ,Hainan,Hainan,Hainan,,Hajnan,Hainan,,Hainaņa,Hainanas,Hajnan,Hainan,,Hainan,Hainan,,Hainan
 592,Guangzhou,,,,,Kanton,Guangzhou ,Guangzhou,Kanton,Canton,Guangzhou,,Kanton,Canton,,Guandžou,Guangdžou,Kanton,Guangzhou,,Guangzhou,Guangzhou,,Guangzhou
 593,Guangdong ,,,,,Kuang-tung,Guangdong ,Guangdong,Guangdong,Guangdong,Guangdong,,Kuangtung,Guangdong,,Guanduna,Guangdongas,Guangdong,Guangdong,,Guangdong,Guangdong,,Guangdong
 594,Nanning ,,,,,Nan-ning,Nanning ,Nanning ,Nanning,Nanning,Nanning,,Nanning,Nanning,,Naņnina,Naningas,Nanning,Nanning ,,Nanning,Nanning,,Nanning
@@ -617,16 +617,16 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 616,Ningxia ,,,,,Ning-sia,Ningxia ,Ningxia,Ningxia,Région autonome du Níngxià,Ningxia,,Ninghszia-Huj Autonóm Terület,Ningxia,,Ninsjas Hueju autonomais reģions,Ningsia,Ningxia,Ningxia,,Ningxia,Ningksia Huy Özerk Bölgesi,,Ningxia
 617,Urumqi ,,,,,Urumči,Urumqi ,Ürümqi,Ürümqi,Ürümqi,Ürümqi,,Ürümcsi,Ürümqi,,Urumči,Urumčis,Urumczi,Ürümqi,,Ürümqi,Ürümçi,,Urumqi
 618,Dzungaria ,,,,,Džungarie,Dzungaria ,Dzungaria ,Džungaria,Dzoungarie,Dsungarei,,Dzsungária,Zungaria,,Dzungaria ,Džungarija,Dżungaria,Dzungaria ,,Dzungariet,Çungarya,,Džungarija
-619,Yarkand ,,,,,Jarkend,Yarkand ,Yarkand ,Yarkant,Xian de Yarkand,Yarkant,,Yarkand ,Contea di Yarkant,,Yarkand ,Jarkendas,Shache,Yarkand ,,Yarkant,Yarkent İlçesi,,Yarkand 
+619,Yarkand ,,,,,Jarkend,Yarkand ,Yarkand ,Yarkant,Xian de Yarkand,Yarkant,,Yarkand ,Yarkant,,Yarkand ,Jarkendas,Shache,Yarkand ,,Yarkant,Yarkent İlçesi,,Yarkand 
 620,Hubei ,,,,,Chu-pej,Hubei ,Hubei,Hubei,Hubei,Hubei,,Hupej,Hubei,,Hubei,Hubėjus,Hubei,Hubei,,Hubei,Hubei,,Hubei
 621,Suiyuan ,,,,,Suiyuan ,Suiyuan ,Suiyuan ,Suiyuan ,Province du Suiyuan,Suiyuan,,Suiyuan ,Suiyuan ,,Suiyuan ,Suiyuan ,Suiyuan,Suiyuan ,,Suiyuan,Suiyuan ,,Suiyuan 
 622,Shaanxi ,,,,,Šen-si,Shaanxi ,Shaanxi,Shaanxi,Shaanxi,Shaanxi,,Senhszi,Shaanxi,,Šaaņsji,Šaansi,Shaanxi,Shaanxi,,Shaanxi,Şensi,,Shaanxi
 623,Luzon ,,,,,Luzon,Luzon ,Luzon,Luzon,Luçon,Luzon,,Luzon,Luzon,,Lusona,Lusonas,Luzon,Luzon,,Luzon,Luzon,,Luzon
 624,Central islands ,,,,,Central islands ,Central islands ,Central islands ,Central islands ,Central islands ,Central islands ,,Central islands ,Central islands ,,Central islands ,Central islands ,Central islands ,Central islands ,,Central islands ,Central islands ,,Central islands 
 625,Samar ,,,,,Samar,Samar ,Samar,Samar,Samar,Samar,,Samar,Isola di Samar,,Samar ,Samaras,Samar,Samar,,Samar,Samar ,,Samar
-626,Palawan ,,,,,Palawan,Palawan ,Palawan ,Palawan,Province de Palawan,Palawan,,Palawan,Provincia di Palawan,,Palawan ,Palawan ,Palawan,Palawan ,,Palawan,Palawan,,Palawan 
+626,Palawan ,,,,,Palawan,Palawan ,Palawan ,Palawan,Province de Palawan,Palawan,,Palawan, di Palawan,,Palawan ,Palawan ,Palawan,Palawan ,,Palawan,Palawan,,Palawan 
 627,Mindanao ,,,,,Mindanao,Mindanao ,Mindanao,Mindanao,Mindanao,Mindanao,,Mindanao,Mindanao,,Mindanao,Mindanao,Mindanao,Mindanao,,Mindanao,Mindanao,,Mindanao
-628,Cebu ,,,,,Cebu,Cebu ,Cebu ,Cebun provinssi,Cebu,Provinz Cebu,,Cebu ,Provincia di Cebu,,Cebu ,Sebu,Cebu,Cebu ,,Cebu,Cebu ,,Cebu 
+628,Cebu ,,,,,Cebu,Cebu ,Cebu ,Cebun provinssi,Cebu,Provinz Cebu,,Cebu , di Cebu,,Cebu ,Sebu,Cebu,Cebu ,,Cebu,Cebu ,,Cebu 
 629,Hawaii,,,,,Havaj,Hawaii ,Hawaii osariik,Havaiji,Hawaï,Hawaii,,Hawaii,Hawaii,,Havajas,Havajai,Hawaje,Hawaii,,Hawaii,Hawaii,,Havaji
 630,Johnston Atoll ,,,,,Johnstonův atol,Johnston Atoll ,Johnstoni atoll,Johnstonin atolli,Atoll Johnston,Johnston-Atoll,,Johnston-atoll,Atollo Johnston,,Džonstona atols,Džonstono atolas,Johnston,Atolul Johnston,,Johnstonatollen,Johnston Atolü,,Atol Johnston
 631,Midway Island ,,,,,Midway,Midway Island ,Midway saared,Midwaysaaret,Îles Midway,Midwayinseln,,Midway-atoll,Atollo di Midway,,Midveja atols,Midvėjaus atolas,Midway,Atolul Midway,,Midwayöarna,Midway Adası,,Atol Midway
@@ -752,7 +752,7 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 751,Liangshan ,,,,,Liangshan ,Liangshan ,Liangshan ,Liangshan ,Liangshan,Liangshan,,Liangshan ,Liangshan ,,Liangshan ,Liangshan ,Liangshan,Liangshan ,,Liangshan,Liangshan ,,Liangshan 
 752,Ganzi ,,,,,Ganzi ,Ganzi ,Ganzi ,Ganzi ,Ganzi ,Ganzi,,Ganzi ,Ganzi ,,Ganzi ,Ganzi ,Ganzi ,Ganzi ,,Ganzi ,Ganzi ,,Ganzi 
 753,Gannan ,,,,,Gannan ,Gannan ,Gannan ,Gannan ,Gannan,Gannan,,Gannan ,Gannan ,,Gannan ,Gannan ,Gannan,Gannan ,,Gannan ,Gannan ,,Gannan 
-754,Golog ,,,,,Golog,Golog ,Golog ,Gologin tiibetiläisten autonominen prefektuuri,Préfecture autonome tibétaine golog,Golog,,Golog ,Prefettura autonoma tibetana di Golog,,Golog ,Golog ,Golog,Golog ,,Golog,Golog Tibet Özerk İli,,Golog 
+754,Golog ,,,,,Golog,Golog ,Golog ,Golog ,Golog ,Golog,,Golog ,Golog ,,Golog ,Golog ,Golog,Golog ,,Golog,Golog Tibet Özerk İli,,Golog 
 755,Haixi ,,,,,Haixi ,Haixi ,Haixi ,Haixi ,Haixi ,Haixi ,,Haixi ,Haixi ,,Haixi ,Haixi ,Haixi ,Haixi ,,Haixi ,Haixi ,,Haixi 
 756,Jiuquan ,,,,,Ťiou-čchüan,Jiuquan ,Jiuquan,Jiuquan,Jiuquan,Jiuquan,,Jiuquan ,Jiuquan,,Jiuquan ,Jiuquan ,Jiuquan,Jiuquan ,,Jiuquan,Jiuquan,,Jiuquan 
 757,Shigatse ,,,,,Žikace,Shigatse ,Shigatse ,Xigazê,Ville-préfecture de Shigatsé,Xigazê,,Sigace,Prefettura di Shigatse,,Shigatse ,Šigadzės prefektūra,Xigazê,Shigatse ,,Shigatse,Xigazê,,Shigatse 
@@ -790,18 +790,18 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 789,Córdoba ,,,,,Córdoba,Córdoba ,Córdoba,Córdoba,Córdoba,Córdoba,,Córdoba,Córdoba ,,Kordova,Córdoba ,Córdoba,Córdoba,,Córdoba,Córdoba,,Córdoba
 790,Asturia,,,,,Asturie,Asturias ,Astuuria,Asturia,Asturies,Asturien,,Asztúria,Asturie,,Astūrija,Astūrija,Asturia,Asturia,,Asturien,Asturias,,Asturija
 791,Valladolid,,,,,Valladolid,Valladolid ,Valladolid,Valladolid,Valladolid,Valladolid,,Valladolid,Valladolid,,Valjadolida,Valjadolidas,Valladolid,Valladolid,,Valladolid,Valladolid,,Valladolid
-792,Baskia,,,,,Baskicko,País Vasco ,Baski autonoomne piirkond,Baskimaa,Pays basque,Autonome Gemeinschaft Baskenland,,Baszkföld,Paesi Baschi,,Basku Zeme,Baskija,Kraj Basków,Țara Bascilor,,Baskien,Bask Bölgesi,,Baskija
+792,Baskia,,,,,Baskicko,País Vasco ,Baski piirkond,Baskimaa,Pays basque,Gemeinschaft Baskenland,,Baszkföld,Paesi Baschi,,Basku Zeme,Baskija,Kraj Basków,Țara Bascilor,,Baskien,Bask Bölgesi,,Baskija
 793,Guadalajara,,,,,Guadalajara,Guadalajara ,Guadalajara,Guadalajara,Guadalajara,Guadalajara,,Guadalajara,Guadalajara,,Gvadalahara,Gvadalachara,Guadalajara,Guadalajara,,Guadalajar,Guadalajara,,Guadalajara
 794,Eastern Aragón ,,,,,Eastern Aragón ,Eastern Aragón ,Eastern Aragón ,Eastern Aragón ,Eastern Aragón ,Eastern Aragón ,,Eastern Aragón ,Eastern Aragón ,,Eastern Aragón ,Eastern Aragón ,Eastern Aragón ,Eastern Aragón ,,Eastern Aragón ,Eastern Aragón ,,Eastern Aragón 
 795,Santarém ,,,,,Santarém ,Santarém ,Santarém,Santarém,Santarém,Santarém,,Santarém,Santarém,,Santarém ,Santarém ,Santarém,Santarém,,Santarém,Santarém ,,Santarém 
 796,North Angola ,,,,,North Angola ,North Angola ,North Angola ,North Angola ,North Angola ,North Angola ,,North Angola ,North Angola ,,North Angola ,North Angola ,North Angola ,North Angola ,,North Angola ,North Angola ,,North Angola 
 797,Stambolli,,,Tsarigrad,,Istanbul,Istanbul ,İstanbul,Istanbul,Istanbul,Istanbul,,Isztambul,Istanbul,,Stambula,Stambulas,Stambuł,Istanbul,,Istanbul,İstanbul,,Istanbul
 798,Amasia,,,,,Amasya,Amasya ,Amasya ringkond,Amasya,Amasya,Amasya,,Amasya,Amasya,,Amasja,Amasija,Amasya,Amasya,,Amasya,Amasya,,Amasya 
-799,Hatay ,,,,,Hatay,Hatay ,Hatay provints,Hatayn maakunta,Hatay,Hatay,,Hatay,Provincia di Hatay,,Hatajas ils,Hatay ,Hatay,Provincia Hatay,,Hatay,Hatay,,Hatay 
+799,Hatay ,,,,,Hatay,Hatay ,Hatay ,Hatayn maakunta,Hatay,Hatay,,Hatay, di Hatay,,Hatajas ils,Hatay ,Hatay, Hatay,,Hatay,Hatay,,Hatay 
 800,Van ,,,,,Dodávkový automobil,Van ,Van ,Pakettiauto,Camionnette,Kleintransporter,,Van ,Furgone,,Furgons,Van ,Van,Furgonetă,,Skåpbil,Furgon,,Kombinirano vozilo
 801,Mëzia,,,,,Moesie,Moesia ,Möösia,Moesia,Mésie,Moesia,,Moesia,Mesia,,Mēzija,Mezija,Mezja,Moesia,,Moesia,Mezya,,Mezija
 802,Kosovë,,,,,Kosovo,Kosovo ,Kosovo,Kosovo,Kosovo,Kosovo,,Koszovó,Kosovo,,Kosova,Kosovas,Kosowo,Kosovo,,Kosovo,Kosova,,Kosovo
 803,Southern Serbia ,,,,,Southern Serbia ,Southern Serbia ,Southern Serbia ,Southern Serbia ,Southern Serbia ,Southern Serbia ,,Southern Serbia ,Southern Serbia ,,Southern Serbia ,Southern Serbia ,Southern Serbia ,Southern Serbia ,,Southern Serbia ,Southern Serbia ,,Southern Serbia 
 804,Hercegovina,,,,,Hercegovina,Herzegovina ,Hertsegoviina,Hertsegovina,Herzégovine,Herzegowina,,Herzegovina ,Erzegovina,,Hercegovina,Hercegovina,Hercegowina,Herțegovina,,Hercegovina,Hersek,,Hercegovina
 805,Northern Epirus ,,,,,Severní Epirus,Northern Epirus ,Northern Epirus ,Pohjois-Epeiros,Épire du Nord,Nordepirus,,Northern Epirus ,Nord Epiro,,Northern Epirus ,Northern Epirus ,Northern Epirus ,Northern Epirus ,,Northern Epirus ,Kuzey Epir,,Northern Epirus 
-806,Pyrénées-Atlantiques ,,,,,Pyrénées-Atlantiques,Pyrénées-Atlantiques ,Pyrénées-Atlantiquesi departemang,Pyrénées-Atlantiques,Pyrénées-Atlantiques,Département Pyrénées-Atlantiques,,Pyrénées-Atlantiques,Pirenei Atlantici,,Atlantijas Pireneji,Atlanto Pirėnai,Pireneje Atlantyckie,Pyrénées-Atlantiques,,Pyrénées-Atlantiques,Pyrénées-Atlantiques,,Atlantski Pireneji
+806,Pyrénées-Atlantiques ,,,,,Pyrénées-Atlantiques,Pyrénées-Atlantiques ,Pyrénées-Atlantiquesi,Pyrénées-Atlantiques,Pyrénées-Atlantiques,Pyrénées-Atlantiques,,Pyrénées-Atlantiques,Pirenei Atlantici,,Atlantijas Pireneji,Atlanto Pirėnai,Pireneje Atlantyckie,Pyrénées-Atlantiques,,Pyrénées-Atlantiques,Pyrénées-Atlantiques,,Atlantski Pireneji
