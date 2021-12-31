@@ -45,7 +45,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9398,5,,,,,,,,,,,,,,,,,,,,,,,,
 11245,5,,,,,,,,,,,,,,,,,,,,,,,,
 11386,5,Lyck  ,,,,,Ełk,Ełk,Lyck  ,Ełk,Ełk,,Ełk,Lyck  ,Lyck  ,,Elka,Lukas,Ełk,Ełk,,Ełk,Ełk,,Lyck  
-516,6,Brukselit,,,,,Bruselský,Brüsseli,Bryssel,Bruxelles,Brüssel,,Brüsszel,Brussels,Brusselle,,Briseles galvaspilsētas reģions,Briuselio,Brukseli,Bruxelles,,Bryssel,Brüksel,,Bruxellesa
+516,6,Brukselit,,,,,Bruselský,Brüsseli,Bryssel,Bruxelles,Brüssel,,Brüsszel,Brussels,Brusselle,,Briseles,Briuselio,Brukseli,Bruxelles,,Bryssel,Brüksel,,Bruxellesa
 3576,6,Kortrijk,,,,,Kortrijk,Kortrijk,Kortrijk,Courtrai,Kortrijk,,Kortrijk,Kortrijk,Courtrai,,Kortreika,Kortreikas,Kortrijk,Kortrijk,,Kortrijk,Kortrijk,,Kortrijk
 6446,6,,,,,,,,,,,,,,,,,,,,,,,,
 6560,6,Gent,,,,,Gent,Gent,Gent,Gand,Gent,,Gent,Gent,Guanto,,Gent,Gent,Gent,Gent,,Gent,Gent,,Gent
@@ -144,7 +144,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3534,15,,,,,,,,,,,,,,,,,,,,,,,,
 3549,15,,,,,,,,,,,,,,,,,,,,,,,,
 3579,15,,,,,,,,,,,,,,,,,,,,,,,,
-6449,15,Cherbourg,,,,,Cherbourg,Cherbourg,Cherbourg-en-Cotentin,Cherbourg-en-Cotentin,Cherbourg-en-Cotentin,,Cherbourg,Cherbourg,Cherbourg-en-Cotentin,,Cherbourg,Cherbourg,Cherbourg-en-Cotentin,Cherbourg,,Cherbourg,Cherbourg-en-Cotentin,,Cherbourg
+6449,15,Cherbourg,,,,,Cherbourg,Cherbourg,Cherbourg,Cherbourg,Cherbourg,,Cherbourg,Cherbourg,Cherbourg,,Cherbourg,Cherbourg,Cherbourg,Cherbourg,,Cherbourg,Cherbourg,,Cherbourg
 6569,15,,,,,,,,,,,,,,,,,,,,,,,,
 6599,15,,,,,,,,,,,,,,,,,,,,,,,,
 9434,15,Le Havre,,,,,Le Havre,Le Havre,Le Havre,Le Havre,Le Havre,,Le Havre,Le Havre,Le Havre,,Havra,Havras,Hawr,Le Havre,,Le Havre,Le Havre,,Le Havre
@@ -1555,7 +1555,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11046,146,,,,,,,,,,,,,,,,,,,,,,,,
 11156,146,,,,,,,,,,,,,,,,,,,,,,,,
 11162,146,,,,,,,,,,,,,,,,,,,,,,,,
-197,147,Salla [2],,,,,Salla [2],Salla [2],Salla [2],Salla [2],Salla [2],,Salla [2],Salla [2],Salla [2],,Salla [2],Salla [2],Salla [2],Salla [2],,Salla [2],Salla [2],,Salla [2]
+197,147,Salla ,,,,,Salla ,Salla ,Salla ,Salla ,Salla ,,Salla ,Salla ,Salla ,,Salla ,Salla ,Salla ,Salla ,,Salla ,Salla ,,Salla 
 9158,147,,,,,,,,,,,,,,,,,,,,,,,,
 11085,147,,,,,,,,,,,,,,,,,,,,,,,,
 30,148,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1678,7 +1678,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11623,151,,,,,,,,,,,,,,,,,,,,,,,,
 688,152,Salcburgu,,,,,Salzburg,Salzburg,Salzburg,Salzbourg,Salzburg,,Salzburg,Salzburg,Salisburgo,,Zalcburga,Zalcburgas,Salzburg,Salzburg,,Salzburg,Salzburg,,Salzburg
 732,152,Linc,,,,,Linec,Linz,Linz,Linz,Linz,,Linz,Linz,Linz,,Linca,Lincas,Linz,Linz,,Linz,Linz,,Linz
-3673,152,Klagenfurt,,,,,Klagenfurt am Wörthersee,Klagenfurt,Klagenfurt,Klagenfurt,Klagenfurt am Wörthersee,,Klagenfurt am Wörthersee,Klagenfurt,Klagenfurt am Wörthersee,,Klāgenfurte,Klagenfurtas,Klagenfurt am Wörthersee,Klagenfurt am Wörthersee,,Klagenfurt,Klagenfurt,,Klagenfurt
+3673,152,Klagenfurt,,,,,Klagenfurt,Klagenfurt,Klagenfurt,Klagenfurt,Klagenfurt,,Klagenfurt ,Klagenfurt,Klagenfurt,,Klāgenfurte,Klagenfurtas,Klagenfurt,Klagenfurt,,Klagenfurt,Klagenfurt,,Klagenfurt
 3674,152,,,,,,,,,,,,,,,,,,,,,,,,
 3684,152,,,,,,,,,,,,,,,,,,,,,,,,
 3703,152,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1953,7 +1953,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 13220,176,,,,,,,,,,,,,,,,,,,,,,,,
 13226,176,,,,,,,,,,,,,,,,,,,,,,,,
 7114,177,,,,,,,,,,,,,,,,,,,,,,,,
-9793,177,"Palma, Majorca",,,,,Palma de Mallorca,Palma de Mallorca,Palma de Mallorca,Palma,Palma,,Palma de Mallorca,Palma de Mallorca,Palma di Maiorca,,Palma,Maljorkos Palma,Palma,Palma de Mallorca,,Palma de Mallorca,Palma de Mallorca,,Palma de Mallorca
+9793,177,Palma de Mallorca,,,,,Palma de Mallorca,Palma de Mallorca,Palma de Mallorca,Palma,Palma,,Palma de Mallorca,Palma de Mallorca,Palma di Maiorca,,Palma,Maljorkos Palma,Palma,Palma de Mallorca,,Palma de Mallorca,Palma de Mallorca,,Palma de Mallorca
 9845,177,,,,,,,,,,,,,,,,,,,,,,,,
 13071,178,Santa Cruz de Tenerife,,,,,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,,Santakrusa de Tenerife,Tenerifės Santa Krusas,Santa Cruz de Tenerife,Santa Cruz de Tenerife,,Santa Cruz de Tenerife,Santa Cruz de Tenerife,,Santa Cruz de Tenerife
 970,179,Setúbal,,,,,Setúbal,Setúbal,Setúbal,Setúbal,Setúbal,,Setúbal,Setúbal,Setúbal,,Setubala,Setubalis,Setúbal,Setúbal,,Setúbal,Setúbal,,Setúbal
@@ -3485,7 +3485,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 993,282,,,,,,,,,,,,,,,,,,,,,,,,
 1097,282,,,,,,,,,,,,,,,,,,,,,,,,
 1113,282,,,,,,,,,,,,,,,,,,,,,,,,
-1182,282,Tokio,,,,,Tokio,Tōkyō prefektuur,Tokio,Tokyo,Präfektur Tokio,,Tokió,Tokyo,Tokyo,,Tokija,Tokijas,Tokio,Tōkyō,,Tokyo prefektur,Tokyo,,Tokio
+1182,282,Tokio,,,,,Tokio,Tōkyō,Tokio,Tokyo,Tokio,,Tokió,Tokyo,Tokyo,,Tokija,Tokijas,Tokio,Tōkyō,,Tokyo,Tokyo,,Tokio
 4000,282,,,,,,,,,,,,,,,,,,,,,,,,
 4100,282,,,,,,,,,,,,,,,,,,,,,,,,
 4184,282,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4302,7 +4302,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 886,348,Maraş  ,,,,,Maraş  ,Maraş  ,Maraş  ,Maras,Maras,,Maraş  ,Maraş  ,Maraş  ,,Maraş  ,Maraş  ,Maras,Maraş  ,,Maraş  ,Maraş  ,,Maraş  
 921,348,,,,,,,,,,,,,,,,,,,,,,,,
 961,348,,,,,,,,,,,,,,,,,,,,,,,,
-3870,348,Kayseri [2],,,,,Kayseri [2],Kayseri [2],Kayseri [2],Kayseri [2],Kayseri [2],,Kayseri [2],Kayseri [2],Kayseri [2],,Kayseri [2],Kayseri [2],Kayseri [2],Kayseri [2],,Kayseri [2],Kayseri [2],,Kayseri [2]
+3870,348,Kayseri ,,,,,Kayseri ,Kayseri ,Kayseri ,Kayseri ,Kayseri ,,Kayseri ,Kayseri ,Kayseri ,,Kayseri ,Kayseri ,Kayseri ,Kayseri ,,Kayseri ,Kayseri ,,Kayseri 
 3921,348,,,,,,,,,,,,,,,,,,,,,,,,
 6888,348,,,,,,,,,,,,,,,,,,,,,,,,
 6956,348,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4594,7 +4594,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6943,363,,,,,,,,,,,,,,,,,,,,,,,,
 7045,363,,,,,,,,,,,,,,,,,,,,,,,,
 7083,363,,,,,,,,,,,,,,,,,,,,,,,,
-7138,363,"Charlotte, North Carolina",,,,,Charlotte,Charlotte,Charlotte,Charlotte,Charlotte,,Charlotte,Charlotte,Charlotte,,Šarlota,Šarlotė,Charlotte,Charlott,,Charlott,Charlotte,,Charlott
+7138,363,"Charlotte,",,,,,Charlotte,Charlotte,Charlotte,Charlotte,Charlotte,,Charlotte,Charlotte,Charlotte,,Šarlota,Šarlotė,Charlotte,Charlott,,Charlott,Charlotte,,Charlott
 7643,363,,,,,,,,,,,,,,,,,,,,,,,,
 9876,363,,,,,,,,,,,,,,,,,,,,,,,,
 9967,363,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4689,7 +4689,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4402,369,,,,,,,,,,,,,,,,,,,,,,,,
 4452,369,,,,,,,,,,,,,,,,,,,,,,,,
 4988,369,,,,,,,,,,,,,,,,,,,,,,,,
-6696,369,"Louisville, Kentucky",,,,,Louisville,Louisville,Louisville,Louisville,Louisville,,Louisville,Louisville,Louisville,,Lūivila,Luisvilis,Louisville,Louisvill,,Louisville,Louisvill,,Louisville
+6696,369,Louisville,,,,,Louisville,Louisville,Louisville,Louisville,Louisville,,Louisville,Louisville,Louisville,,Lūivila,Luisvilis,Louisville,Louisvill,,Louisville,Louisvill,,Louisville
 6974,369,,,,,,,,,,,,,,,,,,,,,,,,
 7547,369,,,,,,,,,,,,,,,,,,,,,,,,
 9727,369,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4754,7 +4754,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10370,373,Springfield,,,,,Springfield,Springfield,Springfield,Springfield,Springfield,,Springfield,Springfield,Springfield,,Springfield,Springfildas,Springfield,Springfield,,Springfield,Springfield,,Springfield
 10391,373,,,,,,,,,,,,,,,,,,,,,,,,
 10516,373,,,,,,,,,,,,,,,,,,,,,,,,
-10717,373,Kansas City,,,,,Kansas City,Kansas City,Kansas City,Zone métropolitaine de Kansas City,Metropolregion Kansas City,,Kansas City,Kansas City,Area metropolitana di Kansas City,,Kansas City,Kansas City,Kansas City,Kansas City,,Kansas City,Kansas City,,Kansas City
+10717,373,Kansas City,,,,,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,,Kansas City,Kansas City,Kansas City,,Kansas City,Kansas City,Kansas City,Kansas City,,Kansas City,Kansas City,,Kansas City
 12346,373,,,,,,,,,,,,,,,,,,,,,,,,
 12361,373,,,,,,,,,,,,,,,,,,,,,,,,
 12463,373,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4827,7 +4827,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 2102,376,,,,,,,,,,,,,,,,,,,,,,,,
 3867,376,,,,,,,,,,,,,,,,,,,,,,,,
 3883,376,,,,,,,,,,,,,,,,,,,,,,,,
-4975,376,"Albuquerque, New Mexico",,,,,Albuquerque,Albuquerque,Albuquerque,Albuquerque,Albuquerque,,Albuquerque,Albuquerque,Albuquerque,,Albukerke,Albukerkė,Albuquerque,Albuquerqu,,Albuquerque,Albuquerque,,Albuquerqu
+4975,376,Albuquerque,,,,,Albuquerque,Albuquerque,Albuquerque,Albuquerque,Albuquerque,,Albuquerque,Albuquerque,Albuquerque,,Albukerke,Albukerkė,Albuquerque,Albuquerqu,,Albuquerque,Albuquerque,,Albuquerqu
 5044,376,,,,,,,,,,,,,,,,,,,,,,,,
 8070,376,,,,,,,,,,,,,,,,,,,,,,,,
 10642,376,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4994,7 +4994,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10606,384,,,,,,,,,,,,,,,,,,,,,,,,
 10676,384,,,,,,,,,,,,,,,,,,,,,,,,
 12516,384,,,,,,,,,,,,,,,,,,,,,,,,
-12586,384,"Omaha, Nebraska",,,,,Omaha,Omaha,Omaha,Omaha,Omaha,,Omaha,Omaha,Omaha,,Omaha,Omaha,Omaha,Omah,,Omah,Omah,,Omaha
+12586,384,Omaha,,,,,Omaha,Omaha,Omaha,Omaha,Omaha,,Omaha,Omaha,Omaha,,Omaha,Omaha,Omaha,Omah,,Omah,Omah,,Omaha
 505,385,,,,,,,,,,,,,,,,,,,,,,,,
 528,385,,,,,,,,,,,,,,,,,,,,,,,,
 1414,385,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6713,7 +6713,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 8231,506,,,,,,,,,,,,,,,,,,,,,,,,
 11000,506,,,,,,,,,,,,,,,,,,,,,,,,
 12914,506,,,,,,,,,,,,,,,,,,,,,,,,
-12994,506,Antofagasta [2],,,,,Antofagasta [2],Antofagasta [2],Antofagasta [2],Antofagasta [2],Antofagasta [2],,Antofagasta [2],Antofagasta [2],Antofagasta [2],,Antofagasta [2],Antofagasta [2],Antofagasta [2],Antofagasta [2],,Antofagasta [2],Antofagasta [2],,Antofagasta [2]
+12994,506,Antofagasta,,,,,Antofagasta,Antofagasta,Antofagasta,Antofagasta,Antofagasta,,Antofagasta,Antofagasta,Antofagasta,,Antofagasta,Antofagasta,Antofagasta,Antofagasta,,Antofagasta,Antofagasta,,Antofagasta
 2161,507,,,,,,,,,,,,,,,,,,,,,,,,
 5118,507,,,,,,,,,,,,,,,,,,,,,,,,
 5159,507,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6727,7 +6727,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 2136,508,,,,,,,,,,,,,,,,,,,,,,,,
 2224,508,,,,,,,,,,,,,,,,,,,,,,,,
 8195,508,,,,,,,,,,,,,,,,,,,,,,,,
-8216,508,Tucumán,,,,,Tucumán,Tucumán,Tucumánin maakunta,Province de Tucumán,Provinz Tucumán,,Tucumán,Tucumán,Provincia di Tucumán,,Tukumanas province,Tukumano provincija,Tucumán,Provincia Tucumán,,Tucumán,Tucumán,,Tucumán
+8216,508,Tucumán,,,,,Tucumán,Tucumán,Tucumánin,Tucumán,Provinz Tucumán,,Tucumán,Tucumán,Provincia di Tucumán,,Tukumanas province,Tukumano provincija,Tucumán,Provincia Tucumán,,Tucumán,Tucumán,,Tucumán
 8253,508,,,,,,,,,,,,,,,,,,,,,,,,
 11001,508,,,,,,,,,,,,,,,,,,,,,,,,
 12928,508,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8754,7 +8754,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12103,647,,,,,,,,,,,,,,,,,,,,,,,,
 13026,648,,,,,,,,,,,,,,,,,,,,,,,,
 5023,649,,,,,,,,,,,,,,,,,,,,,,,,
-13067,650,Attu Island [2],,,,,Attu Island [2],Attu Island [2],Attu Island [2],Attu Island [2],Attu Island [2],,Attu Island [2],Attu Island [2],Attu Island [2],,Attu Island [2],Attu Island [2],Attu Island [2],Attu Island [2],,Attu Island [2],Attu Island [2],,Attu Island [2]
+13067,650,Attu Island,,,,,Attu Island ,Attu Island ,Attu Island ,Attu Island ,Attu Island ,,Attu Island ,Attu Island ,Attu Island ,,Attu Island ,Attu Island ,Attu Island ,Attu Island ,,Attu Island ,Attu Island ,,Attu Island 
 273,651,,,,,,,,,,,,,,,,,,,,,,,,
 291,651,,,,,,,,,,,,,,,,,,,,,,,,
 1258,651,,,,,,,,,,,,,,,,,,,,,,,,
@@ -10048,7 +10048,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 2115,796,Namibe,,,,,Namib,Namibe,Namibe,Moçâmedes,Moçâmedes,,Namibe,Namibe,Moçâmedes,,Namibe,Namibė,Moçâmedes,Namibe,,Moçâmedes,Namibe,,Namibe
 9833,797,Stambolli,,,,,Istanbul,İstanbul,Istanbul,Istanbul,Istanbul,,Isztambul,Istanbul,Istanbul,,Stambula,Stambulas,Stambuł,Istanbul,,Istanbul,İstanbul,,Istanbul
 11829,797,,,,,,,,,,,,,,,,,,,,,,,,
-919,798,Amasya [2],,,,,Amasya [2],Amasya [2],Amasya [2],Amasya [2],Amasya [2],,Amasya [2],Amasya [2],Amasya [2],,Amasya [2],Amasya [2],Amasya [2],Amasya [2],,Amasya [2],Amasya [2],,Amasya [2]
+919,798,Amasya ,,,,,Amasya ,Amasya ,Amasya ,Amasya ,Amasya ,,Amasya ,Amasya ,Amasya ,,Amasya ,Amasya ,Amasya ,Amasya ,,Amasya ,Amasya ,,Amasya 
 3807,798,,,,,,,,,,,,,,,,,,,,,,,,
 3862,798,Yozgat,,,,,Yozgat,Yozgat,Yozgat,Yozgat,Yozgat,,Yozgat,Yozgat,Yozgat,,Yozgat,Jozgatas,Yozgat,Yozgat,,Yozgat,Yozgat,,Yozgat
 3964,798,,,,,,,,,,,,,,,,,,,,,,,,
