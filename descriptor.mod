@@ -5,5 +5,5 @@ tags={
 	"Translation"
 	"Utilities"
 }
-version="v1"
-supported_version="1.11.4"
+version="v1.1"
+supported_version="1.11.*"

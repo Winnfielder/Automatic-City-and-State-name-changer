@@ -44,7 +44,7 @@ languages = [
     ('romanian','ro'),
     ('swedish','sv'),
  #   ('turkish','tr'),
-    ('yuguslav','hr'),
+    ('yugoslav','hr'),
 ]
 
 
