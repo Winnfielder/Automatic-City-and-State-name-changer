@@ -89,3 +89,42 @@ is_arabic_speaking_country = {
 
 }
 
+is_spanish_speaking_country = {
+    	OR = {
+            tag = SPR
+            tag = MEX
+            tag = ARG
+            tag = BOL
+            tag = CHL
+            tag = COL
+            tag = COS
+            tag = ECU
+            tag = ELS
+            tag = GUA
+            tag = HON
+            tag = NIC
+            tag = PAN
+            tag = PAR
+            tag = PRU
+            tag = VEN
+            tag = URG
+            tag = CUB
+            tag = DOM
+    	}
+}
+
+is_portuguese_speaking_country = {
+    	OR = {
+            tag = POR
+            tag = BRA
+            tag = ANG
+            tag = MZB
+    	}
+}
+
+is_dutch_speaking_country = {
+        OR = {
+            tag = HOL
+        }
+}
+

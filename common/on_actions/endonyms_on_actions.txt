@@ -2,8 +2,18 @@ on_actions = {
 
 	on_startup = {
 		effect = {
-			activate_endonyms = yes
-		}
+            if = {
+                limit = {
+                    NOT = {
+                        has_global_flag = endonyms_enabled
+                    }
+                }
+            set_global_flag = endonyms_enabled
+            every_state = {
+                    activate_endonyms = yes
+            }
+            }
+        }
 	}
 
 	on_weekly = {
@@ -14,7 +24,10 @@ on_actions = {
 	                    has_global_flag = endonyms_enabled
 	                }
 	            }
-	            activate_endonyms = yes
+                set_global_flag = endonyms_enabled
+	            every_state = {
+                            activate_endonyms = yes
+                }
 	        }
 	    }
     }
