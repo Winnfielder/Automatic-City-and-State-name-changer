@@ -128,3 +128,7 @@ is_dutch_speaking_country = {
         }
 }
 
+are_endonyms_enabled = {
+	has_global_flag = endonyms_enabled
+}
+
