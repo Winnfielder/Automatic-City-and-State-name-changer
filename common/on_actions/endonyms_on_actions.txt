@@ -83,6 +83,18 @@ on_actions = {
 		}
 	}
 
+	on_capitulation = {
+    		effect = {
+    			if = { limit = { has_global_flag = endonyms_enabled }
+    				ROOT.ROOT = {
+    					every_state = {
+    						activate_endonyms = yes
+    					}
+    				}
+    			}
+    		}
+    }
+
 	on_peaceconference_ended = {
     		effect = {
     			if = { limit = { has_global_flag = endonyms_enabled }
