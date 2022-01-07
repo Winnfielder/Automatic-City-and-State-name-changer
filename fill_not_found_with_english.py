@@ -4,31 +4,32 @@
 import pandas as pd
 
 languages = [
+    #    ('english','en')
+    ('chinese','zh'),
+    ('spanish','es'),
+    ('portuguese','pt'),
     ('russian','ru'),
-#    ('chinese','zh'),
-#    ('spanish','es'),
-#    ('portuguese','pt'),
-#    ('dutch','nl')
-#    ('albanian','sq'),
-    #    ('belarusian','be'),
- #   ('czech','cs'),
- #   ('estonian','et'),
- #   ('finnish','fi'),
- #   ('french','fr'),
- #   ('german','de'),
-       ('greek','el'),
- #   ('italian','it'),
- #   ('hungarian','hu'),
- #   ('latvian','lv'),
- #   ('lithuanian','lt'),
- #   ('polish','pl'),
- #   ('romanian','ro'),
- #   ('swedish','sv'),
- #   ('turkish','tr'),
- #   ('yuguslav','hr'),
+    ('dutch','nl'),
+    ('italian','it'),
+    ('albanian','sq'),
+    ('czech','cs'),
+    ('estonian','et'),
+    ('finnish','fi'),
+    ('french','fr'),
+    ('german','de'),
+    ('greek','el'),
+    ('hungarian','hu'),
+    ('latvian','lv'),
+    ('lithuanian','lt'),
+    ('polish','pl'),
+    ('romanian','ro'),
+    ('swedish','sv'),
+    ('turkish','tr'),
+    ('yugoslav','hr'),
 ]
 
-for file in ["states","provinces"]:
+# fill not found shuld be done only with states
+for file in ["new_states"]:
 
     df = pd.read_csv(file+".csv",index_col=0)
 
