@@ -25,6 +25,8 @@ for language in languages:
     province_diff = sum(provinces[language] != provinces['english'])
     stat_list.append((state_diff,province_diff,language))
 
+print("[table] [tr] [th]Language[/th] [th]Different city names[/th] [th]Different state names[/th] [/tr]")
 stat_list = sorted(stat_list,key=lambda x:x[0]+x[1],reverse=True)
 for state_diff, province_diff, language in stat_list:
-    print("- {}: {} different cities names and {} different states names".format(language,province_diff,state_diff))
+    print("[tr] [th] {} [/th] [th] {} [/th] [th] {} [/th] [/tr] ".format(language,province_diff,state_diff))
+print("[/table]")
