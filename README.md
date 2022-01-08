@@ -1,3 +1,5 @@
+[![Automatic-City-and-State-name-changer](https://github.com/kaboto1/Automatic-City-and-State-name-changer/actions/workflows/testing.yml/badge.svg?branch=master)](https://github.com/kaboto1/Automatic-City-and-State-name-changer/actions/workflows/testing.yml)
+
 Welcome to the development repository of the Hearts of Iron 4 mod "Automatic City and State name changer"
 
 The mod aims to create an immersive and realistic simulation of foregneir territorial occupation and integration by changing names and cities state in the language / culture or the owner.
