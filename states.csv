@@ -11,7 +11,7 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 10,Varshava,Alnujum,,,Huasha,Varšava,Warszawa,Varssavi,Varsova,Varsovie,Weichselland,Varsovia,Varsó,Varsavia,,Varšava,Varšuva,Warszawa,Varşovia,Varshava,Warszawa,Varşova,,Varšava,Varsovia,Varsóvia,Warschau
 11,Kaunas,Kawnas,,,Kaonasi,Kaunas,Kaunas,Kaunas,Kaunas,Kaunas,Kauen,Kaoynas,Kaunas,Kaunas,,Kauņa,Kaunas,Kowno,Kaunas,Kaunas,Kaunas,Kaunas,,Kaunas,Kaunas,Caunas,Kaunas
 12,Vidzeme,Vidzeme,,,Weizemei,Vidzeme,Vidzeme,Vidzeme,Vidzeme,Vidzeme,Livland,Vintzeme,Vidzeme,Livonia,,Vidzeme,Vidžemė,Liwonia,Vidzeme,Vidzeme,Vidzeme,Vidzeme,,Vidzeme,Vidzeme,Livônia,Vidzeme
-13,Harju,Harju,,,Harju,Harju,Harju,Harju,Harju,Harju,Pernau,Harju,Harju,Harju,,Harju,Harju,Harju,Harju,Har'ju,Harju,Harju,,Harju,Harju,Harju,Harju
+13,Pärnu,Birnu,,,Pai'ernu,Pärnu,Pärnu,Pärnu,Pärnu,Pärnu,Paulenhof,Parnoy,Pärnu,Pärnu,,Pērnava,Pernu,Parnawa,Pärnu,Pjarnu,Pärnu,Pärnu,,Pärnu,Pärnu,Pärnu,Pärnu
 14,Brittany,Badia,,,Bulietanibandao,Brittany,Brittany,Brittany,Brittany,Bretagne,Bretingen,Vretani,Brittany,Bretagna,,Bretaņa,Brittany,Brittany,Brittany,Bretan',Brittany,Breton,,Brittany,Breizh,Brittany,Bretagne
 15,Normandy,Nurmandi,,,Nuomandidaqu,Normandie,Normandy,Normandia,Normandia,Normandie,Normanland,Normandy,Normandia,Normandia,,Normandija,Normandija,Normandia,Normandia,Normandija,Normandie,Normandiya,,Normandija,Normandía,Normandia,Normandië
 16,Île-de-France,Iil du frans,,,Falanxidaodaqu,Île-de-France,Ile de France,Île-de-France,Île-de-France,Île-de-France,Parisiuß,Il-nte-Frans,Île-de-France,Isola di Francia,,Ildefransa,Il de Fransas,Île-de-France,Île-de-France,Il'-de-Frans,Île-de-France,Île-de-France,,Île-de-France,Isla de Francia,Ilha de França,Île-de-France
@@ -811,8 +811,8 @@ ID,albanian,arab,belarusian,bulgarian,chinese,czech,english,estonian,finnish,fre
 808,Riga,Righa,,,Lijia,Riga,Riga,Riia,Riika,Riga,Riga,Riga,Riga,Riga,,Rīga,Ryga,Ryga,Riga,Riga,Riga,Riga,,Riga,Riga,Riga,Riga
 810,Latgale,Latgale,,,Latejia'er,Latgalsko,Latgale,Latgale,Latgallia,Latgale,Latland,Latgalia,Latgale,Letgallia,,Latgale,Latgala,Łatgalia,Latgale,Latgalija,Lettgallen,Latgale,,Latgale,Latgalia,Lategália,Letgallen
 809,Semigallia,Semigallia,,,Semijialiya,Zemgalsko,Semigallia,Zemgale,Zemgale,Zemgale,Semgallen,Semigallia,Zemgale,Semgallia,,Zemgale,Žiemgala,Semigalia,Semigallia,Zemgale,Semgallen,Semigallia,,Semigallia,Semigalia,Semigola,Semgallen
-812,Harju,Harju,,,Ha'eryou,Harju,Harju,Harju,Harju,Harju,Harrien,Harju,Harju,Harju,,Harju,Harju,Harju,Harju,Har'ju,Harju,Harju,,Harju,Harju,Harju,Harju
-813,Pärnu,Birnu,,,Pai'ernu,Pärnu,Pärnu,Pärnu,Pärnu,Pärnu,Paulenhof,Parnoy,Pärnu,Pärnu,,Pērnava,Pernu,Parnawa,Pärnu,Pjarnu,Pärnu,Pärnu,,Pärnu,Pärnu,Pärnu,Pärnu
+812,Talini,Talin,,,Talin,Tallinn,Tallinn,Tallinna,Tallinn,Reval,Talin,Tallinn,Tallinn,Tallinn,,Tallina,Talinas,Tallinn,Tallinn,Tallin,Tallinn,Tallinn,,Tallinn,Tallin,Tallinn,Tallinn
+813,Harju,Harju,,,Harju,Harju,Harju,Harju,Harju,Harju,Pernau,Harju,Harju,Harju,,Harju,Harju,Harju,Harju,Har'ju,Harju,Harju,,Harju,Harju,Harju,Harju
 811,Saaremaa,Saryma,,,Saleimadao,Saaremaa,Saaremaa,Saaremaa,Saarenmaa,Saaremaa,Ösel,Saaremaa,Saaremaa,Saaremaa,,Sāmsala,Sarema,Sarema,Saaremaa,Saaremaa,Ösel,Saaremaa,,Saaremaa,Saaremaa,Saaremaa,Saaremaa
 833,Mari El,Mari iil,,,Mali'aier,Marijsko,Mari El,Marimaa,Marin tasavalta,République des Maris,Olanbach,Dimokratia tis Mari El,Mariföld,Repubblica dei Mari,,Marijela,Marių Respublika,Mari El,Mari El,Marij El,Marij El,Mari El,,Marij El,Mari-El,Mari El,Mari El
 829,Engels-Marxstadt,Engels-Marxstadt,,,Engesi-makasicheng,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt,Katherinenstadt,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt,,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt,,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt,Engels-Marxstadt
