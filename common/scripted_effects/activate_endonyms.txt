@@ -64,6 +64,10 @@ activate_endonyms = {
             apply_japanese_endonyms = yes
         }
 
+        else_if = { limit = { owner = { tag = SWE } }
+                    apply_swedish_endonyms = yes
+                }
+
         else_if = { limit = { owner = { is_chinese_speaking_country = yes } }
             apply_chinese_endonyms = yes
         }
@@ -79,6 +83,11 @@ activate_endonyms = {
         else_if = { limit = { owner = { is_dutch_speaking_country = yes } }
                                 apply_dutch_endonyms = yes
                             }
+
+        else_if = { limit = { owner = { is_arabic_speaking_country = yes } }
+                                        apply_arab_endonyms = yes
+                                    }
+
 
         else = { reset_state_name = yes }
 
