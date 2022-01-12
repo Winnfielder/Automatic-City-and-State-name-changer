@@ -338,7 +338,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 388,86,,,,,,,,,,,,,,,,,,,,,,,,,,,
 389,85,,,,,,,,,,,,,,,,,,,,,,,,,,,
 390,398,,,,,,,,,,,,,,,,,,,,,,,,,,,
-391,7,Amsterdami,Amistirdam,,,Amusitedan,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Άmsterntam,Amszterdam,Amsterdam,Amsterdam,,Amsterdama,Amsterdamas,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Amsterdam,,Amsterdam,Ámsterdam,Amesterdão,Amsterdam
+391,7,Amsterdami,Amistirdam,,,Amusitedan,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Amsterntam,Amszterdam,Amsterdam,Amsterdam,,Amsterdama,Amsterdamas,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Amsterdam,,Amsterdam,Ámsterdam,Amesterdão,Amsterdam
 392,250,Ulyanovsk,Uwlyanufisk,,,Wuliyangnuofusike,Uljanovsk,Uljanovsk,Uljanovsk,Oulianovsk,Lanowstadt,Oylianofsk,Uljanovszk,Ulyanovsk,Ul'janovsk,,Uļjanovska,Uljanovskas,Uljanowsk,Ulianovsk,Ul'janovsk,Uljanovsk,Ulyanovsk,,Uljanovsk,Uliánovsk,Ulianovsk,Oeljanovsk
 393,251,,,,,,,,,,,,,,,,,,,,,,,,,,,
 394,99,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -602,7 +602,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 705,137,,,,,,,,,,,,,,,,,,,,,,,,,,,
 706,358,,,,,,,,,,,,,,,,,,,,,,,,,,,
 707,52,,,,,,,,,,,,,,,,,,,,,,,,,,,
-708,52,Augsburg,Awghisburgh,,,Aogesibao,Augsburg,Augsburg,Augsburg,Augsbourg,Augsburg,Άoygksboyrgk,Augsburg,Augsburg,Augusta,,Augsburga,Augsburgas,Augsburg,Augsburg,Augsburg,Augsburg,Augsburg,,Augsburg,Augsburgo,Augsburgo,Augsburg
+708,52,Augsburg,Awghisburgh,,,Aogesibao,Augsburg,Augsburg,Augsburg,Augsbourg,Augsburg,Aoygksboyrgk,Augsburg,Augsburg,Augusta,,Augsburga,Augsburgas,Augsburg,Augsburg,Augsburg,Augsburg,Augsburg,,Augsburg,Augsburgo,Augsburgo,Augsburg
 709,393,,,,,,,,,,,,,,,,,,,,,,,,,,,
 710,378,,,,,,,,,,,,,,,,,,,,,,,,,,,
 711,76,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1830,7 +1830,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 2086,439,Delhi,Dilhi,,,Deli,Dillí,Delhi,Delhi,Delhi,Delhi,Delchi,Delhi,Delhi,Delhi,,Deli,Delis,Delhi,Delhi,Deli,Delhi,Delhi,,Delhi,Delhi,Deli,Delhi
 2087,621,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2088,551,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2089,291,Basra,Albasra,,,Bashila,Basra,Basra,Basra,Bassorah,Basra,Vasora,Baszra,Basrah,Bassora,,Basra,Basra,Basra,Basra,Basra,Basra,Basra,,Basra,Basora,Baçorá,Basra
+2089,291,Basra,Al-Basrah,,,Bashila,Basra,Basra,Basra,Bassorah,Basra,Vasora,Baszra,Basrah,Bassora,,Basra,Basra,Basra,Basra,Basra,Basra,Basra,,Basra,Basora,Baçorá,Basra
 2090,679,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2091,605,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2092,437,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3801,7 +3801,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 5071,483,Agua Prieta,,,,Agua prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,,Agua Prieta,Agua Prieta,Agua Prieta,Agua Priet,Agua-Prieta,Agua Priet,Agua Prieta,,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta
 5072,603,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5073,416,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5074,659,Aden,Eadn,,,Yading,Aden,Aden,Aden,Aden,Aden,Άnten,Áden,Aden,Aden,,Adena,Adenas,Aden,Aden,Aden,Aden,Aden,,Aden,Adén,Adem,Aden
+5074,659,Aden,Eadn,,,Yading,Aden,Aden,Aden,Aden,Aden,Anten,Áden,Aden,Aden,,Adena,Adenas,Aden,Aden,Aden,Aden,Aden,,Aden,Adén,Adem,Aden
 5075,444,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5076,756,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5077,557,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4886,7 +4886,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 7093,671,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7094,606,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7095,599,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7096,186,Argos,,,,A'ergesi,Argos,Argos,Argos,Argos,Argen,Άrgos,Argosz,Argos,Argos,,Argos,Argos,Argos,Argos,Argos,Argos,Argos,,Argos,Argos,Argos,Argos
+7096,186,Argos,,,,A'ergesi,Argos,Argos,Argos,Argos,Argen,Argos,Argosz,Argos,Argos,,Argos,Argos,Argos,Argos,Argos,Argos,Argos,,Argos,Argos,Argos,Argos
 7097,602,Changsha,Tshanghsha,,,Changsha,Čchang-ša,Changsha Shi,Changsha,Changsha,Changsha,Tsangksa,Csangsa,Changsha,Changsha,,Čanša,Čangša,Changsha,Changsha,Chansha,Changsha,Çangşa,,Changsha,Changsha,Changsha,Changsha
 7098,169,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7099,595,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5649,7 +5649,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 7954,556,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7958,462,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7959,298,Monrovia,Munrufia,,,Mengluoweiya,Monrovia,Monrovia,Monrovia,Monrovia,Monrovia,Monrovia,Monrovia,Monrovia,Monrovia,,Monrovija,Monrovija,Monrovia,Monrovia,Monrovija,Monrovia,Monrovia,,Monrovia,Monrovia,Monróvia,Monrovia
-7960,658,Abu Dabi,Abu zabi,,,Abuzhabi,Abú Zabí,Abu Dhabi,Abu Dhabi,Abou Dabi,Abu Dhabi,Άboy Ntabi,Abu-Dzabi,Abu Dhabi,Abu Dhabi,,Abū Dabi,Abu Dabis,Abu Zabi,Abu Dhabi,Abu-Dabi,Abu Dhabi,Abu Dabi,,Abu Dhabi,Abu Dabi,Abu Dhabi,Abu Dhabi
+7960,658,Abu Dabi,Abu zabi,,,Abuzhabi,Abú Zabí,Abu Dhabi,Abu Dhabi,Abou Dabi,Abu Dhabi,Aboy Ntabi,Abu-Dzabi,Abu Dhabi,Abu Dhabi,,Abū Dabi,Abu Dabis,Abu Zabi,Abu Dhabi,Abu-Dabi,Abu Dhabi,Abu Dabi,,Abu Dhabi,Abu Dabi,Abu Dhabi,Abu Dhabi
 7963,773,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7964,484,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7965,747,Dali,Dali,,,Dali,Dali,Dali,Dali,Dali,Dali,Dali,Dali,Dali,Dali,,Dali,Dali,Dali,Dali,Dali,Dali,Dali,,Dali,Dali,Dali,Dali
@@ -6227,7 +6227,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9360,252,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9361,63,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9362,138,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9363,36,Arnhem,Aram,,,Anamu,Arnhem,Arnhem,Arnhem,Arnhem,Arnheim,Άrnem,Arnhem,Arnhem,Arnhem,,Arnema,Arnhemas,Arnhem,Arnhem,Arnem,Arnhem,Arnhem,,Arnhem,Arnhem,Arnhem,Arnhem
+9363,36,Arnhem,Aram,,,Anamu,Arnhem,Arnhem,Arnhem,Arnhem,Arnheim,Arnem,Arnhem,Arnhem,Arnhem,,Arnema,Arnhemas,Arnhem,Arnhem,Arnem,Arnhem,Arnhem,,Arnhem,Arnhem,Arnhem,Arnhem
 9364,122,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9365,251,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9366,223,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6617,7 +6617,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9750,162,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9751,25,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9752,161,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9753,236,Astrakhan,Ustirakhan,,,Asitelahan,Astrachaň,Astrahan,Astrahan,Astrakhan,Letzte-Wolgastadt,Άstrachan,Asztrahán,Astrakhan,Astrachan',,Astrahaņa,Astrachanė,Astrachań,Astrahan,Astrahan',Astrachan,Astrahan,,Astrahan,Astracán,Astracã,Astrachan
+9753,236,Astrakhan,Ustirakhan,,,Asitelahan,Astrachaň,Astrahan,Astrahan,Astrakhan,Letzte-Wolgastadt,Astrachan,Asztrahán,Astrakhan,Astrachan',,Astrahaņa,Astrachanė,Astrachań,Astrahan,Astrahan',Astrachan,Astrahan,,Astrahan,Astracán,Astracã,Astrachan
 9754,358,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9755,346,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9756,108,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6678,7 +6678,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9811,346,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9812,166,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9813,794,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9814,378,Los Anxheles,Lus anjilus,,,Luoshanji,Los Angeles,Los Angeles,Los Angeles,Los Angeles,Los Angeles,Los Άntzeles,Los Angeles,Los Angeles,Los Angeles,,Losandželosa,Los Andželas,Los Angeles,Los Angeles,Los-Andzheles,Los Angeles,Los Angeles,,Los Angeles,Los Ángeles,Los Angeles,Los Angeles
+9814,378,Los Anxheles,Lus anjilus,,,Luoshanji,Los Angeles,Los Angeles,Los Angeles,Los Angeles,Los Angeles,Los Antzeles,Los Angeles,Los Angeles,Los Angeles,,Losandželosa,Los Andželas,Los Angeles,Los Angeles,Los-Andzheles,Los Angeles,Los Angeles,,Los Angeles,Los Ángeles,Los Angeles,Los Angeles
 9815,169,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9816,421,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9817,180,Porto,Burtu,,,Bo'ertu,Porto,Porto,Porto,Porto,Porto,Porto,Porto,Porto,Porto,,Portu,Portas,Porto,Porto,Portu,Porto,Porto,,Porto,Oporto,Porto,Porto
@@ -6809,7 +6809,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9942,600,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9943,513,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9944,596,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9945,290,Seuta,Sabta,,,Xiuda,Ceuta,Ceuta,Ceuta,Ceuta,Ceuta,Theoyta,Ceuta,Ceuta,Ceuta,,Seuta,Seuta,Ceuta,Ceuta,Seuta,Ceuta,Septe,,Ceuta,Ceuta,Ceuta,Ceuta
+9945,290,Seuta,Sabtah,,,Xiuda,Ceuta,Ceuta,Ceuta,Ceuta,Ceuta,Theoyta,Ceuta,Ceuta,Ceuta,,Seuta,Seuta,Ceuta,Ceuta,Seuta,Ceuta,Septe,,Ceuta,Ceuta,Ceuta,Ceuta
 9946,426,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9947,453,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9948,671,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7726,7 +7726,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10859,549,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10860,547,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10861,375,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10862,274,Akra,Akran,,,Akela,Akkra,Accra,Accra,Accra,Accra,Άkkra,Accra,Accra,Accra,,Akra,Akra,Akra,Accra,Akkra,Accra,Akra,,Accra,Acra,Acra,Accra
+10862,274,Akra,Akran,,,Akela,Akkra,Accra,Accra,Accra,Accra,Akkra,Accra,Accra,Accra,,Akra,Akra,Akra,Accra,Akkra,Accra,Akra,,Accra,Acra,Acra,Accra
 10863,747,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10864,493,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10865,755,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8610,8 +8610,8 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11743,374,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11744,328,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11745,408,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11746,344,Adanë,Adna,,,Adana,Adana,Adana,Adana,Adana,Adana,Άdana,Adana,Adana,Adana,,Adana,Adana,Adana,Adana,Adana,Adana,Adana,,Adana,Adana,Adana,Adana
-11747,49,Ankaraja,Anqara,,,Anqiala,Ankara,Ankara,Ankara,Ankara,Ankara,Άgkura,Ankara,Ankara,Ankara,,Ankara,Ankara,Ankara,Ankara,Ankara,Ankara,Ankara,,Ankara,Ankara,Ancara,Ankara
+11746,344,Adanë,Adna,,,Adana,Adana,Adana,Adana,Adana,Adana,Adana,Adana,Adana,Adana,,Adana,Adana,Adana,Adana,Adana,Adana,Adana,,Adana,Adana,Adana,Adana
+11747,49,Ankaraja,Anqara,,,Anqiala,Ankara,Ankara,Ankara,Ankara,Ankara,Agkura,Ankara,Ankara,Ankara,,Ankara,Ankara,Ankara,Ankara,Ankara,Ankara,Ankara,,Ankara,Ankara,Ancara,Ankara
 11749,169,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11750,408,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11751,2,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8708,7 +8708,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11843,174,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11844,798,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11845,804,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11846,2,Anzio,Ansyu,,,Anjiao,Anzio,Anzio,Anzio,Anzio,Anzio,Άntsio,Anzio,Anzio,Anzio,,Ancio,Ancijus,Anzio,Anzio,Antsio,Anzio,Anzio,,Anzio,Anzio,Anzio,Anzio
+11846,2,Anzio,Ansyu,,,Anjiao,Anzio,Anzio,Anzio,Anzio,Anzio,Antsio,Anzio,Anzio,Anzio,,Ancio,Ancijus,Anzio,Anzio,Antsio,Anzio,Anzio,,Anzio,Anzio,Anzio,Anzio
 11847,533,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11848,339,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11849,21,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9226,7 +9226,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12361,373,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12362,284,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12363,640,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12364,278,Buenos Aires,Buyns ayirs,,,Buyinuosiailisi,Buenos Aires,Buenos Aires,Buenos Aires,Buenos Aires,Buenos Aires,Boyenos Άires,Buenos Aires,Buenos Aires,Buenos Aires,,Buenosairesa,Buenos Airės,Buenos Aires,Buenos Aires,Buenos-Ajres,Buenos Aires,Buenos Aires,,Buenos Aires,Buenos Aires,Buenos Aires,Buenos Aires
+12364,278,Buenos Aires,Buyns ayirs,,,Buyinuosiailisi,Buenos Aires,Buenos Aires,Buenos Aires,Buenos Aires,Buenos Aires,Boyenos Aires,Buenos Aires,Buenos Aires,Buenos Aires,,Buenosairesa,Buenos Airės,Buenos Aires,Buenos Aires,Buenos-Ajres,Buenos Aires,Buenos Aires,,Buenos Aires,Buenos Aires,Buenos Aires,Buenos Aires
 12365,395,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12366,432,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12367,521,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9238,7 +9238,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12373,289,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12374,378,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12375,436,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12376,800,Qerekose,Aghri,,,Ale,Ağrı,Qerekose,Ağrı,Ağrı,Ağrı,Άgri,Ağrı,Qerekose,Ağrı,,Qerekose,Ahras,Ağrı,Ağrı,Agry,Ağrı,Ağrı,,Qerekose,Ağrı,Ağrı,Ağrı
+12376,800,Qerekose,Aghri,,,Ale,Ağrı,Qerekose,Ağrı,Ağrı,Ağrı,Agri,Ağrı,Qerekose,Ağrı,,Qerekose,Ahras,Ağrı,Ağrı,Agry,Ağrı,Ağrı,,Qerekose,Ağrı,Ağrı,Ağrı
 12377,285,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12378,602,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12379,278,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9949,7 +9949,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 13088,479,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13089,478,Guadalajara,Ghuadalakhara,,,Guadalahala,Guadalajara,Guadalajara,Guadalajara,Guadalajara,Guadalajara,Goyadalachara,Guadalajara,Guadalajara,Guadalajara,,Gvadalahara,Gvadalachara,Guadalajara,Guadalajara,Gvadalahara,Guadalajar,Guadalajara,,Guadalajara,Guadalajara,Guadalajara,Guadalajara
 13090,463,Unalaska,Uwnalaska,,,Wunalasiqia,Unalaska,Unalaska,Unalaska,Unalaska,Unalaska,Unalaska,Unalaska,Unalaska,Unalaska,,Unalaska,Unalaška,Unalaska,Unalask,Unalashka,Unalaska,Unalask,,Unalaska,Unalaska,Unalaska,Unalaska
-13091,463,Anchorage,Ankurij,,,Ankelazhi,Anchorage,Anchorage,Anchorage,Anchorage,Anchorage,Άnkoreitz,Anchorage,Anchorage,Anchorage,,Ankoridža,Ankoridžas,Anchorage,Anchorag,Ankoridzh,Anchorage,Anchorag,,Anchorag,Anchorage,Anchorage,Anchorage
+13091,463,Anchorage,Ankurij,,,Ankelazhi,Anchorage,Anchorage,Anchorage,Anchorage,Anchorage,Ankoreitz,Anchorage,Anchorage,Anchorage,,Ankoridža,Ankoridžas,Anchorage,Anchorag,Ankoridzh,Anchorage,Anchorag,,Anchorag,Anchorage,Anchorage,Anchorage
 13092,316,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13093,314,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13094,682,,,,,,,,,,,,,,,,,,,,,,,,,,,
