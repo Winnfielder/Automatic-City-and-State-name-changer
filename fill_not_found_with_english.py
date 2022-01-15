@@ -5,6 +5,8 @@ import pandas as pd
 
 languages = [
     #    ('english','en')
+    ('japanese','ja'),
+    ('arab','ar'),
     ('chinese','zh'),
     ('spanish','es'),
     ('portuguese','pt'),
