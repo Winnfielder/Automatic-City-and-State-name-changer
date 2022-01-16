@@ -2097,7 +2097,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3148,38,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3149,150,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3150,136,,Wazayif,,,Dengdi,Dundee,Dundee,Dundee,Dundee,Dunden,Ntanti,Dundee,Dundee,Dundee,Dandī,Dandī,Dandi,Dundee,Dundee,Dandi,Dundee,Dundee,,,Dundee,Dundee,Dundee
-3151,195,Shën Petersburgu,Sant butrisbirgh,,,Shengbidebao,Petrohrad,Peterburi,Pietari,Saint-Pétersbourg,Ludendorffshafen,Agia Petroypoli,Szentpétervár,Leningrad,San Pietroburgo,Sankutopeteruburuku,Sanktpēterburga,Sankt Peterburgas,Petersburg,Sankt Petersburg,Leningrád,Sankt Petersburg,Sankt-Peterburg,,Sankt-Peterburg,San Petersburgo,São Petersburgo,Sint-Petersburg
+3151,195,Shën Petersburgu,Sant butrisbirgh,,,Shengbidebao,Petrohrad,Peterburi,Pietari,Saint-Pétersbourg,Ludendorffshafen,Agia Petroypoli,Szentpétervár,Leningrad,San Pietroburgo,Sankutopeteruburuku,Sanktpēterburga,Sankt Peterburgas,Piotrogród,Sankt Petersburg,Leningrád,Sankt Petersburg,Sankt-Peterburg,,Sankt-Peterburg,San Petersburgo,São Petersburgo,Sint-Petersburg
 3152,13,Talini,Talin,,,Talin,Tallinn,Tallinn,Tallinna,Tallinn,Reval,Talin,Tallinn,Tallinn,Tallinn,Tarin,Tallina,Talinas,Tallinn,Tallinn,Tallin,Tallinn,Tallinn,,Tallinn,Tallin,Tallinn,Reval
 3153,148,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3154,351,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2482,7 +2482,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3582,265,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3583,74,Ostrava,Uwstirafa,,,Esitelafa,Ostrava,Ostrava,Ostrava,Ostrava,Ostrau,Ostrava,Ostrava,Ostrava,Ostrava,Osutoravua,Ostrava,Ostrava,Ostrawa,Ostrava,Ostrava,Ostrava,Ostrava,,Ostrava,Ostrava,Ostrava,Ostrava
 3584,193,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3585,69,Carlsbad,,,,Qia'ersibade,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Karlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Kāruzubaddo,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,,Carlsbad,Carlsbad,Carlsbad,Karelsbad
+3585,69,Carlsbad,,,,Qia'ersibade,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Karlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Kāruzubaddo,Carlsbad,Carlsbad,Karlowe Wary,Carlsbad,Carlsbad,Carlsbad,Carlsbad,,Carlsbad,Carlsbad,Carlsbad,Karelsbad
 3586,90,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3587,238,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3588,378,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4225,7 +4225,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6329,255,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6330,224,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6331,140,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6332,763,Königsberg,Kunighisbirgh,,,Kenisibao,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Kēnihisuberuku,Königsberg,Karaliaučiaus istorija,Königsberg,Königsber,Kenigsberg,Königsberg,Königsberg,,Königsberg,Königsberg,Königsberg,Koningsbergen
+6332,763,Königsberg,Kunighisbirgh,,,Kenisibao,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Kēnihisuberuku,Königsberg,Karaliaučiaus istorija,Królewiec,Königsber,Kenigsberg,Königsberg,Königsberg,,Königsberg,Königsberg,Königsberg,Koningsbergen
 6333,223,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6334,63,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6335,132,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6358,7 +6358,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9491,203,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9492,24,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9493,201,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9494,88,,,,,,,,,Szubin,Zamosch,,,Gmina Szubin,Szubin,Szubin commune,,,Szubin,,Shubin,,,,,,Comuna de Szubin,Szubin
+9494,88,,,,,,,,,Szubin,Zamosch,,,Gmina Szubin,Szubin,Szubin commune,,,Zamość,,Shubin,,,,,,Comuna de Szubin,Szubin
 9495,14,Rennes,Ryn,,,Lei'en,Rennes,Rennes,Rennes,Rennes,Rengen,Ren,Rennes,Rennes,Rennes,Ren'nu,Renna,Renas,Rennes,Rennes,Ren,Rennes,Rennes,,Rennes,Rennes,Rennes,Rennes
 9496,64,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9497,60,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6375,7 +6375,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9508,87,Lodzh,Wuudj,,,Luozi,Lodž,Łódź,Łódź,Łódź,Litzmannstadt,Lotz,Łódź,Łódź,Barcopoli,Utchi,Lodza,Lodze,Łódź,Łódź,Lodz',Łódź,Łódź,,Łódź,Lodz,Łódź,Lodz
 9509,57,Hamm,Ham,,,Hamu,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamu,Hamma,Hamas,Hamm,Hamm,Hamm,Hamm,Hamm,,Hamm,Hamm,Hamm,Hamm
 9510,14,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9511,67,Oppeln,,,,Oupeier,Oppeln,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,,Oppeln,Oppeln,Oppeln,Oppelen
+9511,67,Oppeln,,,,Oupeier,Oppeln,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Oppeln,Oppeln,,Oppeln,Oppeln,Oppeln,Oppelen
 9512,403,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9513,407,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9514,249,,,,,,,,,,,,,,,,,,,,,,,,,,,
