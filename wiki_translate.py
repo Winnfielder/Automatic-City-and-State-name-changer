@@ -8,6 +8,7 @@ import pinyin # transliterate chinese
 from transliterate import translit
 from lang_trans.arabic import arabtex
 from googletrans import Translator
+import unidecode
 
 provinces = pd.read_csv("provinces.csv", index_col=0)
 states = pd.read_csv("states.csv",index_col=0)
@@ -43,10 +44,9 @@ def translate_dataframe(dataframe,language,language_code):
                     new_name = pinyin.get(new_name,format="strip",)
                 elif (language in ['russian','greek','ukrainian','bulgarian']):
                     new_name = translit(new_name,language_code,reversed=True)
-                elif (language=='arab'):
-                    new_name = translator.translate(new_name,dest='ar').pronunciation
-                elif (language=='japanese'):
-                    new_name = translator.translate(new_name,dest='ja').pronunciation
+                elif (language in ['arab','japanese','belarusian']):
+                    new_name = translator.translate(new_name,dest=language_code).pronunciation
+                new_name = unidecode.unidecode(new_name)
                 new_name = new_name.replace("'","").replace('.','').replace("~","").replace("=","")
                 new_name = new_name.capitalize()
                 # the is a parentesis remove it
@@ -67,7 +67,8 @@ def translate_dataframe(dataframe,language,language_code):
     return dataframe
 
 languages = [
-    ('bulgarian','bg')
+    ('belarusian','be'),
+#    ('bulgarian','bg')
 #    ('ukrainian','uk')
 #    ('arab','ar'),
 #    ('japanese','ja'),

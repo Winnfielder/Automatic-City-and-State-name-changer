@@ -6,12 +6,7 @@ import pandas as pd
 provinces = pd.read_csv("../provinces.csv", index_col=0)
 states = pd.read_csv("../states.csv", index_col=0)
 
-not_implemented_language = [
-    "belarusian",
-]
-
 languages = set(states.columns)
-[languages.remove(lang) for lang in not_implemented_language]
 languages.remove("english")
 
 stat_list = []
