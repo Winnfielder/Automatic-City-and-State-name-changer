@@ -79,10 +79,10 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 102,142,,,,,,,,,,,,,,,,,,,,,,,,,,,
 103,148,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,208,,,,,,,,,,,,,,,,,,,,,,,,,,,
-105,262,,Thueban niryan,Naran-mar,Naryan mar,Baliyangma'er,Narjan-Mar,Narjan-Mar,Narjan-Mar,Narian-Mar,Hafen von Kaiser,Narian-Mar,Narjan-Mar,Naryan Mar,Nar'jan-Mar,Nariyan maru,Narjanmara,Narjan Maras,Narjan-Mar,Narian-Mar,Nar'jan-Mar,Narjan-Mar,Naryan-Mar,Narjan-mar,Narjan-Mar,Narian-Mar,Narian-Mar,Narjan-Mar
+105,262,Narjan-mar,Thueban niryan,Naran-mar,Naryan mar,Baliyangma'er,Narjan-Mar,Narjan-Mar,Narjan-Mar,Narian-Mar,Hafen von Kaiser,Narian-Mar,Narjan-Mar,Naryan Mar,Nar'jan-Mar,Nariyan maru,Narjanmara,Narjan Maras,Narjan-Mar,Narian-Mar,Naryan-Mar,Narjan-Mar,Naryan-Mar,Narjan-mar,Narjan-Mar,Narian-Mar,Narian-Mar,Narjan-Mar
 106,351,,,,,,,,,,,,,,,,,,,,,,,,,,,
 107,143,,,,,,,,,,,,,,,,,,,,,,,,,,,
-108,397,,,Bazirnik,Balzer,,Balzer,,,Balzer,Balzer,,,Balzer,,Baruzā,,,Balzer,,,,,Balzer,,,,
+108,397,Balzer,Balt,Bazirnik,Balzer,Balzer,Balzer,Balzer,Balzer,Balzer,Balzer,Balzer,Balzer,Balzer,Balzer,Baruzā,Balzer,Balzer,Balzer,Balzer,Syktyvkar,Balzer,Balzer,Balzer,Balzer,Balzer,Balzer,Balzer
 109,666,,,,,,,,,,,,,,,,,,,,,,,,,,,
 110,263,,,,,,,,,,,,,,,,,,,,,,,,,,,
 111,110,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -95,7 +95,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 118,666,,,,,,,,,,,,,,,,,,,,,,,,,,,
 119,400,,,,,,,,,,,,,,,,,,,,,,,,,,,
 120,149,,,,,,,,,,,,,,,,,,,,,,,,,,,
-121,248,Yaroslavl,Yaruslafil,Jaraslaul,Yaroslaval,Yaluosilafu'er,Jaroslavl,Jaroslavl,Jaroslavl,Iaroslavl,Yaroschaffen,Giaroslavl,Jaroszlavl,Yaroslavl,Jaroslavl',Yarosuravuri,Jaroslavļa,Jaroslavlis,Jarosław,Iaroslavl,Jaroslavl',Jaroslavl,Yaroslavl,Jaroslavl,Jaroslavlj,Yaroslavl,Iaroslavl,Jaroslavl
+121,248,Yaroslavl,Yaruslafil,Jaraslaul,Yaroslaval,Yaluosilafu'er,Jaroslavl,Jaroslavl,Jaroslavl,Iaroslavl,Yaroschaffen,Giaroslavl,Jaroszlavl,Yaroslavl,Jaroslavl',Yarosuravuri,Jaroslavļa,Jaroslavlis,Jarosław,Iaroslavl,Yaroslavl,Jaroslavl,Yaroslavl,Jaroslavl,Jaroslavlj,Yaroslavl,Iaroslavl,Jaroslavl
 122,142,Bergen,Birghin,Hnuty,Bergen,Bei'ergen,Bergen,Bergen,Bergen,Bergen,Bergen,Bergken,Bergen,Bergen,Bergen,Berugen,Bergena,Bergenas,Bergen,Berge,Bergen,Bergen,Berge,Berhen,Bergen,Bergen,Bergen,Bergen
 123,398,,,,,,,,,,,,,,,,,,,,,,,,,,,
 124,148,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -159,7 +159,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 182,666,,,,,,,,,,,,,,,,,,,,,,,,,,,
 183,214,,,,,,,,,,,,,,,,,,,,,,,,,,,
 184,38,,,,,,,,,,,,,,,,,,,,,,,,,,,
-185,13,,,Arensburg,Arensburg,,,,,,Arensburg,,,Arensburg,,Arensubāgu,,,,,,,,Arensburg,,,,Arensburg
+185,13,Arensburg,Arnisburgh,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg,Arensubāgu,Arensburg,Arensburg,Arensburg,Arensburg,Kuressaare,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg,Arensburg
 186,397,,,,,,,,,,,,,,,,,,,,,,,,,,,
 187,246,,,,,,,,,,,,,,,,,,,,,,,,,,,
 188,142,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -171,7 +171,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 194,264,,,,,,,,,,,,,,,,,,,,,,,,,,,
 195,149,,,,,,,,,,,,,,,,,,,,,,,,,,,
 196,351,,,,,,,,,,,,,,,,,,,,,,,,,,,
-197,147,Salla,,Salla,Salla,Sala,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Sara,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla
+197,147,Salla,Sala,Salla,Salla,Sala,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Sara,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla,Salla
 198,262,,,,,,,,,,,,,,,,,,,,,,,,,,,
 199,142,,,,,,,,,,,,,,,,,,,,,,,,,,,
 200,136,Aberdeen,Abirdin,Abierdzin,Abardiyn,Aboding,Aberdeen,Aberdeen,Aberdeen,Aberdonie,Abürdawas,Aberntin,Aberdeen,Aberdeen,Aberdeen,Abadīn,Aberdīna,Aberdynas,Aberdeen,Aberdeen,Aberdin,Aberdeen,Aberdeen,Aberdyn,Aberdeen,Aberdeen,Aberdeen,Aberdeen
@@ -190,7 +190,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 216,206,,,,,,,,,,,,,,,,,,,,,,,,,,,
 219,131,,,,,,,,,,,,,,,,,,,,,,,,,,,
 221,125,,,,,,,,,,,,,,,,,,,,,,,,,,,
-222,12,Rēzekne,Rizikini,Rezekne,Rezekne,Leizekenei,Rēzekne,Rēzekne,Rēzekne,Rēzekne,Rositten,Rezekne,Rēzekne,Rēzekne,Rēzekne,Rēzekune,Rēzekne,Rezekne,Rzeżyca,Rēzekne,Rezekne,Rēzekne,Rēzekne,Rezekne,,Rēzekne,Rēzekne,Rositten
+222,12,Rēzekne,Rizikini,Rezekne,Rezekne,Leizekenei,Rēzekne,Rēzekne,Rēzekne,Rēzekne,Rositten,Rezekne,Rēzekne,Rēzekne,Rēzekne,Rēzekune,Rēzekne,Rezekne,Rzeżyca,Rēzekne,Rezhitsa,Rēzekne,Rēzekne,Rezekne,Rezekne,Rēzekne,Rēzekne,Rositten
 223,243,,,,,,,,,,,,,,,,,,,,,,,,,,,
 226,246,,,,,,,,,,,,,,,,,,,,,,,,,,,
 227,652,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -226,13 +226,13 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 276,119,,,,,,,,,,,,,,,,,,,,,,,,,,,
 277,96,,,,,,,,,,,,,,,,,,,,,,,,,,,
 278,573,,,,,,,,,,,,,,,,,,,,,,,,,,,
-279,85,Bidgoshç,Almashrubat,Bydhasc,Bidgoshch,Bidegeshi,Bydhošť,Bydgoszcz,Bydgoszcz,Bydgoszcz,Bromberg,Bintgkosts,Bydgoszcz,Bydgoszcz,Bydgoszcz,Buidogoshuchu,Bidgošča,Bydgoščius,Bydgoszcz,Bydgoszcz,Bydgosch,Bydgoszcz,Bydgoszcz,Bydhoshch,Bydgoszcz,Bydgoszcz,Bydgoszcz,Bromberg
+279,85,Bidgoshç,Almashrubat,Bydhasc,Bidgoshch,Bidegeshi,Bydhošť,Bydgoszcz,Bydgoszcz,Bydgoszcz,Bromberg,Bintgkosts,Bydgoszcz,Bydgoszcz,Bydgoszcz,Buidogoshuchu,Bidgošča,Bydgoščius,Bydgoszcz,Bydgoszcz,Bydgoshch,Bydgoszcz,Bydgoszcz,Bydhoshch,Bydgoszcz,Bydgoszcz,Bydgoszcz,Bromberg
 280,253,,,,,,,,,,,,,,,,,,,,,,,,,,,
 281,763,,,,,,,,,,,,,,,,,,,,,,,,,,,
 282,256,,,,,,,,,,,,,,,,,,,,,,,,,,,
 283,254,,,,,,,,,,,,,,,,,,,,,,,,,,,
-284,120,,Murtafaeat askutlanda,Paunocna-satlandskaje nahorje,Severoshotlandska planinska zemya,Sugelang'aodi,Skotská vysočina,Põhja-Šoti mägismaa,Skotlannin ylämaa,Montagnes Écossaises,Schottisches Land,,Skót-felföld,Scottish Highlands,Highlands,Hairando chihō,,Škotijos aukštumos,Highlands,,Severo-Shotlandskoe nagor'e,Skotska högländerna,Kuzey İskoçya,Hajlends,Škotsko visočje,Tierras Altas de Escocia,Terras Altas,Schotse Hooglanden
-285,113,,Wayksufurd,Wexfard,Ueksford,Weikesifude,Wexford,Wexford,Wexford,Vesfort,Wechstadt,,,Wexford,Wexford,Uekkusufōdo,,Veksfordas,Wexford,,Ueksford,Wexford,,Veksford,,Wexford,Wexford,Wexford
+284,120,Highlands,Murtafaeat askutlanda,Paunocna-satlandskaje nahorje,Severoshotlandska planinska zemya,Sugelang'aodi,Skotská vysočina,Põhja-Šoti mägismaa,Skotlannin ylämaa,Montagnes Écossaises,Schottisches Land,Highlands,Skót-felföld,Scottish Highlands,Highlands,Hairando chihō,Highlands,Škotijos aukštumos,Highlands,Highlands,Severo-Shotlandskoe nagor'e,Skotska högländerna,Kuzey İskoçya,Hajlends,Škotsko visočje,Tierras Altas de Escocia,Terras Altas,Schotse Hooglanden
+285,113,Wexford,Wayksufurd,Wexfard,Ueksford,Weikesifude,Wexford,Wexford,Wexford,Vesfort,Wechstadt,Wexford,Wexford,Wexford,Wexford,Uekkusufōdo,Wexford,Veksfordas,Wexford,Wexford,Ueksford,Wexford,Wexford,Veksford,Wexford,Wexford,Wexford,Wexford
 286,250,,,,,,,,,,,,,,,,,,,,,,,,,,,
 287,246,,,,,,,,,,,,,,,,,,,,,,,,,,,
 288,224,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -250,15 +250,15 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 300,223,,,,,,,,,,,,,,,,,,,,,,,,,,,
 301,219,,,,,,,,,,,,,,,,,,,,,,,,,,,
 302,222,,,,,,,,,,,,,,,,,,,,,,,,,,,
-303,113,,,Tulmara,Talamor,Talamo'er,Tullamore,,Tullamore,Tulomoure,Mansteinstadt,Tallamor,,Tullamore,Tullamore,Taramoa,,Talamoras,Tullamore,,Tallamor,Tullamore,,Tallamor,,Tullamore,Tullamore,Tullamore
+303,113,Tullamore,Tullamore,Tulmara,Talamor,Talamo'er,Tullamore,Tullamore,Tullamore,Tulomoure,Mansteinstadt,Tallamor,Tullamore,Tullamore,Tullamore,Taramoa,Tullamore,Talamoras,Tullamore,Tullamore,Tallamor,Tullamore,Tullamore,Tallamor,Tullamore,Tullamore,Tullamore,Tullamore
 304,204,,,,,,,,,,,,,,,,,,,,,,,,,,,
 305,399,,,,,,,,,,,,,,,,,,,,,,,,,,,
 306,242,Smolensku,Sumulinsik,Smaliensk,Smolensk,Simolengsike,Smolensk,Smolensk,Smolensk,Smolensk,Smolenskau,Smolensk,Szmolenszk,Smolensk,Smolensk,Sumorensuku,Smoļenska,Smolenskas,Smoleńsk,Smolensk,Smolensk,Smolensk,Smolensk,Smolensk,Smolensk,Smolensk,Smolensk,Smolensk
 307,653,,,,,,,,,,,,,,,,,,,,,,,,,,,
 308,13,,,,,,,,,,,,,,,,,,,,,,,,,,,
 309,56,,,,,,,,,,,,,,,,,,,,,,,,,,,
-310,12,Daugavpils,Rogbiles,Dauhaupils,Daugavpils,Taogefupi'ersi,Daugavpils,Daugavpils,Daugavpils,Daugavpils,Dünaburg,Ntaoygkavpils,Daugavpils,Daugavpils,Daugavpils,Daugafupirusu,Daugavpils,Daugpilis,Dyneburg,Daugavpils,Daugavpils,Daugavpils,Daugavpils,Dauhavpils,Daugavpils,Daugavpils,Dunaburgo,Dunaburg
-311,122,,,Rieksem,Reksam,Leikesihanmu,Wrexham,Wrexham,Wrexham,Reixame,Wrechensheim,Rexam,,Wrexham,Wrexham,Rekusamu,,Reksamas,Wrexham,Wrexham,Reksem,Wrexham,,Reksem,,Wrexham,Wrexham,Wrexham
+310,12,Daugavpils,Rogbiles,Dauhaupils,Daugavpils,Taogefupi'ersi,Daugavpils,Daugavpils,Daugavpils,Daugavpils,Dünaburg,Ntaoygkavpils,Daugavpils,Daugavpils,Daugavpils,Daugafupirusu,Daugavpils,Daugpilis,Dyneburg,Daugavpils,Dvinsk,Daugavpils,Daugavpils,Dauhavpils,Daugavpils,Daugavpils,Dunaburgo,Dunaburg
+311,122,Wrexham,Wrexham,Rieksem,Reksam,Leikesihanmu,Wrexham,Wrexham,Wrexham,Reixame,Wrechensheim,Rexam,Wrexham,Wrexham,Wrexham,Rekusamu,Wrexham,Reksamas,Wrexham,Wrexham,Reksem,Wrexham,Wrexham,Reksem,Wrexham,Wrexham,Wrexham,Wrexham
 312,214,,,,,,,,,,,,,,,,,,,,,,,,,,,
 313,257,,,,,,,,,,,,,,,,,,,,,,,,,,,
 314,254,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -332,14 +332,14 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 382,205,Kaluga,Kalugha,Kaluh,Kaluga,Qialujia,Kaluga,Kaluga,Kaluga,Kalouga,Kalün,Kaloygka,Kaluga,Kaluga,Kaluga,Karūga,Kaluga,Kaluga,Kaługa,Kaluga,Kaluga,Kaluga,Kaluga,Kaluha,Kaluga,Kaluga,Kaluga,Kaloega
 383,140,Göteborg,Ghutinbirgh,Hiotebarh,Gyoteborg,Gedebao,Göteborg,Göteborg,Göteborg,Göteborg,Göteborg,Gketeborgk,Göteborg,Göteborg,Göteborg,Yōtebori,Gēteborga,Geteborgas,Göteborg,Göteborg,Geteborg,Göteborg,Göteborg,Heteborh,Göteborg,Gotemburgo,Gotemburgo,Gotenburg
 384,222,,,,,,,,,,,,,,,,,,,,,,,,,,,
-385,119,,Diri,Landanda,Deri,Deli,Londonderry,Derry,Londonderry,Daire,Kleines,Nteri,Londonderry,Londonderry,Derry,Rondonderī,Deri,Londonderis,Londonderry,Derry,Londonderri,Londonderry,Derry,Derri,,Derry,Derry,Derry
+385,119,Derry,Diri,Landanda,Deri,Deli,Londonderry,Derry,Londonderry,Daire,Kleines,Nteri,Londonderry,Londonderry,Derry,Rondonderī,Deri,Londonderis,Londonderry,Derry,Londonderri,Londonderry,Derry,Derri,Derry,Derry,Derry,Derry
 386,204,,,,,,,,,,,,,,,,,,,,,,,,,,,
 387,210,,,,,,,,,,,,,,,,,,,,,,,,,,,
 388,86,,,,,,,,,,,,,,,,,,,,,,,,,,,
 389,85,,,,,,,,,,,,,,,,,,,,,,,,,,,
 390,398,,,,,,,,,,,,,,,,,,,,,,,,,,,
 391,7,Amsterdami,Amistirdam,Amsterdam,Amsterdam,Amusitedan,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Amsterntam,Amszterdam,Amsterdam,Amsterdam,Amusuterudamu,Amsterdama,Amsterdamas,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Amsterdam,Ámsterdam,Amesterdão,Amsterdam
-392,250,Ulyanovsk,Uwlyanufisk,Uljanausk,Ulyanovsk,Wuliyangnuofusike,Uljanovsk,Uljanovsk,Uljanovsk,Oulianovsk,Lanowstadt,Oylianofsk,Uljanovszk,Ulyanovsk,Ul'janovsk,Uriyanofusuku,Uļjanovska,Uljanovskas,Uljanowsk,Ulianovsk,Ul'janovsk,Uljanovsk,Ulyanovsk,Uljanovsk,Uljanovsk,Uliánovsk,Ulianovsk,Oeljanovsk
+392,250,Ulyanovsk,Uwlyanufisk,Uljanausk,Ulyanovsk,Wuliyangnuofusike,Uljanovsk,Uljanovsk,Uljanovsk,Oulianovsk,Lanowstadt,Oylianofsk,Uljanovszk,Ulyanovsk,Ul'janovsk,Uriyanofusuku,Uļjanovska,Uljanovskas,Uljanowsk,Ulianovsk,Ulyanovsk,Uljanovsk,Ulyanovsk,Uljanovsk,Uljanovsk,Uliánovsk,Ulianovsk,Oeljanovsk
 393,251,,,,,,,,,,,,,,,,,,,,,,,,,,,
 394,99,,,,,,,,,,,,,,,,,,,,,,,,,,,
 395,763,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -354,7 +354,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 404,249,,,,,,,,,,,,,,,,,,,,,,,,,,,
 405,57,,,,,,,,,,,,,,,,,,,,,,,,,,,
 406,96,Mołodeczno,Maladzishana,Maladziecna,Molodechno,Moluojieqinuo,Maladzečna,Maładziečna,Maladzetšna,Maladetchna,Maladsetschna,Mołodeczno,Maladzecsna,Mołodeczno,Maladzečna,Maladsetschna,Maladzječna,Maladečina,Mołodeczno,Mołodeczno,Molodechno,Maladzetjna,Maladzeçna,Molodechno,Maladzečna,Mołodeczno,Mołodeczno,Maladzetsjna
-407,122,,Suanzi,Sujonsi,Suonzi,Siwangxi,Swansea,Swansea,Swansea,La Mer-aux-Cygnes,Schweinsau,Soyonsi,Swansea,Swansea,Swansea,Suuonjī,Svonzi,Svonsis,Swansea,Swansea,Suonsi,Swansea,Swansea,Suonsi,Swansea,Swansea,Swansea,Swansea
+407,122,Swansea,Suanzi,Sujonsi,Suonzi,Siwangxi,Swansea,Swansea,Swansea,La Mer-aux-Cygnes,Schweinsau,Soyonsi,Swansea,Swansea,Swansea,Suuonjī,Svonzi,Svonsis,Swansea,Swansea,Suonsi,Swansea,Swansea,Suonsi,Swansea,Swansea,Swansea,Swansea
 408,124,,,,,,,,,,,,,,,,,,,,,,,,,,,
 409,197,,,,,,,,,,,,,,,,,,,,,,,,,,,
 410,401,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -364,7 +364,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 417,88,,,,,,,,,,,,,,,,,,,,,,,,,,,
 418,221,Kharkov,Kharkif,Charkau,Harkov,Ha'erkefu,Charkov,Harkiv,Harkova,Kharkiv,Karkau,Charkovo,Harkov,Kharkov,Charkiv,Harukiu,Harkova,Charkovas,Charków,Harkov,Har'kov,Charkiv,Harkov,Kharkiv,Harkiv,Járkov,Carcóvia,Charkov
 421,74,,,,,,,,,,,,,,,,,,,,,,,,,,,
-422,93,,Kufl,Koviel,Kovel,Keweili,Kovel,Kovel,Kovel,Kovel,Kowel,,,Kovel,Kovel',Kōvueri,Koveļa,Kovelis,Kowel,Kovel,Kovel',Kovel,Kovel,Kovel,,Kóvel,Kovel,Kovel
+422,93,Kowel,Kufl,Koviel,Kovel,Keweili,Kovel,Kovel,Kovel,Kovel,Kowel,Kowel,Kowel,Kovel,Kovel',Kōvueri,Koveļa,Kovelis,Kowel,Kovel,Kovel,Kovel,Kovel,Kovel,Kowel,Kóvel,Kovel,Kovel
 424,69,,,,,,,,,,,,,,,,,,,,,,,,,,,
 425,60,Weimar,Faymar,Weetar,Vaymar,Weima,Výmar,Weimar,Weimar,Weimar,Weimar,Vaimari,Weimar,Weimar,Weimar,Vuaimaru,Veimāra,Veimaras,Weimar,Weimar,Vejmar,Weimar,Weimar,Vejmar,Weimar,Weimar,Weimar,Weimar
 426,238,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -375,7 +375,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 437,260,,,,,,,,,,,,,,,,,,,,,,,,,,,
 438,91,,,,,,,,,,,,,,,,,,,,,,,,,,,
 441,201,,,,,,,,,,,,,,,,,,,,,,,,,,,
-442,88,Tarnów,Tarnuf,Tarnau,Tarnov,Ta'ernufu,Tarnów,Tarnów,Tarnów,Tarnów,Tarnau,Tarnoyf,Tarnów,Tarnów,Tarnau,Tarunufu,Tarnova,Tarnuvas,Tarnów,Tarnów,Tarnuv,Tarnów,Tarnów,Tarniv,Tarnów,Tarnów,Tarnów,Tarnow
+442,88,Tarnów,Tarnuf,Tarnau,Tarnov,Ta'ernufu,Tarnów,Tarnów,Tarnów,Tarnów,Tarnau,Tarnoyf,Tarnów,Tarnów,Tarnau,Tarunufu,Tarnova,Tarnuvas,Tarnów,Tarnów,Tarnov,Tarnów,Tarnów,Tarniv,Tarnów,Tarnów,Tarnów,Tarnow
 444,68,,,,,,,,,,,,,,,,,,,,,,,,,,,
 445,9,,,,,,,,,,,,,,,,,,,,,,,,,,,
 449,245,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -397,7 +397,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 473,240,,,,,,,,,,,,,,,,,,,,,,,,,,,
 474,93,,,,,,,,,,,,,,,,,,,,,,,,,,,
 475,587,,,,,,,,,,,,,,,,,,,,,,,,,,,
-476,198,Vinnytsia,Finitsa,Vinnica,Vinitsa,Wennicha,Vinnycja,Vinnõtsja,Vinnytsja,Vinnytsia,Winniza,Vinitsa,Vinnicja,Vinnytsia,Vinnycja,Vuīn'nuitsuya,Vinnica,Vinycia,Winnica,Vinița,Vinnitsa,Vinnytsia,Vinnıtsya,Vinnytsja,Vinica,Vínnytsia,Vinnytsia,Vinnytsja
+476,198,Vinnytsia,Finitsa,Vinnica,Vinitsa,Wennicha,Vinnycja,Vinnõtsja,Vinnytsja,Vinnytsia,Winniza,Vinitsa,Vinnicja,Vinnytsia,Vinnycja,Vuīn'nuitsuya,Vinnica,Vinycia,Winnica,Vinița,Vinnytsia,Vinnytsia,Vinnıtsya,Vinnytsja,Vinica,Vínnytsia,Vinnytsia,Vinnytsja
 477,406,,,,,,,,,,,,,,,,,,,,,,,,,,,
 478,64,,,,,,,,,,,,,,,,,,,,,,,,,,,
 479,67,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -409,7 +409,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 485,15,Dieppe,Diyb,Dieppe,Diep,Diyepu,Dieppe,Dieppe,Dieppe,Dieppe,Diestadt,Dieppi,Dieppe,Dieppe,Dieppe,Dieppu,Dieppe,Dieppe,Dieppe,Dieppe,D'ep,Dieppe,Dieppe,Dyepp,Dieppe,Dieppe,Dieppe,Dieppe
 486,226,,,,,,,,,,,,,,,,,,,,,,,,,,,
 487,265,Mikhaylovka,,Michajlauka,,Mihayiluofuka,Mikhaylovka,Mikhaylovka,Mikhaylovka,Mikhaylovka,Michailaue,Mikhaylovka,Mihajlovka,Mikhaylovka,Michajlovka,,Mikhaylovka,Mikhaylovka,Michajłowka,Mikhaylovka,Mihajlovka,Mikhaylovka,Mikhaylovka,Mykhajlovka,Mikhaylovka,Mikhaylovka,Mikhaylovka,Mikhaylovka
-488,203,Cherkasy,Tishirkasi,Carkasy,Cherkasi,Qie'erqiase,Čerkasy,Tšerkassõ,Tšerkasy,Tcherkassy,Tscherkassen,Tserkasi,Cserkaszi,Cherkasy,Čerkasy,Cherukāsui,Čerkasi,Čerkasai,Czerkasy,Cerkasî,Cherkassy,Tjerkasy,Çerkası,Cherkasy,Čerkasy,Cherkasy,Tcherkássi,Tsjerkasy
+488,203,Cherkasy,Tishirkasi,Carkasy,Cherkasi,Qie'erqiase,Čerkasy,Tšerkassõ,Tšerkasy,Tcherkassy,Tscherkassen,Tserkasi,Cserkaszi,Cherkasy,Čerkasy,Cherukāsui,Čerkasi,Čerkasai,Czerkasy,Cerkasî,Cherkasy,Tjerkasy,Çerkası,Cherkasy,Čerkasy,Cherkasy,Tcherkássi,Tsjerkasy
 489,202,,,,,,,,,,,,,,,,,,,,,,,,,,,
 490,466,,,,,,,,,,,,,,,,,,,,,,,,,,,
 491,91,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -483,7 +483,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 559,259,,,,,,,,,,,,,,,,,,,,,,,,,,,
 560,94,Pińsk,Binsuk,Pinsk,Pinsk,Pingsike,Pinsk,Pinsk,Pinsk,Pinsk,Neubrest,Pińsk,Pinszk,Pińsk,Pinsk,Pinsuku,Pinska,Pinskas,Pińsk,Pińsk,Pinsk,Pinsk,Pińsk,Pinsk,Pinsk,Pinsk,Pinsk,Pinsk
 561,54,,,,,,,,,,,,,,,,,,,,,,,,,,,
-562,90,Ostrowiec,,Ostrowiec,Ostrowiec,Aositeweice,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Osttrowiec.,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrovets,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec
+562,90,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Aositeweice,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Osttrowiec.,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec,Ostrovets,Ostrowiec,Ostrowiec,Ostrowiec,Ostrowiec
 563,42,,,,,,,,,,,,,,,,,,,,,,,,,,,
 564,55,Kaseli,Kasil,Kastiel,Kasel,Qiasai'er,Kassel,Kassel,Kassel,Cassel,Kassel,Kassel,Kassel,Kassel,Kassel,Kasseru,Kasele,Kaselis,Kassel,Kassel,Kassel',Kassel,Kassel,Kassel,Kassel,Kassel,Kassel,Kassel
 565,78,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -498,7 +498,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 574,197,,,,,,,,,,,,,,,,,,,,,,,,,,,
 575,29,Dunkerque,Dwnkirk,Dziunkierk,Dyunkerk,Dunke'erke,Dunkerk,Dunkerque,Dunkerque,Dunkerque,Dünkirchen,Doynkerki,Dunkerque,Dunkerque,Dunkerque,Dankeruku,Denkerka,Diunkerkas,Dunkierka,Dunkerque,Djunkerk,Dunkerque,Dunkerque,Djunkerk,Dunkerque,Dunkerque,Dunquerque,Duinkerke
 576,407,,,,,,,,,,,,,,,,,,,,,,,,,,,
-577,80,Chernivtsi,Tshirnufitsi,Carnaucy,Chernivtsi,Qie'ernuofuce,Černovice,Tšernivtsi,Tšernivtsi,Tchernivtsi,Czernowitz,Chernivtsi,Csernyivci,Chernivtsi,Černivci,Cheruniutsuī,Čerņivci,Černivciai,Czerniowce,Cernăuți,Chernovtsy,Tjernivtsi,Çernivtsi,Chernivtsi,Černovci,Chernivtsí,Tchernivtsi,Tsjernovits
+577,80,Chernivtsi,Tshirnufitsi,Carnaucy,Chernivtsi,Qie'ernuofuce,Černovice,Tšernivtsi,Tšernivtsi,Tchernivtsi,Czernowitz,Chernivtsi,Csernyivci,Chernivtsi,Černivci,Cheruniutsuī,Čerņivci,Černivciai,Czerniowce,Cernăuți,Bukovina,Tjernivtsi,Çernivtsi,Chernivtsi,Černovci,Chernivtsí,Tchernivtsi,Tsjernovits
 578,239,,,,,,,,,,,,,,,,,,,,,,,,,,,
 579,265,,,,,,,,,,,,,,,,,,,,,,,,,,,
 580,220,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -513,7 +513,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 589,55,,,,,,,,,,,,,,,,,,,,,,,,,,,
 590,26,,,,,,,,,,,,,,,,,,,,,,,,,,,
 591,103,,,,,,,,,,,,,,,,,,,,,,,,,,,
-592,191,Võru,Fwru,Vyru,Varu,Wolu,Võru,Võru,Võru,Werro,Werro,,Võru,Võru,Võru,Vuoru,Veru,Veru,Võru,,Vyru,Võru,Võru,Vyru,Võru,Võru,Võru,Võru
+592,191,Võru,Fwru,Vyru,Varu,Wolu,Võru,Võru,Võru,Werro,Werro,Voru,Võru,Võru,Võru,Vuoru,Veru,Veru,Võru,Voru,Vyru,Võru,Võru,Vyru,Võru,Võru,Võru,Võru
 595,23,,,,,,,,,,,,,,,,,,,,,,,,,,,
 596,102,,,,,,,,,,,,,,,,,,,,,,,,,,,
 598,358,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -613,9 +613,9 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 716,43,,,,,,,,,,,,,,,,,,,,,,,,,,,
 717,234,,,,,,,,,,,,,,,,,,,,,,,,,,,
 718,357,,,,,,,,,,,,,,,,,,,,,,,,,,,
-719,234,Novorossiysk,Nufurusisk,Novarasysk,Novorosiysk,Xinluoxisike,Novorossijsk,Novorossiisk,Novorossijsk,Novorossiïsk,Neu-Roswien,Novorosisk,Novorossiysk,Novorossiysk,Novorossijsk,Novuoroshīsuku,Novorosijska,Novorosijskas,Noworosyjsk,Novorossiisk,Novorossijsk,Novorossijsk,Novorossiysk,Novorosijsk,Novorosijsk,Novorosíisk,Novorossiisk,Nieuw-Rusland
+719,234,Novorossiysk,Nufurusisk,Novarasysk,Novorosiysk,Xinluoxisike,Novorossijsk,Novorossiisk,Novorossijsk,Novorossiïsk,Neu-Roswien,Novorosisk,Novorossiysk,Novorossiysk,Novorossijsk,Novuoroshīsuku,Novorosijska,Novorosijskas,Noworosyjsk,Novorossiisk,Novorossiysk,Novorossijsk,Novorossiysk,Novorosijsk,Novorosijsk,Novorosíisk,Novorossiisk,Nieuw-Rusland
 720,395,,,,,,,,,,,,,,,,,,,,,,,,,,,
-721,196,Kherson,Khayrsun,Chierson,Herson,He'ersong,Cherson,Herson,H’erson,Kherson,Cherson,Chersona,Herszon,Kherson,Cherson,Heruson,Hersona,Chersonas,Chersoń,Herson,Herson,Cherson,Herson,Kherson,Herson,Jersón,Kherson,Cherson
+721,196,Kherson,Khayrsun,Chierson,Herson,He'ersong,Cherson,Herson,H’erson,Kherson,Cherson,Chersona,Herszon,Kherson,Cherson,Heruson,Hersona,Chersonas,Chersoń,Herson,Kherson,Cherson,Herson,Kherson,Herson,Jersón,Kherson,Cherson
 722,276,,,,,,,,,,,,,,,,,,,,,,,,,,,
 723,79,,,,,,,,,,,,,,,,,,,,,,,,,,,
 724,180,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -635,7 +635,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 738,790,,,,,,,,,,,,,,,,,,,,,,,,,,,
 739,409,,,,,,,,,,,,,,,,,,,,,,,,,,,
 740,792,Bilbao,Balbaw,Bilbaha,Bilbao,Bi'erba'e,Bilbao,Bilbao,Bilbao,Bilbao,Bilbao,Bilbao,Bilbao,Bilbao,Bilbao,Birubao,Bilbao,Bilbao,Bilbao,Bilbao,Bil'bao,Bilbao,Bilbao,Bilbao,Bilbao,Bilbao,Bilbau,Bilbao
-741,192,,Tirasbul,Ciraspal,Tiraspol,Dilasibo'er,Tiraspol,Tiraspol,Tiraspol,Tiraspol,Hirtenheim,Tiraspol,Tiraspol,Tiraspol,Tiraspol,Tirasupori,Tiraspole,Tiraspolis,Tyraspol,Tiraspol,Tiraspol',Tiraspol,Tiraspol,Tiraspol,Tiraspol,Tiráspol,Tiraspol,Tiraspol
+741,192,Tiraspol,Tirasbul,Ciraspal,Tiraspol,Dilasibo'er,Tiraspol,Tiraspol,Tiraspol,Tiraspol,Hirtenheim,Tiraspol,Tiraspol,Tiraspol,Tiraspol,Tirasupori,Tiraspole,Tiraspolis,Tyraspol,Tiraspol,Tiraspol,Tiraspol,Tiraspol,Tiraspol,Tiraspol,Tiráspol,Tiraspol,Tiraspol
 742,237,,,,,,,,,,,,,,,,,,,,,,,,,,,
 743,806,,,,,,,,,,,,,,,,,,,,,,,,,,,
 744,79,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -754,7 +754,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 883,117,,,,,,,,,,,,,,,,,,,,,,,,,,,
 884,176,,,,,,,,,,,,,,,,,,,,,,,,,,,
 885,176,Burgos,Barghash,Burhas,Burgos,Bu'ergesi,Burgos,Burgos,Burgos,Burgos,Burgos,Boyrgos,Burgos,Burgos,Burgos,Burugosu,Burgosa,Burgosas,Burgos,Burgos,Burgos,Burgos,Burgos,Burhos,Burgos,Burgos,Burgos,Burgos
-886,348,Maraş,,Mara,Maras,Malashen,Maraş,Maraş,Maraş,Maras,Maras,Maraş,Maraş,Maraş,Maraş,Asou,Maraş,Maraş,Maras,Maraş,Maraş,Maraş,Maraş,Maras,Maraş,Maraş,Maraş,Maras
+886,348,Maraş,Miras,Mara,Maras,Malashen,Maraş,Maraş,Maraş,Maras,Maras,Maraş,Maraş,Maraş,Maraş,Asou,Maraş,Maraş,Maras,Maraş,Maraş,Maraş,Maraş,Maras,Maraş,Maraş,Maraş,Maras
 887,328,,,,,,,,,,,,,,,,,,,,,,,,,,,
 888,793,,,,,,,,,,,,,,,,,,,,,,,,,,,
 889,181,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -792,7 +792,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 921,348,,,,,,,,,,,,,,,,,,,,,,,,,,,
 922,341,,,,,,,,,,,,,,,,,,,,,,,,,,,
 923,2,,,,,,,,,,,,,,,,,,,,,,,,,,,
-924,795,Santarém,,Santarem,Santarém,Shengtalun,Santarém,Santarém,Santarém,Santarém,Santarém,Santarém,Santarém,Santarém,Santarém,Santaremu,Santarém,Santarém,Santarém,Santarém,Santaren,Santarém,Santarém,Santaren,Santarém,Santarém,Santarém,Santarém
+924,795,Santarém,Santarim,Santarem,Santarém,Shengtalun,Santarém,Santarém,Santarém,Santarém,Santarém,Santarém,Santarém,Santarém,Santarém,Santaremu,Santarém,Santarém,Santarém,Santarém,Santaren,Santarém,Santarém,Santaren,Santarém,Santarém,Santarém,Santarém
 925,157,Ankona,Ankuna,Nuska,Ankona,Ankena,Ancona,Ancona,Ancona,Ancône,Ancona,Ankona,Ancona,Ancona,Ancona,Ankōna,Ankona,Ankona,Ankona,Ancona,Ankona,Ancona,Ancona,Ankona,Ancona,Ancona,Ancona,Ancona
 926,394,,,,,,,,,,,,,,,,,,,,,,,,,,,
 927,328,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -880,7 +880,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1020,528,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1023,599,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1024,533,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1025,528,Kokura,,Kokura,Kokura,Xiaocang,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Ogura-shi,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura
+1025,528,Kokura,Kwkwra,Kokura,Kokura,Xiaocang,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Ogura-shi,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura,Kokura
 1027,615,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1028,456,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1029,598,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1060,7 +1060,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1216,742,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1217,520,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1220,402,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1221,327,Batangas,Batanghas,Pravincyja batanhas,Provinz batangas,Badayan,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batangasu-shū,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batanhas,Batangas,Provincia de Batangas,Batangas,Batangas
+1221,327,Batangas,Batanghas,batanhas,batangas,Badayan,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batangasu-shū,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batangas,Batanhas,Batangas,Provincia de Batangas,Batangas,Batangas
 1222,523,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1223,590,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1224,625,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1202,7 +1202,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1381,423,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1382,404,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1383,325,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1384,742,Dushanbe,Aliathnayn,Dusanbe,Dushanbe,Dushangbie,Dušanbe,Dušanbe,Dušanbe,Douchanbé,Duschanbe,Ntoysabe,Dusanbe,Dushanbe,Dušanbe,Doushanbe,Dušanbe,Dušanbe,Duszanbe,Dușanbe,Dushanbe,Dusjanbe,Duşanbe,Dushanbe,Dušanbe,Dusambé,Duxambé,Doesjanbe
+1384,742,Dushanbe,Aliathnayn,Dusanbe,Dushanbe,Dushangbie,Dušanbe,Dušanbe,Dušanbe,Douchanbé,Duschanbe,Ntoysabe,Dusanbe,Dushanbe,Dušanbe,Doushanbe,Dušanbe,Dušanbe,Duszanbe,Dușanbe,Stalinabad ,Dusjanbe,Duşanbe,Dushanbe,Dušanbe,Dusambé,Duxambé,Doesjanbe
 1385,288,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1386,335,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1387,403,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1286,7 +1286,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1488,289,Chiang Mai,Tshiangh my,Cianh maj,Chiang may,Qingmai,Čiang Mai,Chiang Mai,Chiang Mai,Chiang Mai,Chiang Mai,Chiang Mai,Csiangmaj,Chiang Mai,Chiang Mai,Tēsabān'nakōn chienmai,Čhianmai,Čiangmajus,Chiang Mai,Chiang Mai,Chiangmaj,Chiang Mai,Chiang Mai,Chianhmaj,Chiang Mai,Chiang Mai,Chiang Mai,Chiang Mai
 1489,611,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1492,640,Mandalay,Mandalay,Mandalaj,Mandaley,Mandelei,Mandalaj,Mandalay,Mandalay,Mandalay,Mandalay,Mantalei,Mandalaj,Mandalay,Mandalay,Mandarē,Mandalaja,Mandalajus,Mandalaj,Mandalay,Mandalaj,Mandalay,Mandalay,Mandalaj,Mandalay,Mandalay,Mandalai,Mandalay
-1493,584,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1493,584,Dasoguz,Dshughaz,Dashagan,Dashoguz,Dashaguzi,Dasoguz,Dasoguz,Dasoguz,Dasoguz,Dasoguz,Ntasogkoyz,Dasoguz,Tashauz,Dasoguz,Dashoguzu,Dasoguz,Dasoguzas,Daszoguz,Dasoguz,Tashauz,Dasoguz,Dasoguz,Dashohuz,Dasoguz,Dasoguz,Dasoguz,Dasoguz
 1494,719,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1497,432,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1498,674,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1308,7 +1308,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1514,521,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1515,555,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1516,295,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1517,587,Mangystau,Uwblis mankistaw,Manhistauskaja voblasc,Mangistauska oblast,Manjisitao,Mangystauská,Manggõstau,Mañğıstawin,Mañğıstaw,Mangghystau,Perifereia Mangkistaoy,Mangystau,Mangystau,Mangghystau,Mangisutau shū,Manghistau,Mangystau,mangystauski,Mańǵystaý,Mangistauskaja oblast',Mangghystaw,Mangistav,Manhystauska oblast,Mangystau,Provincia de Mangystau,Mangghystau,Oblast Mañğıstaw
+1517,587,Mangystau,Mankistaw,Manhistauskaja ,Mangistauska ,Manjisitao,Mangystauská,Manggõstau,Mañğıstawin,Mañğıstaw,Mangghystau,Perifereia Mangkistaoy,Mangystau,Mangystau,Mangghystau,Mangisutau shū,Manghistau,Mangystau,mangystauski,Mańǵystaý,Mangistauskaja ',Mangghystaw,Mangistav,Manhystauska ,Mangystau,Provincia de Mangystau,Mangghystau, Mañğıstaw
 1518,673,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1519,615,Taiyuan,Tay ywan,Toyuan,Tayyuen,Taiyuan,Tchaj-jüan,Taiyuan,Taiyuan,Taiyuan,Taiyuan,Taigioyan,Tajjüan,Taiyuan,Taiyuan,Taiyōshi,Taijuaņa,Tajuanas,Taiyuan,Taiyuan,Tajjuan',Taiyuan,Taiyuan,Tajjuan,Taiyuan,Taiyuan,Taiuã,Taiyuan
 1520,670,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1345,7 +1345,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1551,612,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1552,540,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1553,432,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1554,585,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1554,585,Navoiy,Nwawi,Navoi,Navoiy,Nawoyi,Navoiy,Navoiy,Navoi,Navoi,Navoiy,Navoiy,Navoiy,Navoi,Navoiy,Navuoi,Navoiy,Navojis,Nawoi,Navoi,Navoi,Navoi,Nevai,Navoyi,Navoiy,Navoi,Navoi,Navoiy
 1555,278,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1556,366,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1557,521,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1364,7 +1364,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1570,521,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1571,717,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1572,366,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1573,405,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1573,405,Buharaja,Bukharaa,Bukhara,Buhara,Buhala,Buchara,Buhhaara,Buhara,Boukhara,Buxoro,Boychara,Buhara,Bukhara,Bukhara,Buhara,Buhara,Buchara,Buchara,Buhara,Bukhara,Buchara,Buhara,Bukhara,Buhara,Bujara,Bucara,Buchara
 1574,668,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1575,615,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1576,585,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1450,13 +1450,13 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1656,431,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1657,466,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1658,382,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1659,580,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1659,580,Chanty-mansijsk,Khanti-mansiysk,Chanty-mansijsk,Hanti-mansiysk,Hante-manxisike,Chanty-mansijsk,Hanto-mansiisk,Hanty-mansijsk,Khanty-mansiisk,Chanty-mansijsk,Chanti-mansisk,Hanti-manszijszk,Khanty-Mansiysk,Chanty-mansijsk,Hanti manshisuku,Hantimansijska,Chanty mansijskas,Chanty-mansyjsk,Hanti-mansiisk,Khanty-Mansiysk,Chanty-mansijsk,Hanti-mansiysk,Khanty-mansijsk,Hanti-mansijsk,Janti-mansisk,Khanty-mansiisk,Chanty-mansiejsk
 1662,590,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1663,380,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1664,579,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1666,565,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1667,285,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1668,589,Ayaguz,,Hurtka,Ajagös,Ayaguzi,Ayaguz,Ayaguz,Ayagöz,Aïagouz,Ajagös,Agiagkoz,Ayaguz,Ayaguz,Ayaguz,Taimingu,Ayaguz,Ajagozas,Ajagöz,Ayaguz,Ajagoz,Ajagöz,Ayaguz,Ajahoz,Ayaguz,Ayaguz,Ayaguz,Ayaguz
+1668,589,Ayaguz,Tawqit,Hurtka,Ajagös,Ayaguzi,Ayaguz,Ayaguz,Ayagöz,Aïagouz,Ajagös,Agiagkoz,Ayaguz,Ayaguz,Ayaguz,Taimingu,Ayaguz,Ajagozas,Ajagöz,Ayaguz,Ayagoz,Ajagöz,Ayaguz,Ajahoz,Ayaguz,Ayaguz,Ayaguz,Ayaguz
 1671,472,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1672,563,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1674,578,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1466,7 +1466,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1679,576,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1680,590,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1683,384,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1684,579,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1684,579,Salechard,Sanawiun,Saliechard,Salehard,Saliehaerde,Salechard,Salehard,Salehard,Salekhard,Salechard,Salecharnt,Szalehard,Salekhard,Salechard,Sareharudo,Saleharda,Salechardas,Salechard,Salechard,Salekhard,Salechard,Salehard,Salekhard,Salehard,Salejard,Salekhard,Salechard
 1685,569,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1688,275,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1689,330,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1587,7 +1587,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1818,588,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1819,644,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1820,537,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1821,653,Sverdlovsk,,Swerdlowsk,Swerdlowsk,Siweierdeluofusike,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Swerdlowsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Swerdlowsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk
+1821,653,Sverdlovsk,Swerdlowsk,Swerdlowsk,Swerdlowsk,Siweierdeluofusike,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Swerdlowsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Swerdlowsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk,Sverdlovsk
 1822,419,Mahabad,Mahabad,Machabad,Mahabad,Mahabade,Mahábád,Mahabad,Mahabad,Mahabad,Mahabad,Mahabad,Mahabad,Mahabad,Mahabad,Mahābādo,Mahabad,Mahabad,Mahabad,Mahabad & Piranshahr,Mehabad,Mahabad,Mahabad,Mekhabad,Mahabad,Mahabad,Mahabad,Mahabad
 1823,637,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1824,578,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1655,7 +1655,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 1888,416,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1889,410,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1891,558,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1892,484,Ensenada,,Ensenada,Ensenada,Ensainada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada
+1892,484,Ensenada,Ensenada,Ensenada,Ensenada,Ensainada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada,Ensenada
 1893,605,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1896,419,Tebrizi,Tabriz,Tebryz,Tebriz,Dabulishi,Tabríz,Tabriz,Tabriz,Tabriz,Täbris,Tabriz,Tebriz,Tabriz,Tabriz,Taburīzu,Tebriza,Tebrizas,Tebriz,Tabriz,Tebriz,Tabriz,Tebriz,Tebryz,Tabriz,Tabriz,Tabriz,Tabriz
 1897,786,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1953,7 +1953,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 2332,146,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2356,216,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2407,472,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2489,684,Truk,,Cuk,Chuuk,Chuke,Truk,Truk,Truk,Truk,Chuuk,Truk,Truk,Truk,Truk,Chūku,Truk,Truk,Chuuk,Truk,Truk,Truk,Truk,Chuuk,Truk,Truk,Truk,Truk
+2489,684,Truk,Chuuk,Cuk,Chuuk,Chuke,Truk,Truk,Truk,Truk,Chuuk,Truk,Truk,Truk,Truk,Chūku,Truk,Truk,Chuuk,Truk,Truk,Truk,Truk,Chuuk,Truk,Truk,Truk,Truk
 2843,430,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2853,644,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2877,644,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2096,8 +2096,8 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3147,262,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3148,38,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3149,150,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3150,136,,Wazayif,Ziernie,Dandi,Dengdi,Dundee,Dundee,Dundee,Dundee,Dunden,Ntanti,Dundee,Dundee,Dundee,Dandī,Dandī,Dandi,Dundee,Dundee,Dandi,Dundee,Dundee,Dandi,,Dundee,Dundee,Dundee
-3151,195,Shën Petersburgu,Sant butrisbirgh,Sankt-pieciarburh,Sankt peterburg,Shengbidebao,Petrohrad,Peterburi,Pietari,Saint-Pétersbourg,Ludendorffshafen,Agia Petroypoli,Szentpétervár,Leningrad,San Pietroburgo,Sankutopeteruburuku,Sanktpēterburga,Sankt Peterburgas,Piotrogród,Sankt Petersburg,Leningrád,Sankt Petersburg,Sankt-Peterburg,Sankt-peterburh,Sankt-Peterburg,San Petersburgo,São Petersburgo,Sint-Petersburg
+3150,136,Dundee,Wazayif,Ziernie,Dandi,Dengdi,Dundee,Dundee,Dundee,Dundee,Dunden,Ntanti,Dundee,Dundee,Dundee,Dandī,Dandī,Dandi,Dundee,Dundee,Dandi,Dundee,Dundee,Dandi,Dundee,Dundee,Dundee,Dundee
+3151,195,Shën Petersburgu,Sant butrisbirgh,Sankt-pieciarburh,Sankt peterburg,Shengbidebao,Petrohrad,Peterburi,Pietari,Saint-Pétersbourg,Ludendorffshafen,Agia Petroypoli,Szentpétervár,Leningrad,San Pietroburgo,Sankutopeteruburuku,Sanktpēterburga,Sankt Peterburgas,Piotrogród,Sankt Petersburg,Leningrad,Sankt Petersburg,Sankt-Peterburg,Sankt-peterburh,Sankt-Peterburg,San Petersburgo,São Petersburgo,Sint-Petersburg
 3152,13,Talini,Talin,Talin,Talin,Talin,Tallinn,Tallinn,Tallinna,Tallinn,Reval,Talin,Tallinn,Tallinn,Tallinn,Tarin,Tallina,Talinas,Tallinn,Tallinn,Tallin,Tallinn,Tallinn,Tallinn,Tallinn,Tallin,Tallinn,Reval
 3153,148,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3154,351,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2120,7 +2120,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3171,110,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172,149,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173,666,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3174,13,Pärnu,Birnu,Parnu,Pyarnu,Paiernu,Pärnu,Pärnu,Pärnu,Pärnu,Pernau,Parnoy,Pärnu,Pärnu,Pärnu,Parunu,Pernau,Pernu,Parnawa,Pernau,Pjarnu,Pärnu,Pärnu,Pjarnu,Pärnu,Pärnu,Pärnu,Pärnu
+3174,13,Pärnu,Birnu,Parnu,Pyarnu,Paiernu,Pärnu,Pärnu,Pärnu,Pärnu,Pernau,Parnoy,Pärnu,Pärnu,Pärnu,Parunu,Pernau,Pernu,Parnawa,Pernau,Pernov,Pärnu,Pärnu,Pjarnu,Pärnu,Pärnu,Pärnu,Pärnu
 3175,351,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3176,247,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3177,400,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2177,7 +2177,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3250,223,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3251,249,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3254,97,Suwałki,Swwalky,Souven,Suvalki,Suwawuji,Suwałki,Suwałki,Suwałki,Suwałki,Suwalken,Suwałki,Suwałki,Suwałki,Suwałki,Suvuauki,Suvalki,Suvalkai,Suwałki,Suwałki,Suvalki,Suwałki,Suwałki,Suvalky,Suwałki,Suwałki,Suwałki,Soewalken
-3255,12,Jēkabpils,Yakabylis,Ekabpils,Yekabpils,Yeqiabupiersi,Jēkabpils,Jēkabpils,Jēkabpils,Jēkabpils,Jakobstadt,Giekabpils,Jēkabpils,Jēkabpils,Jēkabpils,Iēkabupirusu,Jēkabpils,Jekabpilis,Jēkabpils,,Ekabpils,Jēkabpils,Jēkabpils,Yekabpils,Jēkabpils,Jēkabpils,Jēkabpils,Jacobstad
+3255,12,Jēkabpils,Yakabylis,Ekabpils,Yekabpils,Yeqiabupiersi,Jēkabpils,Jēkabpils,Jēkabpils,Jēkabpils,Jakobstadt,Giekabpils,Jēkabpils,Jēkabpils,Jēkabpils,Iēkabupirusu,Jēkabpils,Jekabpilis,Jēkabpils,Jekabpils,Yekabpils ,Jēkabpils,Jēkabpils,Yekabpils,Jēkabpils,Jēkabpils,Jēkabpils,Jacobstad
 3256,94,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3257,254,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3258,62,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2210,15 +2210,15 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3285,252,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3286,140,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3287,125,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3288,188,Memel,,Memel,Memel,Meime'er,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel',Memel,Memel,Memel,Memel,Memel,Memel,Memel
+3288,188,Memel,Mimil,Memel,Memel,Meime'er,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Memel,Klaypeda,Memel,Memel,Memel,Memel,Memel,Memel,Memel
 3289,651,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3290,219,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3291,258,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3292,223,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3293,194,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3294,399,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3295,85,Toruń,Turun,Sietka,Torun,Tuolun,Toruň,Toruń,Toruń,Toruń,Thorn,Toroyn,Toruń,Toruń,Toruń,Torun,Toruņa,Torune,Toruń,Toruń,Torun',Toruń,Toruń,Torun,Toruń,Toruń,Toruń,Thorn
-3296,190,,Fintisbilis,Ventspils,Ventspils,Wencipiersi,Ventspils,Ventspils,Windau,Ventspils,Windau,Ventspils,Ventspils,Ventspils,Ventspils,Vuentsupirusu,Ventspils,Ventspilis,Windawa,Ventspils,Ventspils,Windau,Ventspils,Ventspils,Ventspils,Ventspils,Ventspils,Windau
+3295,85,Toruń,Turun,Sietka,Torun,Tuolun,Toruň,Toruń,Toruń,Toruń,Thorn,Toroyn,Toruń,Toruń,Toruń,Torun,Toruņa,Torune,Toruń,Toruń,Bezhat',Toruń,Toruń,Torun,Toruń,Toruń,Toruń,Thorn
+3296,190,Ventspils,Fintisbilis,Ventspils,Ventspils,Wencipiersi,Ventspils,Ventspils,Windau,Ventspils,Windau,Ventspils,Ventspils,Ventspils,Ventspils,Vuentsupirusu,Ventspils,Ventspilis,Windawa,Ventspils,Ventspils,Windau,Ventspils,Ventspils,Ventspils,Ventspils,Ventspils,Windau
 3297,243,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3298,12,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3299,53,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2233,7 +2233,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3308,205,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3309,94,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3310,209,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3311,131,,,Duhlas,Daglas,Daogelasi,Douglas,,Douglas,Douglasse,Tauglast,,Douglas,Douglas,Douglas,Dagurasu,,,Douglas,Douglas,Douglas,Douglas,Douglas,Dahlas,,Douglas,Douglas,Douglas
+3311,131,Douglas,Dughlas,Duhlas,Daglas,Daogelasi,Douglas,Douglas,Douglas,Douglasse,Tauglast,Douglas,Douglas,Douglas,Douglas,Dagurasu,Douglas,Douglas,Douglas,Douglas,Douglas,Douglas,Douglas,Dahlas,Douglas,Douglas,Douglas,Douglas
 3312,62,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3313,242,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3314,7,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2257,10 +2257,10 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3332,257,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3333,210,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3334,250,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3335,224,Bryansk,Bryansik,Brniask,Bryansk,Buliangsike,Brjansk,Brjansk,Brjansk,Briansk,Waldemarstadt,Briansk,Brjanszk,Bryansk,Brjansk,Buryansuku,Brjanska,Brianskas,Briańsk,Breansk,Brjansk,Brjansk,Bryansk,Brjansk,Brjansk,Briansk,Briansk,Brjansk
+3335,224,Bryansk,Bryansik,Brniask,Bryansk,Buliangsike,Brjansk,Brjansk,Brjansk,Briansk,Waldemarstadt,Briansk,Brjanszk,Bryansk,Brjansk,Buryansuku,Brjanska,Brianskas,Briańsk,Breansk,Bryansk,Brjansk,Bryansk,Brjansk,Brjansk,Briansk,Briansk,Brjansk
 3336,516,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3337,189,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3338,214,Archangelsk,Arkhanghilisk,Archanhielsk,Arhangelsk,A'erhange'ersike,Archangelsk,Arhangelsk,Arkangeli,Arkhangelsk,Arkanstadt,Archangelsk,Arhangelszk,Archangelsk,Arcangelo,Aruhangerisuku,Arhangeļska,Archangelskas,Archangielsk,Arhanghelsk,Arhangel'sk,Archangelsk,Arhangelsk,Arkhanhelsk,Arhangelsk,Arcángel,Arcangel,Archangelsk
+3338,214,Archangelsk,Arkhanghilisk,Archanhielsk,Arhangelsk,A'erhange'ersike,Archangelsk,Arhangelsk,Arkangeli,Arkhangelsk,Arkanstadt,Archangelsk,Arhangelszk,Archangelsk,Arcangelo,Aruhangerisuku,Arhangeļska,Archangelskas,Archangielsk,Arhanghelsk,Arkhangelsk,Archangelsk,Arhangelsk,Arkhanhelsk,Arhangelsk,Arcángel,Arcangel,Archangelsk
 3339,253,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3340,62,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3341,99,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2371,7 +2371,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3470,201,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3471,385,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3472,403,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3473,68,Küstrin,,Ongran,Kostshin nad odron,Aodehepankesiqin,Kostřín,Küstrin,Küstrin,Kustri,Küstrin,Küstrin,Kostrzyn nad Odrą,Küstrin,Custrino,Kosutoshin nado odoron,Kostšina pie Odras,Kostšynas prie Odros,Kostrzyn nad Odrą,Kostrzyn nad Odrą,Kostshin-nad-Odron,Kostrzyn nad Odrą,Kostrzyn nad Odrą,Kostshyn-nad-odroju,Küstrin,Kostrzyn nad Odrą,Kostrzyn nad Odrą,Kustrin
+3473,68,Küstrin,Kostrzyn ealaa odra,Ongran,Kostshin nad odron,Aodehepankesiqin,Kostřín,Küstrin,Küstrin,Kustri,Küstrin,Küstrin,Kostrzyn nad Odrą,Küstrin,Custrino,Kosutoshin nado odoron,Kostšina pie Odras,Kostšynas prie Odros,Kostrzyn nad Odrą,Kostrzyn nad Odrą,Kostshin-nad-Odron,Kostrzyn nad Odrą,Kostrzyn nad Odrą,Kostshyn-nad-odroju,Küstrin,Kostrzyn nad Odrą,Kostrzyn nad Odrą,Kustrin
 3474,54,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3475,237,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3476,29,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2442,7 +2442,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3542,193,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3543,202,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3544,10,Varshava,Alnujum,Varsava,Varshava,Huasha,Varšava,Varssavi,Varsova,Varsovie,Warschau,Varsovia,Varsó,Warsaw,Varsavia,Warushawa,Varšava,Varšuva,Warszawa,Varșovia,Varshava,Warszawa,Varşova,Varshava,Varšava,Varsovia,Varsóvia,Warschau
-3545,66,Waldenburg,,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Waldenbourg,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Vuarudenburuku,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Val'denburg,Waldenburg,Waldenburg,Valdenburh,Waldenburg,Waldenburg,Waldenburg,Waldenburg
+3545,66,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Waldenbourg,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Vuarudenburuku,Waldenburg,Waldenburg,Waldenburg,Waldenburg,Val'denburg,Waldenburg,Waldenburg,Valdenburh,Waldenburg,Waldenburg,Waldenburg,Waldenburg
 3546,18,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3547,51,Boni,Bun,Bon,Bon,Bo'en,Bonn,Bonn,Bonn,Bonn,Bonn,Vonni,Bonn,Bonn,Bonn,Bon,Bonna,Bona,Bonn,Bonn,Bonn,Bonn,Bonn,Bonn,Bonn,Bonn,Bona,Bonn
 3548,73,Mukacevo,Mwkajifa,Mukaceva,Mukachevo,Muqiaqiewo,Mukačevo,Mukatševo,Mukatševe,Moukatchevo,Munkatsch,Mukacevo,Munkács,Mukacevo,Mucacevo,Muka ts che o,Mukačeve,Mukačevas,Mukaczewo,Muncaci,Mukachevo,Mukatjeve,Mukaçeve,Mukachevo,Mukacevo,Mukácheve,Mukachevo,Moekatsjevo
@@ -2475,14 +2475,14 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3575,192,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3576,6,Kortrijk,Kurtirik,Kortrejk,Kortreyk,Ketelaike,Kortrijk,Kortrijk,Kortrijk,Courtrai,Kortrijzk,Kortreik,Kortrijk,Kortrijk,Courtrai,Korutoreiku,Kortreika,Kortreikas,Kortrijk,Kortrijk,Kortrejk,Kortrijk,Kortrijk,Kortrejk,Kortrijk,Cortrique,Kortrijk,Kortrijk
 3577,78,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3578,239,Saratov,Saratuf,Saratau,Saratov,Salatuofu,Saratov,Saratov,Saratov,Saratov,Balakau,Saratof,Szaratov,Saratov,Saratov,Saratofu,Saratova,Saratovas,Saratów,Saratov,Saratov,Saratov,Saratov,Saratov,Saratov,Sarátov,Saratov,Saratov
+3578,239,Saratov,Saratuf,Saratau,Saratov,Salatuofu,Saratov,Saratov,Saratov,Saratov,Balakau,Saratof,Szaratov,Saratov,Saratov,Saratofu,Saratova,Saratovas,Saratów,Saratov,Balakovo,Saratov,Saratov,Saratov,Saratov,Sarátov,Saratov,Saratov
 3579,15,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3580,220,Kursk,Kursk,Kursk,Kursk,Ku'ersike,Kursk,Kursk,Kursk,Koursk,Kaisenberg,Koyrsk,Kurszk,Kursk,Kursk,Kurusuku,Kurska,Kurskas,Kursk,Kursk,Kursk,Kursk,Kursk,Kursk,Kursk,Kursk,Kursk,Koersk
 3581,71,Preshov,Brishwf,Presau,Preshov,Puleishaofu,Prešov,Prešov,Prešov,Prešov,Preschau,Presov,Eperjes,Prešov,Prešov,Pureshofu,Prešova,Prešovas,Preszów,Prešov,Preshov,Prešov,Prešov,Prjashiv,Prešov,Prešov,Prešov,Prešov
 3582,265,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3583,74,Ostrava,Uwstirafa,Oasty,Ostrava,Esitelafa,Ostrava,Ostrava,Ostrava,Ostrava,Ostrau,Ostrava,Ostrava,Ostrava,Ostrava,Osutoravua,Ostrava,Ostrava,Ostrawa,Ostrava,Ostrava,Ostrava,Ostrava,Ostrava,Ostrava,Ostrava,Ostrava,Ostrava
 3584,193,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3585,69,Carlsbad,,Carlsbad,Carlsbad,Qia'ersibade,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Karlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Kāruzubaddo,Carlsbad,Carlsbad,Karlowe Wary,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Karelsbad
+3585,69,Carlsbad,Karlisbad,Carlsbad,Carlsbad,Qia'ersibade,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Karlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Kāruzubaddo,Carlsbad,Carlsbad,Karlowe Wary,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Carlsbad,Karelsbad
 3586,90,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3587,238,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3588,378,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2559,7 +2559,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3684,152,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3685,261,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3686,137,Sevastopol,Sifastubul,Sievastopal,Sevastopol,Saiwasituobo'er,Sevastopol,Sevastopol,Sevastopol,Sébastopol,Theodorichhafen,Sevastoypoli,Szevasztopol,Sevastopol,Sebastopoli,Sevuasutopori,Sevastopole,Sevastopolis,Sewastopol,Sevastopol,Sevastopol',Sevastopol,Sivastopol,Sevastopol,Sevastopolj,Sebastopol,Sebastopol,Sebastopol
-3687,360,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3687,360,Sewastopol,Sifastubul,Sievastopal,Sevastopol,Saiwasituoboer,Sevastopol,Sevastopol,Sevastopol,Sebastopol,Sewastopol,Sevastoypoli,Szevasztopol,Sevastópol,Sebastopoli,Sevuasutopori,Sevastopole,Sevastopolis,Sewastopol,Sevastopol,Sevastópol,Sevastopol,Sivastopol,Sevastopol,Sevastopolj,Sebastopol,Sebastopol,Sebastopol
 3688,52,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3689,76,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3690,50,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2592,7 +2592,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3717,234,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3718,4,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3719,389,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3720,234,Majkop,Micob,Majkop,Maykop,Maikepu,Majkop,Maikop,Maikop,Maïkop,Köpenschaffen,Maikop,Majkop,Maikop,Majkop,Maikōpu,Maikopa,Maikopas,Majkop,Maikop,Majkop,Majkop,Maykop,Majkop,Majkop,Maikop,Maikop,Majkop
+3720,234,Majkop,Micob,Majkop,Maykop,Maikepu,Majkop,Maikop,Maikop,Maïkop,Köpenschaffen,Maikop,Majkop,Maikop,Majkop,Maikōpu,Maikopa,Maikopas,Majkop,Maikop,Maykop,Majkop,Maykop,Majkop,Majkop,Maikop,Maikop,Majkop
 3721,467,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3722,137,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3723,408,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2629,7 +2629,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3754,26,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3755,197,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3756,409,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3757,192,,,Balta,Balta,,,Balta,,Balta,Balt,,,Balta,Balta,Baruta,Balta,,Balta,Balta,Balta,Balta,,Balta,,Balta,Balta,Balta
+3757,192,Balta,Bala,Balta,Balta,Balta,Balta,Balta,Balta,Balta,Balt,Balta,Balta,Balta,Balta,Baruta,Balta,Balta,Balta,Balta,Balta,Balta,Balta,Balta,Balta,Balta,Balta,Balta
 3758,14,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3759,204,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3760,234,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2771,7 +2771,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3921,348,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3922,108,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3923,157,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3924,103,Split,,Split,Split,Sipulite,Split,Split,Split,Split,Split,Split,Split,Split,Spalato,Supuritto,Split,Split,Split,Split,Split,Split,Split,Split,Split,Split,Split,Split
+3924,103,Split,Siblit,Split,Split,Sipulite,Split,Split,Split,Split,Split,Split,Split,Split,Spalato,Supuritto,Split,Split,Split,Split,Split,Split,Split,Split,Split,Split,Split,Split
 3925,362,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3926,795,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3927,339,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2792,7 +2792,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 3942,680,Deir az-Zur,,,,Dai'er Zu'er,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur,,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur,,Deir az-Zur,Deir az-Zur,Deir az-Zur,Deir az-Zur
 3943,163,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3944,717,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3945,793,Cuenca,,Cuenca,Cuenca,Kunqia,Cuenca,Cuenca,Cuenca,Cuenca,Cuenca,Koyenka,Cuenca,Cuenca,Cuenca,Kuenka,Cuenca,Kuenka,Cuenca,Cuenca,Kuenka,Cuenca,Cuenca,Kuenka,Cuenca,Cuenca,Cuenca,Cuenca
+3945,793,Cuenca,Kwinka,Cuenca,Cuenca,Kunqia,Cuenca,Cuenca,Cuenca,Cuenca,Cuenca,Koyenka,Cuenca,Cuenca,Cuenca,Kuenka,Cuenca,Kuenka,Cuenca,Cuenca,Kuenka,Cuenca,Cuenca,Kuenka,Cuenca,Cuenca,Cuenca,Cuenca
 3946,31,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3947,328,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3948,31,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3043,7 +3043,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4222,612,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4223,286,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4224,732,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4226,634,Buin,,Bujn,Buin,Buyin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin
+4226,634,Buin,Buin,Bujn,Buin,Buyin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin,Buin
 4227,402,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4228,624,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4229,644,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3053,7 +3053,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4236,334,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4237,426,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4238,590,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4241,627,Davao,,Davao,Davao,Dawo,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Dabao,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Dávao,Dávao,Davao
+4241,627,Davao,Dafaw,Davao,Davao,Dawo,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Dabao,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Davao,Dávao,Dávao,Davao
 4242,572,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4245,431,Kalkuta,Kalkta,Kalkuta,Kolkata,Jia'ergeda,Kalkata,Kolkata,Kalkutta,Calcutta,Kalkutta,Kalkoyta,Kolkata,Calcutta,Calcutta,Korukata,Kolkata,Kolkata,Kolkata,Calcutta,Kal'kutta,Calcutta,Kalküta,Kolkata,Kolkata,Calcuta,Calcutá,Calcutta
 4246,657,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3200,7 +3200,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4398,386,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4399,627,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4400,399,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4401,286,Qyteti Ho Chi Minh,Madinat hu tashi minh,Chasymin,Hoshimin,Xigong,Ho Či Minovo Město,Hồ Chí Minh,Hồ Chí Minhin kaupunki,Hô Chi Minh-Ville,Ho-Chi-Minh-Stadt,Cho Tsi Min,Ho Si Minh-város,Saigon,Ho Chi Minh,Hōchimin ichi,Hošimina,Hošiminas,Ho Chi Minh,Ho Și Min,Hoshimin,Ho Chi Minh-staden,Ho Chi Minh Kenti,Khoshymin,Ho Ši Min,Ciudad Ho Chi Minh,Cidade de Ho Chi Minh,Saigon
+4401,286,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon,Saigon
 4402,369,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4403,753,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4404,409,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3373,7 +3373,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4595,404,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4596,741,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4597,372,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4598,319,Santiago de los Caballeros,Santiaghu di lus kabalirus,Santjaha-de-los-dzentlmieny,Santyago de los kabayeros,Shengdiyage,Santiago de los Caballeros,Santiago de los Caballeros,Santiago de los Caballeros,Santiago de los Caballeros,Santiago de los Caballeros,Santiago de los Kabagieros,Santiago de los Caballeros,Santiago de los Caballeros,Santiago de los Caballeros,Santiago de rosu kabaryerosu,Santiago de los Caballeros,Santjago de los Kabaljerosas,Santiago de los Caballeros,Santiago de los Caballeros,Sant'jago-de-los-Trejnta-Kabal'eros,Santiago de los Caballeros,Santiago de los Caballeros,Santjaho-de-los-trejnta-kabalyeros,Santiago de los Caballeros,Santiago,Santiago de los Caballeros,Santiago de los Caballeros
+4598,319,Santiago de los Caballeros,Santiaghu di lus kabalirus,Santjaha-de-los-dzentlmieny,Santyago de los kabayeros,Shengdiyage,Santiago de los Caballeros,Santiago de los Caballeros,Santiago de los Caballeros,Santiago de los Caballeros,Santiago de los Caballeros,Santiago de los Kabagieros,Santiago de los Caballeros,Saint James of the Knights,Santiago dei Cavaglieri,Santiago de rosu kabaryerosu,Santiago de los Caballeros,Santjago de los Kabaljerosas,Santiago de los Caballeros,Santiago de los Caballeros,Sant'jago-de-los-Trejnta-Kabal'eros,Santiago de los Caballeros,Santiago de los Caballeros,Santjaho-de-los-trejnta-kabalyeros,Santiago de los Caballeros,Santiago,Santiago de los Caballeros,Santiago de los Caballeros
 4599,584,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4600,315,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4601,261,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3386,7 +3386,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4608,335,Surabaya,Surabaya,Surabaya,Surabaya,Sishui,Surabaja,Surabaya,Surabaya,Surabaya,Surabaya,Soyrabagia,Surabaya,Soerabaja,Surabaya,Surabaya,Surabaja,Surabaja,Surabaja,Surabaya,Surabaja,Surabaya,Surabaya,Surabaja,Surabaya,Surabaya,Surabaia,Soerabaja
 4609,420,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4610,381,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4611,304,San José de David,,Devid,David,Daiwei,San José de David,San José de David,David,David,David,Ntavid,David,San José de David,David,Dabiddo,Davida,Davidas,David,Davi,David,San José de David,San José de David,Davyd,San José de David,David,David,David
+4611,304,San José de David,Arman dafid,Devid,David,Daiwei,San José de David,San José de David,David,David,David,Ntavid,David,San José de David,David,Dabiddo,Davida,Davidas,David,Davi,David,San José de David,San José de David,Davyd,San José de David,David,David,David
 4612,611,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4613,670,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4614,229,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3415,7 +3415,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4637,420,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4638,402,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4639,741,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4640,191,,,Juni,Hungerburg,,,,,,Hungerburg,,,Hungerburg,,Kiga bāgu,,,,,,Hungerburg,,Hungerburg,,,,Hongerburg
+4640,191,Hungerburg,Hantasbirgh,Juni,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Kiga bāgu,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Narva,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Hungerburg,Hongerburg
 4641,318,Port-au-Prince,Burt aw brans,Port-o-prance,Port o prens,Taizigang,Port-au-Prince,Port-au-Prince,Port-au-Prince,Port-au-Prince,Port-au-Prince,Por-o-Prens,Port-au-Prince,Port-au-Prince,Port-au-Prince,Porutōpuransu,Portoprensa,Port o Prensas,Port-au-Prince,Port-au-Prince,Port-o-Prens,Port-au-Prince,Port-au-Prince,Port-o-prens,Port-au-Prince,Puerto Príncipe,Porto Príncipe,Port-au-Prince
 4642,715,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4643,278,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3464,7 +3464,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4701,657,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4703,575,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4704,760,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4705,564,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4705,564,Chita,Shitra,Cyc,Chita,Chita,Chita,Chita,Chita,Chita,Chita,Chita,Chita,Chita ,Chita,Senri,Chita,Chita,Chita,Chita,Chita ,Chita,Chita,Chyta,Chita,Chita,Chita,Chita
 4709,617,Urumqi,Uwrumitshi,Urumcy,Urumchi,Dihua,Urumči,Ürümqi,Ürümqi,Ürümqi,Ürümqi,Oyroymtsi,Ürümcsi,Urumqi,Ürümqi,Urumuchi-shi,Urumči,Urumčis,Urumczi,Ürümqi,Urumchi,Ürümqi,Ürümçi,Urumchi,Urumqi,Urumqi,Ürümqi,Oeroemtsji
 4710,580,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4711,568,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3475,7 +3475,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4719,563,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4720,332,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4723,381,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4724,568,Krasnoyarsk,Krasnuyarsk,Krasnajarsk,Krasnoyarsk,Kelasinuoya'ersike,Krasnojarsk,Krasnojarsk,Krasnojarsk,Krasnoïarsk,Krasnojarsk,Krasnogiarsk,Krasznojarszk,Krasnoyarsk,Krasnojarsk,Kurasunoyarusuku,Krasnojarska,Krasnojarskas,Krasnojarsk,Krasnoiarsk,Krasnojarsk,Krasnojarsk,Krasnoyarsk,Krasnojarsk,Krasnojarsk,Krasnoyarsk,Krasnoiarsk,Krasnojarsk
+4724,568,Krasnoyarsk,Krasnuyarsk,Krasnajarsk,Krasnoyarsk,Kelasinuoya'ersike,Krasnojarsk,Krasnojarsk,Krasnojarsk,Krasnoïarsk,Krasnojarsk,Krasnogiarsk,Krasznojarszk,Krasnoyarsk,Krasnojarsk,Kurasunoyarusuku,Krasnojarska,Krasnojarskas,Krasnojarsk,Krasnoiarsk,Krasnoyarsk,Krasnojarsk,Krasnoyarsk,Krasnojarsk,Krasnojarsk,Krasnoyarsk,Krasnoiarsk,Krasnojarsk
 4725,657,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4726,574,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4727,378,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3491,7 +3491,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4737,575,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4738,394,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4739,469,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4740,383,Wichita,,Wichita,Wichita,Weiqituo,Wichita,Wichita,Wichita,Wichita,Wichita,Wichita,Wichita,Wichita,Wichita,Uichita,Wichita,Wichita,Wichita,Wichita,Uichito,Wichita,Wichita,Uyichyta,Wichita,Wichita,Wichita,Wichita
+4740,383,Wichita,Witshita,Wichita,Wichita,Weiqituo,Wichita,Wichita,Wichita,Wichita,Wichita,Wichita,Wichita,Wichita,Wichita,Uichita,Wichita,Wichita,Wichita,Wichita,Uichito,Wichita,Wichita,Uyichyta,Wichita,Wichita,Wichita,Wichita
 4741,388,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4742,380,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4743,576,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3551,7 +3551,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4797,566,Irkucku,Iirkutisk,Irkuck,Irkutsk,Yi'erkucike,Irkutsk,Irkutsk,Irkutsk,Irkoutsk,Irkutsk,Irkoytsk,Irkutszk,Irkutsk,Irkutsk,Irukūtsuku,Irkutska,Irkutskas,Irkuck,Irkutsk,Irkutsk,Irkutsk,İrkutsk,Irkutsk,Irkutsk,Irkutsk,Irkutsk,Irkoetsk
 4798,574,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4799,379,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4800,654,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4800,654,Gorno-altaisk,Ghurnu-altaysik,Vierchni altayk,Gorno-altaysk,Geernuo-aertaisike,Gorno-altajsk,Gorno-altaisk,Gorno-altaisk,Gorno-altaisk,Gorno-altaisk,Gkorno-altaisk,Gorno-altajszk,Gorno-altaysk,Gorno-altajsk,Goruno  arutaisuku,Gornoaltajska,Gorno altaiskas,Gornoaltajsk,Gorno-altaisk,Gorno-Altaysk,Gorno-altajsk,Gorno-altaysk,Horno-altajsk,Gorno-altajsk,Gorno-altaisk,Gorno-altaisk,Gorno-altajsk
 4801,330,Ulan Batori,Awlan batur,Biespierapynnaje polie boju,Ulan bator,Kulun,Ulánbátar,Ulaanbaatar,Ulan Bator,Oulan-Bator,Ulaanbaatar,Oylan Bator,Ulánbátor,Ulaanbaatar,Ulan Bator,Uranbātoru,Ulanbatora,Ulan Batoras,Ułan Bator,Ulaanbaatar,Ulan-Bator,Ulan Bator,Ulan Batur,Ulan-bator,Ulan Bator,Ulán Bator,Ulã Bator,Oelan-Bator
 4802,398,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4803,40,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3575,7 +3575,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4821,574,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4822,681,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4823,618,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4824,403,Tyumen,Tiumin,Ciumien,Tyumen,Qiuming,Ťumeň,Tjumen,Tjumen,Tioumen,Tjumen,Tioymen,Tyumeny,Tyumen,Tjumen',Chumeni,Tjumeņa,Tiumene,Tiumeń,Tiumen,Tjumen',Tiumen,Tüme,Tjumen,Tjumenj,Tiumén,Tiumen,Tjoemen
+4824,403,Tyumen,Tiumin,Ciumien,Tyumen,Qiuming,Ťumeň,Tjumen,Tjumen,Tioumen,Tjumen,Tioymen,Tyumeny,Tyumen,Tjumen',Chumeni,Tjumeņa,Tiumene,Tiumeń,Tiumen,Tyumen,Tiumen,Tüme,Tjumen,Tjumenj,Tiumén,Tiumen,Tjoemen
 4825,419,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4826,385,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4827,578,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3610,8 +3610,8 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4856,330,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4857,388,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4858,330,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4859,516,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4860,388,Great Falls,,Vialikija padziennia,Great falls,Dapubucheng,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Ōtaki,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Hrejt-folls,Great Falls,Great Falls,Great Falls,Great Falls
+4859,516,Dudinka,Dudinka,Dudzinka,Dudinka,Dujinqia,Dudinka,Dudinka,Dudinka,Doudinka,Dudinka,Dudinka,Dugyinka,Dudinka,Dudinka,Doudinka,Dudinka,Dudinka,Dudinka,Dudinka,Dudinka,Dudinka,Dudinka,Dudinka,Dudinka,Dudinka,Dudinka,Doedinka
+4860,388,Great Falls,Ghrit fulz,Vialikija padziennia,Great falls,Dapubucheng,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Ōtaki,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Great Falls,Hrejt-folls,Great Falls,Great Falls,Great Falls,Great Falls
 4861,100,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4862,330,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4863,388,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3726,7 +3726,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 4996,640,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4997,558,,,,,,,,,,,,,,,,,,,,,,,,,,,
 4998,442,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4999,752,Kangding,,Kangding,Kangding,Kangding,Kchang-ting,Kangding,Kangding,Ville-district de Kangding,Kangding,Kangding,Kangding,Kangding,Kangding,Kandingushiti,Kangding,Kangding,Kangding,Kangding,Kandin,Kangdin,Kangding,Kandin,Kangding,Kangding,Kangding,Kangding
+4999,752,Kangding,Kangding,Kangding,Kangding,Kangding,Kchang-ting,Kangding,Kangding,Ville-district de Kangding,Kangding,Kangding,Kangding,Kangding,Kangding,Kandingushiti,Kangding,Kangding,Kangding,Kangding,Kandin,Kangdin,Kangding,Kandin,Kangding,Kangding,Kangding,Kangding
 5000,307,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5001,375,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5002,439,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3742,7 +3742,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 5012,699,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5013,779,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5014,676,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5015,479,Matamoros,,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamorosu,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros
+5015,479,Matamoros,Matamwrus,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamorosu,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros,Matamoros
 5016,619,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5017,550,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5018,601,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3798,7 +3798,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 5068,269,Hargeisa,Hirjisa,Hargisa,Hargeysa,Ha'ergesa,Hargeysa,Hargeisa,Hargeisa,Hargeisa,Hargeysa,Chargkeisa,Hargeysa,Hargeisa,Hargheisa,Harugeisa,Hargeisa,Hargeisa,Hargejsa,Hargeisa,Hargejsa,Hargeisa,Hargeisa,Kharhejsa,Hargeisa,Hargeisa,Hargeisa,Hargeisa
 5069,457,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5070,779,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5071,483,Agua Prieta,,Prieta vady,Agua prieta,Agua prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Mizu purieta.,Agua Prieta,Agua Prieta,Agua Prieta,Agua Priet,Agua-Prieta,Agua Priet,Agua Prieta,Ahua-priyeta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta
+5071,483,Agua Prieta,Brita almayahi,Prieta vady,Agua prieta,Agua prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta,Mizu purieta.,Agua Prieta,Agua Prieta,Agua Prieta,Agua Priet,Agua-Prieta,Agua Priet,Agua Prieta,Ahua-priyeta,Agua Prieta,Agua Prieta,Agua Prieta,Agua Prieta
 5072,603,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5073,416,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5074,659,Aden,Eadn,Kirad,Aden,Yading,Aden,Aden,Aden,Aden,Aden,Anten,Áden,Aden,Aden,Aden,Adena,Adenas,Aden,Aden,Aden,Aden,Aden,Aden,Aden,Adén,Adem,Aden
@@ -3981,7 +3981,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6056,248,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6057,216,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6061,148,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6062,120,,,Stornoway,Stornoway,Situonuowei,Stornoway,,Stornoway,Hébrides,Stornoway,,Stornoway,Stornoway,Stornoway,Sutōnōuei,,Stornovejus,Stornoway,Stornoway,Stornovej,Stornoway,,Stornovej,,Stornoway,,Steòrnabhagh
+6062,120,Stornoway,Stornoway,Stornoway,Stornoway,Situonuowei,Stornoway,Stornoway,Stornoway,Hébrides,Stornoway,Stornoway,Stornoway,Stornoway,Stornoway,Sutōnōuei,Stornoway,Stornovejus,Stornoway,Stornoway,Stornovej,Stornoway,Stornoway,Stornovej,Stornoway,Stornoway,Stornoway,Steòrnabhagh
 6063,38,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6066,111,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6067,38,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4096,7 +4096,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6178,191,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6179,148,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6180,351,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6181,213,,Kandafa,Kanda,Kandava,Kandawa,Kandava,Kandava,Kandava,Kandava,Kandau,,Kandava,Kandava,,Kandaba,Kandava,Kandava,Kandava,,Kandava,Kandava,,Kandava,,Kandava,,Kandava
+6181,213,Kandava,Kandafa,Kanda,Kandava,Kandawa,Kandava,Kandava,Kandava,Kandava,Kandau,Kandava,Kandava,Kandava,Kandava,Kandaba,Kandava,Kandava,Kandava,Kandava,Kandalaksha,Kandava,Kandava,Kandava,Kandava,Kandava,Kandava,Kandava
 6182,351,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6183,722,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6184,110,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4136,22 +4136,22 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6218,59,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6220,207,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6221,338,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6222,190,,Yalghafa,Jelgava,Yelgava,Ye'erjiawa,Jelgava,Jelgava,Jelgava,Jelgava,Mitau,Gielgkava,Jelgava,Jelgava,Jelgava,Ierugavua,Jelgava,Jelgava,Jełgawa,Jelgava,Elgava,Jelgava,Jelgava,Yelhava,Jelgava,Jelgava,Jelgava,Mitau
+6222,190,Jelgava,Yalghafa,Jelgava,Yelgava,Ye'erjiawa,Jelgava,Jelgava,Jelgava,Jelgava,Mitau,Gielgkava,Jelgava,Jelgava,Jelgava,Ierugavua,Jelgava,Jelgava,Jełgawa,Jelgava,Yelgava,Jelgava,Jelgava,Yelhava,Jelgava,Jelgava,Jelgava,Mitau
 6224,399,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6225,263,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6226,250,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6229,189,,Banifizis,Paniaviezys,Panevezhis,Paneiweirisi,Panevežys,Panevežys,Panevežys,Panevežys,Ponewiesch,Panevezis,,Panevežys,Panevežys,Panevuejīsu,Panevēža,Panevežys,Poniewież,Panevežys,Panevezhis,Panevežys,Panevežys,Panevezhys,Panevežis,Panevežys,Panevežys,Panevežys
+6229,189,Panevezys,Banifizis,Paniaviezys,Panevezhis,Paneiweirisi,Panevežys,Panevežys,Panevežys,Panevežys,Ponewiesch,Panevezis,Panevezys,Panevežys,Panevežys,Panevuejīsu,Panevēža,Panevežys,Poniewież,Panevežys,Panevezhis,Panevežys,Panevežys,Panevezhys,Panevežis,Panevežys,Panevežys,Panevežys
 6230,258,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6231,252,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6232,194,Mozyr,Mazir,Mazyr,Mozir,Mojili,Mazyr,Mazyr,Mazyr,Mazyr,Mosyr,Mozyr,Mazir,Mozyr,Mazyr,Mazuiru,Mazira,Mozyrius,Mozyrz,Mozyr,Mozyr',Mazyr,Mazır,Mozyr,Mazir,Mazyr,Mazir,Mozir
+6232,194,Mozyr,Mazir,Mazyr,Mozir,Mojili,Mazyr,Mazyr,Mazyr,Mazyr,Mosyr,Mozyr,Mazir,Mozyr,Mazyr,Mazuiru,Mazira,Mozyrius,Mozyrz,Mozyr,Mozyr,Mazyr,Mazır,Mozyr,Mazir,Mazyr,Mazir,Mozir
 6233,241,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6235,99,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6236,68,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6237,129,,Nutinghiham,Notynhiem,Notingam,Nuodinghan,Nottingham,Nottingham,Nottingham,Haménotingres,Nossingheim,Notigcham,Nottingham,Nottingham,Nottingham,Nottingamu,Notingema,Notingamas,Nottingham,Nottingham,Nottingem,Nottingham,Nottingham,Nottinhem,Nottingham,Nottingham,Nottingham,Nottingham
+6237,129,Nottingham,Nutinghiham,Notynhiem,Notingam,Nuodinghan,Nottingham,Nottingham,Nottingham,Haménotingres,Nossingheim,Notigcham,Nottingham,Nottingham,Nottingham,Nottingamu,Notingema,Notingamas,Nottingham,Nottingham,Nottingem,Nottingham,Nottingham,Nottinhem,Nottingham,Nottingham,Nottingham,Nottingham
 6241,36,Utrecht,Uwtrikht,Utrecht,Utreht,Wudelezhi,Utrecht,Utrecht,Utrecht,Utrecht,Utrecht,Oytrechti,Utrecht,Utrecht,Utrecht,Yutorehito,Utrehta,Utrechtas,Utrecht,Utrecht,Utreht,Utrecht,Utrecht,Utrekht,Utrecht,Utrecht,Utreque,Utrecht
 6242,210,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6243,243,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6245,247,Kalinin,,Kalinin,Kalinin,Jialining,Kalinin,Kalinin,Kalinin,Kalinine,Königstadt,Kalinin,Kalinin,Kalinin,Kalinin,Karīnin,Kalinin,Kalininas,Kalinin,Kalinin,Kalinin,Kalinin,Kalinin,Kalinin,Kalinin,Kalinin,Kalinin,Koningstad
+6245,247,Kalinin,Kalinin,Kalinin,Kalinin,Jialining,Kalinin,Kalinin,Kalinin,Kalinine,Königstadt,Kalinin,Kalinin,Kalinin,Kalinin,Karīnin,Kalinin,Kalininas,Kalinin,Kalinin,Kalinin,Kalinin,Kalinin,Kalinin,Kalinin,Kalinin,Kalinin,Koningstad
 6246,651,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6247,253,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6248,255,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4162,7 +4162,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6257,58,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6258,124,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6259,98,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6262,223,Tula,,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tülenshafen,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Toela
+6262,223,Tula,Tawla,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tülenshafen,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Tula,Toela
 6263,59,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6264,246,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6268,130,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4171,7 +4171,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6273,242,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6274,400,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6275,251,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6278,399,,Iijifisk,Izeusk,Izhevsk,Yirefusike,Iževsk,Iževsk,Iževsk,Ijevsk,Izwendorf,Izevsk,Izsevszk,Izhevsk,Iževsk,Ijefusuku,Iževska,Iževskas,Iżewsk,Ijevsk,Izhevsk,Izjevsk,İjevsk,Izhevsk,Iževsk,Izhevsk,Ijevsk,Izjevsk
+6278,399,Ischewsk,Iijifisk,Izeusk,Izhevsk,Yirefusike,Iževsk,Iževsk,Iževsk,Ijevsk,Izwendorf,Izevsk,Izsevszk,Izhevsk,Iževsk,Ijefusuku,Iževska,Iževskas,Iżewsk,Ijevsk,Izhevsk,Izjevsk,İjevsk,Izhevsk,Iževsk,Izhevsk,Ijevsk,Izjevsk
 6279,254,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6280,94,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6281,11,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4189,7 +4189,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6293,210,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6294,250,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6295,252,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6296,11,Kaunas,Kawnas,Kaunas,Kaunas,Kaonasi,Kaunas,Kaunas,Kaunas,Kaunas,Kauen,Kaoynas,Kaunas,Kaunas,Kaunas,Kaunasu,Kauņa,Kaunas,Kowno,Kaunas,Kaunas,Kaunas,Kaunas,Kaunas,Kaunas,Kaunas,Caunas,Kowno
+6296,11,Kaunas,Kawnas,Kaunas,Kaunas,Kaonasi,Kaunas,Kaunas,Kaunas,Kaunas,Kauen,Kaoynas,Kaunas,Kaunas,Kaunas,Kaunasu,Kauņa,Kaunas,Kowno,Kaunas,Kovno,Kaunas,Kaunas,Kaunas,Kaunas,Kaunas,Caunas,Kowno
 6297,399,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6298,59,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6299,252,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4206,7 +4206,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6310,140,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6311,139,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6312,256,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6313,135,,Limirik,Limieryk,Limerik,Limolike,Limerick,Limerick,Limerick,Luimnac,Limenberg,Limerik,Limerick,Limerick,Limerick,Rimurikku,Limerika,Limerikas,Limerick,Limerick,Limerik,Limerick,Limerick,Limeryk,Limerick,Limerick,Limerick,Limerick
+6313,135,Limerick,Limirik,Limieryk,Limerik,Limolike,Limerick,Limerick,Limerick,Luimnac,Limenberg,Limerik,Limerick,Limerick,Limerick,Rimurikku,Limerika,Limerikas,Limerick,Limerick,Limerik,Limerick,Limerick,Limeryk,Limerick,Limerick,Limerick,Limerick
 6314,189,Palanga,Balangha,Palaha,Palanga,Palanjia,Palanga,Palanga,Palanga,Palanga,Polangen,Palanga,Palanga,Palanga,Palanga,Paranga,Palanga,Palanga,Połąga,Palanga,Palanga,Palanga,Palanga,Palanha,Palanga,Palanga,Palanga,Polangen
 6315,223,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6316,253,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4225,13 +4225,13 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6329,255,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6330,224,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6331,140,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6332,763,Königsberg,Kunighisbirgh,Konigsberg,Kyonigsberg,Kenisibao,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Kēnihisuberuku,Königsberg,Karaliaučiaus istorija,Królewiec,Königsber,Kenigsberg,Königsberg,Königsberg,Kenihsberh,Königsberg,Königsberg,Königsberg,Koningsbergen
+6332,763,Königsberg,Kunighisbirgh,Konigsberg,Kyonigsberg,Kenisibao,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Königsberg,Kēnihisuberuku,Königsberg,Karaliaučiaus istorija,Królewiec,Königsber,Kaliningrad,Königsberg,Königsberg,Kenihsberh,Königsberg,Königsberg,Königsberg,Koningsbergen
 6333,223,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6334,63,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6335,132,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6336,36,Leeuwarden,Awraq ashjar,Lieuvarden,Leuvarden,Lufadeng,Leeuwarden,Leeuwarden,Leeuwarden,Leuvarde,Leeuwarden,Leoyarnten,Leeuwarden,Leeuwarden,Leeuwarden,Rēwaruden,Leuvardena,Leuvardenas,Leeuwarden,Leeuwarden,Leuvarden,Leeuwarden,Leeuwarden,Leuvarden,Leeuwarden,Leeuwarden,Leeuwarden,Leeuwarden
 6337,250,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6338,249,Kazani,Hirman,Kazan,Kazan,Kashan,Kazaň,Kaasan,Kazan,Kazan,Kazanshafen,Kazan,Kazany,Kazan,Kazan',Kazan,Kazaņa,Kazane,Kazań,Kazan,Kazan',Kazan,Kaza,Kazan,Kazanj,Kazán,Cazã,Kazan
+6338,249,Kazani,Hirman,Kazan,Kazan,Kashan,Kazaň,Kaasan,Kazan,Kazan,Kazanshafen,Kazan,Kazany,Kazan,Kazan',Kazan,Kazaņa,Kazane,Kazań,Kazan,Kazan,Kazan,Kaza,Kazan,Kazanj,Kazán,Cazã,Kazan
 6339,401,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6340,96,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6341,258,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4328,7 +4328,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6444,55,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6445,218,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6446,6,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6449,15,Cherbourg,,Cherbourg-an-cotentin,Sherbur an kotanten,Sebao,Cherbourg,Cherbourg,Cherbourg,Cherbourg,Cherburg,Chervoyrgo,Cherbourg,Cherbourg,Cherbourg,Sherubūru = an = kotantan,Cherbourg,Cherbourg,Cherbourg,Cherbourg,Sherbur-an-Kotanten,Cherbourg,Cherbourg,Sherbur-an-kotanten,Cherbourg,Cherburgo-en-Cotentin,Cherbourg-en-Cotentin,Sierenborch
+6449,15,Cherbourg,Cherbourg-en-cotentin,Cherbourg-an-cotentin,Sherbur an kotanten,Sebao,Cherbourg,Cherbourg,Cherbourg,Cherbourg,Cherburg,Chervoyrgo,Cherbourg,Cherbourg,Cherbourg,Sherubūru = an = kotantan,Cherbourg,Cherbourg,Cherbourg,Cherbourg,Sherbur-an-Kotanten,Cherbourg,Cherbourg,Sherbur-an-kotanten,Cherbourg,Cherburgo-en-Cotentin,Cherbourg-en-Cotentin,Sierenborch
 6450,239,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6451,203,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6454,265,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4343,7 +4343,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6469,51,Essen,Iisin,Paspiachovac,Esen,Aisen,Essen,Essen,Essen,Essen,Essen,Έssen,Essen,Essen,Essen,Essen,Esene,Esenas,Essen,Essen,Essen,Essen,Essen,Essen,Essen,Essen,Essen,Essen
 6470,69,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6473,401,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6474,227,Donecku,Dunitsik,Danieck,Donetsk,Dunniecike,Doněck,Donetsk,Donetsk,Donetsk,Donezstadt,Ntonetsk,Doneck,Stalino,Donec'k,Donetsuiku,Doņecka,Doneckas,Donieck,Donețk,Donetsk,Donetsk,Donetsk,Donetsk,Donjeck,Donetsk,Donetsk,Donetsk
+6474,227,Donecku,Dunitsik,Danieck,Donetsk,Dunniecike,Doněck,Donetsk,Donetsk,Donetsk,Donezstadt,Ntonetsk,Doneck,Stalino,Donec'k,Donetsuiku,Doņecka,Doneckas,Donieck,Donețk,Stalino,Donetsk,Donetsk,Donetsk,Donjeck,Donetsk,Donetsk,Donetsk
 6477,260,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6478,203,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6479,217,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4424,10 +4424,10 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6554,221,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6555,50,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6556,194,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6557,93,Równe,,Rouny,Równe,R�wne,Równe,Równe,Równe,Równe,Rowno,Równe,Równe,Równe,Równe,Dōtō,Równe,Równe,Równe,Równe,Równe,Równe,Równe,Ruvne,Równe,Równe,Równe,Rowno
+6557,93,Równe,Mutasawi,Rouny,Równe,R�wne,Równe,Równe,Równe,Równe,Rowno,Równe,Równe,Równe,Równe,Dōtō,Równe,Równe,Równe,Równe,Rovno,Równe,Równe,Ruvne,Równe,Równe,Równe,Rowno
 6558,86,Poseni,Buznan,Poznan,Poznan,Bozinan,Poznaň,Poznań,Poznań,Poznań,Posen,Poznan,Poznań,Poznań,Poznań,Pozunan,Poznaņa,Poznane,Poznań,Poznań,Poznan',Poznań,Poznań,Poznan,Poznanj,Poznan,Posnânia,Posen
 6559,65,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6560,6,Gent,,Hient,Gent,Gente,Gent,Gent,Gent,Gand,Gent,Gent,Gent,Gent,Guanto,Hento,Gent,Gent,Gent,Gent,Gent,Gent,Gent,Gent,Gent,Gent,Gent,Gent
+6560,6,Gent,Ghanat,Hient,Gent,Gente,Gent,Gent,Gent,Gand,Gent,Gent,Gent,Gent,Guanto,Hento,Gent,Gent,Gent,Gent,Gent,Gent,Gent,Gent,Gent,Gent,Gent,Gent
 6561,664,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6562,75,Olomouc,Uwlumuts,Olamauc,Olomouts,Aoluomuci,Olomouc,Olomouc,Olomouc,Olomouc,Olmütz,Όlomooyts,Olomouc,Olomouc,Olomoucco,Oromōtsu,Olomouca,Olomoucas,Ołomuniec,Olomouc,Olomouts,Olomouc,Olomouc,Olomouts,Olomouc,Olomouc,Olomouc,Olmuts
 6563,265,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4440,7 +4440,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6570,51,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6571,73,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6572,14,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6573,664,Kosice,,Kosice,Košice,Kexice,Košice,Kosice,Kosice,Kosice,Kaschau,Kosice,Kosice,Kosice,Cosice,Koneche,Kosice,Kosice,Kosice,Districtul Košice,Koshitse,Kosice,Kosice,Koshytse,Kosice,Kosice,Kosice,Kosice
+6573,664,Kosice,Kosice,Kosice,Košice,Kexice,Košice,Kosice,Kosice,Kosice,Kaschau,Kosice,Kosice,Kosice,Cosice,Koneche,Kosice,Kosice,Kosice,Districtul Košice,Koshitse,Kosice,Kosice,Koshytse,Kosice,Kosice,Kosice,Kosice
 6574,401,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6575,217,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6576,75,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4460,7 +4460,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6590,75,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6591,260,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6592,9,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6593,201,Zhytomyr,Jytwmyr,Zytomir,Zhitomir,Rituomier,Žytomyr,Žõtomõr,Žytomyr,Jytomyr,Friedenwald,Zitomir,Zsitomir,Zhytomyr,Žytomyr,Jitōmiru,Žitomira,Žitomyras,Żytomierz,Jîtomîr,Zhitomir,Zjytomyr,Jıtomır,Zhytomyr,Žytomyr,Zhytómyr,Jitomir,Zjytomyr
+6593,201,Zhytomyr,Jytwmyr,Zytomir,Zhitomir,Rituomier,Žytomyr,Žõtomõr,Žytomyr,Jytomyr,Friedenwald,Zitomir,Zsitomir,Zhytomyr,Žytomyr,Jitōmiru,Žitomira,Žitomyras,Żytomierz,Jîtomîr,Zhytomyr,Zjytomyr,Jıtomır,Zhytomyr,Žytomyr,Zhytómyr,Jitomir,Zjytomyr
 6594,54,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6595,66,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6596,200,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4524,7 +4524,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6679,84,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6680,153,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6681,378,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6682,83,Arad,,Arad,Arad,Alade,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arado,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad
+6682,83,Arad,Arad,Arad,Arad,Alade,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arado,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad,Arad
 6683,3,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6684,408,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6685,155,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4546,9 +4546,9 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6701,232,Makhachkala,Mahj qalea,Makhachkala,Mahachkala,Mahaqiqiala,Machačkala,Mahhatškala,Mahatškala,Makhatchkala,Dagenstadt,Machatskala,Mahacskala,Makhachkala,Machačkala,Mahachikara,Mahačkala,Machačkala,Machaczkała,Mahacikala,Mahachkala,Machatjkala,Mahaçkale,Makhachkala,Mahačkala,Majachkalá,Makhatchkala,Machatsjkala
 6702,235,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6703,155,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6704,137,Yalta,Yalta,Jalta,Yalta,Ya'erta,Jalta,Jalta,Jalta,Yalta,Galita,Gialta,Jalta,Yalta,Jalta,Yaruta,Jalta,Jalta,Jałta,Ialta,Jalta,Jalta,Yalta,Jalta,Jalta,Yalta,Ialta,Jalta
+6704,137,Yalta,Yalta,Jalta,Yalta,Ya'erta,Jalta,Jalta,Jalta,Yalta,Galita,Gialta,Jalta,Yalta,Jalta,Yaruta,Jalta,Jalta,Jałta,Ialta,Yalta,Jalta,Yalta,Jalta,Jalta,Yalta,Ialta,Jalta
 6705,360,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6706,79,Galati,,Halata,Galati,Galati,Galati,Galati,Galati,Galati,Galatz,Galati,Galati,Galati,Galati,Gal gal,Galati,Galati,Galati,Galati,Galati,Galati,Galati,Galati,Galati,Galati,Galati,Galati
+6706,79,Galati,Galata,Halata,Galati,Galati,Galati,Galati,Galati,Galati,Galatz,Galati,Galati,Galati,Galati,Gal gal,Galati,Galati,Galati,Galati,Galati,Galati,Galati,Galati,Galati,Galati,Galati,Galati
 6707,358,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6708,152,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6709,84,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4569,7 +4569,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6724,137,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6725,53,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6726,470,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6727,766,Cetatea Albă,Bilhwrud dinisturufiskii,Bilhaerad-dniestr,Belgorod dnestrovski,Biergeluode-denisiteluofuxiji,Bilhorod-Dnistrovskyj,Bilgorod-Dnistrovskõi,Bilhorod-Dnistrovskyi,Bilhorod-Dnistrovskyï,Bilhorod-Dnistrowskyj,Cetatea Albă,Bilhorod-Dnyisztrovszkij,Cetatea Albă,Bilhorod-Dnistrovs'kyj,Biruhorodo = donisutorofusukī,Bilhoroda-Dņistrovska,Dniestro Bilhorodas,Białogród nad Dniestrem,Cetatea Albă,Belgorod-Dnestrovskij,Bilhorod-Dnistrovskyj,Bilhorod-Dnistrovski,Bilhorod-Dnistrovskyi,Cetatea Albă,Bilhorod-Dnistrovsky,Bilhorod-Dnistrovsky,Bilhorod-Dnistrovsky
+6727,766,Cetatea Albă,Bilhwrud dinisturufiskii,Bilhaerad-dniestr,Belgorod dnestrovski,Biergeluode-denisiteluofuxiji,Bilhorod-Dnistrovskyj,Bilgorod-Dnistrovskõi,Bilhorod-Dnistrovskyi,Bilhorod-Dnistrovskyï,Bilhorod-Dnistrowskyj,Cetatea Albă,Bilhorod-Dnyisztrovszkij,Cetatea Albă,Bilhorod-Dnistrovs'kyj,Biruhorodo = donisutorofusukī,Bilhoroda-Dņistrovska,Dniestro Bilhorodas,Białogród nad Dniestrem,Cetatea Albă,Belgorod-Dnestrovskiy,Bilhorod-Dnistrovskyj,Bilhorod-Dnistrovski,Bilhorod-Dnistrovskyi,Cetatea Albă,Bilhorod-Dnistrovsky,Bilhorod-Dnistrovsky,Bilhorod-Dnistrovsky
 6728,683,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6729,79,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6730,232,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4696,7 +4696,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6877,343,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6878,166,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6879,793,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6880,179,Faro,,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro
+6880,179,Faro,Farw,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro,Faro
 6881,378,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6882,359,Newark,Nayuark,Leagark,Nyuark,Niuhuake,Newark,Newark,Newark,Newark,Newark,Nioyark,Newark,Newark,Newark,Nyūāku,Newark,Newark,Newark,Newark,N'juark,Newark,Newark,Njuark,Newark,Newark,Newark,Newark
 6883,680,Ayn al-Arab,Eayn alearab,Kobane,Kobani,Aiyinalabo,Ajn al-Arab,Ayn al-Arab,Kobanê,Kobané,Kobanê,Ain al-Arab,Ayn al-Arab,Ayn al-Arab,Kobanê,Ain aru = arabu,Ainelaraba,Ayn al-Arab,Ajn al-Arab,Kobani,Ajn-el'-Arab,Kobane,Kobani,Kobane,Ayn al-Arab,Kobane,Kobanî,Kobani
@@ -4743,7 +4743,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6924,112,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6925,49,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6926,157,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6927,165,Gerona,,Hierona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona.,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona
+6927,165,Gerona,Jiruna,Hierona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona.,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona,Gerona
 6928,527,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6929,361,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6930,47,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4812,7 +4812,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 6993,793,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6994,533,Aomori,Awmwry,Aomara,Aomori,Qingsen,Aomori,Aomori,Aomori,Aomori,Aomori,Aomori,Aomori,Aomori,Aomori,Aomori-shi,Aomori,Aomoris,Aomori,Aomori,Aomori,Aomori,Aomori,Aomori,Aomori,Aomori,Aomori,Aomori
 6995,356,Sinop,Sayanub,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Shinoppu,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop,Sinop
-6996,181,Guarda,,Pozirk,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Mite,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Huarda,Guarda,Guarda,Guarda,Guarda
+6996,181,Guarda,Nazra,Pozirk,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Mite,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Guarda,Huarda,Guarda,Guarda,Guarda,Guarda
 6997,230,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6998,108,,,,,,,,,,,,,,,,,,,,,,,,,,,
 6999,605,Çongqing,Tshunighitshingh,Cuncyn,Chuntsin,Chongqing,Čchung-čching,Chongqing Shi,Chongqing,Chongqing,Chongqing,Tsongktsingk,Csungking,Chongqing,Chongqing,Ch ch,Čuncjina,Čongčingas,Chongqing,Chongqing,Chuntsin,Chongqing,Çongçing,Chuntsin,Chongqing,Chongqing,Xunquim,Chongqing
@@ -4886,7 +4886,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 7093,671,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7094,606,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7095,599,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7096,186,Argos,,Karp,Argos,A'ergesi,Argos,Argos,Argos,Argos,Argen,Argos,Argosz,Argos,Argo,Arugosu,Argos,Argos,Argos,Argos,Argos,Argos,Argos,Arhos,Argos,Argos,Argos,Argos
+7096,186,Argos,Alarjus,Karp,Argos,A'ergesi,Argos,Argos,Argos,Argos,Argen,Argos,Argosz,Argos,Argo,Arugosu,Argos,Argos,Argos,Argos,Argos,Argos,Argos,Arhos,Argos,Argos,Argos,Argos
 7097,602,Changsha,Tshanghsha,Beare,Chansha,Changsha,Čchang-ša,Changsha Shi,Changsha,Changsha,Changsha,Tsangksa,Csangsa,Changsha,Changsha,Nagasa shiti,Čanša,Čangša,Changsha,Changsha,Chansha,Changsha,Çangşa,Chansha,Changsha,Changsha,Changsha,Changsha
 7098,169,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7099,595,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5032,7 +5032,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 7245,690,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7249,409,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7250,425,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7251,737,Rabaul,,Rabaul,Rabaul,Labao'er,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabauru,Rabaul,Rabaulas,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul
+7251,737,Rabaul,Rabwl,Rabaul,Rabaul,Labao'er,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabauru,Rabaul,Rabaulas,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul,Rabaul
 7254,288,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7255,386,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7256,605,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5058,7 +5058,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 7291,468,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7292,289,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7293,667,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7294,751,Liangshan,,L jan h vydalic,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Usotsuki,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan
+7294,751,Liangshan,Lian g hadhif,L jan h vydalic,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Usotsuki,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan,Liangshan
 7295,288,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7296,334,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7297,424,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5125,7 +5125,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 7358,333,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7359,399,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7360,627,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7361,464,Halifax,,Halifax,Halifaks,Halifakesi,Halifax,Halifax,Halifax,Halifax,Halifax,Halifax,Halifax,Halifax,Halifax,Harifakkusu,Halifax,Halifax,Halifax,Halifax,Galifaks,Halifax,Halifax,Halifaks,Halifax,Halifax,Halifax,Halifax
+7361,464,Halifax,Halifaks,Halifax,Halifaks,Halifakesi,Halifax,Halifax,Halifax,Halifax,Halifax,Halifax,Halifax,Halifax,Halifax,Harifakkusu,Halifax,Halifax,Halifax,Halifax,Galifaks,Halifax,Halifax,Halifaks,Halifax,Halifax,Halifax,Halifax
 7362,523,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7363,423,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7364,466,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5139,7 +5139,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 7372,426,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7373,582,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7374,323,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7375,398,Perm,,Piersy,Perm,Bi'ermu,Perm,Perm,Permi,Perm,Perwsburg,Perm,Perm,Perm,Perm',Perumu,Perm,Perm,Perm,Perm,Perm',Perm,Perm,Perm,Perm,Perm,Perm,Perm
+7375,398,Perm,Biram,Piersy,Perm,Bi'ermu,Perm,Perm,Permi,Perm,Perwsburg,Perm,Perm,Perm,Perm',Perumu,Perm,Perm,Perm,Perm,Perm,Perm,Perm,Perm,Perm,Perm,Perm,Perm
 7376,741,Phnom Penh,Binawm binh,Pnamem,Pnom pen,Jinbian,Phnompenh,Phnom Penh,Phnom Penh,Phnom Penh,Phnom Penh,Pnom Pen,Phnompen,Phnom Penh,Phnom Penh,Punonpen,Pnompeņa,Pnompenis,Phnom Penh,Phnom Penh,Pnompen',Phnom Penh,Phnom Penh,Pnompen,Phnom Penh,Nom Pen,Phnom Penh,Phnom Penh
 7377,113,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7378,523,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5158,7 +5158,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 7391,425,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7392,404,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7393,639,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7394,135,Cork,,Kork,Kork,Kake,Cork,Cork,Cork,Corcais,Karl,Cork,Cork,Cork,Cork,Kōku,Cork,Cork,Cork,Cork,Kork,Cork,Cork,Kork,Cork,Cork,Cork,Cork
+7394,135,Cork,Alfilin,Kork,Kork,Kake,Cork,Cork,Cork,Corcais,Karl,Cork,Cork,Cork,Cork,Kōku,Cork,Cork,Cork,Cork,Kork,Cork,Cork,Kork,Cork,Cork,Cork,Cork
 7395,425,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7396,672,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7397,283,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5354,7 +5354,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 7614,523,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7615,368,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7616,657,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7617,685,Colón,,Kimlivac,Colón,Col�n,Colón,Colón,Colón,Colón,Colón,Colón,Colón,Colón,Colón,Ketchō,Colón,Colón,Colón,Colón,Kolon,Colón,Colón,Kolon,Colón,Colón,Colón,Colón
+7617,685,Colón,Kulun,Kimlivac,Colón,Col�n,Colón,Colón,Colón,Colón,Colón,Colón,Colón,Colón,Colón,Ketchō,Colón,Colón,Colón,Colón,Kolon,Colón,Colón,Kolon,Colón,Colón,Colón,Colón
 7618,584,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7619,436,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7620,344,Malatya,Miltia,Malatya,Malatiya,Maladiya,Malatya,Malatya,Malatya,Malatya,Malatya,Malateia,Malatya,Malatya,Malatya,Maratiya,Malatja,Malatija,Malatya,Malatya,Malat'ja,Malatya,Malatya,Malatja,Malatya,Malatya,Malatya,Malatya
@@ -5546,7 +5546,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 7832,714,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7833,403,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7834,383,Topeka,Twbyka,Topika,Topika,Tuopiqia,Topeka,Topeka,Topeka,Topeka,Topeka,Topika,Topeka,Topeka,Topeka,Topika,Topika,Topeka,Topeka,Topek,Topika,Topeka,Topek,Topika,Topek,Topeka,Topeka,Topeka
-7835,564,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7835,564,Ulan-ude,Uwlan-uwdi,Ulan-ude,Ulan ude,Wulanwude,Ulan-ude,Ulan-ude,Ulan-ude,Oulan-oude,Ulan-ude,Oylan oynte,Ulan-ude,Ulan-Ude,Ulan-ude,Uran ude,Ulanude,Ulan ude,Ulan ude,Ulan-ude,Ulan-Ude,Ulan-ude,Ulan-ude,Ulan-ude,Ulan-ude,Ulan-ude,Ulan-ude,Oelan-oede
 7836,375,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7837,577,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7838,566,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5695,7 +5695,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 8007,440,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8008,780,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8009,418,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8010,324,Punakha,,Punakha,Punakha,Punaqia,Punákha,Punakha,Punakha,Punakha,Punakha,Poynaka,Punakha,Punakha,Punakha,Punaka,Punakha,Punaka,Punakʽa,Punakha,Punakha,Punakha,Punakha,Punakkha,Punakha,Punakha,Punakha,Poenakha
+8010,324,Punakha,Punakha,Punakha,Punakha,Punaqia,Punákha,Punakha,Punakha,Punakha,Punakha,Poynaka,Punakha,Punakha,Punakha,Punaka,Punakha,Punaka,Punakʽa,Punakha,Punakha,Punakha,Punakha,Punakkha,Punakha,Punakha,Punakha,Poenakha
 8011,425,Bangalore,Banghalur,Banhalor,Bengaluru,Banjialuo'er,Bengalúr,Bengaluru,Bangalore,Bangalore,Bengaluru,Bangkalor,Bengaluru,Bangalore,Bangalore,Bengarūru,Bengalūru,Bengalūras,Bengaluru,Bengaluru,Bangalor,Bangalore,Bangalore,Benhaluru,Bangalore,Bangalore,Bangalor,Bangalore
 8012,483,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8013,444,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5717,7 +5717,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 8029,758,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8030,678,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8031,411,Yazd,Yazid,Ez,Yazd,Yazide,Jazd,Yazd,Yazd,Yazd,Yazd,Giaznt,Jazd,Yazd,Yazd,Yazudo,Yazd,Jezdas,Jazd,Yazd,Jezd,Yazd,Yezd,Yezd,Jazd,Yazd,Iazde,Yazd
-8032,485,Manzanillo,,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Mansaniyo,Manzanillo,Mansaniljas,Manzanillo,Manzanillo,Mansanil'o,Manzanillo,Manzanillo,Mansaniljo,Manzanillo,Manzanillo,Manzanillo,Manzanillo
+8032,485,Manzanillo,Manzanilu,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Manzanillo,Mansaniyo,Manzanillo,Mansaniljas,Manzanillo,Manzanillo,Mansanil'o,Manzanillo,Manzanillo,Mansaniljo,Manzanillo,Manzanillo,Manzanillo,Manzanillo
 8033,483,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8034,558,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8035,786,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5782,7 +5782,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 8094,269,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8095,603,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8096,274,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8097,482,Juárez,,Chuares,Juárez,Ju�rez,Juárez,Juárez,Juárez,Juárez,Juárez,Juárez,Juárez,Juárez,Juárez,Fuaresu,Juárez,Juárez,Juárez,Juárez,Huares,Juárez,Juárez,Khuares,Juárez,Juárez,Juárez,Joeárez
+8097,482,Juárez,Khawarizi,Chuares,Juárez,Ju�rez,Juárez,Juárez,Juárez,Juárez,Juárez,Juárez,Juárez,Juárez,Juárez,Fuaresu,Juárez,Juárez,Juárez,Juárez,Huares,Juárez,Juárez,Khuares,Juárez,Juárez,Juárez,Joeárez
 8098,445,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8099,584,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8100,425,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5949,7 +5949,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9069,143,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9073,111,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9074,215,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9075,120,,Fintarburgh,Vintierburh,Winterburg,Wentebao,,,,Nessaimbre,Winterburg,,Winterburg,Winterburg,Winterburg,Uintābāgu,,,Winterburg,Winterburg,Vinterburg,Winterburg,,Vinterburh,,Winterburg,Winterburg,Winterburg
+9075,120,Winterburg,Fintarburgh,Vintierburh,Winterburg,Wentebao,Winterburg,Winterburg,Winterburg,Nessaimbre,Winterburg,Winterburg,Winterburg,Winterburg,Winterburg,Uintābāgu,Winterburg,Winterburg,Winterburg,Winterburg,Vinterburg,Winterburg,Winterburg,Vinterburh,Winterburg,Winterburg,Winterburg,Winterburg
 9078,216,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9079,13,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9082,264,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -5963,7 +5963,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9095,666,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9096,142,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9097,208,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9098,208,Luga,,Luhi,Luga,Luga,Luga,Luga,Luga,Luga,Lügen,Luga,Luga,Luga,Luga,Rūga,Luga,Luga,Luga,Luga,Luga,Luga,Luga,Luha,Luga,Luga,Luga,Loega
+9098,208,Luga,Tashghil,Luhi,Luga,Luga,Luga,Luga,Luga,Luga,Lügen,Luga,Luga,Luga,Luga,Rūga,Luga,Luga,Luga,Luga,Luga,Luga,Luga,Luha,Luga,Luga,Luga,Loega
 9099,262,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9100,146,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9101,214,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6061,7 +6061,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9194,111,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9195,215,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9196,142,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9197,244,Volkhov,Fulkhawf,Volchau,Volhov,Wo'erhuofu,Volchov,Volhov,Olhava,Volkhov,Neu-Volkstadt,Volkhov,Volkhov,Volkhov,Volchov,Vuoruhofu,Volhova,Volchovas,Wołchow,Volkhov,Volhov,Volchov,Volhov,Volkhov,Volhov,Vóljov,Volkhov,Volchov
+9197,244,Volkhov,Fulkhawf,Volchau,Volhov,Wo'erhuofu,Volchov,Volhov,Olhava,Volkhov,Neu-Volkstadt,Volkhov,Volkhov,Volkhov,Volchov,Vuoruhofu,Volhova,Volchovas,Wołchow,Volkhov,Volkhov,Volchov,Volhov,Volkhov,Volhov,Vóljov,Volkhov,Volchov
 9198,215,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9199,351,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9200,351,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6123,11 +6123,11 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9256,247,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9257,253,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9258,255,Penza,Bitza,Pienza,Penza,Bensa,Penza,Penza,Penza,Penza,Pensa,Penza,Penza,Penza,Penza,Penza,Penza,Penza,Penza,Penza,Penza,Penza,Penza,Penza,Penza,Penza,Penza,Penza
-9259,256,,Tshibuksari,Cebaksary,Cheboksari,Qiebokesalei,Čeboksary,Tšeboksarõ,Tšeboksary,Tcheboksary,Hebach,Tseboxari,Csebokszári,Cheboksary,Čeboksary,Chebokusaru,Čeboksari,Čeboksarai,Czeboksary,Ceboksarî,Cheboksary,Tjeboksary,Çeboksarı,Cheboksary,Čeboksari,Cheboksary,Tcheboksary,Tsjeboksary
+9259,256,Tscheboksary,Tshibuksari,Cebaksary,Cheboksari,Qiebokesalei,Čeboksary,Tšeboksarõ,Tšeboksary,Tcheboksary,Hebach,Tseboxari,Csebokszári,Cheboksary,Čeboksary,Chebokusaru,Čeboksari,Čeboksarai,Czeboksary,Ceboksarî,Cheboksary,Tjeboksary,Çeboksarı,Cheboksary,Čeboksari,Cheboksary,Tcheboksary,Tsjeboksary
 9260,220,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9261,205,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9262,190,Liepāja,Libaya,Lijepaja,Liepaya,Liyepaya,Liepāja,Liepāja,Liepāja,Liepāja,Libau,Liepagia,Liepāja,Liepāja,Liepāja,Riepāya,Liepāja,Liepoja,Lipawa,Liepāja,Liepaja,Liepāja,Liepāja,Liyepaja,Liepāja,Liepāja,Liepāja,Libau
-9263,85,Gdynia,Ghadinia,Hdynia,Gdinya,Gedingniya,Gdyně,Gdynia,Gdynia,Gdynia,Gotenhafen,Gkntinia,Gdynia,Gdynia,Gdynia,Gudinya,Gdiņa,Gdyne,Gdynia,Gdynia,Gdynja,Gdynia,Gdynia,Hdynja,Gdynia,Gdynia,Gdynia,Gdingen
+9263,85,Gdynia,Ghadinia,Hdynia,Gdinya,Gedingniya,Gdyně,Gdynia,Gdynia,Gdynia,Gotenhafen,Gkntinia,Gdynia,Gdynia,Gdynia,Gudinya,Gdiņa,Gdyne,Gdynia,Gdynia,Gdynya,Gdynia,Gdynia,Hdynja,Gdynia,Gdynia,Gdynia,Gdingen
 9264,59,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9265,246,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9266,254,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6152,11 +6152,11 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9285,131,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9286,255,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9287,246,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9288,241,Gomel,Ghumil,Homiel,Gomel,Gemeili,Homel,Homiel,Homel,Homiel,Homiel,Gomel,Homel,Gomel,Homel',Homeri,Gomeļa,Gomelis,Homel,Gomel,Gomel',Homel,Homyel,Homel,Gomel,Gómel,Gomel,Homel
+9288,241,Gomel,Ghumil,Homiel,Gomel,Gemeili,Homel,Homiel,Homel,Homiel,Homiel,Gomel,Homel,Gomel,Homel',Homeri,Gomeļa,Gomelis,Homel,Gomel,Gomel,Homel,Homyel,Homel,Gomel,Gómel,Gomel,Homel
 9289,206,Mogilev,Mujiluf,Mahiliou,Mogilyov,Mojiliaofu,Mogilev,Mahiloŭ,Mahiljou,Mahiliow,Mogilau,Mogkiliof,Mahiljov,Mogilev,Mahilëŭ,Mahiryou,Mogiļeva,Mogiliavas,Mohylew,Moghilă,Mogilev,Mahiljoŭ,Mogilyov,Mohylov,Mahiloŭ,Maguilov,Mahilou,Mahiljow
 9290,98,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9291,252,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9292,572,Chelyabinsk,Tshilyabinsik,Caliabinsk,Chelyabinsk,Cheliyabinsike,Čeljabinsk,Tšeljabinsk,Tšeljabinsk,Tcheliabinsk,Tscheljabinsk,Tseliabinsk,Cseljabinszk,Chelyabinsk,Čeljabinsk,Cheryabinsuku,Čeļabinska,Čeliabinskas,Czelabińsk,Celeabinsk,Cheljabinsk,Tjeljabinsk,Çelyabinsk,Cheljabinsk,Čeljabinsk,Cheliábinsk,Tcheliabinsk,Tsjeljabinsk
+9292,572,Chelyabinsk,Tshilyabinsik,Caliabinsk,Chelyabinsk,Cheliyabinsike,Čeljabinsk,Tšeljabinsk,Tšeljabinsk,Tcheliabinsk,Tscheljabinsk,Tseliabinsk,Cseljabinszk,Chelyabinsk,Čeljabinsk,Cheryabinsuku,Čeļabinska,Čeliabinskas,Czelabińsk,Celeabinsk,Chelyabinsk,Tjeljabinsk,Çelyabinsk,Cheljabinsk,Čeljabinsk,Cheliábinsk,Tcheliabinsk,Tsjeljabinsk
 9293,399,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9294,61,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9295,784,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6168,7 +6168,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9301,205,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9302,219,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9303,134,Galway,Ghalway,Galway,Goluey,Ge'erwei,Galway,Galway,Galway,Gaillime,Galwegen,Gkolgoyei,Galway,Galway,Galway,Gōruuei,Golveja,Golvejus,Galway,Galway,Goluej,Galway,Galway,Holvej,Galway,Galway,Galway,Galway
-9304,95,Baranovichi,Baranafitshi,Baranavicy,Baranovichi,Balanuoweiqi,Baranavičy,Baranavičy,Baranavitšy,Baranavitchy,Baronenwald,Baranavitsi,Baranavicsi,Baranowicze,Baranavičy,Barānavuichi,Baranaviči,Baranovičiai,Baranowicze,Baranowicze,Baranovichi,Baranavitjy,Baranaviçı,Baranovychi,Baranaviči,Baránavichi,Baranowicze,Baranavitsjy
+9304,95,Baranovichi,Baranafitshi,Baranavicy,Baranovichi,Balanuoweiqi,Baranavičy,Baranavičy,Baranavitšy,Baranavitchy,Baronenwald,Baranavitsi,Baranavicsi,Baranowicze,Baranavičy,Barānavuichi,Baranaviči,Baranovičiai,Baranowicze,Baranowicze,Baranavichy,Baranavitjy,Baranaviçı,Baranovychi,Baranaviči,Baránavichi,Baranowicze,Baranavitsjy
 9305,256,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9306,63,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9307,256,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6219,9 +6219,9 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9352,239,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9353,210,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9354,249,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9355,222,Orel,,Arol,Orel,Orel,Orel,Orel,Orel,Orel,Örel,Orel,Orel,Orel,Orel,Oryōru,Orel,Orel,Orel,Orel,Orel,Orel,Orel,Orel,Orel,Orel,Orel,Orel
+9355,222,Orel,Uwril,Arol,Orel,Orel,Orel,Orel,Orel,Orel,Örel,Orel,Orel,Orel,Orel,Oryōru,Orel,Orel,Orel,Orel,Oryol,Orel,Orel,Orel,Orel,Orel,Orel,Orel
 9356,253,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9357,11,Ukmerge,Uwkmirj,Ukmiarhie,Ukmergė,Wukemeiergai,Ukmerge,Ukmerge,Ukmerge,Ukmerge,Wilkomir,Oykmergke,,Ukmerge,Ukmerge,Ukumeruge,Ukmerģe,Ukmerge,Wiłkomierz,,Ukmerge,Ukmerge,Ukmerge,Ukmerhe,,Ukmerge,Ukmerge,Ukmerge
+9357,11,Ukmerge,Uwkmirj,Ukmiarhie,Ukmergė,Wukemeiergai,Ukmerge,Ukmerge,Ukmerge,Ukmerge,Wilkomir,Oykmergke,Ukmerge,Ukmerge,Ukmerge,Ukumeruge,Ukmerģe,Ukmerge,Wiłkomierz,Ukmerge,Ukmerge,Ukmerge,Ukmerge,Ukmerhe,Ukmerge,Ukmerge,Ukmerge,Ukmerge
 9358,252,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9359,95,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9360,252,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6266,7 +6266,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9399,242,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9400,10,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9401,249,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9402,256,,Yushkar-awala,Iaskar-ala,Yoshkar ola,Yueshiqia'eraola,Joškar-Ola,Joškar-Ola,Joškar-Ola,Iochkar-Ola,Olanbach,Gioskar Ola,Joskar-Ola,Yoshkar-Ola,Joškar-Ola,Yoshukaru ora,Joškarola,Joškar Ola,Joszkar-Oła,Ioșkar-Ola,Joshkar-Ola,Josjkar-Ola,Yoşkar-Ola,Joshkar-ola,Joškar-Ola,Yoshkar-Olá,Ioshkar-Ola,Josjkar-Ola
+9402,256,Joschkar-ola,Yushkar-awala,Iaskar-ala,Yoshkar ola,Yueshiqia'eraola,Joškar-Ola,Joškar-Ola,Joškar-Ola,Iochkar-Ola,Olanbach,Gioskar Ola,Joskar-Ola,Yoshkar-Ola,Joškar-Ola,Yoshukaru ora,Joškarola,Joškar Ola,Joszkar-Oła,Ioșkar-Ola,Yoshkar-Ola,Josjkar-Ola,Yoşkar-Ola,Joshkar-ola,Joškar-Ola,Yoshkar-Olá,Ioshkar-Ola,Josjkar-Ola
 9403,36,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9404,11,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9405,135,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6296,7 +6296,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9429,9,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9430,218,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9431,35,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9432,401,,Markis,Marks,Marx,Makesizhen,Marx,Marx,Marks,Marks,Katherinenstadt,,,Marksshtadt,Marks,Marukusu,,,Marks,,Marks,,Marks,Marks,Marks,Marks,,Marx
+9432,401,Marx,Markis,Marks,Marx,Makesizhen,Marx,Marx,Marks,Marks,Katherinenstadt,Marx,Marx,Marksshtadt,Marks,Marukusu,Marx,Marx,Marks,Marx,Marks,Marx,Marks,Marks,Marks,Marks,Marx,Marx
 9433,226,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9434,15,Le Havre,Law hafir,Haur,Havar,Leafu'er,Le Havre,Le Havre,Le Havre,Le Havre,Neu-Hawrau,Chavri,Le Havre,Le Havre,Le Havre,Ru āvuru,Havra,Havras,Hawr,Le Havre,Gavr,Le Havre,Le Havre,Havr,Le Havre,El Havre,Le Havre,Le Havre
 9435,198,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6325,7 +6325,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9458,127,Portsmouth,Burtasmuth,Portsmouth,Portsmat,Pocimaosi,Portsmouth,Portsmouth,Portsmouth,Porsemue,Pforzmund,Portsmoyth,Portsmouth,Portsmouth,Portsmouth,Pōtsumasu,Portsmuta,Portsmutas,Portsmouth,Portsmouth,Portsmut,Portsmouth,Portsmouth,Portsmut,Portsmouth,Portsmouth,Portsmouth,Portsmouth
 9459,217,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9460,239,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9461,228,Luhansku,Luhansik,Luhansk,Lugansk,Lugansike,Luhansk,Lugansk,Luhansk,Louhansk,Lugansk,Loychansk,Luhanszk,Voroshilovgrad,Luhans'k,Ruhānshiku,Luhanska,Luhanskas,Ługańsk,Luhansk,Lugansk,Luhansk,Luhansk,Luhansk,Lugansk,Lugansk,Luhansk,Loehansk
+9461,228,Luhansku,Luhansik,Luhansk,Lugansk,Lugansike,Luhansk,Lugansk,Luhansk,Louhansk,Lugansk,Loychansk,Luhanszk,Voroshilovgrad,Luhans'k,Ruhānshiku,Luhanska,Luhanskas,Ługańsk,Luhansk,Voroshilovgrad,Luhansk,Luhansk,Luhansk,Lugansk,Lugansk,Luhansk,Loehansk
 9462,407,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9463,226,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9464,265,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6347,7 +6347,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9480,682,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9481,198,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9482,51,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9483,189,Siauliai,Shawli,Sauliaj,Shaulyay,Xiaoliai,Šiauliai,Šiauliai,Šiauliai,Šiauliai,Schaulen,Siaoyliai,Siauliai,Siauliai,Šiauliai,Shaurei,Šauļi,Šiauliai,Szawle,Šiauliai,Shjauljaj,Šiauliai,Šiauliai,Shjauljaj,Šiauliai,Šiauliai,Siauliai,Schaulen
+9483,189,Siauliai,Shawli,Sauliaj,Shaulyay,Xiaoliai,Šiauliai,Šiauliai,Šiauliai,Šiauliai,Schaulen,Siaoyliai,Siauliai,Siauliai,Šiauliai,Shaurei,Šauļi,Šiauliai,Szawle,Šiauliai,Shyaulyay,Šiauliai,Šiauliai,Shjauljaj,Šiauliai,Šiauliai,Siauliai,Schaulen
 9484,338,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9485,191,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9486,55,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6358,7 +6358,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9491,203,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9492,24,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9493,201,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9494,88,,,Subin,Gmina szubin,,,,,Szubin,Zamosch,,,Gmina Szubin,Szubin,Szubin commune,,,Zamość,,Shubin,,,Shubin,,,Comuna de Szubin,Szubin
+9494,88,Gmina szubin,Szubin commune,Subin,Gmina szubin,Gmina szubin,Gmina szubin,Gmina szubin,Gmina szubin,Szubin,Zamosch,Gmina szubin,Gmina szubin,Gmina Szubin,Szubin,Szubin commune,Gmina szubin,Gmina szubin,Zamość,Gmina szubin,Shubin,Gmina szubin,Gmina szubin,Shubin,Gmina szubin,Gmina szubin,Comuna de Szubin,Szubin
 9495,14,Rennes,Ryn,H,Ren,Lei'en,Rennes,Rennes,Rennes,Rennes,Rengen,Ren,Rennes,Rennes,Rennes,Ren'nu,Renna,Renas,Rennes,Rennes,Ren,Rennes,Rennes,Renn,Rennes,Rennes,Rennes,Rennes
 9496,64,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9497,60,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6375,7 +6375,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9508,87,Lodzh,Wuudj,Lodz,Lodz,Luozi,Lodž,Łódź,Łódź,Łódź,Litzmannstadt,Lotz,Łódź,Łódź,Barcopoli,Utchi,Lodza,Lodze,Łódź,Łódź,Lodz',Łódź,Łódź,Lodz,Łódź,Lodz,Łódź,Lodz
 9509,57,Hamm,Ham,Ham,Ham,Hamu,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamu,Hamma,Hamas,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm,Hamm
 9510,14,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9511,67,Oppeln,,Apolie,Oppeln,Oupeier,Oppeln,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Oppelen
+9511,67,Oppeln,Awbuli,Apolie,Oppeln,Oupeier,Oppeln,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Opole,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Oppeln,Oppelen
 9512,403,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9513,407,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9514,249,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6430,7 +6430,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9563,73,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9564,239,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9565,245,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9566,225,Shostka,,Prachod,Shostka,Shaositeqia,Šostka,Šostka,Šostka,Chostka,Schostka,Shostka,Shostka,Shostka,Šostka,Shottoka,Šostka,Šostka,Szostka,Șostka,Shostka,Sjostka,Shostka,Shostka,Shostka,Shostka,Shostka,Sjostka
+9566,225,Shostka,Shutka,Prachod,Shostka,Shaositeqia,Šostka,Šostka,Šostka,Chostka,Schostka,Shostka,Shostka,Shostka,Šostka,Shottoka,Šostka,Šostka,Szostka,Șostka,Shostka,Sjostka,Shostka,Shostka,Shostka,Shostka,Shostka,Sjostka
 9567,72,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9568,202,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9569,9,Tábor,Alab,Kliesc,Tabor,Tabo'er,Tábor,Tábor,Tábor,Tábor,Tabor,Tábor,Tábor,Tábor,Tábor,Tāboru,Tábor,Taboras,Tabor,Tábor,Tabor,Tábor,Tábor,Tabor,Tábor,Tábor,Tábor,Tabor
@@ -6476,7 +6476,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9609,27,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9610,801,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9611,109,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9612,801,Ruse,,Ruskaja,Ruse,Lusai,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse
+9612,801,Ruse,Alruwsia,Ruskaja,Ruse,Lusai,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse,Ruse
 9613,160,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9614,77,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9615,683,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6492,7 +6492,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9625,27,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9626,231,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9627,102,Lubjana,Liubliana,Ljubljana,Lyublyana,Lubu'eryana,Lublaň,Ljubljana,Ljubljana,Ljubljana,Laibach,Lioybliana,Ljubljana,Ljubljana,Lubiana,Ryuburyana,Ļubļana,Liubliana,Lublana,Ljubljana,Ljubljana,Ljubljana,Ljubljana,Ljubljana,Ljubljana,Liubliana,Liubliana,Ljubljana
-9628,233,Ordzhonikidze,,Ordscsonkid,Ordzhonikidze,Ao'erzhongniqize,Ordžonikidze,Ordžonikidze,Ordžonikidze,Ordzhonikidze,Nordossetien,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze,Ordžonikidze,Orujonikīze,Ordžonikidze,Ordžonikidze,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze,Ordzjonikidze,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze
+9628,233,Ordzhonikidze,Ordschonikid,Ordscsonkid,Ordzhonikidze,Ao'erzhongniqize,Ordžonikidze,Ordžonikidze,Ordžonikidze,Ordzhonikidze,Nordossetien,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze,Ordžonikidze,Orujonikīze,Ordžonikidze,Ordžonikidze,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze,Ordzjonikidze,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze,Ordzhonikidze
 9629,33,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9630,39,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9631,23,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6544,7 +6544,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9677,137,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9678,394,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9679,4,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9680,137,Kerch,Karj,Kierc,Kerch,Kechi,Kerč,Kertš,Kertš,Kertch,Bospor,Kerts,Kercs,Kerch,Kerč',Keruchi,Kerča,Kerče,Kercz,Kerci,Kerch',Kertj,Kerç,Kerch,Kerč,Kerch,Querche,Kertsj
+9680,137,Kerch,Karj,Kierc,Kerch,Kechi,Kerč,Kertš,Kertš,Kertch,Bospor,Kerts,Kercs,Kerch,Kerč',Keruchi,Kerča,Kerče,Kercz,Kerci,Kerch,Kertj,Kerç,Kerch,Kerč,Kerch,Querche,Kertsj
 9681,53,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9682,395,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9683,78,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6617,7 +6617,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9750,162,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9751,25,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9752,161,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9753,236,Astrakhan,Ustirakhan,Astrachan,Astrahan,Asitelahan,Astrachaň,Astrahan,Astrahan,Astrakhan,Letzte-Wolgastadt,Astrachan,Asztrahán,Astrakhan,Astrachan',Asutorahan,Astrahaņa,Astrachane,Astrachań,Astrahan,Astrahan',Astrachan,Astrahan,Astrakhan,Astrahan,Astracán,Astracã,Astrachan
+9753,236,Astrakhan,Ustirakhan,Astrachan,Astrahan,Asitelahan,Astrachaň,Astrahan,Astrahan,Astrakhan,Letzte-Wolgastadt,Astrachan,Asztrahán,Astrakhan,Astrachan',Asutorahan,Astrahaņa,Astrachane,Astrachań,Astrahan,Astrakhan,Astrachan,Astrahan,Astrakhan,Astrahan,Astracán,Astracã,Astrachan
 9754,358,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9755,346,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9756,108,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6696,7 +6696,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9829,375,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9830,348,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9831,715,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9832,357,Providence,,Providens,Providence,Puluoweidengsi,Providence,Providence,Providence,Providence,Providence,Providence,Providence,Providence,Providence,Purobidensu,Providence,Providence,Providence,Providence,Providens,Providence,Providence,Providens,Providence,Providence,Providence,Providence
+9832,357,Providence,Brufidins,Providens,Providence,Puluoweidengsi,Providence,Providence,Providence,Providence,Providence,Providence,Providence,Providence,Providence,Purobidensu,Providence,Providence,Providence,Providence,Providens,Providence,Providence,Providens,Providence,Providence,Providence,Providence
 9833,797,Stambolli,Iistanbul,Sturavac stambul,Tsarigrad,Yisitanbao,Istanbul,İstanbul,Istanbul,Istanbul,Istanbul,Konstantinoypoli,Isztambul,Istanbul,Istanbul,Isutanbūru,Stambula,Stambulas,Stambuł,Istanbul,Stambul,Istanbul,İstanbul,Stambul,Istanbul,Estambul,Istambul,Istanboel
 9834,366,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9835,716,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -6802,7 +6802,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 9935,430,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9936,525,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9937,606,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9938,593,,Shaturzafand,Trasiandu,Shtralzund,Shitela'ersongde,Stralsund,Stralsund,Stralsund,Stralsund,Stralsund,Stralzoynt,Stralsund,Stralsund,Stralsund,Shutorāruzunto,Štrālzunde,Štralzundas,Stralsund,Stralsund,Shtral'zund,Stralsund,Stralsund,Shtralzund,Stralsund,Stralsund,Stralsund,Stralsoend
+9938,593,Stralsund,Shaturzafand,Trasiandu,Shtralzund,Shitela'ersongde,Stralsund,Stralsund,Stralsund,Stralsund,Stralsund,Stralzoynt,Stralsund,Stralsund,Stralsund,Shutorāruzunto,Štrālzunde,Štralzundas,Stralsund,Stralsund,Shtral'zund,Stralsund,Stralsund,Shtralzund,Stralsund,Stralsund,Stralsund,Stralsoend
 9939,748,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9940,182,Iraklioni,Kandia,Irraklian,Iraklio,Yilakeliweng,Heráklion,Irákleio,Iraklion,Héraklion,Heraklau,irakleio Kritis,Iráklio,Heraklion,Candia,Irakurion,Iraklija,Heraklionas,Heraklion,Heraklion,Iraklion,Heraklion,Kandiye,Iraklion,Heraklion,Heraclión,Heraclião,Iraklion
 9941,342,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7118,7 +7118,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10251,523,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10252,623,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10253,402,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10254,690,Nassau,,Nassau,Nassau,Nasao,Nassau,Nassau,Nassau,Nassau,Nassau,Nassaoy,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau
+10254,690,Nassau,Nasaw,Nassau,Nassau,Nasao,Nassau,Nassau,Nassau,Nassau,Nassau,Nassaoy,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau,Nassau
 10255,426,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10256,582,Magnitogorsk,Maghnitaghurisk,Mahnitahorsk,Magnitogorsk,Magenituoge'ersike,Magnitogorsk,Magnitogorsk,Magnitogorsk,Magnitogorsk,Magnitogorsk,Magknitogkorsk,Magnyitogorszk,Magnitogorsk,Magnitogorsk,Magunitogorusuku,Magņitogorska,Magnitogorskas,Magnitogorsk,Magnitogorsk,Magnitogorsk,Magnitogorsk,Magnitogorsk,Mahnitohorsk,Magnitogorsk,Magnitogorsk,Magnitogorsk,Magnitogorsk
 10257,744,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7176,7 +7176,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10309,671,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10310,334,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10311,427,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10312,583,Kustanay,Qawiun,Castanay,Kostanay,Kusitanai,Kostanaj,Kostanaj,Qostanay,Kostanaï,Qostanai,Kostanai,Kosztanaj,Kustanay,Qostanay,Kosutanai,Kustanay,Kostanajus,Kustanaj,Qostanaı,Kostanaj,Qostanaj,Kostanay,Kostanaj,Kustanay,Kostanái,Qostanay,Qostanay
+10312,583,Kustanay,Qawiun,Castanay,Kostanay,Kusitanai,Kostanaj,Kostanaj,Qostanay,Kostanaï,Qostanai,Kostanai,Kosztanaj,Kustanay,Qostanay,Kosutanai,Kustanay,Kostanajus,Kustanaj,Qostanaı,Kostanay,Qostanaj,Kostanay,Kostanaj,Kustanay,Kostanái,Qostanay,Qostanay
 10313,336,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10314,398,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10315,759,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7352,12 +7352,12 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10485,584,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10486,640,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10487,521,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10488,405,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10488,405,Qo`qon,Mutatawir,Parepannie,Kokand,Haohan,Kokand,Qo`qon,Kokand,Kokand,Qo`qon,Qo`qon,Kokand,Kokand,Kokand,Kokando,Qo`qon,Kokandas,Kokand,Kokand,Kokand,Kokand,Hokand,Kokand,Qo`qon,Kokand,Cocande,Kokand
 10489,366,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10490,754,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10491,335,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10492,365,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10493,12,Valmiera,Falmira,Valmijera,Valmiera,Wa'ermiyela,Valmiera,Valmiera,Valmiera,Valmiera,Wolmar,Valmiera,Valmiera,Valmiera,Wolmar,Vuarumiera,Valmiera,Valmiera,Valmiera,,Valmiera,Valmiera,Valmiera,Valmiyera,,Valmiera,Valmiera,Valmiera
+10493,12,Valmiera,Falmira,Valmijera,Valmiera,Wa'ermiyela,Valmiera,Valmiera,Valmiera,Valmiera,Wolmar,Valmiera,Valmiera,Valmiera,Wolmar,Vuarumiera,Valmiera,Valmiera,Valmiera,Valmiera,Volodimirec,Valmiera,Valmiera,Valmiyera,Valmiera,Valmiera,Valmiera,Valmiera
 10494,493,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10495,363,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10496,670,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7505,7 +7505,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10638,761,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10639,568,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10640,381,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10641,574,Gjokuskaj,Yakutisk,Jakuck,Yakutsk,Yakucike,Jakutsk,Jakutsk,Jakutsk,Iakoutsk,Jakutsk,Giakoytsk,Jakutszk,Yakutsk,Jakutsk,Yakūtsuku,Jakutska,Jakutskas,Jakuck,Iakutsk,Jakutsk,Jakutsk,Yakutsk,Jakutsk,Jakutsk,Yakutsk,Iacutusque,Jakoetsk
+10641,574,Gjokuskaj,Yakutisk,Jakuck,Yakutsk,Yakucike,Jakutsk,Jakutsk,Jakutsk,Iakoutsk,Jakutsk,Giakoytsk,Jakutszk,Yakutsk,Jakutsk,Yakūtsuku,Jakutska,Jakutskas,Jakuck,Iakutsk,Yakutsk,Jakutsk,Yakutsk,Jakutsk,Jakutsk,Yakutsk,Iacutusque,Jakoetsk
 10642,376,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10643,563,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10644,473,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7535,7 +7535,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10668,275,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10669,330,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10670,403,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10671,405,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10671,405,Samerkandi,Samarqand,Samarkand,Samarkand,Samaerhan,Samarkand,Samarkand,Samarkand,Samarcande,Samarqand,Samarkandi,Szamarkand,Samarkand,Samarcanda,Samarukando,Samarkanda,Samarkandas,Samarkanda,Samarkand,Samarkand,Samarkand,Semerkant,Samarkand,Samarkand,Samarcanda,Samarcanda,Samarkand
 10672,387,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10673,578,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10674,618,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7581,7 +7581,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10714,574,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10715,466,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10716,653,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10717,373,Kansas City,,Metropolrugion kanzas-sici,Metropolregion kansas city,Kansasicheng,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kanzasushiti toshi-ken,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Metropolregion kansas city,Kansas City,Área metropolitana de Kansas City,Kansas City,Kansas Stad
+10717,373,Kansas City,Madinat kansas,Kanzas-sici,Kansas city,Kansasicheng,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kanzasushiti,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas City,Kansas city,Kansas City,Kansas City,Kansas City,Kansas Stad
 10718,682,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10719,391,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10720,653,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7759,7 +7759,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 10892,292,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10893,775,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10894,375,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10895,481,Mazatlán,,Macatlan,Masatlan,Masatelan,Mazatlán,Mazatlán,Mazatlán,Mazatlán,Mazatlán,Mazatlan,Mazatlán,Mazatlán,Mazatlán,Masatoran,Mazatlán,Masatlanas,Mazatlán,Mazatlán,Masatlan,Mazatlán,Mazatlán,Masatlan,Mazatlán,Mazatlán,Mazatlán,Mazatlán
+10895,481,Mazatlán,Mazatlan,Macatlan,Masatlan,Masatelan,Mazatlán,Mazatlán,Mazatlán,Mazatlán,Mazatlán,Mazatlan,Mazatlán,Mazatlán,Mazatlán,Masatoran,Mazatlán,Masatlanas,Mazatlán,Mazatlán,Masatlan,Mazatlán,Mazatlán,Masatlan,Mazatlán,Mazatlán,Mazatlán,Mazatlán
 10896,267,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10897,424,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10898,440,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7991,7 +7991,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11124,400,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11125,148,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11126,149,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11127,13,,,Wesenberg,Wesenberg,,,,,Wesenberg,Wesenberg,,,Wesenberg,Wesenberg,Uezenbāgu,,,Wesenberg,,Vezenberg,Wesenberg,,Wesenberg,,,,Wesenberg
+11127,13,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Uezenbāgu,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Rakvere,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg,Wesenberg
 11128,213,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11129,38,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11130,148,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8082,14 +8082,14 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11215,138,Karlskrona,Karliskruna,Carlskrun,Karlskruna,Qia'ersikeluna,Karlskrona,Karlskrona,Karlskrona,Karlskrona,Karlskrona,Karlskroyna,Karlskrona,Karlskrona,Karlskrona,Kārusukurūna,Karlskrūna,Karlskruna,Karlskrona,Karlskrona,Karlskruna,Karlskrona,Karlskrona,Karlskruna,Karlskrona,Karlskrona,Karlskrona,Karlskrona
 11216,206,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11217,219,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11218,133,,,Damfrys,Damfriys,Dengfulisi,Dumfries,,Dumfries,Dombris,Zaunfries,,,Dumfries,Dumfries,Danfurīzu,,Damfrisas,Dumfries,,Damfris,Dumfries,,Damfris,,Dumfries,Dumfries,Dumfries
+11218,133,Dumfries,Dumfries,Damfrys,Damfriys,Dengfulisi,Dumfries,Dumfries,Dumfries,Dombris,Zaunfries,Dumfries,Dumfries,Dumfries,Dumfries,Danfurīzu,Dumfries,Damfrisas,Dumfries,Dumfries,Damfris,Dumfries,Dumfries,Damfris,Dumfries,Dumfries,Dumfries,Dumfries
 11219,64,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11220,207,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11221,125,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11222,12,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11223,573,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11224,246,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11225,251,Kuibyshev,,Kuybashau,Kuybishev,Gubixuefu,Kujbyšev,Kuibyshev,Kuibyšev,Kouïbychev,Kübßstadt,Kuibyshev,Kujbisev,Kuibyshev,Kujbyšev,Kuibishefu,Kuibyshev,Kuibyševas,Kujbyszew,Kuibyshev,Kujbyshev,Kuybyshev,Kuibyshev,Kujbyshev,Kuibyshev,Kúibyshev,Kuibyshev,Koejbysjev
+11225,251,Kuibyshev,Kuibyschew,Kuybashau,Kuybishev,Gubixuefu,Kujbyšev,Kuibyshev,Kuibyšev,Kouïbychev,Kübßstadt,Kuibyshev,Kujbisev,Kuibyshev,Kujbyšev,Kuibishefu,Kuibyshev,Kuibyševas,Kujbyszew,Kuibyshev,Kuybyshev,Kuybyshev,Kuibyshev,Kujbyshev,Kuibyshev,Kúibyshev,Kuibyshev,Koejbysjev
 11226,11,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11227,257,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11228,398,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8098,7 +8098,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11231,139,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11232,86,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11233,56,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11234,210,Velikiye Luki,Filikyi luki,Vialikija luki,Veliki luki,Daluji,Velikije Luki,Velikije Luki,Velikije Luki,Velikié Louki,Walken,Velikiye Luki,Velikiye Luki,Velikiye Luki,Velikie Luki,Vuerīkie rūki,Veļikije Luki,Didieji Lukai,Wielkie Łuki,Velikie Luki,Velikie Luki,Velikije Luki,Velikiye Luki,Velyki luky,Velikije Luki,Velíkiye Luki,Velikiye Luki,Velikieje Loeki
+11234,210,Velikiye Luki,Filikyi luki,Vialikija luki,Veliki luki,Daluji,Velikije Luki,Velikije Luki,Velikije Luki,Velikié Louki,Walken,Velikiye Luki,Velikiye Luki,Velikiye Luki,Velikie Luki,Vuerīkie rūki,Veļikije Luki,Didieji Lukai,Wielkie Łuki,Velikie Luki,Velikiye Luki,Velikije Luki,Velikiye Luki,Velyki luky,Velikije Luki,Velíkiye Luki,Velikiye Luki,Velikieje Loeki
 11235,205,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11236,219,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11237,135,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8112,7 +8112,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11245,5,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11246,190,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11247,97,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11248,254,Ryazan,Riazan,Hadoulia,Ryazan,Liangzan,Rjazaň,Rjazan,Rjazan,Riazan,Rayzenvich,Riazan,Rjazany,Ryazan,Rjazan',Ryazan,Rjazaņa,Riazane,Riazań,Reazan,Rjazan',Rjazan,Ryazan,Rjazan,Rjazanj,Riazán,Riazã,Rjazan
+11248,254,Ryazan,Riazan,Hadoulia,Ryazan,Liangzan,Rjazaň,Rjazan,Rjazan,Riazan,Rayzenvich,Riazan,Rjazany,Ryazan,Rjazan',Ryazan,Rjazaņa,Riazane,Riazań,Reazan,Ryazan,Rjazan,Ryazan,Rjazan,Rjazanj,Riazán,Riazã,Rjazan
 11249,414,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11250,247,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11251,99,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8143,7 +8143,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11276,61,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11277,252,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11278,141,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11279,129,,Listar,Lvou,Lestar,Laisite,Leicester,Leicester,Leicester,Loicêtre,Leukaster,Lester,Leicester,Leicester,Leicester,Resutā,Lestera,Lesteris,Leicester,Leicester,Lester,Leicester,Leicester,Lester,Leicester,Leicester,Leicester,Leicester
+11279,129,Lester,Listar,Lvou,Lestar,Laisite,Leicester,Leicester,Leicester,Loicêtre,Leukaster,Lester,Leicester,Leicester,Leicester,Resutā,Lestera,Lesteris,Leicester,Leicester,Lester,Leicester,Leicester,Lester,Leicester,Leicester,Leicester,Leicester
 11280,139,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11281,251,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11282,219,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8161,7 +8161,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11294,254,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11295,253,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11296,257,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11297,130,Hull,,Korpus,Hal,He'er,Hull,Hull,Hull,Bouréal,Hull,Hull,Hull,Hull,Hull,Haru,Hull,Hull,Hull,Hull,Hall,Hull,Hull,Khall,Hull,Hull,Hull,Hull
+11297,130,Hull,Qaea,Korpus,Hal,He'er,Hull,Hull,Hull,Bouréal,Hull,Hull,Hull,Hull,Hull,Haru,Hull,Hull,Hull,Hull,Hall,Hull,Hull,Khall,Hull,Hull,Hull,Hull
 11298,224,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11299,131,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11300,205,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8176,7 +8176,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11309,255,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11310,222,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11311,139,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11312,11,,Maryambulah,Maryjampalie,Mariyampole,Maliyangbolie,Marijampole,Marijampole,Marijampole,Marijampole,Mariampol,Marigiabole,Marijampole,Marijampole,Marijampole,Mariyanpore,Marijampole,Marijampole,Mariampol,Marijampole,Marijampole,Marijampole,Marijampole,Marijampole,,Marijampole,Marijampole,Marijampole
+11312,11,Marijampole,Maryambulah,Maryjampalie,Mariyampole,Maliyangbolie,Marijampole,Marijampole,Marijampole,Marijampole,Mariampol,Marigiabole,Marijampole,Marijampole,Marijampole,Mariyanpore,Marijampole,Marijampole,Mariampol,Marijampole,Mariampol,Marijampole,Marijampole,Marijampole,Marijampole,Marijampole,Marijampole,Marijampole
 11313,204,Salihorsk,Salihursk,Salihorsk,Soligorsk,Suolige'ersike,Salihorsk,Salihorsk,Salihorsk,Salihorsk,Sluzk,Salihorsk,Szalihorszk,Salihorsk,Salihorsk,Sarihorusuku,Saļihorska,Salihorskas,Soligorsk,Salihorsk,Soligorsk,Salihorsk,Salihorsk,Solihorsk,Saligorsk,Saligorsk,Salihorsk,Salihorsk
 11314,254,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11315,246,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8196,11 +8196,11 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11329,97,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11330,219,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11331,58,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11332,131,,,Piekamut,Cockermouth,Kekemaosi,,,,Bonaparteville,Karlugwal,,,Cockermouth,Cockermouth,Kokkāmasu,,,Cockermouth,Cockermouth,,Cockermouth,Cockermouth,Cockermouth,,Cockermouth,,Cockermouth
+11332,131,Cockermouth,Cockermouth,Piekamut,Cockermouth,Kekemaosi,Cockermouth,Cockermouth,Cockermouth,Bonaparteville,Karlugwal,Cockermouth,Cockermouth,Cockermouth,Cockermouth,Kokkāmasu,Cockermouth,Cockermouth,Cockermouth,Cockermouth,,Cockermouth,Cockermouth,Cockermouth,Cockermouth,Cockermouth,Cockermouth,Cockermouth
 11333,126,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11334,135,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11335,255,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11336,243,Roslavl,Rusil,Roslaul,Roslaval,Luosilafu'er,Roslavl,Roslavl,Roslavl,Roslavl,Roslavenland,Roslavl,Roszlavl,Roslavl,Roslavl',Rosuravuri,Roslavl,Roslavlis,Rosław,Roslavl,Roslavl',Roslavl,Roslavl,Roslavl,Roslavl,Roslavl,Roslavl,Roslavl
+11336,243,Roslavl,Rusil,Roslaul,Roslaval,Luosilafu'er,Roslavl,Roslavl,Roslavl,Roslavl,Roslavenland,Roslavl,Roszlavl,Roslavl,Roslavl',Rosuravuri,Roslavl,Roslavlis,Rosław,Roslavl,Roslavl,Roslavl,Roslavl,Roslavl,Roslavl,Roslavl,Roslavl,Roslavl
 11337,222,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11338,253,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11339,249,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8235,11 +8235,11 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11368,222,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11369,205,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11370,206,Minsku,Minisik,Minsk,Minsk,Mingsike,Minsk,Minsk,Minsk,Minsk,Meinha,Minsk,Minszk,Minsk,Minsk,Minsuku,Minska,Minskas,Mińsk,Minsk,Minsk,Minsk,Minsk,Minsk,Minsk,Minsk,Minsk,Minsk
-11371,134,,Sellee,Sligo,Slaygo,Silaige,Sligo,Sligo,Sligo,Éliageac,Slügen,,Sligo,Sligo,Sligo,Suraigo,,Slaigo,Sligo,,Slajgo,Sligo,Sligo,Slajho,,Sligo,Sligo,Sligo
+11371,134,Sligo,Sellee,Sligo,Slaygo,Silaige,Sligo,Sligo,Sligo,Éliageac,Slügen,Sligo,Sligo,Sligo,Sligo,Suraigo,Sligo,Slaigo,Sligo,Sligo,Slajgo,Sligo,Sligo,Slajho,Sligo,Sligo,Sligo,Sligo
 11372,63,Koshalin,Kashalyn,Kasal,Koshalin,Keshalin,Koszalin,Koszalin,Koszalin,Coslen,Köslin,Köslin,Koszalin,Köslin,Coslino,Kosharin,Košalina,Košalinas,Koszalin,Koszalin,Koshalin,Koszalin,Koszalin,Koshalin,Köslin,Koszalin,Koszalin,Koszalin
 11373,250,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11374,126,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11375,252,Gorki,,Horki,Gorki,Gao'erji,Gorki,Gorki,Gorki,Gorki,Gorkendorf,Gorki,Gorki,Gorki,Gorki,Gākī,Gorki,Gorki,Gorki,Gorki,Gorki,Gorki,Gorki,Horky,Gorki,Gorki,Gorki,Gorki
+11375,252,Gorki,Ghurki,Horki,Gorki,Gao'erji,Gorki,Gorki,Gorki,Gorki,Gorkendorf,Gorki,Gorki,Gorki,Gorki,Gākī,Gorki,Gorki,Gorki,Gorki,Gorky,Gorki,Gorki,Horky,Gorki,Gorki,Gorki,Gorki
 11376,138,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11377,251,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11378,121,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8263,19 +8263,19 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11396,260,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11397,221,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11398,88,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11399,92,Lublin,Lubyn,Liublin,Lyublin,Lubulin,Lublin,Lublin,Lublin,Lublin,Lüben,Loyblin,Lublin,Lublin,Lublino,Ruburin,Ļubļina,Liublinas,Lublin,Lublin,Ljublin,Lublin,Lublin,Ljublin,Lublin,Lublin,Lublin,Lublin
+11399,92,Lublin,Lubyn,Liublin,Lyublin,Lubulin,Lublin,Lublin,Lublin,Lublin,Lüben,Loyblin,Lublin,Lublin,Lublino,Ruburin,Ļubļina,Liublinas,Lublin,Lublin,Lyublin,Lublin,Lublin,Ljublin,Lublin,Lublin,Lublin,Lublin
 11400,238,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11401,69,Liberec,Lighirits,Libieresa,Liberets,Libeileici,Liberec,Liberec,Liberec,Liberec,Reichenberg,Liberets,Liberec,Liberec,Liberec,Riberetsu,Libereca,Liberecas,Liberec,Liberec,Liberets,Liberec,Liberec,Liberets,Liberec,Liberec,Liberec,Liberec
 11402,59,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11403,238,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11404,54,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11405,200,Zaporozhe,Zabarujya,Zaparozza,Zaporozhie,Zhaboluore,Záporoží,Zaporižžja,Zaporižžja,Zaporijjia,Saporoschie,Zaporizia,Zaporizzsja,Zaporozhe,Zaporižžja,Zaporīja,Zaporižja,Zaporože,Zaporoże,Zaporijjea,Zaporozh'e,Zaporizjzja,Zaporijya,Zaporizhzhja,Zaporižžja,Zaporiyia,Zaporíjia,Zaporizja
+11405,200,Zaporozhe,Zabarujya,Zaparozza,Zaporozhie,Zhaboluore,Záporoží,Zaporižžja,Zaporižžja,Zaporijjia,Saporoschie,Zaporizia,Zaporizzsja,Zaporozhe,Zaporižžja,Zaporīja,Zaporižja,Zaporože,Zaporoże,Zaporijjea,Zaporozhe,Zaporizjzja,Zaporijya,Zaporizhzhja,Zaporižžja,Zaporiyia,Zaporíjia,Zaporizja
 11406,123,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11407,34,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11408,239,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11409,203,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11410,40,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11411,89,Stanisławów,,Stanislawow,Stanisławów,Stanis�aw�w,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Stanislau,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Sutanisuwafu,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Ivano-Frankivsk,Stanisławów,Stanisławów,Stanisławów,Stanislau
+11411,89,Stanisławów,Stanislawow,Stanislawow,Stanisławów,Stanis�aw�w,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Stanislau,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Sutanisuwafu,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Stanisławów,Ivano-Frankivsk,Stanisławów,Stanisławów,Stanisławów,Stanislau
 11412,260,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11413,88,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11414,69,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8301,7 +8301,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11434,218,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11435,42,Bitburg,Bitburgh,Bitburg,Bitburg,Bitebao,Bitburg,Bitburg,Bitburg,Bitbourg,Bitburg,Bitburg,Bitburg,Bitburg,Bitburg,Bittoburuku,Bitburg,Bitburg,Bitburg,Bitburg,Bitburg,Bitburg,Bitburg,Bitburh,Bitburg,Bitburgo,Bitburg,Bitburg
 11436,257,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11437,226,Dnipropetrovsk,Dnibru,Dniepr,Dnipro,Dinieboluo,Dnipro,Dnipro,Dnipro,Dnipro,Rufstein,Ntnipro,Dnyipro,Dnipropetrovsk,Dnipro,Donipuro,Dnipro,Dnipras,Dniepr,Dnipro,Dnepr,Dnipro,Dnipro,Dnipro,Dnjipro,Dnipró,Dnipro,Dnipro
+11437,226,Dnipropetrovsk,Dnibru,Dniepr,Dnipro,Dinieboluo,Dnipro,Dnipro,Dnipro,Dnipro,Rufstein,Ntnipro,Dnyipro,Dnipropetrovsk,Dnipro,Donipuro,Dnipro,Dnipras,Dniepr,Dnipro,Dnipropetrovsk,Dnipro,Dnipro,Dnipro,Dnjipro,Dnipró,Dnipro,Dnipro
 11438,203,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11439,240,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11440,469,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8343,7 +8343,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11476,245,Millerovo,,,,Millerovo,Millerovo,Millerovo,Millerovo,Millerovo,Müllerau,Millerovo,Millerovo,Millerovo,Millerovo,,Millerovo,Millerovo,Millerovo,Millerovo,Millerovo,Millerovo,Millerovo,,Millerovo,Millerovo,Millerovo,Millerovo
 11477,201,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11478,68,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11479,91,Lwów,Lafif,Lvou,Lvov,Liwofu,Lvov,Lviv,Lviv,Lviv,Lemberg,Lviv,Lviv,Lwów,Leopoli,Rivuiu,Ļvova,Lvovas,Lwów,Liov,L'vov,Lviv,Lviv,Lviv,Lavov,Leópolis,Leópolis,Lemberg
+11479,91,Lwów,Lafif,Lvou,Lvov,Liwofu,Lvov,Lviv,Lviv,Lviv,Lemberg,Lviv,Lviv,Lwów,Leopoli,Rivuiu,Ļvova,Lvovas,Lwów,Liov,Lvov,Lviv,Lviv,Lviv,Lavov,Leópolis,Leópolis,Lemberg
 11480,407,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11481,65,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11482,407,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8387,7 +8387,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11520,43,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11521,15,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11522,70,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11523,401,Frederik Engels,Firidrik iinjilz,Frydrych enhiels,Fridrih engels,Fulidelixia Engesi,Friedrich Engels,Friedrich Engels,Friedrich Engels,Friedrich Engels,Kosakenstadt,Frintrich Έngkels,Friedrich Engels,Engels,Friedrich Engels,Furīdorihi engerusu,Frīdrihs Engelss,Friedrich Engels,Friedrich Engels,Friedrich Engels,Engel',Friedrich Engels,Friedrich Engels,Fridrikh enhels,Friedrich Engels,Friedrich Engels,Friedrich Engels,Friedrich Engels
+11523,401,Frederik Engels,Firidrik iinjilz,Frydrych enhiels,Fridrih engels,Fulidelixia Engesi,Friedrich Engels,Friedrich Engels,Friedrich Engels,Friedrich Engels,Kosakenstadt,Frintrich Έngkels,Friedrich Engels,Engels,Friedrich Engels,Furīdorihi engerusu,Frīdrihs Engelss,Friedrich Engels,Friedrich Engels,Friedrich Engels,Engels,Friedrich Engels,Friedrich Engels,Fridrikh enhels,Friedrich Engels,Friedrich Engels,Friedrich Engels,Friedrich Engels
 11524,407,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11525,69,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11526,220,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8401,7 +8401,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11534,79,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11535,15,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11536,73,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11537,407,Ural'sk,Awral,Uralsku,Uralsk,Wula'er,Oral,Oral,Uralsk,Oural,Gürau,Oral,Oral,Ural'sk,Oral,Oraru,Orala,Oralas,Uralsk,Oral,Ural'sk,Oral,Ora,Uralsk,Ural'sk,Oral,Oral,Oral
+11537,407,Ural'sk,Awral,Uralsku,Uralsk,Wula'er,Oral,Oral,Uralsk,Oural,Gürau,Oral,Oral,Ural'sk,Oral,Oraru,Orala,Oralas,Uralsk,Oral,Uralsk,Oral,Ora,Uralsk,Ural'sk,Oral,Oral,Oral
 11538,407,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11539,70,Žilina,Jilina,Zylina,Zhilina,Rilina,Žilina,Žilina,Žilina,Žilina,Silein,Zilina,Zsolna,Žilina,Zilna,Jirina,Žilina,Žilina,Żylina,Žilina,Zhilina,Žilina,Žilina,Zhylina,Žilina,Žilina,Žilina,Silein
 11540,260,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8425,7 +8425,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11558,86,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11559,218,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11560,55,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11561,226,Krivoi Rih,,,,Keliwoli,Krivoi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,Siegen,Krivoi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,,Krivoi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,Kryvyi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,Siegen
+11561,226,Krivoi Rih,,,,Keliwoli,Krivoi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,Siegen,Krivoi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,,Krivoi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,Krivoy Rog,Krivoi Rih,Krivoi Rih,Kryvyi Rih,Krivoi Rih,Krivoi Rih,Krivoi Rih,Siegen
 11562,35,Maastricht,Mastirikht,Maastrycht,Maastriht,Masitelihete,Maastricht,Maastricht,Maastricht,Maastricht,Maastricht,Maastricht,Maastricht,Maastricht,Maastricht,Māsutorihito,Māstrihta,Mastrichtas,Maastricht,Maastricht,Maastriht,Maastricht,Maastricht,Maastrykht,Maastricht,Maastricht,Maastricht,Maastricht
 11563,15,Rouen,Tulaq,Ruan,Ruan,Lu'ang,Rouen,Rouen,Rouen,Rouen,Rawen,Royen,Rouen,Rouen,Rouen,Rūan,Ruāna,Ruanas,Rouen,Rouen,Ruan,Rouen,Rouen,Ruan,Rouen,Ruan,Ruão,Rouen
 11564,103,Rijeka,Ryyka,Ryka,Rieka,Liyeqia,Rijeka,Rijeka,Rijeka,Rijeka,Sankt Veit am Flaum,Rieka,Fiume,Rijeka,Fiume,Rieka,Rijeka,Rijeka,Rijeka,Rijeka,Rieka,Rijeka,Rijeka,Riyeka,Rijeka,Rijeka,Rijeka,Rijeka
@@ -8478,10 +8478,10 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11611,24,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11612,152,Villach,Fylakh,Philahs,Filah,Feilahe,Villach,Villach,Villach,Villach,Villach,Fillach,Villach,Villach,Villach,Firahha,Fillaha,Filachas,Villach,Villach,Fillah,Villach,Villach,Fillakh,Villach,Villach,Villach,Villach
 11613,30,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11614,233,,Nalatshik,Nalcyk,Nalchik,Na'erqike,Nalčik,Naltšik,Naltšik,Naltchik,Nalchshafen,Naltsik,Nalcsik,Nalchik,Nal'čik,Narichiku,Naļčika,Nalčikas,Nalczyk,Nalcik,Nal'chik,Naltjik,Nalçik,Nalchyk,Naljčik,Nálchik,Naltchik,Naltsjik
+11614,233,Naltschik,Nalatshik,Nalcyk,Nalchik,Na'erqike,Nalčik,Naltšik,Naltšik,Naltchik,Nalchshafen,Naltsik,Nalcsik,Nalchik,Nal'čik,Narichiku,Naļčika,Nalčikas,Nalczyk,Nalcik,Nalchik,Naltjik,Nalçik,Nalchyk,Naljčik,Nálchik,Naltchik,Naltsjik
 11615,39,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11616,30,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11617,231,,Sukhumi,Sukhumi,Suhumi,Suhumi,Suchumi,Suhhumi,Suhumi,Soukhoumi,Suchumi,Soychoymi,Szuhumi,Sukhumi,Sukhumi,Sufumi,Suhumi,Suchumis,Suchumi,Suhumi,Suhum,Suchumi,Sohum,Sukhumi,Suhumi,Sujumi,Sucumi,Soechoemi
+11617,231,Sochumi,Sukhumi,Sukhumi,Suhumi,Suhumi,Suchumi,Suhhumi,Suhumi,Soukhoumi,Suchumi,Soychoymi,Szuhumi,Sukhumi,Sukhumi,Sufumi,Suhumi,Suchumis,Suchumi,Suhumi,Sukhumi,Suchumi,Sohum,Sukhumi,Suhumi,Sujumi,Sucumi,Soechoemi
 11618,153,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11619,46,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11620,52,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8504,7 +8504,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11637,396,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11638,52,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11639,84,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11640,50,Müllheim,,Mullheim,Myulhaym,Mierhaimu,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Mjull'hajm,Müllheim,Müllheim,Mjullhajm,Müllheim,Müllheim,Müllheim,Müllheim
+11640,50,Müllheim,Mullheim,Mullheim,Myulhaym,Mierhaimu,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Müllheim,Mjull'hajm,Müllheim,Müllheim,Mjullhajm,Müllheim,Müllheim,Müllheim,Müllheim
 11641,393,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11642,17,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11643,408,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8588,7 +8588,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11721,158,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11722,358,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11723,158,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11724,237,Elitsa,,,,Elitsa,Elitsa,Elitsa,Elitsa,Elitsa,Elistadt,Elitsa,Elitsa,Elitsa,Elitsa,,Elitsa,Elitsa,Elitsa,Elitsa,Elitsa,Elitsa,Elitsa,,Elitsa,Elitsa,Elitsa,Elistad
+11724,237,Elitsa,,,,Elitsa,Elitsa,Elitsa,Elitsa,Elitsa,Elistadt,Elitsa,Elitsa,Elitsa,Elitsa,,Elitsa,Elitsa,Elitsa,Elitsa,Elista,Elitsa,Elitsa,,Elitsa,Elitsa,Elitsa,Elistad
 11725,276,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11726,158,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11727,235,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8673,13 +8673,13 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 11807,168,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11808,716,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11809,791,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11810,345,Tarsus,,Tars,Tarzus,Ta'ersusi,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tāsusu,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus
+11810,345,Tarsus,Tarsus,Tars,Tarzus,Ta'ersusi,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tāsusu,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus,Tarsus
 11811,347,İzmit,Iizmid,Dadzienyja,Izmit,Yizimite,İzmit,İzmit,İzmit,Izmit,İzmit,Izmit,İzmit,İzmit,İzmit,Izumitto,Izmita,Izmitas,İzmit,Izmit,Izmit,İzmit,İzmit,Izmit,İzmit,İzmit,İzmit,İzmit
 11812,168,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11813,212,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11814,377,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11815,716,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11816,103,,,Ragusa,Raguza,Lagusa,,,Ragusa,Raguse,Ragus,,,Ragusa,Ragusa,Ragūza,,,Ragusa,Ragusa,Raguza,Ragusa,Ragusa,Rahuza,Ragusa,Ragusa,Ragusa,Ragusa
+11816,103,Ragusa,Rajusa,Ragusa,Raguza,Lagusa,Ragusa,Ragusa,Ragusa,Raguse,Ragus,Ragusa,Ragusa,Ragusa,Ragusa,Ragūza,Ragusa,Ragusa,Ragusa,Ragusa,Raguza,Ragusa,Ragusa,Rahuza,Ragusa,Ragusa,Ragusa,Ragusa
 11817,360,,,,,,,,,,,,,,,,,,,,,,,,,,,
 11818,731,Selaniku,Salunik,Saloniki,Solun,Saisaluoniji,Soluň,Thessaloníki,Thessaloniki,Thessalonique,Teßeenbach,Thessaloniki,Szaloniki,Thessaloniki,Salonicco,Tessaroniki,Saloniki,Salonikai,Saloniki,Salonic,Saloniki,Thessaloniki,Selanik,Saloniky,Solun,Salónica,Salonica,Saloniki
 11819,794,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8896,7 +8896,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12031,531,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12032,528,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12033,452,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12034,513,Batna,,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batona,Batna,Batna,Batina,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna
+12034,513,Batna,Batina,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batona,Batna,Batna,Batina,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna,Batna
 12035,435,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12036,606,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12037,428,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -8913,7 +8913,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12048,671,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12049,446,Port Said,Bursaeid,Port-said,Port said,Saidegang,Port Said,Port Said,Port Said,Port-Saïd,Port Said,Port Saint,Port Szaíd,Port Said,Porto Said,Pōtosaido,Portsaida,Port Saidas,Port Said,Port Said,Port-Said,Port Said,Port Said,Port-sayid,Port Said,Puerto Saíd,Porto Saíde,Port Said
 12050,431,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12051,460,Constantine,,Stastajanina,Konstantin,Constantine,Constantine,Constantine,Constantine,Constantine,Constantine,Constantine,Constantine,Constantine,Constantine,Konsutantin,Constantine,Constantine,Constantine,Constantine,Konstantin,Constantine,Constantine,Kostjantyn,Constantine,Constantine,Constantine,Constantine
+12051,460,Constantine,Qusanutina,Stastajanina,Konstantin,Constantine,Constantine,Constantine,Constantine,Constantine,Constantine,Constantine,Constantine,Constantine,Constantine,Konsutantin,Constantine,Constantine,Constantine,Constantine,Konstantin,Constantine,Constantine,Kostjantyn,Constantine,Constantine,Constantine,Constantine
 12052,613,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12053,602,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12054,363,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9051,7 +9051,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12186,333,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12187,398,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12188,627,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12189,409,Khabarovsk,Khabarufisk,Chabarausk,Habarovsk,Boli,Chabarovsk,Habarovsk,Habarovsk,Khabarovsk,Chabarowsk,Chabarofsk,Habarovszk,Khabarovsk,Chabarovsk,Habarofusuku,Habarovska,Chabarovskas,Chabarowsk,Habarovsk,Habarovsk,Chabarovsk,Habarovsk,Khabarovsk,Habarovsk,Jabárovsk,Khabarovsk,Chabarovsk
+12189,409,Khabarovsk,Khabarufisk,Chabarausk,Habarovsk,Boli,Chabarovsk,Habarovsk,Habarovsk,Khabarovsk,Chabarowsk,Chabarofsk,Habarovszk,Khabarovsk,Chabarovsk,Habarofusuku,Habarovska,Chabarovskas,Chabarowsk,Habarovsk,Khabarovsk,Chabarovsk,Habarovsk,Khabarovsk,Habarovsk,Jabárovsk,Khabarovsk,Chabarovsk
 12190,721,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12191,741,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12192,657,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9075,7 +9075,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12210,670,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12211,385,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12212,672,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12213,623,Aparri,,Aparri,Aparri,Apali,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparuri.,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparrí,Aparri,Aparri
+12213,623,Aparri,Aparri,Aparri,Aparri,Apali,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparuri.,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparri,Aparrí,Aparri,Aparri
 12214,386,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12215,336,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12216,398,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9195,7 +9195,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12330,673,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12331,621,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12332,670,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12333,584,Aschgabat,Hubun abad,Cierci,Ashhabad,Ashihabade,Ašchabad,Aşgabat,Ašgabat,Achgabat,Aşgabat,Asgkabat,Aşgabat,Ashgabat,Aşgabat,Ashigabāto,Ašgabata,Ašchabadas,Aszchabad,Așgabat,Ashhabad,Asjchabad,Aşkabat,Ashhabat,Ašgabat,Asjabad,Asgabade,Asjchabad
+12333,584,Aschgabat,Hubun abad,Cierci,Ashhabad,Ashihabade,Ašchabad,Aşgabat,Ašgabat,Achgabat,Aşgabat,Asgkabat,Aşgabat,Ashgabat,Aşgabat,Ashigabāto,Ašgabata,Ašchabadas,Aszchabad,Așgabat,Ashkhabad ,Asjchabad,Aşkabat,Ashhabat,Ašgabat,Asjabad,Asgabade,Asjchabad
 12334,496,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12335,640,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12336,300,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9233,7 +9233,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12368,395,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12369,375,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12370,732,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12371,669,Hollandia,,Halandyja,Holandiya,Helancheng,Hollandia,Hollandia,Hollandia,Hollandia,Hollandia,Hollandia,Hollandia,Hollandia,Hollandia,Oranda,Hollandia,Hollandia,Hollandia,Hollandia,Gollandija,Hollandia,Hollandia,Hollandija,Hollandia,Hollandia,Hollandia,Hollandia
+12371,669,Hollandia,Hulanda,Halandyja,Holandiya,Helancheng,Hollandia,Hollandia,Hollandia,Hollandia,Hollandia,Hollandia,Hollandia,Hollandia,Hollandia,Oranda,Hollandia,Hollandia,Hollandia,Hollandia,Gollandija,Hollandia,Hollandia,Hollandija,Hollandia,Hollandia,Hollandia,Hollandia
 12372,676,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12373,289,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12374,378,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9307,7 +9307,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12443,717,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12444,673,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12445,363,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12446,537,Toyohara,Yujunu-sakhalinsik,Juzna-sachalinsk,Yuzhnosahalinsk,Fengyuan,Južno-Sachalinsk,Južno-Sahhalinsk,Južno-Sahalinsk,Ioujno-Sakhalinsk,Juschno-Sachalinsk,Gioyzno-Sachalinsk,Juzsno-Szahalinszk,Toyohara,Južno-Sachalinsk,Yujinosaharinsuku,Južnosahaļinska,Južno Sachalinskas,Jużnosachalińsk,Iujno-Sahalinsk,Juzhno-Sahalinsk,Juzjno-Sachalinsk,Yujno-Sahalinsk,Juzhno-sakhalinsk,Južno-Sahalinsk,Yuzhno-Sajalinsk,Iujno-Sakhalinsk,Joezjno-Sachalinsk
+12446,537,Toyohara,Yujunu-sakhalinsik,Juzna-sachalinsk,Yuzhnosahalinsk,Fengyuan,Južno-Sachalinsk,Južno-Sahhalinsk,Južno-Sahalinsk,Ioujno-Sakhalinsk,Juschno-Sachalinsk,Gioyzno-Sachalinsk,Juzsno-Szahalinszk,Toyohara,Južno-Sachalinsk,Yujinosaharinsuku,Južnosahaļinska,Južno Sachalinskas,Jużnosachalińsk,Iujno-Sahalinsk,Yuzhno-Sakhalinsk,Juzjno-Sachalinsk,Yujno-Sahalinsk,Juzhno-sakhalinsk,Južno-Sahalinsk,Yuzhno-Sajalinsk,Iujno-Sakhalinsk,Joezjno-Sachalinsk
 12447,741,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12448,612,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12449,288,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9320,13 +9320,13 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12456,394,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12457,669,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12458,372,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12459,357,Bangor,,Banhor,Bangor,Bange,Bangor,Bangor,Bangor,Bangor,Bangor,Bangor,Bangor,Bangor,Bangor,Bangōru,Bangor,Bangoras,Bangor,Bangor,Bangor,Bangor,Bangor,Banhor,Bangor,Bangor,Bangor,Bangor
+12459,357,Bangor,Banjur,Banhor,Bangor,Bange,Bangor,Bangor,Bangor,Bangor,Bangor,Bangor,Bangor,Bangor,Bangor,Bangōru,Bangor,Bangoras,Bangor,Bangor,Bangor,Bangor,Bangor,Banhor,Bangor,Bangor,Bangor,Bangor
 12460,741,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12461,484,Tijuana,Tikhwana,Tyun,Tihuana,Dihuana,Tijuana,Tijuana,Tijuana,Tijuana,Tijuana,Tichoyana,Tijuana,Tijuana,Tijuana,Tifuana,Tihuana,Tichuana,Tijuana,Tijuan,Tihuana,Tijuana,Tijuana,Tikhuana,Tijuana,Tijuana,Tijuana,Tijuana
 12462,426,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12463,373,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12464,640,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12465,585,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12465,585,Xiva,Khywa,Hiva,Hiva,Xiwa,Chiva,Hiiva,Hiva,Khiva,Xiva,Chiva,Xiva,Khiva,Khiva,Hivua,Hiva,Chiva,Chiwa,Xiva,Khiva,Chiva,Hive,Khiva,Xiva,Jiva,Quiva,Xiva
 12466,503,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12467,620,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12468,300,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9337,7 +9337,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12473,677,Halepi,Halab,Halasavannie,Haleb,Alepo,Aleppo,Aleppo,Aleppo,Alep,Aleppo,Chalepi,Aleppó,Aleppo,Aleppo,Areppo,Haleba,Alepas,Aleppo,Alep,Aleppo,Aleppo,Halep,Aleppo,Alep,Alepo,Alepo,Aleppo
 12474,585,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12475,741,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12476,352,Hakkâri,,Chakkary,Hakkari,Hakali,Hakkâri,Hakkâri,Hakkâri,Hakkari,Hakkari,Hakkâri,Hakkari,Hakkâri,Hakkâri,Yae-kan,Hakkâri,Hakkâri,Hakkâri,Hakkâri,Hakkjari,Hakkâri,Hakkâri,Hakkari,Hakkâri,Hakkâri,Hakkâri,Hakkâri
+12476,352,Hakkâri,Hakkari,Chakkary,Hakkari,Hakali,Hakkâri,Hakkâri,Hakkâri,Hakkari,Hakkari,Hakkâri,Hakkari,Hakkâri,Hakkâri,Yae-kan,Hakkâri,Hakkâri,Hakkâri,Hakkâri,Hakkjari,Hakkâri,Hakkâri,Hakkari,Hakkâri,Hakkâri,Hakkâri,Hakkâri
 12477,689,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12478,715,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12479,496,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9444,7 +9444,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12580,571,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12581,732,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12582,682,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12583,732,Bishkeku,Biushakik,Biskiek,Bishkek,Bishikaike,Biškek,Biškek,Biškek,Bichkek,Bischkek,Biskek,Biskek,Bishkek,Biškek,Bishukeku,Biškeka,Biškekas,Biszkek,Bișkek,Bishkek,Bisjkek,Bişkek,Bishkek,Biškek,Biskek,Bisqueque,Bisjkek
+12583,732,Bishkeku,Biushakik,Biskiek,Bishkek,Bishikaike,Biškek,Biškek,Biškek,Bichkek,Bischkek,Biskek,Biskek,Bishkek,Biškek,Bishukeku,Biškeka,Biškekas,Biszkek,Bișkek,Frunze,Bisjkek,Bişkek,Bishkek,Biškek,Biskek,Bisqueque,Bisjkek
 12584,572,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12585,388,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12586,384,Omaha,Uwmaha,Omaha,Omaha,Aomaha,Omaha,Omaha,Omaha,Omaha,Omaha,Όmacha,Omaha,Omaha,Omaha,Omaha,Omaha,Omaha,Omaha,Omah,Omaha,Omah,Omah,Omakha,Omaha,Omaha,Omaha,Omaha
@@ -9455,7 +9455,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12591,561,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12592,644,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12593,469,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12594,588,Semej,Siama,Siemny,Semey,Saimeiyi,Semej,Semej,Semey,Semeï,Semei,Semei,Szemej,Semipalatinsk,Semej,Semei,Semeja,Semejus,Semej,Semeı,Semej,Semej,Semey,Semej,Semipalatinsk,Semey,Semei,Semey
+12594,588,Semej,Siama,Siemny,Semey,Saimeiyi,Semej,Semej,Semey,Semeï,Semei,Semei,Szemej,Semipalatinsk,Semej,Semei,Semeja,Semejus,Semej,Semeı,Semipalatinsk ,Semej,Semey,Semej,Semipalatinsk,Semey,Semei,Semey
 12595,576,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12596,756,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12597,391,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9505,7 +9505,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12641,563,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12642,382,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12643,516,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12644,564,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12644,564,Ust-bargusin,Ust-bargusin,Usc-barhuzin,Ust-bargusin,Wusijibaergujin,Ust-bargusin,Ust-bargusin,Ust-bargusin,Oust-bargouzine,Ust-bargusin,Ust-bargusin,Ust-bargusin,Ust-Barguzin,Ust-bargusin,Ust - bargusin,Ust-bargusin,Ust barguzinas,Ust-barguzin,Ust-bargusin,Ust-Barguzin,Ust-bargusin,Ust-bargusin,Ust-barhuzyn,Ust-bargusin,Ust-barguzin,Ust-bargusin,Ust-bargusin
 12645,518,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12646,392,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12647,566,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9672,7 +9672,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 12808,718,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12809,414,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12810,477,Veracruz,Wilayat firakruz,Veracrus,Verakrus,Weilakelusizhou,Veracruz,Veracruzi osariik,Veracruz,Veracruz,Veracruz,Verakroys,Veracruz,Veracruz,Veracruz,Bera kurusushū,Verakrusa de Ignasio de la Ljave,Verakrusas,Veracruz,Veracruz,Verakrus,Veracruz,Veracruz,Verakrus,Veracruz,Veracruz de Ignacio de la Llave,Veracruz,Veracruz de Ignacio de la Llave
-12811,480,Piedras Negras,,Cornyja kamiani,Piedras negras,Heishicheng,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Kuroi ishi,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,P'edras-Negras,Piedras Negras,Piedras Negras,Piedras negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras
+12811,480,Piedras Negras,Alhijarat alsawda,Cornyja kamiani,Piedras negras,Heishicheng,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,Kuroi ishi,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras,P'edras-Negras,Piedras Negras,Piedras Negras,Piedras negras,Piedras Negras,Piedras Negras,Piedras Negras,Piedras Negras
 12812,271,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12813,292,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12814,269,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9905,7 +9905,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 13044,633,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13045,633,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13046,633,Eniwetok,Atwl iinyuytuk,Eniwetok,Eniwetok,Aineiweitake,Eniwetok,Enewetak,Enewetak,Eniwetok,Eniwetok,Eniwetok,Eniwetok,Eniwetok,Enewetak,Eniuetoku kanshō,Eniwetok,Enivetokas,Enewetak,Eniwetok,Enivetok,Enewetak,Enewetak Mercan Adaları,Enivetok,Enewetak,Enewetak,Enewetak,Enewetak
-13047,632,Wake,,Wake,Wake,Weikedao,Wake,Wake,Wake,Wake,Wake,Wake,Wake,Wake,Wake,Ueiku,Wake,Wake,Wake,Wake,Uejk,Wake,Wake,Wake,Wake,Wake,Wake,Wake
+13047,632,Wake,Astayqaz,Wake,Wake,Weikedao,Wake,Wake,Wake,Wake,Wake,Wake,Wake,Wake,Wake,Ueiku,Wake,Wake,Wake,Wake,Uejk,Wake,Wake,Wake,Wake,Wake,Wake,Wake
 13048,727,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13049,727,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13050,642,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -9921,7 +9921,7 @@ Province id,StateID,albanian,arab,belarusian,bulgarian,chinese,czech,estonian,fi
 13060,516,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13061,644,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13062,644,,,,,,,,,,,,,,,,,,,,,,,,,,,
-13063,644,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13063,644,Anadyr,Anadir,Anadyr,Anadyr,Anadyr,Anadyr,Anadyr,Anadyr,Anadyr,Anadyr,Anadyr,Anadir,Anadyr,Anadyr,Anadiri,Anadyr,Anadyr,Anadyr,Anadyr,Anadyr,Anadyr,Anadyr,Anadyr,Anadir,Anadyr,Anadyr,Anadyr
 13064,516,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13065,516,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13066,101,,,,,,,,,,,,,,,,,,,,,,,,,,,
