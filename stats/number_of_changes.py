@@ -7,9 +7,7 @@ provinces = pd.read_csv("../provinces.csv", index_col=0)
 states = pd.read_csv("../states.csv", index_col=0)
 
 not_implemented_language = [
-    "ukrainian",
     "belarusian",
-    "bulgarian"
 ]
 
 languages = set(states.columns)

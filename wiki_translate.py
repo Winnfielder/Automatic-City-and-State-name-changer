@@ -9,8 +9,8 @@ from transliterate import translit
 from lang_trans.arabic import arabtex
 from googletrans import Translator
 
-provinces = pd.read_csv("new provinces.csv", index_col=0)
-states = pd.read_csv("new_states.csv",index_col=0)
+provinces = pd.read_csv("provinces.csv", index_col=0)
+states = pd.read_csv("states.csv",index_col=0)
 reference_language = 'english'
 reference_language_code = 'en'
 backup_language = 'german'
@@ -41,14 +41,13 @@ def translate_dataframe(dataframe,language,language_code):
                 new_name = page_py_loc.title
                 if (language=='chinese'):
                     new_name = pinyin.get(new_name,format="strip",)
-                elif (language=='russian' or language=='greek'):
+                elif (language in ['russian','greek','ukrainian','bulgarian']):
                     new_name = translit(new_name,language_code,reversed=True)
                 elif (language=='arab'):
                     new_name = translator.translate(new_name,dest='ar').pronunciation
-                    new_name = new_name.replace("'","").replace('.','')
                 elif (language=='japanese'):
                     new_name = translator.translate(new_name,dest='ja').pronunciation
-                    new_name = new_name.replace("~","").replace("=","")
+                new_name = new_name.replace("'","").replace('.','').replace("~","").replace("=","")
                 new_name = new_name.capitalize()
                 # the is a parentesis remove it
                 if new_name.find('(')!=-1:
@@ -68,8 +67,10 @@ def translate_dataframe(dataframe,language,language_code):
     return dataframe
 
 languages = [
-#    ('arab','ar')
-    ('japanese','ja')
+    ('bulgarian','bg')
+#    ('ukrainian','uk')
+#    ('arab','ar'),
+#    ('japanese','ja'),
  #   ('english','en'),
 #     ('chinese','zh'),
 #     ('spanish','es'),
@@ -82,7 +83,7 @@ languages = [
 #     ('estonian','et'),
 #     ('finnish','fi'),
 #     ('french','fr'),
-# #    ('german','de'),
+#     ('german','de'),
 #    ('greek','el'),
 #     ('hungarian','hu'),
 #     ('latvian','lv'),

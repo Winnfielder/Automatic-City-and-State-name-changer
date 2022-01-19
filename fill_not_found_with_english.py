@@ -5,6 +5,8 @@ import pandas as pd
 
 languages = [
     #    ('english','en')
+    ('bulgarian','bg'),
+    ('ukrainian','uk'),
     ('japanese','ja'),
     ('arab','ar'),
     ('chinese','zh'),
@@ -31,7 +33,7 @@ languages = [
 ]
 
 # fill not found shuld be done only with states
-for file in ["new_states"]:
+for file in ["states"]:
 
     df = pd.read_csv(file+".csv",index_col=0)
 
