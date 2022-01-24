@@ -7,6 +7,7 @@ def load_dataframe(filepath):
         return df.set_index(df.columns[0])
 
 def write_dataframe(dataframe,filepath):
+    dataframe = dataframe.reset_index()
     dict = dataframe.to_dict('records')
     with open(filepath,'w') as file:
         yaml.dump(dict,file,allow_unicode=True)
