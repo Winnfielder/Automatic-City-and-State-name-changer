@@ -2,6 +2,7 @@
 # so fill it with the english one
 
 import pandas as pd
+from load_write_database import load_dataframe, write_dataframe
 
 languages = [
     #    ('english','en')
@@ -36,7 +37,7 @@ languages = [
 # fill not found shuld be done only with states
 for file in ["states"]:
 
-    df = pd.read_csv(file+".csv",index_col=0)
+    df = load_dataframe(file+".yaml")
 
 
     row_index = df['english'].notna()
@@ -55,5 +56,5 @@ for file in ["states"]:
 
     print(missing_value_df)
 
-    df.to_csv(file+".csv")
+    write_dataframe(df,file+".yaml")
 

@@ -2,9 +2,10 @@ import os
 
 import pandas as pd
 from tqdm import tqdm
+from load_write_database import load_dataframe, write_dataframe
 
-states = pd.read_csv("states.csv", index_col=0)
-provices = pd.read_csv("provinces.csv", index_col=1)
+states = load_dataframe("states.yaml")
+provinces = load_dataframe("provinces.yaml")
 
 languages = set(states.columns)
 

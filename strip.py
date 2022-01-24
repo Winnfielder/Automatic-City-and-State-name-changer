@@ -1,14 +1,15 @@
 # run through the database and remove trailing and leading white spaces
 
 import pandas as pd
+from load_write_database import load_dataframe, write_dataframe
 
-provinces = pd.read_csv("provinces.csv", index_col=0, dtype=object)
-states = pd.read_csv("states.csv", index_col=0, dtype=object)
+provinces = load_dataframe("provinces.yaml")
+states = load_dataframe("states.yaml")
 
 
 
 states = states.apply(lambda x: x.str.strip())
 provinces = provinces.apply(lambda x: x.str.strip())
 
-states.to_csv('states.csv')
-provinces.to_csv('provinces.csv')
+write_dataframe(states,'states.yaml')
+write_dataframe(provinces,'provinces.yaml')

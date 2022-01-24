@@ -4,7 +4,7 @@ Welcome to the development repository of the Hearts of Iron 4 mod "Automatic Cit
 
 The mod aims to create an immersive and realistic simulation of foregneir territorial occupation and integration by changing names and cities state in the language / culture or the owner.
 
-Central part of this work is the *database* `provinces.csv` and `states.csv` where all the different name version are stored.
+Central part of this work is the *database* `provinces.yaml` and `states.yaml` where all the different name version are stored.
 
 If you want to contribute to the mod only modifying these file would be of great help.
 

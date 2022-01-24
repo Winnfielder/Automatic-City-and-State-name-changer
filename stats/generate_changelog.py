@@ -1,11 +1,12 @@
 import pandas as pd
 from collections import namedtuple
+from load_write_database import load_dataframe, write_dataframe
 
-old_provinces = pd.read_csv("provinces.csv", index_col=0)
-old_states = pd.read_csv("states.csv", index_col=0)
+old_provinces = load_dataframe("provinces.yaml")
+old_states = load_dataframe("states.yaml")
 
-new_provinces = pd.read_csv("new_provinces.csv", index_col=0)
-new_states = pd.read_csv("new_states.csv", index_col=0)
+new_provinces = load_dataframe("new_provinces.yaml")
+new_states = load_dataframe("new_states.yaml")
 
 languages = [
 #    ('english','en'),

@@ -3,8 +3,10 @@
 
 import pandas as pd
 
-provinces = pd.read_csv("../provinces.csv", index_col=0)
-states = pd.read_csv("../states.csv", index_col=0)
+from load_write_database import load_dataframe, write_dataframe
+
+states = load_dataframe("states.yaml")
+provinces = load_dataframe("provinces.yaml")
 
 languages = set(states.columns)
 languages.remove("english")

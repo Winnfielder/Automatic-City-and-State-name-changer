@@ -1,11 +1,11 @@
 import pandas as pd
+from load_write_database import load_dataframe, write_dataframe
 
+filename = "../Dynamic States and Cities Rename/russian_name.txt"
+language = "russian"
 
-filename = "../Dynamic States and Cities Rename/french_name.txt"
-language = "french"
-
-provinces = pd.read_csv("new_provinces.csv", index_col=0)
-states = pd.read_csv("new_states.csv", index_col=0)
+states = load_dataframe("states.yaml")
+provinces = load_dataframe("states.csv")
 
 starting_line = 0
 
@@ -42,10 +42,10 @@ for line in lines[starting_line:]:
             res = input("state {}: renaming {} to {} in {}?".format(state, old_state_name, new_state_name, language))
             if (res=='y'):
                 states.loc[states.index==state,language] = new_state_name
-                states.to_csv("new_states.csv")
+                write_dataframe(states,"new_states.yaml")
             elif res!='n':
                 states.loc[states.index==state,language] = res
-                states.to_csv("new_states.csv")
+                write_dataframe(states,"new_states.yaml")
             else:
                  new_state_name = old_state_name
     elif line.find("set_province_name")!=-1:
@@ -65,9 +65,9 @@ for line in lines[starting_line:]:
             res = input("city {}: renaming {} to {} in {}?".format(province_id, old_province_name, new_province_name, language))
             if (res=='y'):
                 provinces.loc[provinces.index==province_id,language] = new_province_name
-                provinces.to_csv("new_provinces.csv")
+                write_dataframe(provinces,"new_provinces.yaml")
             elif res!='n':
                 provinces.loc[provinces.index==province_id,language] = res
-                provinces.to_csv("new_provinces.csv")
+                write_dataframe(provinces,"new_provinces.yaml")
 
 
