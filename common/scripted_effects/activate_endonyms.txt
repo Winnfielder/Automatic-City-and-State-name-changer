@@ -68,6 +68,18 @@ activate_endonyms = {
                     apply_swedish_endonyms = yes
                 }
 
+        else_if = { limit = { owner = { tag = BUL } }
+                            apply_bulgarian_endonyms = yes
+                        }
+
+        else_if = { limit = { owner = { tag = BLR } }
+                                    apply_belarusian_endonyms = yes
+                                }
+
+        else_if = { limit = { owner = { tag = UKR } }
+                                    apply_ukrainian_endonyms = yes
+                                }
+
         else_if = { limit = { owner = { is_chinese_speaking_country = yes } }
             apply_chinese_endonyms = yes
         }
