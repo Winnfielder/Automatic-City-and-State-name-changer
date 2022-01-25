@@ -127,23 +127,23 @@
   arab: Ermland-Masuren
   belarusian: Warminska-Mazurskaya
   bulgarian: Ermland-Masuren
-  chinese: Wa'ermi-mazulisheng
+  chinese: Waermi-mazulisheng
   czech: Ermland-Masuren
-  danish: .nan
+  danish: Warmian Masuria
   dutch: Ermland-Masuren
-  english: Ermland-Masuren
+  english: Warmian Masuria
   estonian: Ermland-Masuren
   finnish: Ermland-Masuren
   french: Warmie-Mazurie
   german: Ermland-Masuren
   greek: Ermland-Masuren
-  hindi: .nan
+  hindi: Warmian Masuria
   hungarian: Ermland-Masuren
   italian: Varmia-Masuria
   japanese: Ermland-Masuren
   latvian: Ermland-Masuren
   lithuanian: Ermland-Masuren
-  norwegian: .nan
+  norwegian: Warmian Masuria
   polish: Warmia-Mazury
   portuguese: Ermland-Masuren
   romanian: Ermland-Masuren
@@ -1271,34 +1271,34 @@
   yugoslav: Madrid
 - ID: 42
   albanian: Moselland
-  arab: Moselland
-  belarusian: Moselland
-  bulgarian: Moselland
-  chinese: Mozelan
-  czech: Moselland
-  danish: .nan
-  dutch: Moselland
+  arab: Mwzyl
+  belarusian: Mozel
+  bulgarian: Mozel
+  chinese: Mozeerhe
+  czech: Mosela
+  danish: Mosel
+  dutch: Moezel
   english: Moselland
-  estonian: Moselland
-  finnish: Moselland
+  estonian: Moseli
+  finnish: Mosel
   french: Moselle
   german: Moselland
-  greek: Moselland
-  hindi: .nan
-  hungarian: Moselland
+  greek: Mozellas
+  hindi: Moselland
+  hungarian: Mosel
   italian: Mosella
-  japanese: Moselland
-  latvian: Moselland
-  lithuanian: Moselland
-  norwegian: .nan
-  polish: Moselland
-  portuguese: Moselland
-  romanian: Moselland
-  russian: Moselland
-  spanish: Moselland
-  swedish: Moselland
-  turkish: Moselland
-  ukrainian: Moselland
+  japanese: Mozeruchuan
+  latvian: Mozele
+  lithuanian: Mozelis
+  norwegian: Mosel
+  polish: Mozela
+  portuguese: Mosela
+  romanian: Mosela
+  russian: Mozel
+  spanish: Mosela
+  swedish: Mosel
+  turkish: Moselle
+  ukrainian: Mozel
   yugoslav: Moselland
 - ID: 43
   albanian: Northern Hungary
@@ -2262,36 +2262,36 @@
   ukrainian: Zakarpattja
   yugoslav: Zakarpatje
 - ID: 74
-  albanian: Eastern Sudetenland
-  arab: Eastern Sudetenland
+  albanian: Sudetenland Lindore
+  arab: Sudatinand Alsharqia
   belarusian: Eastern Sudetenland
-  bulgarian: Eastern Sudetenland
+  bulgarian: Iztochen Sudeenland
   chinese: Dongsutaide
-  czech: Eastern Sudetenland
-  danish: .nan
+  czech: Vychodni Sudetensko
+  danish: Ost Sudetenland
   dutch: Oostelijk Sudetenland
   english: Eastern Sudetenland
-  estonian: Eastern Sudetenland
-  finnish: Eastern Sudetenland
-  french: Eastern Sudetenland
+  estonian: Ida-sudetenland
+  finnish: Itainen Sudetenland
+  french: Sudenes De Lest
   german: Ostsudetenland
-  greek: Eastern Sudetenland
-  hindi: .nan
-  hungarian: Eastern Sudetenland
+  greek: Anatoliki Soudetinan
+  hindi: Poorvee Sudetanalaind
+  hungarian: Kelet-szudeten
   italian: Sudeti orientali
-  japanese: Eastern Sudetenland
-  latvian: Eastern Sudetenland
-  lithuanian: Eastern Sudetenland
-  norwegian: .nan
+  japanese: Sujienrando
+  latvian: Austrumu Sudetenland
+  lithuanian: Rytu Svaiginlandas
+  norwegian: Ost-sudetenland
   polish: Wschodni Kraj Sudecki
-  portuguese: Eastern Sudetenland
+  portuguese: Sudetenland Oriental
   romanian: Eastern Sudetenland
-  russian: Eastern Sudetenland
-  spanish: Eastern Sudetenland
-  swedish: Eastern Sudetenland
-  turkish: Eastern Sudetenland
-  ukrainian: Eastern Sudetenland
-  yugoslav: Eastern Sudetenland
+  russian: Vostochnaya Sudetenlanda
+  spanish: Sudetenland Del Este
+  swedish: Ostra Sudetenland
+  turkish: Dogu Sudetenland
+  ukrainian: Skhidna Sudetenland
+  yugoslav: Istocni Sudetenland
 - ID: 75
   albanian: Moravia
   arab: Murafya
@@ -2324,36 +2324,36 @@
   ukrainian: Moravija
   yugoslav: Moravska
 - ID: 76
-  albanian: North Transylvania
-  arab: North Transylvania
-  belarusian: North Transylvania
-  bulgarian: North Transylvania
-  chinese: Beitelanxiwaniya
-  czech: North Transylvania
-  danish: .nan
+  albanian: Transilvani Veriore
+  arab: Shamal Transilfanya
+  belarusian: Paunocnaja Transilvanija
+  bulgarian: Severna Transilvaniya
+  chinese: Beilanshilannaniya
+  czech: Severni Transylvania
+  danish: Northern Transylvania
   dutch: Noord-Transsylvanië
-  english: North Transylvania
-  estonian: North Transylvania
-  finnish: North Transylvania
-  french: North Transylvania
+  english: Northern Transylvania
+  estonian: Pohja Transilvania
+  finnish: Pohjois-transylvania
+  french: Transylvanie Du Nord
   german: Nordsiebenbürgen
-  greek: North Transylvania
-  hindi: .nan
-  hungarian: North Transylvania
+  greek: Voreia Transylvania
+  hindi: Uttaree Traansilveniya
+  hungarian: Eszak-erdely
   italian: Transilvania Settentrionale
-  japanese: North Transylvania
-  latvian: North Transylvania
-  lithuanian: North Transylvania
-  norwegian: .nan
+  japanese: Kita Toranshirubania
+  latvian: Ziemelu Transilvanija
+  lithuanian: Siaures Transilvanija
+  norwegian: Northern Transylvania
   polish: Północna Transylwania
-  portuguese: North Transylvania
-  romanian: North Transylvania
-  russian: North Transylvania
-  spanish: North Transylvania
-  swedish: North Transylvania
-  turkish: North Transylvania
-  ukrainian: North Transylvania
-  yugoslav: North Transylvania
+  portuguese: Norte Da Transilvania
+  romanian: Transilvania De Nord
+  russian: Severnaya Transilvaniya
+  spanish: Transilvania Norte
+  swedish: Northern Transylvania
+  turkish: Kuzey Transilvanya
+  ukrainian: Pivnichna Transilvaniya
+  yugoslav: Sjeverna Transilvanija
 - ID: 77
   albanian: Dobrudja
   arab: Dibruja
@@ -2665,36 +2665,36 @@
   ukrainian: Poznan
   yugoslav: Poznanj
 - ID: 87
-  albanian: Łódz
-  arab: Łódz
-  belarusian: Łódz
-  bulgarian: Łódz
-  chinese: Ł�dz
-  czech: Łódz
-  danish: .nan
+  albanian: Lodzh
+  arab: Wwdj
+  belarusian: Lodz
+  bulgarian: Lodz
+  chinese: 'Luo Zi '
+  czech: Lodz
+  danish: Lodz
   dutch: Lodz
-  english: Łódz
-  estonian: Łódz
-  finnish: Łódz
-  french: Łódz
+  english: Lodz
+  estonian: Lodz
+  finnish: Lodz
+  french: Lodz
   german: Litzmannstadt
-  greek: Łódz
-  hindi: .nan
-  hungarian: Łódz
+  greek: Lotz
+  hindi: Lodz
+  hungarian: Lodz
   italian: Lodzia
-  japanese: Łódz
-  latvian: Łódz
-  lithuanian: Łódz
-  norwegian: .nan
+  japanese: Utsuchi
+  latvian: Lodza
+  lithuanian: Lodze
+  norwegian: Lodz
   polish: Łódz
-  portuguese: Łódz
-  romanian: Łódz
-  russian: Lodz'
-  spanish: Łódz
-  swedish: Łódz
-  turkish: Łódz
-  ukrainian: Łódz
-  yugoslav: Łódz
+  portuguese: Lodz
+  romanian: Lodz
+  russian: Lodz
+  spanish: Lodz
+  swedish: Lodz
+  turkish: Lodz
+  ukrainian: Lodz
+  yugoslav: Lodz
 - ID: 88
   albanian: Krakovi
   arab: Krakuf
@@ -2852,35 +2852,35 @@
   yugoslav: Lublin
 - ID: 93
   albanian: Wołyn
-  arab: Wołyn
-  belarusian: Wołyn
-  bulgarian: Wołyn
-  chinese: Woloniya
-  czech: Wołyn
-  danish: .nan
-  dutch: Wołyn
-  english: Wołyn
-  estonian: Wołyn
-  finnish: Wołyn
-  french: Wołyn
+  arab: Fwlyny
+  belarusian: Valyn
+  bulgarian: Voliniia
+  chinese: Woliniya
+  czech: Volyn
+  danish: Volhynien
+  dutch: Wolynie
+  english: Volhynia
+  estonian: Voloonia
+  finnish: Volynia
+  french: Volhynie
   german: Wolhynien
   greek: Wołyn
-  hindi: .nan
+  hindi: Volhynia
   hungarian: Wołyn
   italian: Volinia
-  japanese: Wołyn
-  latvian: Wołyn
-  lithuanian: Wołyn
-  norwegian: .nan
+  japanese: Vuoruini
+  latvian: Volinija
+  lithuanian: Voluine
+  norwegian: Volhynia
   polish: Wołyn
-  portuguese: Wołyn
-  romanian: Wołyn
+  portuguese: Volinia
+  romanian: Volania
   russian: Volyn
-  spanish: Wołyn
-  swedish: Wołyn
-  turkish: Wołyn
-  ukrainian: Volhynia
-  yugoslav: Wołyn
+  spanish: Volinia
+  swedish: Volynien
+  turkish: Volhinya
+  ukrainian: Volin
+  yugoslav: Volinj
 - ID: 94
   albanian: Polesie
   arab: Polesie
@@ -3874,36 +3874,36 @@
   ukrainian: East anglia
   yugoslav: East Anglia
 - ID: 126
-  albanian: Greater London Area
-  arab: Greater London Area
-  belarusian: Greater London Area
-  bulgarian: Greater London Area
-  chinese: Dalundun
-  czech: Greater London Area
-  danish: .nan
+  albanian: Zona E Madhe Ne Londer
+  arab: Mintaqat Akbar Landan
+  belarusian: Vialikaja Voblasc Londana
+  bulgarian: Golyama Chast Ot London
+  chinese: Da Lundun Diqu
+  czech: Vetsi Londynske Oblasti
+  danish: Greater London Area
   dutch: Londense Metropool
   english: Greater London Area
-  estonian: Greater London Area
-  finnish: Greater London Area
+  estonian: Suurem Londoni Piirkond
+  finnish: Suur-lontoon Alue
   french: Région du Grand Londres
   german: Groß-Lunden
-  greek: Greater London Area
-  hindi: .nan
-  hungarian: Greater London Area
+  greek: Megali Periochi Tou Londinou
+  hindi: Gretar Landan Kshetr
+  hungarian: Nagyobb Londoni Terulet
   italian: Londra
-  japanese: Greater London Area
-  latvian: Greater London Area
-  lithuanian: Greater London Area
-  norwegian: .nan
+  japanese: Yori Okina Rondon Eria
+  latvian: Greater London Apgabals
+  lithuanian: Didesnis Londono Plotas
+  norwegian: Greater London-omradet
   polish: Greater London Area
-  portuguese: Greater London Area
-  romanian: Greater London Area
-  russian: Greater London Area
-  spanish: Greater London Area
-  swedish: Greater London Area
-  turkish: Greater London Area
-  ukrainian: Greater London Area
-  yugoslav: Greater London Area
+  portuguese: Area Maior De Londres
+  romanian: Marea Zona Din Londra
+  russian: Bolshaya Londonskaya Oblast
+  spanish: Area De Londres Greater
+  swedish: Storre London-omradet
+  turkish: Buyuk Londra Bolgesi
+  ukrainian: Velyka Londonska Oblast
+  yugoslav: Veca Podrucja U Londonu
 - ID: 127
   albanian: Sussex
   arab: Saskis
@@ -5114,36 +5114,36 @@
   ukrainian: Katalonija
   yugoslav: Katalonija
 - ID: 166
-  albanian: Western Aragón
-  arab: Western Aragón
-  belarusian: Western Aragón
-  bulgarian: Western Aragón
+  albanian: Western Aragon
+  arab: Araghun Algharbii
+  belarusian: Zachodni Arahon
+  bulgarian: Zapaden Aragon
   chinese: Xi'alagong
-  czech: Western Aragón
-  danish: .nan
+  czech: Zapadni Aragon
+  danish: Western Aragon
   dutch: Westelijk Aragón
-  english: Western Aragón
-  estonian: Western Aragón
-  finnish: Western Aragón
-  french: Western Aragón
-  german: Western Aragón
-  greek: Western Aragón
-  hindi: .nan
-  hungarian: Western Aragón
+  english: Western Aragon
+  estonian: Laane-aragon
+  finnish: Lansi-aragon
+  french: Aragon Occidental
+  german: West Aragon
+  greek: Dytikos Aragonia
+  hindi: Pashchimee Araagon
+  hungarian: Nyugati Aragon
   italian: Aragona Occidentale
-  japanese: Western Aragón
-  latvian: Western Aragón
-  lithuanian: Western Aragón
-  norwegian: .nan
-  polish: Western Aragón
-  portuguese: Western Aragón
-  romanian: Western Aragón
-  russian: Western Aragón
-  spanish: Western Aragón
-  swedish: Western Aragón
-  turkish: Western Aragón
-  ukrainian: Western Aragón
-  yugoslav: Western Aragón
+  japanese: Nishi Aragon
+  latvian: Rietumu Aragons
+  lithuanian: Vakaru Aragon
+  norwegian: Western Aragon
+  polish: Zachodni Aragon
+  portuguese: Aragao Ocidental
+  romanian: Aragonul De Vest
+  russian: Zapadnyy Aragon
+  spanish: Aragon Occidental
+  swedish: Vastra Aragon
+  turkish: Bati Aragonu
+  ukrainian: Zakhidnyy Arahon
+  yugoslav: Zapadna Aragona
 - ID: 167
   albanian: Valencia
   arab: Balansia
@@ -8834,36 +8834,36 @@
   ukrainian: Novyj pivdennyj uels
   yugoslav: Novi Južni Wales
 - ID: 286
-  albanian: Southern Indochina
-  arab: Southern Indochina
-  belarusian: Southern Indochina
-  bulgarian: Southern Indochina
+  albanian: Indokina Jugore
+  arab: Janub Alhindshina
+  belarusian: Paudniovy Indochina
+  bulgarian: Priroda Indokitai
   chinese: Zhongnanbandao
-  czech: Southern Indochina
-  danish: .nan
+  czech: Jizni Indochina
+  danish: Southern Indochina
   dutch: Zuidelijk Indochina
   english: Southern Indochina
-  estonian: Southern Indochina
-  finnish: Southern Indochina
-  french: Southern Indochina
+  estonian: Louna-indochina
+  finnish: Etela-indochina
+  french: Indochine Sud
   german: Southern Indochina
-  greek: Southern Indochina
-  hindi: .nan
-  hungarian: Southern Indochina
-  italian: Southern Indochina
-  japanese: Southern Indochina
-  latvian: Southern Indochina
-  lithuanian: Southern Indochina
-  norwegian: .nan
-  polish: Southern Indochina
-  portuguese: Southern Indochina
-  romanian: Southern Indochina
-  russian: Southern Indochina
-  spanish: Southern Indochina
-  swedish: Southern Indochina
-  turkish: Southern Indochina
-  ukrainian: Southern Indochina
-  yugoslav: Southern Indochina
+  greek: Notia Indokina
+  hindi: Dakshinee Indocheen
+  hungarian: Del-indokina
+  italian: Indocina Meridionale
+  japanese: Minami Indoshina
+  latvian: Dienvidu Indokinas
+  lithuanian: Pietu Indochina
+  norwegian: Sor-indokina
+  polish: Poludniowa Indochina
+  portuguese: Indochina Do Sul
+  romanian: Sudul Indochina
+  russian: Yuzhnaya Indokina
+  spanish: Sur Indochina
+  swedish: Sodra Indokina
+  turkish: Guneydokina
+  ukrainian: Pivdenna Indokyta
+  yugoslav: Juzna Indokina
 - ID: 287
   albanian: Taklamakan
   arab: Taklamakan
@@ -12493,34 +12493,34 @@
   yugoslav: Tjumenj
 - ID: 404
   albanian: Kyzyl Orda
-  arab: Kyzyl Orda
+  arab: Kyzylwrd
   belarusian: Kyzyl Orda
-  bulgarian: Kyzyl Orda
-  chinese: Kyzyl orda
-  czech: Kyzyl Orda
-  danish: .nan
-  dutch: Kyzyl Orda
+  bulgarian: Kzlorda
+  chinese: Kezile Aoerda
+  czech: Kyzylorda
+  danish: Qizilorda
+  dutch: Qizilorda
   english: Kyzyl Orda
-  estonian: Kyzyl Orda
-  finnish: Kyzyl Orda
-  french: Kyzyl Orda
-  german: Kyzyl Orda
-  greek: Kyzyl Orda
-  hindi: .nan
-  hungarian: Kyzyl Orda
-  italian: Kyzyl Orda
-  japanese: Kyzyl Orda
-  latvian: Kyzyl Orda
-  lithuanian: Kyzyl Orda
-  norwegian: .nan
-  polish: Kyzyl Orda
-  portuguese: Kyzyl Orda
-  romanian: Kyzyl Orda
+  estonian: Kozolorda
+  finnish: Qizilorda
+  french: Kyzylorda
+  german: Qysylorda
+  greek: Kizilornta
+  hindi: Qizilorda
+  hungarian: Kizilorda
+  italian: Qyzylorda
+  japanese: Kuzuroruda
+  latvian: Kizilorda
+  lithuanian: Kyzylorda
+  norwegian: Qizilorda
+  polish: Kyzylorda
+  portuguese: Qyzylorda
+  romanian: Qyzylorda
   russian: Kyzyl Orda
   spanish: Kyzyl Orda
-  swedish: Kyzyl Orda
-  turkish: Kyzyl Orda
-  ukrainian: Kyzyl Orda
+  swedish: Qyzylorda
+  turkish: Kizilorda
+  ukrainian: Kizilorda
   yugoslav: Kyzyl Orda
 - ID: 405
   albanian: Tashkenti
@@ -12957,36 +12957,36 @@
   ukrainian: Semnan
   yugoslav: Semnan
 - ID: 419
-  albanian: Tibriz
-  arab: Tibriz
-  belarusian: Tibriz
-  bulgarian: Tibriz
-  chinese: Tibriz
-  czech: Tibriz
-  danish: .nan
-  dutch: Tibriz
-  english: Tibriz
-  estonian: Tibriz
-  finnish: Tibriz
-  french: Tibriz
-  german: Tibriz
-  greek: Tibriz
-  hindi: .nan
-  hungarian: Tibriz
-  italian: Tibriz
-  japanese: Tibriz
-  latvian: Tibriz
-  lithuanian: Tibriz
-  norwegian: .nan
-  polish: Tibriz
-  portuguese: Tibriz
-  romanian: Tibriz
-  russian: Tibriz
-  spanish: Tibriz
-  swedish: Tibriz
-  turkish: Tibriz
-  ukrainian: Tibriz
-  yugoslav: Tibriz
+  albanian: Tebrizi
+  arab: Tbryz
+  belarusian: Tebryz
+  bulgarian: Tebriz
+  chinese: Dabulishi
+  czech: Tabriz
+  danish: Tabriz
+  dutch: Tabriz
+  english: Tabriz
+  estonian: Tabriz
+  finnish: Tabriz
+  french: Tabriz
+  german: Tabris
+  greek: Tampriz
+  hindi: Tbrej
+  hungarian: Tebriz
+  italian: Tabriz
+  japanese: Taburizu
+  latvian: Tebriza
+  lithuanian: Tebrizas
+  norwegian: Tabriz
+  polish: Tebriz
+  portuguese: Tabriz
+  romanian: Tabriz
+  russian: Tebriz
+  spanish: Tabriz
+  swedish: Tabriz
+  turkish: Tebriz
+  ukrainian: Tebriz
+  yugoslav: Tabriz
 - ID: 420
   albanian: Gilan
   arab: Ghilan
@@ -13392,35 +13392,35 @@
   yugoslav: Assam
 - ID: 433
   albanian: Rajahsthan
-  arab: Rajahsthan
-  belarusian: Rajahsthan
-  bulgarian: Rajahsthan
+  arab: Rjstn
+  belarusian: Radzhastkhan
+  bulgarian: Radzhastan
   chinese: Lajiasitan
-  czech: Rajahsthan
-  danish: .nan
-  dutch: Rajahsthan
-  english: Rajahsthan
-  estonian: Rajahsthan
-  finnish: Rajahsthan
-  french: Rajahsthan
-  german: Rajahsthan
-  greek: Rajahsthan
-  hindi: .nan
-  hungarian: Rajahsthan
-  italian: Rajahsthan
-  japanese: Rajahsthan
-  latvian: Rajahsthan
-  lithuanian: Rajahsthan
+  czech: Radzasthan
+  danish: Rajasthan
+  dutch: Rajasthan
+  english: Rajasthan
+  estonian: Rajasthan
+  finnish: Rajasthan
+  french: Rajasthan
+  german: Rajasthan
+  greek: Ratzastan
+  hindi: Raajsthaan
+  hungarian: Radzsasztan
+  italian: Rajasthan
+  japanese: Raziyasutanzhou
+  latvian: Radzastana
+  lithuanian: Radzastanas
   norwegian: .nan
-  polish: Rajahsthan
-  portuguese: Rajahsthan
-  romanian: Rajahsthan
-  russian: Rajahsthan
-  spanish: Rajahsthan
-  swedish: Rajahsthan
-  turkish: Rajahsthan
-  ukrainian: Rajahsthan
-  yugoslav: Rajahsthan
+  polish: Radzastan
+  portuguese: Rajastao
+  romanian: Rajasthan
+  russian: Radzhastkhan
+  spanish: Rayastan
+  swedish: Rajasthan
+  turkish: Racastan
+  ukrainian: Radzhastkhan
+  yugoslav: Radzastan
 - ID: 434
   albanian: Arunaçal Pradesh
   arab: Arunajil bardish
@@ -13981,34 +13981,34 @@
   yugoslav: Derna
 - ID: 452
   albanian: Matrouh
-  arab: Matrouh
+  arab: Matruh
   belarusian: Matrouh
   bulgarian: Matrouh
   chinese: Matelu
-  czech: Matrouh
-  danish: .nan
+  czech: Matra
+  danish: Matrouh
   dutch: Matrouh
   english: Matrouh
   estonian: Matrouh
   finnish: Matrouh
   french: Matrouh
   german: Matrouh
-  greek: Matrouh
-  hindi: .nan
+  greek: Paraitónion
+  hindi: Maitroh
   hungarian: Matrouh
   italian: Matrouh
-  japanese: Matrouh
+  japanese: Matou
   latvian: Matrouh
   lithuanian: Matrouh
-  norwegian: .nan
+  norwegian: Matrouh
   polish: Matrouh
   portuguese: Matrouh
   romanian: Matrouh
-  russian: Matrouh
+  russian: Matras
   spanish: Matrouh
   swedish: Matrouh
   turkish: Matrouh
-  ukrainian: Matrouh
+  ukrainian: Matreukh
   yugoslav: Matrouh
 - ID: 453
   albanian: Sinai
@@ -14569,36 +14569,36 @@
   ukrainian: Alberta
   yugoslav: Alberta
 - ID: 471
-  albanian: Northwestern Canada
-  arab: Northwestern Canada
-  belarusian: Northwestern Canada
-  bulgarian: Northwestern Canada
-  chinese: Jianada xibeibu
-  czech: Northwestern Canada
-  danish: .nan
+  albanian: Northwestern Kanada
+  arab: Shamal Gharb Kanada
+  belarusian: Paunocna-zachodni Kanadzie
+  bulgarian: Severozapadna Kanada
+  chinese: Jianada Xibei Bu
+  czech: Severozapadni Kanada
+  danish: Northwestern Canada
   dutch: Noordwestelijk Canada
   english: Northwestern Canada
-  estonian: Northwestern Canada
-  finnish: Northwestern Canada
-  french: Northwestern Canada
-  german: Northwestern Canada
-  greek: Northwestern Canada
-  hindi: .nan
-  hungarian: Northwestern Canada
+  estonian: Northwestern Kanada
+  finnish: Luoteis-kanada
+  french: Nord-ouest Du Canada
+  german: Northwestern Kanada
+  greek: Voreiodytikos Kanadas
+  hindi: Northavestarn Kanaada
+  hungarian: Northwestern Kanada
   italian: Northwestern Canada
-  japanese: Northwestern Canada
-  latvian: Northwestern Canada
-  lithuanian: Northwestern Canada
-  norwegian: .nan
+  japanese: Kanada Hokuseibu
+  latvian: Kanada Northwestern
+  lithuanian: Siaures Vakaru Kanada
+  norwegian: Northwestern Canada
   polish: Northwestern Canada
-  portuguese: Northwestern Canada
+  portuguese: Noroeste Do Canada
   romanian: Northwestern Canada
-  russian: Northwestern Canada
+  russian: Severo-zapadnyy Kanada
   spanish: Northwestern Canada
-  swedish: Northwestern Canada
-  turkish: Northwestern Canada
-  ukrainian: Northwestern Canada
-  yugoslav: Northwestern Canada
+  swedish: Nordvastra Kanada
+  turkish: Kuzeybati Kanada
+  ukrainian: Pivnichno-zakhidnyy Kanada
+  yugoslav: Sjeverozapadna Kanada
 - ID: 472
   albanian: Northern Canada
   arab: Northern Canada
@@ -15531,35 +15531,35 @@
   yugoslav: São Paulo
 - ID: 502
   albanian: Rio Grande Sul
-  arab: Rio Grande Sul
-  belarusian: Rio Grande Sul
-  bulgarian: Rio Grande Sul
+  arab: Ryw Grndy Dw Swl
+  belarusian: Ryu-grandy-du-sul
+  bulgarian: Rio Grandi Do Sul
   chinese: Nanli'aogelandezhou
-  czech: Rio Grande Sul
-  danish: .nan
-  dutch: Rio Grande Sul
-  english: Rio Grande Sul
-  estonian: Rio Grande Sul
-  finnish: Rio Grande Sul
-  french: Rio Grande Sul
-  german: Rio Grande Sul
-  greek: Rio Grande Sul
-  hindi: .nan
-  hungarian: Rio Grande Sul
-  italian: Rio Grande Sul
-  japanese: Rio Grande Sul
-  latvian: Rio Grande Sul
-  lithuanian: Rio Grande Sul
-  norwegian: .nan
-  polish: Rio Grande Sul
-  portuguese: Rio Grande Sul
-  romanian: Rio Grande Sul
-  russian: Rio Grande Sul
-  spanish: Rio Grande Sul
-  swedish: Rio Grande Sul
-  turkish: Rio Grande Sul
-  ukrainian: Rio Grande Sul
-  yugoslav: Rio Grande Sul
+  czech: Rio Grande Do Sul
+  danish: Rio Grande Do Sul
+  dutch: Rio Grande Do Sul
+  english: Rio Grande do Sul
+  estonian: Rio Grande Do Suli Osariik
+  finnish: Rio Grande Do Sul
+  french: Rio Grande Do Sul
+  german: Rio Grande Do Sul
+  greek: Rio Gkrante Nto Soul
+  hindi: Riyo Graandde Do Sul
+  hungarian: Rio Grande Do Sul
+  italian: Rio Grande Do Sul
+  japanese: Riogurandedosuruzhou
+  latvian: Riugrandi Du Sula
+  lithuanian: Pietu Rio Grande
+  norwegian: Rio Grande Do Sul
+  polish: Rio Grande Do Sul
+  portuguese: Rio Grande Do Sul
+  romanian: Rio Grande Do Sul
+  russian: Riu-grandi-du-sul
+  spanish: Rio Grande Del Sur
+  swedish: Rio Grande Do Sul
+  turkish: Rio Grande Do Sul
+  ukrainian: Riu-grandi-du-sul
+  yugoslav: Rio Grande Do Sul
 - ID: 503
   albanian: Santa Catarina
   arab: Santa Catarina
@@ -15748,34 +15748,34 @@
   yugoslav: Tucuman
 - ID: 509
   albanian: Chaco Austral
-  arab: Chaco Austral
-  belarusian: Chaco Austral
-  bulgarian: Chaco Austral
+  arab: Tshaku Alusturali
+  belarusian: Austral Chaco
+  bulgarian: Avstraliya Chakuto
   chinese: Nanchake
   czech: Chaco Austral
-  danish: .nan
+  danish: Austral Chaco
   dutch: Chaco Austral
-  english: Chaco Austral
+  english: Austral Chaco
   estonian: Chaco Austral
   finnish: Chaco Austral
   french: Chaco Austral
   german: Chaco Austral
-  greek: Chaco Austral
-  hindi: .nan
-  hungarian: Chaco Austral
+  greek: Afstralias Chaco
+  hindi: Ostreliya Chaako
+  hungarian: Ausztral Chaco
   italian: Chaco Australe
-  japanese: Chaco Austral
+  japanese: Osutorarukako
   latvian: Chaco Austral
   lithuanian: Chaco Austral
-  norwegian: .nan
+  norwegian: Austral Chaco
   polish: Chaco Austral
   portuguese: Chaco Austral
   romanian: Chaco Austral
-  russian: Chaco Austral
+  russian: Avstraliya Chako
   spanish: Chaco Austral
   swedish: Chaco Austral
-  turkish: Chaco Austral
-  ukrainian: Chaco Austral
+  turkish: Avustralya Chaco
+  ukrainian: Avstraliyskyy Chako
   yugoslav: Chaco Austral
 - ID: 510
   albanian: Mesopotamia
@@ -15933,67 +15933,67 @@
   ukrainian: Alzhyrska pustelja
   yugoslav: Algerian Desert
 - ID: 515
-  albanian: Southern Sahara
-  arab: Southern Sahara
-  belarusian: Southern Sahara
-  bulgarian: Southern Sahara
-  chinese: Nanshahala
-  czech: Southern Sahara
-  danish: .nan
+  albanian: Sahara Southern
+  arab: Alsahra Aljanubia
+  belarusian: Paudniovy Sachara
+  bulgarian: Yuzhna Sakhara
+  chinese: Nan Sahala
+  czech: Jizni Sahara
+  danish: Southern Sahara
   dutch: Zuidelijke Sahara
   english: Southern Sahara
   estonian: Southern Sahara
-  finnish: Southern Sahara
-  french: Southern Sahara
+  finnish: Etela-sahara
+  french: Sahara Sud
   german: Southern Sahara
-  greek: Southern Sahara
-  hindi: .nan
+  greek: Notia Sachara
+  hindi: Dakshinee Sahaara
   hungarian: Southern Sahara
-  italian: Southern Sahara
-  japanese: Southern Sahara
+  italian: Sahara Meridionale
+  japanese: Minami Sahara
   latvian: Southern Sahara
-  lithuanian: Southern Sahara
-  norwegian: .nan
-  polish: Southern Sahara
-  portuguese: Southern Sahara
-  romanian: Southern Sahara
-  russian: Southern Sahara
-  spanish: Southern Sahara
-  swedish: Southern Sahara
-  turkish: Southern Sahara
-  ukrainian: Southern Sahara
-  yugoslav: Southern Sahara
+  lithuanian: Pietu Sachara
+  norwegian: Sor-sahara
+  polish: Poludniowa Sahara
+  portuguese: Sahara Do Sul
+  romanian: Sahara De Sud
+  russian: Yuzhnaya Sakhara
+  spanish: Sahara Del Sur
+  swedish: Sodra Sahara
+  turkish: Guney Sahra
+  ukrainian: Pivdenna Sakhara
+  yugoslav: Juzna Sahara
 - ID: 516
-  albanian: Northwest Siberia
-  arab: Northwest Siberia
-  belarusian: Northwest Siberia
-  bulgarian: Northwest Siberia
-  chinese: Xiboliya xibeibu
-  czech: Northwest Siberia
-  danish: .nan
+  albanian: Northwest Siberi
+  arab: Shamal Gharb Saybirya
+  belarusian: Paunocna-zachodni Sibir
+  bulgarian: Severozapaden Sibir
+  chinese: Xiboliya Xibei Bu
+  czech: Severozapadni Sibir
+  danish: Northwest Sibiria
   dutch: Noord-West Siberië
   english: Northwest Siberia
   estonian: Northwest Siberia
-  finnish: Northwest Siberia
-  french: Northwest Siberia
-  german: Northwest Siberia
-  greek: Northwest Siberia
-  hindi: .nan
-  hungarian: Northwest Siberia
-  italian: Northwest Siberia
-  japanese: Northwest Siberia
-  latvian: Northwest Siberia
-  lithuanian: Northwest Siberia
-  norwegian: .nan
-  polish: Northwest Siberia
-  portuguese: Northwest Siberia
-  romanian: Northwest Siberia
+  finnish: Luoteis Siberia
+  french: Nord-ouest De La Siberie
+  german: Nordwestlich Sibirien
+  greek: Voreiodytiki Siviria
+  hindi: Northavest Saiberiya
+  hungarian: Eszaknyugat-sziberia
+  italian: Siberia Nord-occidentale
+  japanese: Hokusei Shiberia
+  latvian: Ziemelrietumu Sibirija
+  lithuanian: Siaures Vakaru Sibiras
+  norwegian: Northwest Sibiria
+  polish: Polnocno-zachodni Syberia
+  portuguese: Noroeste Da Siberia
+  romanian: Nord-vest Siberia
   russian: Taymyr
   spanish: Northwest Siberia
-  swedish: Northwest Siberia
-  turkish: Northwest Siberia
-  ukrainian: Northwest Siberia
-  yugoslav: Northwest Siberia
+  swedish: Northwest Sibirien
+  turkish: Kuzeybati Sibirya
+  ukrainian: Pivnichno-zakhidnyy Sybir
+  yugoslav: Sjeverozapadno Sibira
 - ID: 517
   albanian: Victoria
   arab: Fikturya
@@ -16646,36 +16646,36 @@
   ukrainian: Prefektura karafuto
   yugoslav: Karafuto
 - ID: 538
-  albanian: Central Congo
-  arab: Central Congo
-  belarusian: Central Congo
-  bulgarian: Central Congo
+  albanian: Kongo Qendrore
+  arab: Alkunghu Almarkaziatu
+  belarusian: Centralny Konha
+  bulgarian: Tsentralen Kongo
   chinese: Ganguozhong
-  czech: Central Congo
-  danish: .nan
+  czech: Centralni Kongo
+  danish: Central Congo
   dutch: Centraal Congo
   english: Central Congo
-  estonian: Central Congo
+  estonian: Kongo Keskne
   finnish: Central Congo
-  french: Central Congo
-  german: Central Congo
-  greek: Central Congo
-  hindi: .nan
+  french: Congo Central
+  german: Zentraler Kongo
+  greek: Kentriko Konnko
+  hindi: Kendreey Kaango
   hungarian: Central Congo
   italian: Congo Centrale
-  japanese: Central Congo
-  latvian: Central Congo
-  lithuanian: Central Congo
-  norwegian: .nan
+  japanese: Chuo Kongo
+  latvian: Centrala Kongo
+  lithuanian: Centrine Kongo
+  norwegian: Central Kongo
   polish: Central Congo
-  portuguese: Central Congo
+  portuguese: Congo Central
   romanian: Central Congo
-  russian: Central Congo
+  russian: Tsentralnoye Kongo
   spanish: Central Congo
-  swedish: Central Congo
-  turkish: Central Congo
-  ukrainian: Central Congo
-  yugoslav: Central Congo
+  swedish: Centrala Kongo
+  turkish: Merkez Kongo
+  ukrainian: Tsentralnyy Konho
+  yugoslav: Sredisnji Kongo
 - ID: 539
   albanian: Gaboni
   arab: Alghabun
@@ -16709,35 +16709,35 @@
   yugoslav: Gabon
 - ID: 540
   albanian: South Angola
-  arab: South Angola
-  belarusian: South Angola
-  bulgarian: South Angola
-  chinese: South angola
-  czech: South Angola
-  danish: .nan
+  arab: Anghula Aljanubia
+  belarusian: Paudniovaja Anhola
+  bulgarian: Yuzhno Angola
+  chinese: Nanan Luola
+  czech: Jizni Angola
+  danish: Syd Angola
   dutch: Zuid Angola
   english: South Angola
-  estonian: South Angola
-  finnish: South Angola
-  french: South Angola
-  german: South Angola
-  greek: South Angola
-  hindi: .nan
+  estonian: Louna-angola
+  finnish: Etela-angola
+  french: Angola Sud
+  german: Sudgola
+  greek: Notia Ankola
+  hindi: Angola
   hungarian: South Angola
-  italian: South Angola
-  japanese: South Angola
-  latvian: South Angola
-  lithuanian: South Angola
-  norwegian: .nan
-  polish: South Angola
-  portuguese: South Angola
-  romanian: South Angola
-  russian: South Angola
-  spanish: South Angola
-  swedish: South Angola
-  turkish: South Angola
-  ukrainian: South Angola
-  yugoslav: South Angola
+  italian: Angola Del Sud
+  japanese: Minami Angora
+  latvian: Dienvidu Angola
+  lithuanian: Pietu Angola
+  norwegian: Sor-angola
+  polish: Angola Południowa
+  portuguese: Angola Sul
+  romanian: Angola De Sud
+  russian: Yuzhnaya Angola
+  spanish: Angola Del Sur
+  swedish: Sodra Angola
+  turkish: Guney Angola
+  ukrainian: Pivdenna Anhola
+  yugoslav: Juzna Angola
 - ID: 541
   albanian: South West Africa
   arab: Janub gharb afriqia
@@ -17979,36 +17979,36 @@
   ukrainian: Tobolsk
   yugoslav: Tobolsk
 - ID: 581
-  albanian: Northern Urals
-  arab: Northern Urals
-  belarusian: Northern Urals
-  bulgarian: Northern Urals
-  chinese: Northern urals
-  czech: Northern Urals
-  danish: .nan
+  albanian: Uralet Veriore
+  arab: Alywral Alshamalia
+  belarusian: Paunocny Ural
+  bulgarian: Severna Ural
+  chinese: Bei Wulaer Si
+  czech: Severni Urals
+  danish: Northern Urals
   dutch: Noordelijke Oeral
   english: Northern Urals
-  estonian: Northern Urals
-  finnish: Northern Urals
-  french: Northern Urals
-  german: Nordural
-  greek: Northern Urals
-  hindi: .nan
-  hungarian: Northern Urals
-  italian: Northern Urals
-  japanese: Northern Urals
-  latvian: Northern Urals
-  lithuanian: Northern Urals
-  norwegian: .nan
-  polish: Northern Urals
-  portuguese: Northern Urals
-  romanian: Northern Urals
-  russian: Severnyy Uralskiye
-  spanish: Northern Urals
-  swedish: Northern Urals
-  turkish: Northern Urals
-  ukrainian: Northern Urals
-  yugoslav: Northern Urals
+  estonian: Pohja-urals
+  finnish: Pohjois-urals
+  french: Oural Du Nord
+  german: Nordliche Ural
+  greek: Voreia Ouralia
+  hindi: Uttaree Urals
+  hungarian: Eszak-uralok
+  italian: Nord Urali
+  japanese: Kita Uraru
+  latvian: Ziemelu Urali
+  lithuanian: Siaures Uralai
+  norwegian: Northern Urals
+  polish: Polnocne Urals
+  portuguese: Urais Do Norte
+  romanian: Nordul Urals
+  russian: Severnyy Ural
+  spanish: Urales Del Norte
+  swedish: Norra Urals
+  turkish: Kuzey Urallari
+  ukrainian: Pivnichnyy Ural
+  yugoslav: Sjeverne Urale
 - ID: 582
   albanian: Magnitogorsk
   arab: Maghnitaghurisk
@@ -18848,35 +18848,35 @@
   yugoslav: Peking
 - ID: 609
   albanian: East Hebei
-  arab: East Hebei
-  belarusian: East Hebei
-  bulgarian: East Hebei
-  chinese: Jidong
-  czech: East Hebei
-  danish: .nan
+  arab: Sharq Khibyati
+  belarusian: East Chebej
+  bulgarian: Iztok Khubei
+  chinese: Dong Hebei
+  czech: East Heebei
+  danish: East Hebei
   dutch: Oost Hebei
   english: East Hebei
-  estonian: East Hebei
-  finnish: East Hebei
+  estonian: Ida-hebei
+  finnish: Ita-hebei
   french: East Hebei
   german: East Hebei
-  greek: East Hebei
-  hindi: .nan
-  hungarian: East Hebei
+  greek: Anatolikos Chempei
+  hindi: Poorv Hebeee
+  hungarian: Keleti Hebei
   italian: East Hebei
-  japanese: East Hebei
-  latvian: East Hebei
-  lithuanian: East Hebei
-  norwegian: .nan
-  polish: East Hebei
+  japanese: Higashi Kahoku
+  latvian: Austrumu Hebei
+  lithuanian: Rytu Hebei
+  norwegian: East Hebei
+  polish: Wschod Hebei
   portuguese: East Hebei
   romanian: East Hebei
-  russian: East Hebei
+  russian: Vostok Khebey
   spanish: East Hebei
-  swedish: East Hebei
-  turkish: East Hebei
-  ukrainian: East Hebei
-  yugoslav: East Hebei
+  swedish: Ost Hebei
+  turkish: Dogu Hebei
+  ukrainian: Skhidnyy Khebey
+  yugoslav: Istocni Hebei
 - ID: 610
   albanian: Jehol
   arab: Jehol
@@ -18909,36 +18909,36 @@
   ukrainian: Jehol
   yugoslav: Jehol
 - ID: 611
-  albanian: South Chahar
-  arab: South Chahar
+  albanian: Chahar Ne Jug
+  arab: Janub Shahir
   belarusian: South Chahar
-  bulgarian: South Chahar
-  chinese: Chanan
-  czech: South Chahar
-  danish: .nan
+  bulgarian: Yuzhen Chakhar
+  chinese: Nansha Ha Er
+  czech: Jizni Chahar
+  danish: South Chahar
   dutch: Zuid Chahar
   english: South Chahar
-  estonian: South Chahar
-  finnish: South Chahar
-  french: South Chahar
-  german: South Chahar
-  greek: South Chahar
-  hindi: .nan
-  hungarian: South Chahar
-  italian: South Chahar
-  japanese: South Chahar
+  estonian: Louna Chahar
+  finnish: Etela Chahar
+  french: Sud Chahar
+  german: Sudchahar
+  greek: Notio Chahar
+  hindi: Dakshin Chahar
+  hungarian: Deli Chahar
+  italian: Chahar Del Sud
+  japanese: Sausuchaharu
   latvian: South Chahar
-  lithuanian: South Chahar
-  norwegian: .nan
-  polish: South Chahar
-  portuguese: South Chahar
+  lithuanian: Pietu Chahar
+  norwegian: Sor Chahar
+  polish: Poludniowy Chahar
+  portuguese: Chahar Do Sul
   romanian: South Chahar
-  russian: South Chahar
-  spanish: South Chahar
-  swedish: South Chahar
-  turkish: South Chahar
-  ukrainian: South Chahar
-  yugoslav: South Chahar
+  russian: Yuzhnyy Chakhar
+  spanish: Chahar Del Sur
+  swedish: Sodra Chahar
+  turkish: Guney Chahar
+  ukrainian: Pivdennyy Chakhar
+  yugoslav: Juzni Chahar
 - ID: 612
   albanian: Chahar
   arab: Chahar
@@ -19312,36 +19312,36 @@
   ukrainian: Luson
   yugoslav: Luzon
 - ID: 624
-  albanian: Central islands
-  arab: Central islands
-  belarusian: Central islands
-  bulgarian: Central islands
+  albanian: Ishujt Qendrore
+  arab: Juzur Alwustaa
+  belarusian: Centralnyja Vyspy
+  bulgarian: Tsentralni Ostrovi
   chinese: Zhongqundao
-  czech: Central islands
-  danish: .nan
+  czech: Stredni Ostrovy
+  danish: Centraloer
   dutch: Centrale Eilanden
   english: Central islands
-  estonian: Central islands
-  finnish: Central islands
-  french: Central islands
-  german: Central islands
-  greek: Central islands
-  hindi: .nan
-  hungarian: Central islands
-  italian: Central islands
-  japanese: Central islands
-  latvian: Central islands
-  lithuanian: Central islands
-  norwegian: .nan
-  polish: Central islands
-  portuguese: Central islands
-  romanian: Central islands
-  russian: Central islands
-  spanish: Central islands
-  swedish: Central islands
-  turkish: Central islands
-  ukrainian: Central islands
-  yugoslav: Central islands
+  estonian: Kesksaarte
+  finnish: Keski Saaret
+  french: Iles Centrales
+  german: Zentralinseln
+  greek: Kentrika Nisia
+  hindi: Kendreey Dveep
+  hungarian: Kozponti Szigetek
+  italian: Isole Centrali
+  japanese: Chuo Shoto
+  latvian: Centralas Salas
+  lithuanian: Centrines Salos
+  norwegian: Sentral Oyene
+  polish: Wyspy Srodkowe
+  portuguese: Ilhas Centrais
+  romanian: Insulele Centrale
+  russian: Tsentralnyye Ostrova
+  spanish: Islas Centrales
+  swedish: Centrala Oar
+  turkish: Merkezi Adalar
+  ukrainian: Tsentralni Ostrovy
+  yugoslav: Sredisnji Otoci
 - ID: 625
   albanian: Samar
   arab: Samar
@@ -19932,36 +19932,36 @@
   ukrainian: Tuvalu
   yugoslav: Tuvalu
 - ID: 644
-  albanian: Northeast Siberia
-  arab: Northeast Siberia
-  belarusian: Northeast Siberia
-  bulgarian: Northeast Siberia
+  albanian: Northeast Siberi
+  arab: Shamal Sharq Saybirya
+  belarusian: Paunocna Uschodni Sibir
+  bulgarian: Severoiztochen Sibir
   chinese: Dongbei xiboliya
-  czech: Northeast Siberia
-  danish: .nan
+  czech: Severovychod Sibir
+  danish: Nordostlige Sibiria
   dutch: Noordoost Siberia
   english: Northeast Siberia
-  estonian: Northeast Siberia
-  finnish: Northeast Siberia
-  french: Northeast Siberia
-  german: Northeast Siberia
-  greek: Northeast Siberia
-  hindi: .nan
-  hungarian: Northeast Siberia
-  italian: Northeast Siberia
-  japanese: Northeast Siberia
-  latvian: Northeast Siberia
-  lithuanian: Northeast Siberia
-  norwegian: .nan
-  polish: Northeast Siberia
-  portuguese: Northeast Siberia
-  romanian: Northeast Siberia
-  russian: Sakha
-  spanish: Northeast Siberia
-  swedish: Northeast Siberia
-  turkish: Northeast Siberia
-  ukrainian: Northeast Siberia
-  yugoslav: Northeast Siberia
+  estonian: Kirde Siber
+  finnish: Koillis Siperia
+  french: Siberie Du Nord Est
+  german: Nordostsibirien
+  greek: Voreioanatoliki Siviria
+  hindi: Poorvottar Saiberiya
+  hungarian: Eszakkelet Sziberia
+  italian: Siberia Nord Orientale
+  japanese: Hokuto Shiberia
+  latvian: Ziemelaustrumu Sibirija
+  lithuanian: Siaures Rytu Sibiras
+  norwegian: Nordost Sibirien
+  polish: Polnocno Wschodnia Syberia
+  portuguese: Nordeste Da Siberia
+  romanian: Nord Est Siberia
+  russian: Severo Vostok Sibir
+  spanish: Siberia Noreste
+  swedish: Nordost Sibirien
+  turkish: Kuzeydogu Sibirya
+  ukrainian: Pivnichno Skhidnyy Sybir
+  yugoslav: Sjeveroistocni Sibiru
 - ID: 645
   albanian: Iwo Jima
   arab: Ayww jima
@@ -20274,35 +20274,35 @@
   yugoslav: Gorno-Altajsk
 - ID: 655
   albanian: North Sakhalin
-  arab: North Sakhalin
-  belarusian: North Sakhalin
-  bulgarian: North Sakhalin
+  arab: Shamal Sakhalin
+  belarusian: Paunocny Sachalin
+  bulgarian: Severen Sakkhalin
   chinese: Beikuyedao
-  czech: North Sakhalin
-  danish: .nan
+  czech: Severni Sakhalin
+  danish: Nord Sakhalin
   dutch: Noord Sakhalin
   english: North Sakhalin
-  estonian: North Sakhalin
-  finnish: North Sakhalin
-  french: North Sakhalin
+  estonian: Pohja Sahhalin
+  finnish: Pohjois Sakhalin
+  french: Sakhalin Du Nord
   german: North Sakhalin
-  greek: North Sakhalin
-  hindi: .nan
-  hungarian: North Sakhalin
+  greek: Voreia Sakalin
+  hindi: Uttar Sakhaalin
+  hungarian: Eszak Szahalin
   italian: North Sakhalin
-  japanese: North Sakhalin
-  latvian: North Sakhalin
-  lithuanian: North Sakhalin
-  norwegian: .nan
-  polish: North Sakhalin
+  japanese: Nosusaharin
+  latvian: North Sahalin
+  lithuanian: Siaures Sachalinas
+  norwegian: North Sakhalin
+  polish: North Sachalin
   portuguese: North Sakhalin
   romanian: North Sakhalin
   russian: Severnyy Sakhalin
-  spanish: North Sakhalin
-  swedish: North Sakhalin
-  turkish: North Sakhalin
-  ukrainian: North Sakhalin
-  yugoslav: North Sakhalin
+  spanish: Sakhalin Del Norte
+  swedish: Norra Sakhalin
+  turkish: Kuzey Sakhalin
+  ukrainian: Pivnichnyy Sakhalin
+  yugoslav: Sjeverna Sakhalina
 - ID: 656
   albanian: Kuvajti
   arab: Alkuayt
@@ -20552,36 +20552,36 @@
   ukrainian: Kyrenayika
   yugoslav: Cirenaika
 - ID: 664
-  albanian: Southern Slovakia
-  arab: Southern Slovakia
-  belarusian: Southern Slovakia
-  bulgarian: Southern Slovakia
+  albanian: Sllovaki Jugore
+  arab: Janub Slufakia
+  belarusian: Paudniovaja Slavakija
+  bulgarian: Yuzhna Slovakiya
   chinese: Nansiluofake
-  czech: Southern Slovakia
-  danish: .nan
+  czech: Jizni Slovensko
+  danish: Southern Slovakiet
   dutch: Zuidelijk Slovakije
   english: Southern Slovakia
-  estonian: Southern Slovakia
-  finnish: Southern Slovakia
-  french: Southern Slovakia
-  german: Südslowakei
-  greek: Southern Slovakia
-  hindi: .nan
-  hungarian: Southern Slovakia
-  italian: Slovacchia Meridionale
-  japanese: Southern Slovakia
-  latvian: Southern Slovakia
-  lithuanian: Southern Slovakia
-  norwegian: .nan
-  polish: Południowa Słowacja
+  estonian: Louna Slovakkia
+  finnish: Etela Slovakia
+  french: Slovaquie Du Sud
+  german: Sudliche Slowakei
+  greek: Notia Slovakia
+  hindi: Dakshinee Slovaakiya
+  hungarian: Del Szlovakia
+  italian: Slovacchia meridionale
+  japanese: Minami Surobakia
+  latvian: Dienvidu Slovakija
+  lithuanian: Pietu Slovakija
+  norwegian: Sor Slovakia
+  polish: Poludniowa Slowacja
   portuguese: Southern Slovakia
-  romanian: Southern Slovakia
-  russian: Southern Slovakia
-  spanish: Southern Slovakia
-  swedish: Southern Slovakia
-  turkish: Southern Slovakia
-  ukrainian: Southern Slovakia
-  yugoslav: Southern Slovakia
+  romanian: Slovacia De Sud
+  russian: Yuzhnaya Slovakiya
+  spanish: Southern Eslovaquia
+  swedish: Sodra Slovakien
+  turkish: Guney Slovakya
+  ukrainian: Pivdenna Slovachchyna
+  yugoslav: Southern Slovacka
 - ID: 665
   albanian: Gabès
   arab: Qabis
@@ -21141,36 +21141,36 @@
   ukrainian: Pivnichne ontario
   yugoslav: Northern Ontario
 - ID: 683
-  albanian: Northeastern Canada
-  arab: Northeastern Canada
-  belarusian: Northeastern Canada
-  bulgarian: Northeastern Canada
+  albanian: Northeastern Kanada
+  arab: Shamal Sharq Kanada
+  belarusian: Paunocna Uschodniaja Kanada
+  bulgarian: Severoiztochna Kanada
   chinese: Jianada dongbeibu
-  czech: Northeastern Canada
-  danish: .nan
+  czech: Severovychodni Kanada
+  danish: Nordostlige Canada
   dutch: Noordoostelijk Canada
   english: Northeastern Canada
-  estonian: Northeastern Canada
-  finnish: Northeastern Canada
-  french: Northeastern Canada
-  german: Northeastern Canada
-  greek: Northeastern Canada
-  hindi: .nan
-  hungarian: Northeastern Canada
-  italian: Northeastern Canada
-  japanese: Northeastern Canada
-  latvian: Northeastern Canada
-  lithuanian: Northeastern Canada
-  norwegian: .nan
-  polish: Northeastern Canada
-  portuguese: Northeastern Canada
-  romanian: Northeastern Canada
-  russian: Northeastern Canada
-  spanish: Northeastern Canada
-  swedish: Northeastern Canada
-  turkish: Northeastern Canada
-  ukrainian: Northeastern Canada
-  yugoslav: Northeastern Canada
+  estonian: Kirde Kanada
+  finnish: Koillis Kanada
+  french: Northastern Canada
+  german: Nordosten Kanadas
+  greek: Voreioanatolikos Kanadas
+  hindi: Poorvottar Kanaada
+  hungarian: Eszakkelet Kanada
+  italian: Canada Del Nord Est
+  japanese: Kanada Hokuto Bu
+  latvian: Ziemelaustrumu Kanada
+  lithuanian: Siaures Rytu Kanada
+  norwegian: Nordost Canada
+  polish: Polnocno Wschodnia Kanada
+  portuguese: Nordeste Do Canada
+  romanian: Nord Estul Canada
+  russian: Severo Vostochnyy Kanada
+  spanish: Noreste De Canada
+  swedish: Nordostra Kanada
+  turkish: Kuzeydogu Kanada
+  ukrainian: Pivnichno Skhidnyy Kanada
+  yugoslav: Sjeveroistocna Kanada
 - ID: 684
   albanian: Caroline Islands
   arab: Arkhabil karulin
@@ -21203,36 +21203,36 @@
   ukrainian: Karolinski ostrovy
   yugoslav: Caroline Islands
 - ID: 685
-  albanian: Panamá Canal
+  albanian: Kanali I Panamase
   arab: Panamá Canal
-  belarusian: Panamá Canal
-  bulgarian: Panamá Canal
+  belarusian: Panamski Kanal
+  bulgarian: Panamski Kanal
   chinese: Banama yunhe
-  czech: Panamá Canal
-  danish: .nan
+  czech: Panamsky Pruplav
+  danish: Panamakanalen
   dutch: Panamá Kanaal
-  english: Panamá Canal
-  estonian: Panamá Canal
-  finnish: Panamá Canal
-  french: Panamá Canal
-  german: Panamá Canal
-  greek: Panamá Canal
-  hindi: .nan
-  hungarian: Panamá Canal
-  italian: Panamá Canal
-  japanese: Panamá Canal
-  latvian: Panamá Canal
-  lithuanian: Panamá Canal
-  norwegian: .nan
-  polish: Panamá Canal
-  portuguese: Panamá Canal
-  romanian: Panamá Canal
-  russian: Panamá Canal
-  spanish: Panamá Canal
-  swedish: Panamá Canal
-  turkish: Panamá Canal
-  ukrainian: Panamá Canal
-  yugoslav: Panamá Canal
+  english: Panama Canal
+  estonian: Panama Kanal
+  finnish: Panaman Kanava
+  french: Canal De Panama
+  german: Panamakanal
+  greek: Dioruga Tou Panama
+  hindi: Pnaamaa Nhr
+  hungarian: Panama Csatorna
+  italian: Canale Di Panama
+  japanese: Panamayun He
+  latvian: Panamas Kanals
+  lithuanian: Panamos Kanalas
+  norwegian: Panamakanalen
+  polish: Kanal Panamski
+  portuguese: Canal Do Panama
+  romanian: Canalul Panama
+  russian: Panamskii Kanal
+  spanish: Canal De Panama
+  swedish: Panamakanalen
+  turkish: Panama Kanali
+  ukrainian: Panamskii Kanal
+  yugoslav: Panamski Kanal
 - ID: 686
   albanian: Portorikoja
   arab: Burturiku
@@ -21358,36 +21358,36 @@
   ukrainian: Jamajka
   yugoslav: Jamajka
 - ID: 690
-  albanian: Northern Bahamas
-  arab: Northern Bahamas
-  belarusian: Northern Bahamas
-  bulgarian: Northern Bahamas
+  albanian: Veriore Bahamas
+  arab: Juzur Albahama Alshamalia
+  belarusian: Paunocnyja Bahamy
+  bulgarian: Severni Bakhami
   chinese: Beibahama
-  czech: Northern Bahamas
-  danish: .nan
+  czech: Severni Bahamy
+  danish: Northern Bahamas
   dutch: Noordelijke Bahamas
   english: Northern Bahamas
-  estonian: Northern Bahamas
-  finnish: Northern Bahamas
-  french: Northern Bahamas
-  german: Northern Bahamas
-  greek: Northern Bahamas
-  hindi: .nan
-  hungarian: Northern Bahamas
-  italian: Northern Bahamas
-  japanese: Northern Bahamas
-  latvian: Northern Bahamas
-  lithuanian: Northern Bahamas
-  norwegian: .nan
-  polish: Northern Bahamas
-  portuguese: Northern Bahamas
+  estonian: Pohja Bahama
+  finnish: Pohjois Bahama
+  french: Bahamas Du Nord
+  german: Nordliche Bahamas
+  greek: Voreia Bachames
+  hindi: Uttaree Bahaama
+  hungarian: Eszak Bahamak
+  italian: Bahamas Del Nord
+  japanese: Bahama Hokubu
+  latvian: Ziemelu Bahamu Salas
+  lithuanian: Siaures Bahamos
+  norwegian: Nord Bahamas
+  polish: Polnocne Bahamy
+  portuguese: Bahamas Do Norte
   romanian: Northern Bahamas
-  russian: Northern Bahamas
-  spanish: Northern Bahamas
-  swedish: Northern Bahamas
-  turkish: Northern Bahamas
-  ukrainian: Northern Bahamas
-  yugoslav: Northern Bahamas
+  russian: Severnyye Bagamskiye Ostrova
+  spanish: Bahamas Del Norte
+  swedish: Norra Bahamas
+  turkish: Kuzey Bahamalar
+  ukrainian: Pivnichni Bahamy
+  yugoslav: Sjeverna Bahama
 - ID: 691
   albanian: Trinidad
   arab: Trinidad
@@ -21451,36 +21451,36 @@
   ukrainian: Windward Islands
   yugoslav: Privjetrinski otoci
 - ID: 693
-  albanian: Southern Bahamas
-  arab: Southern Bahamas
-  belarusian: Southern Bahamas
-  bulgarian: Southern Bahamas
+  albanian: Bahamas Jugor
+  arab: Juzur Albahama Aljanubia
+  belarusian: Paudniovyja Bahamy
+  bulgarian: Yuzhno Bakhami
   chinese: Nanbahama
-  czech: Southern Bahamas
-  danish: .nan
+  czech: Jizni Bahamas
+  danish: Southern Bahamas
   dutch: Southern Bahamas
   english: Southern Bahamas
-  estonian: Southern Bahamas
-  finnish: Southern Bahamas
-  french: Southern Bahamas
-  german: Southern Bahamas
-  greek: Southern Bahamas
-  hindi: .nan
-  hungarian: Southern Bahamas
-  italian: Southern Bahamas
-  japanese: Southern Bahamas
-  latvian: Southern Bahamas
-  lithuanian: Southern Bahamas
-  norwegian: .nan
-  polish: Southern Bahamas
-  portuguese: Southern Bahamas
-  romanian: Southern Bahamas
-  russian: Southern Bahamas
-  spanish: Southern Bahamas
-  swedish: Southern Bahamas
-  turkish: Southern Bahamas
-  ukrainian: Southern Bahamas
-  yugoslav: Southern Bahamas
+  estonian: Louna Bahama
+  finnish: Southern Bahama
+  french: Bahamas Du Sud
+  german: Sudbahamas
+  greek: Notia Bachames
+  hindi: Dakshinee Bahaama
+  hungarian: Del Bahamak
+  italian: Bahamas Del Sud
+  japanese: Sazanbahama
+  latvian: Dienvidu Bahamu Salas
+  lithuanian: Pietu Bahamos
+  norwegian: Sor Bahamas
+  polish: Poludniowe Bahamy
+  portuguese: Bahamas Do Sul
+  romanian: Bahamas De Sud
+  russian: Yuzhnyye Bagamskiye Ostrova
+  spanish: Bahamas Del Sur
+  swedish: Sodra Bahamas
+  turkish: Guney Bahamalar
+  ukrainian: Pivdenni Bahamy
+  yugoslav: Juzne Bahame
 - ID: 694
   albanian: French Caribbean
   arab: Alantil alfaransia
@@ -22412,36 +22412,36 @@
   ukrainian: Pivdennyj ostriv
   yugoslav: Južni otok
 - ID: 724
-  albanian: Northern Malay
-  arab: Northern Malay
-  belarusian: Northern Malay
-  bulgarian: Northern Malay
+  albanian: Malay Veriore
+  arab: Alshamal Almalayu
+  belarusian: Paunocny Malajskaja
+  bulgarian: Severen Malaiski
   chinese: Beimalei
-  czech: Northern Malay
-  danish: .nan
+  czech: Severni Malay
+  danish: Nordlige Malay
   dutch: Noordelijk Malay
   english: Northern Malay
-  estonian: Northern Malay
-  finnish: Northern Malay
+  estonian: Pohja Malai
+  finnish: Pohjoinen Malaiji
   french: Northern Malay
-  german: Northern Malay
-  greek: Northern Malay
-  hindi: .nan
-  hungarian: Northern Malay
+  german: Nordlich Malai
+  greek: Voreio Malaisias
+  hindi: Uttaree Malay
+  hungarian: Eszaki Malaj
   italian: Northern Malay
-  japanese: Northern Malay
-  latvian: Northern Malay
-  lithuanian: Northern Malay
-  norwegian: .nan
-  polish: Northern Malay
+  japanese: Kita Mare
+  latvian: Ziemelu Malajiesu Valoda
+  lithuanian: Siaures Malajieciu
+  norwegian: Northern Malay
+  polish: Polnocny Malajski
   portuguese: Northern Malay
   romanian: Northern Malay
-  russian: Northern Malay
+  russian: Severnyy Malay
   spanish: Northern Malay
-  swedish: Northern Malay
-  turkish: Northern Malay
-  ukrainian: Northern Malay
-  yugoslav: Northern Malay
+  swedish: Norra Malay
+  turkish: Kuzey Malay
+  ukrainian: Pivnichnyy Malayskyy
+  yugoslav: Sjeverni Malajski
 - ID: 725
   albanian: Naurua
   arab: Nawru
@@ -23652,36 +23652,36 @@
   ukrainian: Kenihsberh
   yugoslav: Königsberg
 - ID: 764
-  albanian: West Banat
-  arab: West Banat
-  belarusian: West Banat
-  bulgarian: West Banat
+  albanian: Ne Qender Te Qytetit
+  arab: Wasat Banat
+  belarusian: West banat
+  bulgarian: West banat
   chinese: West banat
-  czech: West Banat
-  danish: .nan
+  czech: West banat
+  danish: West banat
   dutch: West Banaat
   english: West Banat
-  estonian: West Banat
-  finnish: West Banat
-  french: West Banat
-  german: Westbanat
-  greek: West Banat
-  hindi: .nan
-  hungarian: West Banat
-  italian: Banato Occidentale
-  japanese: West Banat
-  latvian: West Banat
-  lithuanian: West Banat
-  norwegian: .nan
-  polish: West Banat
-  portuguese: West Banat
-  romanian: West Banat
-  russian: West Banat
-  spanish: West Banat
-  swedish: West Banat
-  turkish: West Banat
-  ukrainian: West Banat
-  yugoslav: West Banat
+  estonian: West banat
+  finnish: West banat
+  french: West banat
+  german: West banat
+  greek: West banat
+  hindi: West banat
+  hungarian: West banat
+  italian: Banat Occidentale
+  japanese: West banat
+  latvian: West banat
+  lithuanian: West banat
+  norwegian: West banat
+  polish: West banat
+  portuguese: West banat
+  romanian: West banat
+  russian: West banat
+  spanish: West banat
+  swedish: West banat
+  turkish: West banat
+  ukrainian: West banat
+  yugoslav: West banat
 - ID: 765
   albanian: Katari
   arab: Qatar
@@ -24334,36 +24334,36 @@
   ukrainian: Pikardija
   yugoslav: Pikardija
 - ID: 786
-  albanian: Mauritanian Desert
-  arab: Mauritanian Desert
-  belarusian: Mauritanian Desert
-  bulgarian: Mauritanian Desert
+  albanian: Desert Mauritanian
+  arab: Alsahra Almuritania
+  belarusian: Maurytanski Pustynia
+  bulgarian: Mavritanski Pustinya
   chinese: Maolitaniyashamo
-  czech: Mauritanian Desert
-  danish: .nan
+  czech: Mauritanska Poust
+  danish: Mauretanisk Orken
   dutch: Mauritaanse Woestijn
   english: Mauritanian Desert
-  estonian: Mauritanian Desert
-  finnish: Mauritanian Desert
-  french: Mauritanian Desert
-  german: Mauritanian Desert
-  greek: Mauritanian Desert
-  hindi: .nan
-  hungarian: Mauritanian Desert
-  italian: Mauritanian Desert
-  japanese: Mauritanian Desert
-  latvian: Mauritanian Desert
-  lithuanian: Mauritanian Desert
-  norwegian: .nan
-  polish: Mauritanian Desert
-  portuguese: Mauritanian Desert
-  romanian: Mauritanian Desert
-  russian: Mauritanian Desert
-  spanish: Mauritanian Desert
-  swedish: Mauritanian Desert
-  turkish: Mauritanian Desert
-  ukrainian: Mauritanian Desert
-  yugoslav: Mauritanian Desert
+  estonian: Mauritaania Korbes
+  finnish: Mauritanian Aavikko
+  french: Desert Mauritanien
+  german: Mauritanische Wuste
+  greek: Mavritaniki Erimo
+  hindi: Moritaaniyan Registaan
+  hungarian: Mauritaniai Sivatag
+  italian: Deserto Della Mauritania
+  japanese: Moritania No Sabaku
+  latvian: Mauritanijas Tuksnesis
+  lithuanian: Mauritanijos Dykuma
+  norwegian: Mauritanske Orkenen
+  polish: Pustynia Mauretanska
+  portuguese: Desert Mauritaniano
+  romanian: Desert Mauritanian
+  russian: Mavritanskaya Pustynya
+  spanish: Desierto De Mauritania
+  swedish: Mauretansk Oken
+  turkish: Moritanya Col
+  ukrainian: Marytanska Pustelya
+  yugoslav: Mauritanska Pustinja
 - ID: 787
   albanian: Northern Kashmir
   arab: Gaustratt-baltistan
@@ -24582,36 +24582,36 @@
   ukrainian: Hvadalakhara
   yugoslav: Guadalajara
 - ID: 794
-  albanian: Eastern Aragón
-  arab: Eastern Aragón
-  belarusian: Eastern Aragón
-  bulgarian: Eastern Aragón
+  albanian: Aragon Lindor
+  arab: Araghun Alsharqia
+  belarusian: Uschodniaja Arahon
+  bulgarian: Iztochen Aragon
   chinese: Dong'alagong
-  czech: Eastern Aragón
-  danish: .nan
+  czech: Vychodni Aragon
+  danish: Eastern Aragon
   dutch: Oostelijk Aragón
   english: Eastern Aragón
-  estonian: Eastern Aragón
-  finnish: Eastern Aragón
-  french: Eastern Aragón
-  german: 'Ost-Aragonien '
-  greek: Eastern Aragón
-  hindi: .nan
-  hungarian: Eastern Aragón
-  italian: Eastern Aragón
-  japanese: Eastern Aragón
-  latvian: Eastern Aragón
-  lithuanian: Eastern Aragón
-  norwegian: .nan
-  polish: Eastern Aragón
-  portuguese: Eastern Aragón
-  romanian: Eastern Aragón
-  russian: Eastern Aragón
-  spanish: Eastern Aragón
-  swedish: Eastern Aragón
-  turkish: Eastern Aragón
-  ukrainian: Eastern Aragón
-  yugoslav: Eastern Aragón
+  estonian: Ida Aragon
+  finnish: Itainen Aragon
+  french: Aragon De Lest
+  german: Ostlicher Aragon
+  greek: Anatoliki Aragonia
+  hindi: Poorvee Araagon
+  hungarian: Keleti Aragon
+  italian: Aragona Orientale
+  japanese: Azuma Aragon
+  latvian: Austrumu Aragons
+  lithuanian: Rytu Aragon
+  norwegian: Ostlige Aragon
+  polish: Wschodni Aragon
+  portuguese: Aragao Oriental
+  romanian: Est Aragon
+  russian: Vostochnyy Aragon
+  spanish: Aragon Oriental
+  swedish: Ostra Aragon
+  turkish: Dogu Aragonu
+  ukrainian: Skhidnyy Arahon
+  yugoslav: Istocni Aragon
 - ID: 795
   albanian: Santarém
   arab: Santarém
@@ -24644,36 +24644,36 @@
   ukrainian: Santaren
   yugoslav: Santarém
 - ID: 796
-  albanian: North Angola
-  arab: North Angola
-  belarusian: North Angola
-  bulgarian: North Angola
+  albanian: Angola E Veriut
+  arab: Shamal Anghula
+  belarusian: Paunocnaja Anhola
+  bulgarian: Severna Angola
   chinese: Beiangela
-  czech: North Angola
-  danish: .nan
+  czech: Severni Angola
+  danish: North Angola
   dutch: Noord Angola
   english: North Angola
-  estonian: North Angola
-  finnish: North Angola
-  french: North Angola
-  german: 'Nordangola '
-  greek: North Angola
-  hindi: .nan
-  hungarian: North Angola
-  italian: North Angola
-  japanese: North Angola
-  latvian: North Angola
-  lithuanian: North Angola
-  norwegian: .nan
+  estonian: Pohja Angola
+  finnish: Pohjois Angola
+  french: Angola Du Nord
+  german: Nordangola
+  greek: Voreia Ankola
+  hindi: Uttaree Angola
+  hungarian: Eszak Angola
+  italian: Angola Nord
+  japanese: Kita Angora
+  latvian: Ziemelu Angols
+  lithuanian: Siaures Angola
+  norwegian: North Angola
   polish: North Angola
   portuguese: North Angola
-  romanian: North Angola
-  russian: North Angola
-  spanish: North Angola
-  swedish: North Angola
-  turkish: North Angola
-  ukrainian: North Angola
-  yugoslav: North Angola
+  romanian: Angola De Nord
+  russian: Severnaya Angola
+  spanish: Angola Del Norte
+  swedish: Norra Angola
+  turkish: Kuzey Angola
+  ukrainian: Pivnichna Anhola
+  yugoslav: Sjeverna Angola
 - ID: 797
   albanian: Stambolli
   arab: Iistanbul
@@ -25295,36 +25295,36 @@
   ukrainian: Marij el
   yugoslav: Marij El
 - ID: 829
-  albanian: Engels-Marxstadt
-  arab: Engels-Marxstadt
-  belarusian: Engels-Marxstadt
-  bulgarian: Engels-Marxstadt
-  chinese: Engesi-makasicheng
-  czech: Engels-Marxstadt
-  danish: .nan
-  dutch: Engels-Marxstad
-  english: Engels-Marxstadt
-  estonian: Engels-Marxstadt
-  finnish: Engels-Marxstadt
-  french: Engels-Marxstadt
+  albanian: Engels-Marx ytet
+  arab: Engels-Marx
+  belarusian: Engels-Marx Horad
+  bulgarian: Engels-Marx
+  chinese: Engels-Marx Chengshi
+  czech: Engels-Marx Mesto
+  danish: Engels-Marx
+  dutch: Engels-Marx Stad
+  english: Engels-Marx City
+  estonian: Engels-Marx inn
+  finnish: Engels-Marx
+  french: Engels-Marx Cité
   german: Katherinenstadt
-  greek: Engels-Marxstadt
-  hindi: .nan
-  hungarian: Engels-Marxstadt
-  italian: Engels-Marxstadt
-  japanese: Engels-Marxstadt
-  latvian: Engels-Marxstadt
-  lithuanian: Engels-Marxstadt
-  norwegian: .nan
-  polish: Engels-Marxstadt
-  portuguese: Engels-Marxstadt
-  romanian: Engels-Marxstadt
-  russian: Engels-Marks
-  spanish: Engels-Marxstadt
-  swedish: Engels-Marxstadt
-  turkish: Engels-Marxstadt
-  ukrainian: Engels-Marxstadt
-  yugoslav: Engels-Marxstadt
+  greek: Engels-Marx
+  hindi: Engels-Marx Shahar
+  hungarian: Engels-Marx
+  italian: Engels-Marx Città
+  japanese: Engels-Marx
+  latvian: Engels-Marx
+  lithuanian: Engels-Marx
+  norwegian: Engels-Marx
+  polish: Engels-Marx Miasto
+  portuguese: Engels-Marx Cidade
+  romanian: Engels-Marx
+  russian: Engels-Marx Gorod
+  spanish: Engels-Marx Ciudad
+  swedish: Engels-Marx
+  turkish: Engels-marx Sehri
+  ukrainian: Engels-Marx Misto
+  yugoslav: Engels-Marx
 - ID: 827
   albanian: Kabardino-Ballkaria
   arab: Qibrdinu - biliqarya
