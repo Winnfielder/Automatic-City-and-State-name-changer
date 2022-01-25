@@ -9953,34 +9953,34 @@
 - Province id: 3942
   StateID: 680
   albanian: Deir az-Zur
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Dai'er Zu'er
-  czech: Deir az-Zur
-  danish: .nan
-  dutch: Deir az-Zur
-  english: Deir az-Zur
+  arab: Dayru z-Zawr
+  belarusian: Deir-ez-zor
+  bulgarian: Deir Ez-zor
+  chinese: Daierzuer
+  czech: Dajr Az-zaur
+  danish: Deir ez-Zor
+  dutch: Deir Ez-zor
+  english: Deir ez-Zor
   estonian: Deir az-Zur
-  finnish: Deir az-Zur
-  french: Deir az-Zur
-  german: Deir az-Zur
-  greek: Deir az-Zur
-  hindi: .nan
-  hungarian: Deir az-Zur
-  italian: Deir az-Zur
-  japanese: .nan
+  finnish: Deir Ez Zor
+  french: Deir Ez-zor
+  german: Deir Ez-zor
+  greek: Nteir Al-zor
+  hindi: Diir Aj-jor
+  hungarian: Dajr Ez-zaur
+  italian: Deir El-zor
+  japanese: Derizoru
   latvian: Deir az-Zur
-  lithuanian: Deir az-Zur
-  norwegian: .nan
-  polish: Deir az-Zur
-  portuguese: Deir az-Zur
-  romanian: Deir az-Zur
-  russian: Deir az-Zur
-  spanish: Deir az-Zur
-  swedish: Deir az-Zur
-  turkish: Deir az-Zur
-  ukrainian: .nan
+  lithuanian: Deir Ez Zoras
+  norwegian: Deir ez-Zor
+  polish: Dajr Az-zaur
+  portuguese: Deir Zor
+  romanian: Deir Ez-zor
+  russian: Dair-ez-zaur
+  spanish: Deir Ez-zor
+  swedish: Dayr Az-zawr
+  turkish: Deyrizor
+  ukrainian: Dair-ez-zaur
   yugoslav: Deir az-Zur
 - Province id: 3945
   StateID: 793
@@ -11232,36 +11232,36 @@
   yugoslav: Sterlitamak
 - Province id: 4357
   StateID: 647
-  albanian: North Palau
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
+  albanian: Veri-palau
+  arab: Shamal Balaw
+  belarusian: North Palau
+  bulgarian: Severen Palau
   chinese: Palaobei
-  czech: North Palau
-  danish: .nan
-  dutch: Noord-Palau
+  czech: Severni Palau
+  danish: North Palau
+  dutch: Noord-palau
   english: North Palau
-  estonian: North Palau
+  estonian: Pohja-palau
   finnish: North Palau
   french: North Palau
   german: North Palau
-  greek: North Palau
-  hindi: .nan
-  hungarian: North Palau
+  greek: Voreio Palaou
+  hindi: Uttar Palaoo
+  hungarian: Eszak-palau
   italian: North Palau
-  japanese: .nan
+  japanese: Kita Parao
   latvian: North Palau
-  lithuanian: North Palau
-  norwegian: .nan
+  lithuanian: Siaures Palau
+  norwegian: North Palau
   polish: North Palau
   portuguese: North Palau
-  romanian: North Palau
-  russian: North Palau
+  romanian: Palau De Nord
+  russian: Severnyy Palau
   spanish: North Palau
-  swedish: North Palau
-  turkish: North Palau
-  ukrainian: .nan
-  yugoslav: North Palau
+  swedish: Norra Palau
+  turkish: Kuzey Palau
+  ukrainian: Pivnichnyy Palau
+  yugoslav: Sjeverni Palav
 - Province id: 4401
   StateID: 286
   albanian: Saigon
@@ -11552,36 +11552,36 @@
   yugoslav: Čangčun
 - Province id: 4598
   StateID: 319
-  albanian: Santiago de los Caballeros
-  arab: Santiaghu di lus kabalirus
-  belarusian: Santjaha-de-los-dzentlmieny
-  bulgarian: Santyago de los kabayeros
-  chinese: Shengdiyage
-  czech: Santiago de los Caballeros
-  danish: .nan
-  dutch: Santiago de los Caballeros
+  albanian: Shen Jakobi I Knights
+  arab: Alqidiys Jims Min Alfursan
+  belarusian: Sent-dzejms Rycarau
+  bulgarian: Sveti Dzheims Na Ritsarite
+  chinese: Sheng Zhanmusi De Qishi
+  czech: Svaty James Rytiru
+  danish: Saint James Of The Ridders
+  dutch: Saint James Of The Knights
   english: Saint James of the Knights
-  estonian: Santiago de los Caballeros
-  finnish: Santiago de los Caballeros
-  french: Santiago de los Caballeros
-  german: Santiago de los Caballeros
-  greek: Santiago de los Kabagieros
-  hindi: .nan
-  hungarian: Santiago de los Caballeros
-  italian: Santiago dei Cavaglieri
-  japanese: Santiago de rosu kabaryerosu
-  latvian: Santiago de los Caballeros
-  lithuanian: Santjago de los Kabaljerosas
-  norwegian: .nan
-  polish: Santiago de los Caballeros
-  portuguese: Santiago de los Caballeros
-  romanian: Santiago de los Caballeros
-  russian: Sant'jago-de-los-Trejnta-Kabal'eros
-  spanish: Santiago
-  swedish: Santiago de los Caballeros
-  turkish: Santiago de los Caballeros
-  ukrainian: Santjaho-de-los-trejnta-kabalyeros
-  yugoslav: Santiago de los Caballeros
+  estonian: Puha James Of Ruutlid
+  finnish: Pyhan James Of The Knights
+  french: Saint James Des Chevaliers
+  german: Saint James Der Ritter
+  greek: Agios Iakovos Ton Ippoton
+  hindi: Shooraveeron Ke Sent Jems
+  hungarian: Szent James A Lovagokrol
+  italian: San Giacomo dei Cavalieri
+  japanese: Kishi No Hijiri Jemuzu
+  latvian: Saint James No Bruniniekiem
+  lithuanian: Saint James Riteriai
+  norwegian: Saint James Of The Knights
+  polish: Saint James Of The Ryces
+  portuguese: Sao Tiago Dos Cavaleiros
+  romanian: Sfantul James Al Cavalerilor
+  russian: Svyatoy Dzheyms Iz Rytsarey
+  spanish: Saint James De Los Caballeros
+  swedish: Saint James Of The Knights
+  turkish: Sovalyelerin Saint James
+  ukrainian: Svyatyy Dzheyms Lytsariv
+  yugoslav: Sveti James Vitezova
 - Province id: 4608
   StateID: 335
   albanian: Surabaya
@@ -11969,26 +11969,26 @@
 - Province id: 4800
   StateID: 654
   albanian: Gorno-altaisk
-  arab: Ghurnu-altaysik
-  belarusian: Vierchni altayk
-  bulgarian: Gorno-altaysk
-  chinese: Geernuo-aertaisike
+  arab: Gwrnw-ltysk
+  belarusian: Gorna-altaisk
+  bulgarian: Gorno-altaisk
+  chinese: Geernuo-Aertaisike
   czech: Gorno-altajsk
-  danish: .nan
+  danish: Gorno-Altaysk
   dutch: Gorno-altajsk
-  english: Gorno-altaysk
+  english: Gorno-Altaysk
   estonian: Gorno-altaisk
   finnish: Gorno-altaisk
   french: Gorno-altaisk
   german: Gorno-altaisk
   greek: Gkorno-altaisk
-  hindi: .nan
+  hindi: Gorno-Altaysk
   hungarian: Gorno-altajszk
   italian: Gorno-altajsk
-  japanese: Goruno  arutaisuku
+  japanese: Goruno-Arutaisuku
   latvian: Gornoaltajska
-  lithuanian: Gorno altaiskas
-  norwegian: .nan
+  lithuanian: Gorno Altaiskas
+  norwegian: Gorno-Altaysk
   polish: Gornoaltajsk
   portuguese: Gorno-altaisk
   romanian: Gorno-altaisk
@@ -11996,7 +11996,7 @@
   spanish: Gorno-altaisk
   swedish: Gorno-altajsk
   turkish: Gorno-altaysk
-  ukrainian: Horno-altajsk
+  ukrainian: Gorno-altaisk
   yugoslav: Gorno-altajsk
 - Province id: 4801
   StateID: 330
@@ -13121,35 +13121,35 @@
 - Province id: 5098
   StateID: 421
   albanian: Kermānshāhān
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Kemanshahan
-  czech: Kermānshāhān
-  danish: .nan
-  dutch: Kermānshāhān
-  english: Kermānshāhān
+  arab: Krmnshh
+  belarusian: Kermanshakh
+  bulgarian: Kermanshakh
+  chinese: Keermanshahe
+  czech: Kermansah
+  danish: Kermanshah
+  dutch: Kermanshah
+  english: Kermanshah
   estonian: Kermānshāhān
-  finnish: Kermānshāhān
-  french: Kermānshāhān
-  german: Kermānshāhān
-  greek: Kermānshāhān
-  hindi: .nan
-  hungarian: Kermānshāhān
-  italian: Kermānshāhān
-  japanese: .nan
+  finnish: Kermansah
+  french: Kermanchah
+  german: Kermanschah
+  greek: Kermansakh
+  hindi: Krmaanshaah
+  hungarian: Kermansah
+  italian: Kermanshah
+  japanese: Kerumanshiya
   latvian: Kermānshāhān
-  lithuanian: Kermānshāhān
-  norwegian: .nan
-  polish: Kermānshāhān
-  portuguese: Kermānshāhān
-  romanian: Kermānshāhān
-  russian: Kermānshāhān
-  spanish: Kermānshāhān
-  swedish: Kermānshāhān
-  turkish: Kermānshāhān
-  ukrainian: .nan
-  yugoslav: Kermānshāhān
+  lithuanian: Kermansahas
+  norwegian: Kermanshah
+  polish: Kermanszah
+  portuguese: Quermanxa
+  romanian: Kermanshah
+  russian: Kermanshakh
+  spanish: Kermanshah
+  swedish: Kermanshah
+  turkish: Kirmansah
+  ukrainian: Kermanshakh
+  yugoslav: Kermansah
 - Province id: 5105
   StateID: 445
   albanian: Quetta
@@ -19201,35 +19201,35 @@
 - Province id: 7982
   StateID: 412
   albanian: Bandar e'Abbas
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
+  arab: Jaroon
+  belarusian: Bender-abas
+  bulgarian: Bandar Abas
   chinese: Abasigang
-  czech: Bandar e'Abbas
-  danish: .nan
-  dutch: Bandar e'Abbas
-  english: Bandar e'Abbas
+  czech: Bandar Abbas
+  danish: Bandar Abbas
+  dutch: Bandar Abbas
+  english: Cameron
   estonian: Bandar e'Abbas
-  finnish: Bandar e'Abbas
-  french: Bandar e'Abbas
-  german: Bandar e'Abbas
-  greek: Bandar e'Abbas
-  hindi: .nan
-  hungarian: Bandar e'Abbas
-  italian: Bandar e'Abbas
-  japanese: .nan
+  finnish: Bandar Abbas
+  french: Bandar Abbas
+  german: Bandar Abbas
+  greek: Mpantar Ampas
+  hindi: Bndr Abbaas
+  hungarian: Bandar-abbasz
+  italian: Bandar Abbas
+  japanese: Bandareatsubasu
   latvian: Bandar e'Abbas
-  lithuanian: Bandar e'Abbas
-  norwegian: .nan
-  polish: Bandar e'Abbas
-  portuguese: Bandar e'Abbas
-  romanian: Bandar e'Abbas
-  russian: Bandar e'Abbas
-  spanish: Bandar e'Abbas
-  swedish: Bandar e'Abbas
-  turkish: Bandar e'Abbas
-  ukrainian: .nan
-  yugoslav: Bandar e'Abbas
+  lithuanian: Bandare Abasas
+  norwegian: Bandar Abbas
+  polish: Bandar-e Abbas
+  portuguese: Porto Camorao
+  romanian: Bandar Abbas
+  russian: Bender-abbas
+  spanish: Bandar Abbas
+  swedish: Bandar Abbas
+  turkish: Bender Abbas
+  ukrainian: Bender-abbas
+  yugoslav: Bandar Abas
 - Province id: 7990
   StateID: 414
   albanian: Birjand
@@ -23296,35 +23296,35 @@
   yugoslav: Haskovo
 - Province id: 9868
   StateID: 353
-  albanian: Erzîngan
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Erz�ngan
-  czech: Erzîngan
-  danish: .nan
-  dutch: Erzîngan
-  english: Erzîngan
+  albanian: Erzinxhani
+  arab: Rznjn
+  belarusian: Erzincan
+  bulgarian: Erzindzhan
+  chinese: Aierjinzhan
+  czech: Erzincan
+  danish: Erzincan
+  dutch: Erzincan
+  english: Erzincan
   estonian: Erzîngan
   finnish: Erzîngan
-  french: Erzîngan
-  german: Erzîngan
-  greek: Erzîngan
-  hindi: .nan
+  french: Erzincan
+  german: Erzincan
+  greek: Akilisiní
+  hindi: Erzincan
   hungarian: Erzîngan
-  italian: Erzîngan
-  japanese: .nan
+  italian: Arzinga
+  japanese: Eruzuinziyan
   latvian: Erzîngan
-  lithuanian: Erzîngan
-  norwegian: .nan
-  polish: Erzîngan
-  portuguese: Erzîngan
-  romanian: Erzîngan
-  russian: Erzîngan
-  spanish: Erzîngan
+  lithuanian: Erzindzanas
+  norwegian: Erzincan
+  polish: Erzincan
+  portuguese: Arzinga
+  romanian: Erzincan
+  russian: Erzindzhan
+  spanish: Erzincan
   swedish: Erzîngan
-  turkish: Erzîngan
-  ukrainian: .nan
+  turkish: Erzincan
+  ukrainian: Erzindzhan
   yugoslav: Erzîngan
 - Province id: 9869
   StateID: 795
@@ -26248,12 +26248,12 @@
   czech: Nový přístav
   danish: Ny Port
   dutch: Nieuwe Poort
-  english: New-Port
+  english: New Port
   estonian: Uus Sadam
   finnish: Uusi Satama
   french: Nouveau Port
   german: Neuer-Hafen
-  greek: Néo limáni
+  greek: Neo Limani
   hindi: Naya Bandaragaah
   hungarian: Uj Kikoto
   italian: Porto Nuovo
