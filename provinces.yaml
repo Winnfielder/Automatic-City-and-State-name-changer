@@ -25729,35 +25729,35 @@
 - Province id: 10782
   StateID: 410
   albanian: Iransahr
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Yilanshahe'er
+  arab: Qal'eh-ye Naseri
+  belarusian: Iranshahr
+  bulgarian: Iranshahr
+  chinese: Yilangshaheer
   czech: Iransahr
-  danish: .nan
+  danish: Iranshahr
   dutch: Iransahr
-  english: Iransahr
+  english: Iranshahr
   estonian: Iransahr
   finnish: Iransahr
-  french: Iransahr
-  german: Iransahr
+  french: Pura
+  german: Iranschahr
   greek: Iransahr
-  hindi: .nan
+  hindi: Iiraanshhr
   hungarian: Iransahr
-  italian: Iransahr
-  japanese: .nan
+  italian: Pura
+  japanese: Iranshahr
   latvian: Iransahr
   lithuanian: Iransahr
-  norwegian: .nan
-  polish: Iransahr
+  norwegian: Iranshahr
+  polish: Iranszahr
   portuguese: Iransahr
-  romanian: Iransahr
-  russian: Iransahr
+  romanian: Iranshahr
+  russian: Iranshekhr
   spanish: Iransahr
-  swedish: Iransahr
-  turkish: Iransahr
-  ukrainian: .nan
-  yugoslav: Iransahr
+  swedish: Iranshahr
+  turkish: Iransehr
+  ukrainian: Iranshahr
+  yugoslav: Iransaher
 - Province id: 10803
   StateID: 779
   albanian: Abixhan
@@ -26241,35 +26241,35 @@
 - Province id: 10919
   StateID: 776
   albanian: Port i ri
-  arab: Mina' jadid
-  belarusian: Novy port
+  arab: Mina Jadid
+  belarusian: Novy Port
   bulgarian: Novo pristanishte
-  chinese: Xin gangkou
+  chinese: Xin Gangkou
   czech: Nový přístav
-  danish: .nan
-  dutch: Nieuwe haven
+  danish: Ny Port
+  dutch: Nieuwe Poort
   english: New-Port
-  estonian: Uus sadam
-  finnish: Uusi portti
-  french: Nouveau port
+  estonian: Uus Sadam
+  finnish: Uusi Satama
+  french: Nouveau Port
   german: Neuer-Hafen
   greek: Néo limáni
-  hindi: .nan
-  hungarian: Új kikötő
-  italian: Porto-Nuovo
+  hindi: Naya Bandaragaah
+  hungarian: Uj Kikoto
+  italian: Porto Nuovo
   japanese: Atarashī pōto
-  latvian: Jauna osta
-  lithuanian: Naujas uostas
-  norwegian: .nan
-  polish: Nowy port
-  portuguese: Nova porta
-  romanian: Port nou
-  russian: Novyy port
-  spanish: Nuevo puerto
-  swedish: Ny hamn
-  turkish: Yeni bağlantı noktası
-  ukrainian: Novyy port
-  yugoslav: Nova luka
+  latvian: Jauna Osta
+  lithuanian: Naujas Uostas
+  norwegian: Ny Port
+  polish: Nowy Port
+  portuguese: Novo Porto
+  romanian: Port Nou
+  russian: Novyy Port
+  spanish: Nuevo Puerto
+  swedish: Ny Hamn
+  turkish: Yeni Liman
+  ukrainian: Novyy Port
+  yugoslav: Nova Luka
 - Province id: 10929
   StateID: 545
   albanian: Salisbury
@@ -28320,36 +28320,36 @@
   yugoslav: Calais
 - Province id: 11561
   StateID: 226
-  albanian: Krivoi Rih
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Keliwoli
-  czech: Krivoi Rih
-  danish: .nan
-  dutch: Siegen
-  english: Krivoi Rih
-  estonian: Krivoi Rih
-  finnish: Krivoi Rih
-  french: Krivoi Rih
-  german: Siegen
-  greek: Krivoi Rih
-  hindi: .nan
-  hungarian: Krivoi Rih
-  italian: Krivoi Rih
-  japanese: .nan
-  latvian: Krivoi Rih
-  lithuanian: Krivoi Rih
-  norwegian: .nan
-  polish: Krivoi Rih
-  portuguese: Krivoi Rih
-  romanian: Krivoi Rih
-  russian: Krivoy Rog
-  spanish: Krivoi Rih
-  swedish: Krivoi Rih
-  turkish: Krivoi Rih
+  albanian: Bri I Lakuar
+  arab: Alqarn Almunhani
+  belarusian: Vyhnutyja Roh
+  bulgarian: Izvit Rog
+  chinese: Wan Jiao
+  czech: Zakriveny Roh
+  danish: Buet Horn
+  dutch: Gekromde Hoorn
+  english: Curved Horn
+  estonian: Koverdatud Sarv
+  finnish: Kaareva Sarvi
+  french: Corne Incurvee
+  german: Gebogenes Horn
+  greek: Kampyli Keratos
+  hindi: Ghumaavadaar Seeng
+  hungarian: Hajlitott Szarv
+  italian: Corno Curvo
+  japanese: Wankyoku Shita Tsuno
+  latvian: Izliekts Rags
+  lithuanian: Islenktas Ragas
+  norwegian: Buet Horn
+  polish: Zakrzywiony Rog
+  portuguese: Chifre Curvado
+  romanian: Cornul Curbat
+  russian: Izognutyy Rog
+  spanish: Cuerno Curvo
+  swedish: Bojd Horn
+  turkish: Kavisli Boynuz
   ukrainian: Kryvyi Rih
-  yugoslav: Krivoi Rih
+  yugoslav: Zakrivljeni Rog
 - Province id: 11562
   StateID: 35
   albanian: Maastricht
@@ -31297,34 +31297,34 @@
 - Province id: 12413
   StateID: 675
   albanian: Rumadiyah
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
+  arab: Ar-Ramadi
+  belarusian: Ramadi
+  bulgarian: Ramadi
   chinese: Lumadiya
-  czech: Rumadiyah
-  danish: .nan
-  dutch: Rumadiyah
+  czech: Ramadi
+  danish: Ramadi
+  dutch: Ramadi
   english: Rumadiyah
-  estonian: Rumadiyah
-  finnish: Rumadiyah
-  french: Rumadiyah
-  german: Rumadiyah
-  greek: Rumadiyah
-  hindi: .nan
-  hungarian: Rumadiyah
-  italian: Rumadiyah
-  japanese: .nan
+  estonian: Ar-ramadi
+  finnish: Ramadi
+  french: Ramadi
+  german: Ramadi
+  greek: Ramanti
+  hindi: Ramadi
+  hungarian: Ramadi
+  italian: Ramadi
+  japanese: Ramadei
   latvian: Rumadiyah
-  lithuanian: Rumadiyah
-  norwegian: .nan
-  polish: Rumadiyah
-  portuguese: Rumadiyah
-  romanian: Rumadiyah
-  russian: Rumadiyah
-  spanish: Rumadiyah
-  swedish: Rumadiyah
-  turkish: Rumadiyah
-  ukrainian: .nan
+  lithuanian: Ramadi
+  norwegian: Ramadi
+  polish: Ar-ramadi
+  portuguese: Ramadi
+  romanian: Ramadi
+  russian: Er-ramadi
+  spanish: Ramadi
+  swedish: Al-ramadi
+  turkish: Ramadi
+  ukrainian: Er-ramadi
   yugoslav: Rumadiyah
 - Province id: 12421
   StateID: 536
@@ -31361,35 +31361,35 @@
 - Province id: 12441
   StateID: 230
   albanian: Gyurmi
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Gyurmi
-  czech: Gyurmi
-  danish: .nan
-  dutch: Gyurmi
-  english: Gyurmi
-  estonian: Gyurmi
-  finnish: Gyurmi
-  french: Gyurmi
-  german: Grumte
-  greek: Gyurmi
-  hindi: .nan
-  hungarian: Gyurmi
-  italian: Gyurmi
-  japanese: .nan
-  latvian: Gyurmi
-  lithuanian: Gyurmi
-  norwegian: .nan
-  polish: Gyurmi
-  portuguese: Gyurmi
-  romanian: Gyurmi
-  russian: Gyurmi
-  spanish: Gyurmi
-  swedish: Gyurmi
-  turkish: Gyurmi
-  ukrainian: .nan
-  yugoslav: Gyurmi
+  arab: Gywmry
+  belarusian: Giumry
+  bulgarian: Giumri
+  chinese: Jiumuli
+  czech: Gjumri
+  danish: Gjumri
+  dutch: Gjoemri
+  english: Gyumri
+  estonian: Gjumri
+  finnish: Gjumri
+  french: Giumri
+  german: Gjumri
+  greek: Gkioumri
+  hindi: Gyumri
+  hungarian: Gjumri
+  italian: Giumri
+  japanese: Giyumuri
+  latvian: Gjumri
+  lithuanian: Giumri
+  norwegian: Gyumri
+  polish: Giumri
+  portuguese: Guiumri
+  romanian: Ghiumri
+  russian: Leninakan
+  spanish: Guiumri
+  swedish: Gjumri
+  turkish: Gumru
+  ukrainian: Giumri
+  yugoslav: Gjumri
 - Province id: 12446
   StateID: 537
   albanian: Toyohara
