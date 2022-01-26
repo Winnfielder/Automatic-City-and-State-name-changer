@@ -255,7 +255,7 @@
   ukrainian: Falun
   yugoslav: Falun
 - Province id: 185
-  StateID: 13
+  StateID: 811
   albanian: Arensburg
   arab: Arnisburgh
   belarusian: Arensburg
@@ -265,7 +265,7 @@
   danish: Kuressaare
   dutch: Arensburg
   english: Arensburg
-  estonian: Arensburg
+  estonian: Kuressaare
   finnish: Arensburg
   french: Arensburg
   german: Arensburg
@@ -784,7 +784,7 @@
   greek: Newcastle
   hindi: Nyookaasal
   hungarian: Newcastle
-  italian: Newcastle
+  italian: Castelnuovo
   japanese: Nyūkassuru
   latvian: Newcastle
   lithuanian: Niukaslas
@@ -848,7 +848,7 @@
   greek: Karntif
   hindi: Kaardif
   hungarian: Cardiff
-  italian: Cardiff
+  italian: Fortetaffo
   japanese: Kādifu
   latvian: Kārdifa
   lithuanian: Kardifas
@@ -1888,7 +1888,7 @@
   yugoslav: Černovci
 - Province id: 587
   StateID: 51
-  albanian: Këlni
+  albanian: Kelni
   arab: Kulunia
   belarusian: Koln
   bulgarian: Kyoln
@@ -2246,30 +2246,30 @@
   bulgarian: Brashov
   chinese: Bulasuofu
   czech: Brašov
-  danish: Brașov
+  danish: Braşov
   dutch: Kroonstad
   english: Brasov
-  estonian: Brașov
-  finnish: Brașov
-  french: Brașov
+  estonian: Braşov
+  finnish: Braşov
+  french: Braşov
   german: Kronstadt
   greek: Brasov
   hindi: Braasov
   hungarian: Brassó
-  italian: Brașov
+  italian: Braşov
   japanese: Burashovu
   latvian: Brašova
   lithuanian: Brašovas
   norwegian: Brasov
   polish: Braszów
-  portuguese: Brașov
-  romanian: Brașov
+  portuguese: Braşov
+  romanian: Braşov
   russian: Brashov
-  spanish: Brașov
-  swedish: Brașov
-  turkish: Brașov
+  spanish: Braşov
+  swedish: Braşov
+  turkish: Braşov
   ukrainian: Brashov
-  yugoslav: Brașov
+  yugoslav: Braşov
 - Province id: 692
   StateID: 52
   albanian: Mynihu
@@ -2912,7 +2912,7 @@
   yugoslav: Córdoba
 - Province id: 876
   StateID: 353
-  albanian: Ellazë
+  albanian: Ellaze
   arab: Maemurat aleaziz
   belarusian: Elazyg
   bulgarian: Elyazag
@@ -3077,13 +3077,13 @@
   belarusian: Hiracastra
   bulgarian: Argirokastro
   chinese: Jinuoqiasite
-  czech: Gjirokastër
-  danish: Gjirokastër
-  dutch: Gjirokastër
-  english: Gjirokastër
-  estonian: Gjirokastër
-  finnish: Gjirokastër
-  french: Gjirokastër
+  czech: Gjirokaster
+  danish: Gjirokaster
+  dutch: Gjirokaster
+  english: Gjirokaster
+  estonian: Gjirokaster
+  finnish: Gjirokaster
+  french: Gjirokaster
   german: Gjirokastra
   greek: Argurokastro
   hindi: Gjirokastr
@@ -3094,7 +3094,7 @@
   lithuanian: Girokasteris
   norwegian: Gjirokastra
   polish: Dżirokastra
-  portuguese: Gjirokastër
+  portuguese: Gjirokaster
   romanian: Gjirokastra
   russian: Girokastra
   spanish: Gjirokastra
@@ -4343,7 +4343,7 @@
   norwegian: Dushanbe
   polish: Duszanbe
   portuguese: Duxambé
-  romanian: Dușanbe
+  romanian: Duşanbe
   russian: 'Stalinabad '
   spanish: Dusambé
   swedish: Dusjanbe
@@ -4352,7 +4352,7 @@
   yugoslav: Dušanbe
 - Province id: 1408
   StateID: 473
-  albanian: Vankuvër
+  albanian: Vankuver
   arab: Fankufar
   belarusian: Vancouver
   bulgarian: Vankuvar
@@ -4471,7 +4471,7 @@
   norwegian: Tashkent
   polish: Taszkent
   portuguese: Tasquente
-  romanian: Tașkent
+  romanian: Taşkent
   russian: Tashkent
   spanish: Taskent
   swedish: Tasjkent
@@ -7008,7 +7008,7 @@
   yugoslav: Dundee
 - Province id: 3151
   StateID: 195
-  albanian: Shën Petersburgu
+  albanian: Shen Petersburgu
   arab: Sant butrisbirgh
   belarusian: Sankt-pieciarburh
   bulgarian: Sankt peterburg
@@ -7199,7 +7199,7 @@
   ukrainian: Suvalky
   yugoslav: Suwałki
 - Province id: 3255
-  StateID: 12
+  StateID: 809
   albanian: Jēkabpils
   arab: Yakabylis
   belarusian: Ekabpils
@@ -7280,7 +7280,7 @@
   greek: Glaskovi
   hindi: Glaasago
   hungarian: Glasgow
-  italian: Glasgow
+  italian: Glesga
   japanese: Gurasugō
   latvian: Glāzgova
   lithuanian: Glazgas
@@ -7664,7 +7664,7 @@
   greek: Bristol
   hindi: Bristal
   hungarian: Bristol
-  italian: Bristol
+  italian: Abona
   japanese: Burisutoru
   latvian: Bristole
   lithuanian: Bristolis
@@ -8279,7 +8279,7 @@
   norwegian: Warszawa
   polish: Warszawa
   portuguese: Varsóvia
-  romanian: Varșovia
+  romanian: Varşovia
   russian: Varshava
   spanish: Varsovia
   swedish: Warszawa
@@ -8512,7 +8512,7 @@
   yugoslav: Černihiv
 - Province id: 3569
   StateID: 75
-  albanian: Bërno
+  albanian: Berno
   arab: Burnu
   belarusian: Brna
   bulgarian: Barno
@@ -8902,30 +8902,30 @@
   bulgarian: Ploesht
   chinese: Puluoyeshidi
   czech: Ploješť
-  danish: Ploiești
-  dutch: Ploiești
+  danish: Ploieşti
+  dutch: Ploieşti
   english: Ploiesti
-  estonian: Ploiești
-  finnish: Ploiești
-  french: Ploiești
+  estonian: Ploieşti
+  finnish: Ploieşti
+  french: Ploieşti
   german: Plorescht
   greek: Ploiesti
   hindi: Ploiaisti
-  hungarian: Ploiești
-  italian: Ploiești
+  hungarian: Ploieşti
+  italian: Ploieşti
   japanese: Puroieshuti
   latvian: Ploješti
   lithuanian: Ploještis
   norwegian: Ploiesti
   polish: Ploeszti
-  portuguese: Ploiești
-  romanian: Ploiești
+  portuguese: Ploieşti
+  romanian: Ploieşti
   russian: Ploeshti
-  spanish: Ploiești
-  swedish: Ploiești
-  turkish: Ploiești
+  spanish: Ploieşti
+  swedish: Ploieşti
+  turkish: Ploieşti
   ukrainian: Ployeshti
-  yugoslav: Ploiești
+  yugoslav: Ploieşti
 - Province id: 3671
   StateID: 24
   albanian: Tours
@@ -9094,27 +9094,27 @@
   bulgarian: Kishinev
   chinese: Jixinewu
   czech: Kišiněv
-  danish: Chișinău
+  danish: Chişinău
   dutch: Chisinau
   english: Chisinău
-  estonian: Chișinău
-  finnish: Chișinău
-  french: Chișinău
+  estonian: Chişinău
+  finnish: Chişinău
+  french: Chişinău
   german: Kischinau
   greek: Kisinaoy
   hindi: Pindalee
-  hungarian: Chișinău
-  italian: Chișinău
+  hungarian: Chişinău
+  italian: Chişinău
   japanese: Kishinau
   latvian: Kišiņeva
   lithuanian: Kišiniovas
   norwegian: Chisinau
   polish: Kiszyniów
   portuguese: Quixinau
-  romanian: Chișinău
+  romanian: Chişinău
   russian: Kishinev
   spanish: Chisináu
-  swedish: Chișinău
+  swedish: Chişinău
   turkish: Kişinev
   ukrainian: Kyshyniv
   yugoslav: Kišinjev
@@ -9205,7 +9205,7 @@
   latvian: Balta
   lithuanian: Balta
   norwegian: Hvit
-  polish: Balta
+  polish: Bałta
   portuguese: Balta
   romanian: Balta
   russian: Balta
@@ -10471,7 +10471,7 @@
   chinese: Yalishanda
   czech: Alexandrie
   danish: Alexandria
-  dutch: Alexandrië
+  dutch: Alexandrie
   english: Alexandria
   estonian: Aleksandria
   finnish: Aleksandria
@@ -11392,7 +11392,7 @@
   yugoslav: Guiyang
 - Province id: 4512
   StateID: 350
-  albanian: Dijarbakër
+  albanian: Dijarbaker
   arab: Diar bakr
   belarusian: Vaziem
   bulgarian: Diarbekir
@@ -11689,7 +11689,7 @@
   danish: Hungerburg
   dutch: Hongerburg
   english: Hungerburg
-  estonian: Hungerburg
+  estonian: Narva
   finnish: Hungerburg
   french: Hungerburg
   german: Hungerburg
@@ -11701,7 +11701,7 @@
   latvian: Hungerburg
   lithuanian: Hungerburg
   norwegian: Hungerburg
-  polish: Hungerburg
+  polish: Narwa
   portuguese: Hungerburg
   romanian: Hungerburg
   russian: Narva
@@ -12919,7 +12919,7 @@
   norwegian: Mashhad
   polish: Meszhed
   portuguese: Mexede
-  romanian: Mașhad
+  romanian: Maşhad
   russian: Meshhed
   spanish: Mashhad
   swedish: Mashhad
@@ -13744,7 +13744,7 @@
   greek: Notigcham
   hindi: Notingham
   hungarian: Nottingham
-  italian: Nottingham
+  italian: Nottingamia
   japanese: Nottingamu
   latvian: Notingema
   lithuanian: Notingamas
@@ -14128,7 +14128,7 @@
   greek: Mantsester
   hindi: Mainachestar
   hungarian: Manchester
-  italian: Manchester
+  italian: Manconio
   japanese: Manchesutā
   latvian: Mančestra
   lithuanian: Mančesteris
@@ -14688,7 +14688,7 @@
   yugoslav: Frankfurt na Majni
 - Province id: 6496
   StateID: 35
-  albanian: Ajntovën
+  albanian: Ajntoven
   arab: Afaq
   belarusian: Eindhaven
   bulgarian: Ayndhoven
@@ -15055,7 +15055,7 @@
   german: Kaschau
   greek: Kosice
   hindi: Koshish Karo
-  hungarian: Kosice
+  hungarian: Kassa
   italian: Cosice
   japanese: Koneche
   latvian: Kosice
@@ -15239,7 +15239,7 @@
   chinese: Deliyasite
   czech: Terst
   danish: Trieste
-  dutch: Triëst
+  dutch: Triest
   english: Trieste
   estonian: Trieste
   finnish: Trieste
@@ -16375,7 +16375,7 @@
   norwegian: Uberørte
   polish: Prisztina
   portuguese: Pristina
-  romanian: Priștina
+  romanian: Priştina
   russian: Prishtina
   spanish: Pristina
   swedish: Pristina
@@ -17760,7 +17760,7 @@
   yugoslav: Suva
 - Province id: 7315
   StateID: 386
-  albanian: Siatëll
+  albanian: Siatell
   arab: Siatil
   belarusian: Sietl
   bulgarian: Siatal
@@ -20592,7 +20592,7 @@
   greek: Mogkiliof
   hindi: Mogilev
   hungarian: Mahiljov
-  italian: Mahilëŭ
+  italian: Mahileŭ
   japanese: Mahiryou
   latvian: Mogiļeva
   lithuanian: Mogiliavas
@@ -20688,7 +20688,7 @@
   greek: Bermigcham
   hindi: Barmingham
   hungarian: Birmingham
-  italian: Birmingham
+  italian: Boermia
   japanese: Bāmingamu
   latvian: Birmingema
   lithuanian: Birmingamas
@@ -20784,7 +20784,7 @@
   greek: Sefilnt
   hindi: Shefeeld
   hungarian: Sheffield
-  italian: Sheffield
+  italian: Sceffilda
   japanese: Shefīrudo
   latvian: Šefilda
   lithuanian: Šefildas
@@ -21040,7 +21040,7 @@
   greek: Lints
   hindi: Leeds
   hungarian: Leeds
-  italian: Leeds
+  italian: Loidi
   japanese: Rīzu
   latvian: Lidsa
   lithuanian: Lidsas
@@ -21143,7 +21143,7 @@
   norwegian: Yoshkar
   polish: Joszkar-Oła
   portuguese: Ioshkar-Ola
-  romanian: Ioșkar-Ola
+  romanian: Ioşkar-Ola
   russian: Yoshkar-Ola
   spanish: Yoshkar-Olá
   swedish: Josjkar-Ola
@@ -21215,7 +21215,7 @@
   ukrainian: Krakiv
   yugoslav: Krakov
 - Province id: 9432
-  StateID: 401
+  StateID: 829
   albanian: Marx
   arab: Markis
   belarusian: Marks
@@ -21237,7 +21237,7 @@
   latvian: Marx
   lithuanian: Marx
   norwegian: Markshtadt
-  polish: Marks
+  polish: Barońsk
   portuguese: Marx
   romanian: Marx
   russian: Marks
@@ -21911,7 +21911,7 @@
   norwegian: Shostka
   polish: Szostka
   portuguese: Shostka
-  romanian: Șostka
+  romanian: Şostka
   russian: Shostka
   spanish: Shostka
   swedish: Sjostka
@@ -22054,27 +22054,27 @@
   bulgarian: Timishoara
   chinese: Dimishiwala
   czech: Temešvár
-  danish: Timișoara
+  danish: Timişoara
   dutch: Temesburg
   english: Timisoara
-  estonian: Timișoara
-  finnish: Timișoara
-  french: Timișoara
+  estonian: Timişoara
+  finnish: Timişoara
+  french: Timişoara
   german: Temeschburg
   greek: Timisoara
   hindi: Timisoar
   hungarian: Temesvár
-  italian: Timișoara
+  italian: Timişoara
   japanese: Timishoara
   latvian: Timišoara
   lithuanian: Timišoara
   norwegian: Timisoara
-  polish: Timișoara
-  portuguese: Timișoara
-  romanian: Timișoara
+  polish: Timişoara
+  portuguese: Timişoara
+  romanian: Timişoara
   russian: Timishoara
-  spanish: Timișoara
-  swedish: Timișoara
+  spanish: Timişoara
+  swedish: Timişoara
   turkish: Temeşvar
   ukrainian: Timishoara
   yugoslav: Temišvar
@@ -22261,7 +22261,7 @@
   latvian: Ordžonikidze
   lithuanian: Ordžonikidze
   norwegian: Ordzhonikidze
-  polish: Ordzhonikidze
+  polish: Ordżonikidzewskaja
   portuguese: Ordzhonikidze
   romanian: Ordzhonikidze
   russian: Ordzhonikidze
@@ -22598,30 +22598,30 @@
   bulgarian: Yash
   chinese: Yaxi
   czech: Jasy
-  danish: Iași
-  dutch: Iași
+  danish: Iaşi
+  dutch: Iaşi
   english: Iasi
-  estonian: Iași
-  finnish: Iași
-  french: Iași
+  estonian: Iaşi
+  finnish: Iaşi
+  french: Iaşi
   german: Jassy
   greek: Iasio
   hindi: Ke Baare Mein
   hungarian: Jászvásár
-  italian: Iași
+  italian: Iaşi
   japanese: Yashi
   latvian: Jasi
   lithuanian: Jasai
   norwegian: Iasi
   polish: Jassy
-  portuguese: Iași
-  romanian: Iași
+  portuguese: Iaşi
+  romanian: Iaşi
   russian: Jassy
-  spanish: Iași
-  swedish: Iași
+  spanish: Iaşi
+  swedish: Iaşi
   turkish: Yaş
   ukrainian: Jassy
-  yugoslav: Iași
+  yugoslav: Iaşi
 - Province id: 9737
   StateID: 19
   albanian: Bordo
@@ -22743,7 +22743,7 @@
   norwegian: Shummer
   polish: Szumen
   portuguese: Shumen
-  romanian: Șumen
+  romanian: Şumen
   russian: Shumen
   spanish: Shumen
   swedish: Sjumen
@@ -22912,7 +22912,7 @@
   yugoslav: Palma de Mallorca
 - Province id: 9799
   StateID: 340
-  albanian: Ballëkesir
+  albanian: Ballekesir
   arab: Baliq asir
   belarusian: Rybak
   bulgarian: Balakesir
@@ -23040,7 +23040,7 @@
   yugoslav: Porto
 - Province id: 9823
   StateID: 350
-  albanian: Shanllëurfa
+  albanian: Shanlleurfa
   arab: Awrfa
   belarusian: Sanlyurfa
   bulgarian: Shanlaurfa
@@ -25376,7 +25376,7 @@
   yugoslav: São Paulo
 - Province id: 10627
   StateID: 329
-  albanian: Këzëlli
+  albanian: Kezelli
   arab: Kizil
   belarusian: Cyrvony
   bulgarian: Kizil
@@ -26569,7 +26569,7 @@
   danish: Wesenberg
   dutch: Wesenberg
   english: Wesenberg
-  estonian: Wesenberg
+  estonian: Rakvere
   finnish: Wesenberg
   french: Wesenberg
   german: Wesenberg
@@ -26864,7 +26864,7 @@
   greek: Lester
   hindi: Leesestar
   hungarian: Leicester
-  italian: Leicester
+  italian: Ledecestre
   japanese: Resutā
   latvian: Lestera
   lithuanian: Lesteris
@@ -27608,7 +27608,7 @@
   polish: Stanisławów
   portuguese: Stanisławów
   romanian: Stanisławów
-  russian: Stanisławów
+  russian: Ivano-Frankovsk
   spanish: Stanisławów
   swedish: Stanisławów
   turkish: Stanisławów
@@ -27861,7 +27861,7 @@
   latvian: Millerovo
   lithuanian: Millerovo
   norwegian: Millerovo
-  polish: Solnogród
+  polish: Millerowo
   portuguese: Millerovo
   romanian: Millerovo
   russian: Millerovo
@@ -28095,7 +28095,7 @@
   ukrainian: Lyezh
   yugoslav: Liège
 - Province id: 11523
-  StateID: 401
+  StateID: 829
   albanian: Frederik Engels
   arab: Firidrik iinjilz
   belarusian: Frydrych enhiels
@@ -28117,7 +28117,7 @@
   latvian: Frīdrihs Engelss
   lithuanian: Friedrich Engels
   norwegian: Engels
-  polish: Friedrich Engels
+  polish: Pokrowsk
   portuguese: Friedrich Engels
   romanian: Friedrich Engels
   russian: Engels
@@ -28128,7 +28128,7 @@
   yugoslav: Friedrich Engels
 - Province id: 11531
   StateID: 42
-  albanian: Sarëbryken
+  albanian: Sarebryken
   arab: Sarburukin
   belarusian: Saarbrucky
   bulgarian: Saarbryuken
@@ -28256,7 +28256,7 @@
   yugoslav: Prag
 - Province id: 11544
   StateID: 54
-  albanian: Nyrëmberg
+  albanian: Nyremberg
   arab: Nurinbirgh
   belarusian: Nuremberg
   bulgarian: Nyurnberg
@@ -28487,7 +28487,7 @@
   chinese: Weinisi
   czech: Benátky
   danish: Venedig
-  dutch: Venetië
+  dutch: Venetie
   english: Venice
   estonian: Veneetsia
   finnish: Venetsia
@@ -28949,7 +28949,7 @@
   latvian: Ganja
   lithuanian: Ganja
   norwegian: Ganja
-  polish: Ganja
+  polish: Gandża
   portuguese: Ganja
   romanian: Ganja
   russian: Ganja
@@ -29088,7 +29088,7 @@
   yugoslav: Elitsa
 - Province id: 11746
   StateID: 344
-  albanian: Adanë
+  albanian: Adane
   arab: Adna
   belarusian: Adana
   bulgarian: Adana
@@ -29190,11 +29190,11 @@
   bulgarian: Vlyora
   chinese: Faluola
   czech: Vlora
-  danish: Vlorë
-  dutch: Vlorë
-  english: Vlorë
-  estonian: Vlorë
-  finnish: Vlorë
+  danish: Vlore
+  dutch: Vlore
+  english: Vlore
+  estonian: Vlore
+  finnish: Vlore
   french: Vlora
   german: Vlora
   greek: Aulonas
@@ -29206,10 +29206,10 @@
   lithuanian: Vliore
   norwegian: Vlore
   polish: Wlora
-  portuguese: Vlorë
-  romanian: Vlorë
+  portuguese: Vlore
+  romanian: Vlore
   russian: Vlera
-  spanish: Vlorë
+  spanish: Vlore
   swedish: Vlora
   turkish: Avlonya
   ukrainian: Vlora
@@ -30311,7 +30311,7 @@
   chinese: Antajiya
   czech: Antakya
   danish: Antakya
-  dutch: Antiochië
+  dutch: Antiochie
   english: Antakya
   estonian: Antakya
   finnish: Antakya
@@ -31063,7 +31063,7 @@
   norwegian: Ashgabat
   polish: Aszchabad
   portuguese: Asgabade
-  romanian: Așgabat
+  romanian: Aşgabat
   russian: 'Ashkhabad '
   spanish: Asjabad
   swedish: Asjchabad
@@ -31487,7 +31487,7 @@
   ukrainian: Tikhuana
   yugoslav: Tijuana
 - Province id: 12465
-  StateID: 585
+  StateID: 831
   albanian: Xiva
   arab: Khywa
   belarusian: Hiva
@@ -31671,7 +31671,7 @@
   norwegian: Bishkek
   polish: Biszkek
   portuguese: Bisqueque
-  romanian: Bișkek
+  romanian: Bişkek
   russian: Frunze
   spanish: Biskek
   swedish: Bisjkek

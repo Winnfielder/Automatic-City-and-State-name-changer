@@ -12420,7 +12420,7 @@
   latvian: Fridrihs Engelss
   lithuanian: Friedrich Engels
   norwegian: Engels
-  polish: Friedrich Engels
+  polish: Bałakowo
   portuguese: Friedrich Engels
   romanian: Friedrich Engels
   russian: Balakovo
@@ -18103,36 +18103,36 @@
   ukrainian: Ashhabat
   yugoslav: Ašgabat
 - ID: 585
-  albanian: Urgench
-  arab: Jirjania
-  belarusian: Urhienc
-  bulgarian: Urgench
-  chinese: Wuergenqi
-  czech: Urgench
-  danish: Urgentj
-  dutch: Urganch
-  english: Urgench
-  estonian: Urgench
-  finnish: Urganch
-  french: Ourguentch
-  german: Urganch
-  greek: Urgench
-  hindi: Naakaaphee
-  hungarian: Urganch
-  italian: Urgench
-  japanese: Urugenchi
-  latvian: Urgench
-  lithuanian: Urgenčas
-  norwegian: Urgchench
-  polish: Urgencz
-  portuguese: Urguenche
-  romanian: Urghenci
-  russian: Karakalpakskaya
-  spanish: Urgench
-  swedish: Urgentj
-  turkish: Ürgenç
-  ukrainian: Urhench
-  yugoslav: Urgench
+  albanian: .nan
+  arab: .nan
+  belarusian: .nan
+  bulgarian: .nan
+  chinese: .nan
+  czech: .nan
+  danish: .nan
+  dutch: .nan
+  english: Navoi
+  estonian: .nan
+  finnish: .nan
+  french: .nan
+  german: .nan
+  greek: .nan
+  hindi: .nan
+  hungarian: .nan
+  italian: .nan
+  japanese: .nan
+  latvian: .nan
+  lithuanian: .nan
+  norwegian: .nan
+  polish: .nan
+  portuguese: .nan
+  romanian: .nan
+  russian: .nan
+  spanish: .nan
+  swedish: .nan
+  turkish: .nan
+  ukrainian: .nan
+  yugoslav: .nan
 - ID: 586
   albanian: Almaty
   arab: Almati
@@ -20232,7 +20232,7 @@
   latvian: Sverdlovsk
   lithuanian: Sverdlovsk
   norwegian: Sverdlovsk
-  polish: Sverdlovsk
+  polish: Swierdłowsk
   portuguese: Sverdlovsk
   romanian: Sverdlovsk
   russian: Sverdlovsk
@@ -25037,7 +25037,7 @@
   latvian: Sudovia
   lithuanian: Sūduva
   norwegian: Sudovia
-  polish: Sudovia
+  polish: Suwalszczyzna
   portuguese: Sudovia
   romanian: Sudovia
   russian: Suduva
@@ -25295,35 +25295,35 @@
   ukrainian: Marij el
   yugoslav: Marij El
 - ID: 829
-  albanian: Engels-Marx ytet
+  albanian: Engels-Marx
   arab: Engels-Marx
-  belarusian: Engels-Marx Horad
+  belarusian: Engels-Marx
   bulgarian: Engels-Marx
   chinese: Engels-Marx Chengshi
-  czech: Engels-Marx Mesto
+  czech: Engels-Marx
   danish: Engels-Marx
-  dutch: Engels-Marx Stad
-  english: Engels-Marx City
+  dutch: Engels-Marx
+  english: Engels-Marx
   estonian: Engels-Marx inn
   finnish: Engels-Marx
-  french: Engels-Marx Cité
+  french: Engels-Marx
   german: Katherinenstadt
   greek: Engels-Marx
-  hindi: Engels-Marx Shahar
+  hindi: Engels-Marx
   hungarian: Engels-Marx
-  italian: Engels-Marx Città
+  italian: Engels-Marx
   japanese: Engels-Marx
   latvian: Engels-Marx
   lithuanian: Engels-Marx
   norwegian: Engels-Marx
-  polish: Engels-Marx Miasto
-  portuguese: Engels-Marx Cidade
+  polish: Pokrowsk-Barońsk
+  portuguese: Engels-Marx
   romanian: Engels-Marx
-  russian: Engels-Marx Gorod
-  spanish: Engels-Marx Ciudad
+  russian: Engels-Marx
+  spanish: Engels-Marx
   swedish: Engels-Marx
-  turkish: Engels-marx Sehri
-  ukrainian: Engels-Marx Misto
+  turkish: Engels-marx
+  ukrainian: Engels-Marx
   yugoslav: Engels-Marx
 - ID: 827
   albanian: Kabardino-Ballkaria
@@ -25502,7 +25502,7 @@
   latvian: Balta-Tiraspol
   lithuanian: Balta-Tiraspol
   norwegian: Balta Tiraspol
-  polish: Balta-Tiraspol
+  polish: Bałta-Tyraspol
   portuguese: Balta-Tiraspol
   romanian: Balta-Tiraspol
   russian: Balta-Tiraspol
@@ -25564,7 +25564,7 @@
   latvian: Karakalpakstana
   lithuanian: Karakalpakija
   norwegian: Karakalpakstan
-  polish: Karakalpacja
+  polish: Karakałpacja
   portuguese: Caracalpaquistao
   romanian: Karakalpakstan
   russian: Karakalpakstan
