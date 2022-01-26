@@ -52,11 +52,13 @@ for language in tqdm(languages):
         clear_string = "".join([clr_template.format(lang) for lang in languages.difference(language)])
         state_string = ""
         for index, state in states_not_null.items():
-            state_provices = provices[provices.index == index]
-            state_provices = state_provices[[language, "Province id"]]
+            state_provices = provinces[provinces['StateID'] == index]
+            # select column
+            state_provices = state_provices[[language]]
+            # select rows
             state_provices = state_provices[state_provices[language].notna()]
             province_string = ""
-            for stateID, row in state_provices.iterrows():
-                province_string += province_template.format(row[1], row[0])
+            for provinceID, row in state_provices.iterrows():
+                province_string += province_template.format(provinceID, row[0])
             state_string += state_template.format(index, language, state, language, clear_string, province_string)
         file.write(root_template.format(language, state_string))
