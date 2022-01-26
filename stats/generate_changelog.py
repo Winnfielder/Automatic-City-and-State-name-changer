@@ -9,7 +9,7 @@ new_provinces = load_dataframe("new_provinces.yaml")
 new_states = load_dataframe("new_states.yaml")
 
 languages = [
-#    ('english','en'),
+    ('english','en'),
     ('japanese','ja'),
     ('arab','ar'),
     ('chinese','zh'),
@@ -33,6 +33,9 @@ languages = [
     ('swedish','sv'),
     ('turkish','tr'),
     ('yugoslav','hr'),
+    ('hindi','hi'),
+    ('danish','da'),
+    ('norwegian','no')
 ]
 
 Addition = namedtuple('Addition','cities states')
@@ -44,6 +47,8 @@ for language,_ in languages:
     for index,row in new_provinces.iterrows():
         new_name = row[language]
         if not pd.isnull(new_name):
+            # if the new city is also in the previous database version
+            # and is not null (in the old database)
             if index in old_provinces.index and not pd.isnull(old_provinces.loc[old_provinces.index == index][language].item()):
                 old_name = old_provinces.loc[old_provinces.index == index][language].item()
             else:

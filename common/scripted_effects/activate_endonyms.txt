@@ -80,6 +80,18 @@ activate_endonyms = {
                                     apply_ukrainian_endonyms = yes
                                 }
 
+        else_if = { limit = { owner = { tag = RAJ } }
+                                            apply_hindi_endonyms = yes
+                                        }
+
+        else_if = { limit = { owner = { tag = NOR } }
+                                            apply_norwegian_endonyms = yes
+                                        }
+
+        else_if = { limit = { owner = { tag = DEN } }
+                                            apply_danish_endonyms = yes
+                                        }
+
         else_if = { limit = { owner = { is_chinese_speaking_country = yes } }
             apply_chinese_endonyms = yes
         }
