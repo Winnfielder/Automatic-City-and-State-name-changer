@@ -5,7 +5,7 @@
   bulgarian: Korsika
   chinese: Kexijia
   czech: Korsika
-  danish: .nan
+  danish: Korsika
   dutch: Corsica
   english: Corsica
   estonian: Korsika
@@ -13,13 +13,13 @@
   french: Corse
   german: Korsika
   greek: Korsiki
-  hindi: .nan
+  hindi: Korsika
   hungarian: Korzika
   italian: Corsica
   japanese: Korushikashima
   latvian: Korsika
   lithuanian: Korsika
-  norwegian: .nan
+  norwegian: Korsika
   polish: Korsyka
   portuguese: Córsega
   romanian: Corsica
@@ -36,7 +36,7 @@
   bulgarian: Latium
   chinese: Ladingmu
   czech: Latium
-  danish: .nan
+  danish: Lazio
   dutch: Latium
   english: Latium
   estonian: Latium
@@ -44,13 +44,13 @@
   french: Latium
   german: Latium
   greek: Latium
-  hindi: .nan
+  hindi: Kee Kamee
   hungarian: Latium
   italian: Lazio
   japanese: Ratiumu
   latvian: Latija
   lithuanian: Latium
-  norwegian: .nan
+  norwegian: Latium
   polish: Latium
   portuguese: Lácio
   romanian: Latium
@@ -67,7 +67,7 @@
   bulgarian: Shveytsariya
   chinese: Ruishi
   czech: Švýcarsko
-  danish: .nan
+  danish: Schweiz
   dutch: Zwitserland
   english: Switzerland
   estonian: Šveits
@@ -75,13 +75,13 @@
   french: Suisse
   german: Schweiz
   greek: Elvetia
-  hindi: .nan
+  hindi: Svitzaralaind
   hungarian: Svájc
   italian: Svizzera
   japanese: Suisu
   latvian: Šveice
   lithuanian: Šveicarija
-  norwegian: .nan
+  norwegian: Sveits
   polish: Szwajcaria
   portuguese: Suíça
   romanian: Elveția
@@ -98,7 +98,7 @@
   bulgarian: Dolna avstriya
   chinese: Xia'aodilizhou
   czech: Dolní Rakousy
-  danish: .nan
+  danish: Niederösterreich
   dutch: Neder-Oostenrijk
   english: Lower Austria
   estonian: Alam-Austria
@@ -106,13 +106,13 @@
   french: Basse-Autriche
   german: Niederösterreich
   greek: Kato Austria
-  hindi: .nan
+  hindi: Loar Ostriya
   hungarian: Alsó-Ausztria
   italian: Bassa Austria
   japanese: Nīdāesutāraihi shū
   latvian: Lejasaustrija
   lithuanian: Žemutine Austrija
-  norwegian: .nan
+  norwegian: Nedre Østerrike
   polish: Dolna Austria
   portuguese: Baixa Áustria
   romanian: Austria Inferioară
@@ -160,7 +160,7 @@
   bulgarian: Flandriya
   chinese: Folande
   czech: Vlámsko
-  danish: .nan
+  danish: Flandern
   dutch: Vlaanderen
   english: Vlaanderen
   estonian: Vlaanderen
@@ -168,13 +168,13 @@
   french: Flandre
   german: Vlaanderen
   greek: Flandra
-  hindi: .nan
+  hindi: Phlemish Kshetr
   hungarian: Flandria
   italian: Fiandre
   japanese: Furandoru
   latvian: Flandrija
   lithuanian: Vlaanderen
-  norwegian: .nan
+  norwegian: Flandern
   polish: Flandria
   portuguese: Flandres
   romanian: Flandra
@@ -191,7 +191,7 @@
   bulgarian: Holandiya
   chinese: Helan
   czech: Holandsko
-  danish: .nan
+  danish: Holland
   dutch: Holland
   english: Holland
   estonian: Holland
@@ -199,13 +199,13 @@
   french: Hollande
   german: Holland
   greek: Ollandia
-  hindi: .nan
+  hindi: Needaralaind
   hungarian: Holland
   italian: Olanda
   japanese: Horanto
   latvian: Holande
   lithuanian: Olandija
-  norwegian: .nan
+  norwegian: Holland
   polish: Holandia
   portuguese: Holanda
   romanian: Olanda
@@ -222,7 +222,7 @@
   bulgarian: Lyuksemburg
   chinese: Lusenbao
   czech: Lucembursko
-  danish: .nan
+  danish: Luxembourg
   dutch: Luxemburg
   english: Luxemburg
   estonian: Luksemburg
@@ -230,13 +230,13 @@
   french: Luxembourg
   german: Luxemburg
   greek: Loyxemvoyrgo
-  hindi: .nan
+  hindi: Lakzamabarg
   hungarian: Luxemburg
   italian: Lusseumburgo
   japanese: Rukusenburuku
   latvian: Luksemburga
   lithuanian: Liuksemburgas
-  norwegian: .nan
+  norwegian: Luxembourg
   polish: Luksemburg
   portuguese: Luxemburgo
   romanian: Luxemburg
@@ -253,7 +253,7 @@
   bulgarian: Bohemiya
   chinese: Boximiya
   czech: Čechy
-  danish: .nan
+  danish: Bøhmen
   dutch: Bohemen
   english: Bohemia
   estonian: Čechy
@@ -261,13 +261,13 @@
   french: Bohême
   german: Böhmen
   greek: Voimia
-  hindi: .nan
+  hindi: Chek Ganaraajy
   hungarian: Csehország
   italian: Boemia
   japanese: Bohemia
   latvian: Bohēmija
   lithuanian: Bohemija
-  norwegian: .nan
+  norwegian: Böhmen
   polish: Czechy
   portuguese: Boémia
   romanian: Boemia
@@ -284,7 +284,7 @@
   bulgarian: Varshava
   chinese: Huasha
   czech: Varšava
-  danish: .nan
+  danish: Warszawa
   dutch: Warschau
   english: Warszawa
   estonian: Varssavi
@@ -292,13 +292,13 @@
   french: Varsovie
   german: Weichselland
   greek: Varsovia
-  hindi: .nan
+  hindi: Vaaraso
   hungarian: Varsó
   italian: Varsavia
   japanese: Warushawa
   latvian: Varšava
   lithuanian: Varšuva
-  norwegian: .nan
+  norwegian: Warszawa
   polish: Warszawa
   portuguese: Varsóvia
   romanian: Varşovia
@@ -315,7 +315,7 @@
   bulgarian: Kaunas
   chinese: Kaonasi
   czech: Kaunas
-  danish: .nan
+  danish: Kaunas
   dutch: Kaunas
   english: Kaunas
   estonian: Kaunas
@@ -323,13 +323,13 @@
   french: Kaunas
   german: Kauen
   greek: Kaoynas
-  hindi: .nan
+  hindi: Kaunaas
   hungarian: Kaunas
   italian: Kaunas
   japanese: Kaunasu
   latvian: Kauņa
   lithuanian: Kaunas
-  norwegian: .nan
+  norwegian: Kaunas
   polish: Kowno
   portuguese: Caunas
   romanian: Kaunas
@@ -346,7 +346,7 @@
   bulgarian: Vidzeme
   chinese: Weizemei
   czech: Vidzeme
-  danish: .nan
+  danish: Livland
   dutch: Vidzeme
   english: Vidzeme
   estonian: Vidzeme
@@ -354,13 +354,13 @@
   french: Vidzeme
   german: Livland
   greek: Vintzeme
-  hindi: .nan
+  hindi: Vidzaimai
   hungarian: Vidzeme
   italian: Livonia
   japanese: Vuidozeme
   latvian: Vidzeme
   lithuanian: Vidžeme
-  norwegian: .nan
+  norwegian: Vidzeme
   polish: Liwonia
   portuguese: Livônia
   romanian: Vidzeme
@@ -377,7 +377,7 @@
   bulgarian: Pyarnu
   chinese: Pai'ernu
   czech: Pärnu
-  danish: .nan
+  danish: Pärnu
   dutch: Pärnu
   english: Pärnu
   estonian: Pärnu
@@ -385,13 +385,13 @@
   french: Pärnu
   german: Paulenhof
   greek: Parnoy
-  hindi: .nan
+  hindi: Parnu
   hungarian: Pärnu
   italian: Pärnu
   japanese: Parunu
   latvian: Pērnava
   lithuanian: Pernu
-  norwegian: .nan
+  norwegian: Pärnu
   polish: Parnawa
   portuguese: Pärnu
   romanian: Pärnu
@@ -408,7 +408,7 @@
   bulgarian: Bretan
   chinese: Bulietanibandao
   czech: Brittany
-  danish: .nan
+  danish: Bretagne
   dutch: Bretagne
   english: Brittany
   estonian: Brittany
@@ -416,13 +416,13 @@
   french: Bretagne
   german: Bretingen
   greek: Vretani
-  hindi: .nan
+  hindi: Braatanee
   hungarian: Brittany
   italian: Bretagna
   japanese: Burutānyu
   latvian: Bretaņa
   lithuanian: Brittany
-  norwegian: .nan
+  norwegian: Brittany
   polish: Brittany
   portuguese: Brittany
   romanian: Brittany
@@ -439,7 +439,7 @@
   bulgarian: Normandy
   chinese: Nuomandidaqu
   czech: Normandie
-  danish: .nan
+  danish: Normandiet
   dutch: Normandië
   english: Normandy
   estonian: Normandia
@@ -447,13 +447,13 @@
   french: Normandie
   german: Normanland
   greek: Normandy
-  hindi: .nan
+  hindi: Noramaindee
   hungarian: Normandia
   italian: Normandia
   japanese: Norumandī
   latvian: Normandija
   lithuanian: Normandija
-  norwegian: .nan
+  norwegian: Normandie
   polish: Normandia
   portuguese: Normandia
   romanian: Normandia
@@ -470,7 +470,7 @@
   bulgarian: Il dyo frans
   chinese: Falanxidaodaqu
   czech: Île-de-France
-  danish: .nan
+  danish: Île De France
   dutch: Île-de-France
   english: Ile de France
   estonian: Île-de-France
@@ -478,13 +478,13 @@
   french: Île-de-France
   german: Parisiuß
   greek: Il-nte-Frans
-  hindi: .nan
+  hindi: Il Da Fraans
   hungarian: Île-de-France
   italian: Isola di Francia
   japanese: Iru do furansu
   latvian: Ildefransa
   lithuanian: Il de Fransas
-  norwegian: .nan
+  norwegian: Île De France
   polish: Île-de-France
   portuguese: Ilha de França
   romanian: Île-de-France
@@ -501,7 +501,7 @@
   bulgarian: Fransh konte
   chinese: Fulangshi-kongtai
   czech: Franche-Comté
-  danish: .nan
+  danish: Franche Comté
   dutch: Franche-Comté
   english: Franche-Comte
   estonian: Franche-Comté
@@ -509,13 +509,13 @@
   french: Franche-Comté
   german: Burgund
   greek: Frans-Konte
-  hindi: .nan
+  hindi: Baragandee
   hungarian: Franche-Comté
   italian: Franca Contea
   japanese: 'Furanshu konte '
   latvian: Franškontē
   lithuanian: Franš Konte
-  norwegian: .nan
+  norwegian: Franche Comte
   polish: Franche-Comté
   portuguese: Franco-Condado
   romanian: Franche-Comté
@@ -532,7 +532,7 @@
   bulgarian: Shampansko vino
   chinese: Xiangbinjiu
   czech: Šampaňské víno
-  danish: .nan
+  danish: Champagne
   dutch: Champagne
   english: Champagne
   estonian: Šampanja
@@ -540,13 +540,13 @@
   french: Champagne
   german: Schalun
   greek: Sabania
-  hindi: .nan
+  hindi: Shengen
   hungarian: Champagne
   italian: Sciampagna
   japanese: Shanpan
   latvian: Šampanietis
   lithuanian: Šampanas
-  norwegian: .nan
+  norwegian: Champagne
   polish: Szampan
   portuguese: Champanhe
   romanian: Șampanie
@@ -563,7 +563,7 @@
   bulgarian: Akvitaniya
   chinese: Ajitan
   czech: Akvitánie
-  danish: .nan
+  danish: Aquitaine
   dutch: Aquitanië
   english: Aquitaine
   estonian: Akvitaania
@@ -571,13 +571,13 @@
   french: Aquitaine
   german: Fern-West Süd
   greek: Akoyitania
-  hindi: .nan
+  hindi: Anvitan
   hungarian: Aquitania
   italian: Aquitania
   japanese: 'Akitēnu '
   latvian: Akvitānija
   lithuanian: Akvitanija
-  norwegian: .nan
+  norwegian: Aquitaine
   polish: Akwitania
   portuguese: Aquitânia
   romanian: Aquitania
@@ -594,7 +594,7 @@
   bulgarian: Rona
   chinese: Luonehe
   czech: Rhôna
-  danish: .nan
+  danish: Rhône
   dutch: Rhône
   english: Rhone
   estonian: Rhône
@@ -602,13 +602,13 @@
   french: Rhône
   german: Rotten
   greek: Rodanos
-  hindi: .nan
+  hindi: Ron
   hungarian: Rhône
   italian: Rodano
   japanese: Rōnu kawa
   latvian: Rona
   lithuanian: Rona
-  norwegian: .nan
+  norwegian: Rhone
   polish: Rodan
   portuguese: Rio Ródano
   romanian: Ron
@@ -625,7 +625,7 @@
   bulgarian: Provans
   chinese: Puluowangsi
   czech: Provence
-  danish: .nan
+  danish: Provence
   dutch: Provence
   english: Provence
   estonian: Provence
@@ -633,13 +633,13 @@
   french: Provence
   german: Ostokzitanien
   greek: Provigkia
-  hindi: .nan
+  hindi: Praavaran
   hungarian: Provence
   italian: Provenza
   japanese: Purovuansu
   latvian: Provansa
   lithuanian: Provansas
-  norwegian: .nan
+  norwegian: Provence
   polish: Prowansja
   portuguese: Provença
   romanian: Provența
@@ -656,7 +656,7 @@
   bulgarian: Langedok
   chinese: Langgeduoke
   czech: Languedoc
-  danish: .nan
+  danish: Languedoc
   dutch: Languedoc
   english: Languedoc
   estonian: Languedoc
@@ -664,13 +664,13 @@
   french: Languedoc
   german: Munpetun
   greek: Langkntok
-  hindi: .nan
+  hindi: Lopedok
   hungarian: Languedoc
   italian: Linguadoca
   japanese: Rangudokku
   latvian: Languedoc
   lithuanian: Langedokas
-  norwegian: .nan
+  norwegian: Languedoc
   polish: Langwedocja
   portuguese: Languedoc
   romanian: Languedoc
@@ -687,7 +687,7 @@
   bulgarian: Poitou
   chinese: Puwatu
   czech: Poitou
-  danish: .nan
+  danish: Poitou
   dutch: Poitou
   english: Poitou
   estonian: Poitou
@@ -695,13 +695,13 @@
   french: Poitou
   german: Fern-West
   greek: Poyatoy
-  hindi: .nan
+  hindi: Poitoo
   hungarian: Poitou
   italian: Limonia
   japanese: Powatoū
   latvian: Poitou
   lithuanian: Poitou
-  norwegian: .nan
+  norwegian: Poitou
   polish: Poitou
   portuguese: Poitou
   romanian: Poitou
@@ -718,7 +718,7 @@
   bulgarian: Center
   chinese: Fazhong
   czech: Centre
-  danish: .nan
+  danish: Center
   dutch: Center
   english: Centre
   estonian: Centre
@@ -726,13 +726,13 @@
   french: Center
   german: Zentrum
   greek: Centre
-  hindi: .nan
+  hindi: Kendr
   hungarian: Center
   italian: Centro
   japanese: Chūshin
   latvian: Centre
   lithuanian: Centre
-  norwegian: .nan
+  norwegian: Senter
   polish: Center
   portuguese: Center
   romanian: Centre
@@ -749,7 +749,7 @@
   bulgarian: Limuzen
   chinese: Limuzan
   czech: Limousin
-  danish: .nan
+  danish: Limousin
   dutch: Limousin
   english: Limousin
   estonian: Limousin
@@ -757,13 +757,13 @@
   french: Limousin
   german: Lünheim
   greek: Limousin
-  hindi: .nan
+  hindi: Limosin
   hungarian: Limousin
   italian: Limosino
   japanese: 'Rimūzan '
   latvian: Limuzēna
   lithuanian: Limuzenas
-  norwegian: .nan
+  norwegian: Limousin
   polish: Limousin
   portuguese: Limusino
   romanian: Limousin
@@ -780,7 +780,7 @@
   bulgarian: Overn
   chinese: Aofunie
   czech: Auvergne
-  danish: .nan
+  danish: Auvergne
   dutch: Auvergne
   english: Auvergne
   estonian: Auvergne
@@ -788,13 +788,13 @@
   french: Auvergne
   german: Waldshafen
   greek: overni
-  hindi: .nan
+  hindi: Abhee Paar Paana Hai
   hungarian: Auvergne
   italian: Alvernia
   japanese: 'Ōvuerunyu '
   latvian: Overņa
   lithuanian: Overne
-  norwegian: .nan
+  norwegian: Auvergne
   polish: Owernia
   portuguese: Auvérnia
   romanian: Auvergne
@@ -811,7 +811,7 @@
   bulgarian: Burgundiya
   chinese: Bogendi
   czech: Burgundsko
-  danish: .nan
+  danish: Bourgogne
   dutch: Bourgondië
   english: Bourgogne
   estonian: Burgundia
@@ -819,13 +819,13 @@
   french: Bourgogne
   german: Niederburgund
   greek: Voyrgoyndia
-  hindi: .nan
+  hindi: Baragandee
   hungarian: Burgundia
   italian: Borgogna
   japanese: 'Burugōnyu '
   latvian: Burgundija
   lithuanian: Burgundija
-  norwegian: .nan
+  norwegian: Bourgogne
   polish: Burgundia
   portuguese: Borgonha
   romanian: Burgundia
@@ -842,7 +842,7 @@
   bulgarian: Elzas-lotaringiya
   chinese: A'ersasi-luolin
   czech: Alsasko-Lotrinsko
-  danish: .nan
+  danish: Alsace Lorraine
   dutch: Elzas-Lotharingen
   english: Alsace-Lorraine
   estonian: Alsace-Lorraine
@@ -850,13 +850,13 @@
   french: Alsace-Lorraine
   german: Elsaß-Lothringen
   greek: Alsace-Lorraine
-  hindi: .nan
+  hindi: Elses Loren
   hungarian: Alsace-Lorraine
   italian: Alsazia-Lorena
   japanese: Aruzasu rorēnu
   latvian: Elzasa-Lotringa
   lithuanian: Elzaso-Lotaringijos žeme
-  norwegian: .nan
+  norwegian: Alsace Lorraine
   polish: Alzacja-Lotaryngia
   portuguese: Alsácia-Lorena
   romanian: Alsacia-Lorena
@@ -873,7 +873,7 @@
   bulgarian: Nor-pa dyo kale
   chinese: Beibu-jialaihaixia
   czech: Nord-Pas-de-Calais
-  danish: .nan
+  danish: Nord Pas De Calais
   dutch: Noord en Nauw van Kales
   english: Nord-Pas-de-Calais
   estonian: Nord-Pas-de-Calais
@@ -881,13 +881,13 @@
   french: Nord-Pas-de-Calais
   german: Nord-Kalen
   greek: Nord-Pas-de-Calais
-  hindi: .nan
+  hindi: Nord Paas Dee Kailais
   hungarian: Nord-Pas-de-Calais
   italian: Nord-Passo di Calais
   japanese: 'Nōru pa do karē '
   latvian: Nora-Padekalē
   lithuanian: Šiaure-Pa de Kale
-  norwegian: .nan
+  norwegian: Nord Pas De Calais
   polish: Nord-Pas-de-Calais
   portuguese: Nord-Pas-de-Calais
   romanian: Nord-Pas-de-Calais
@@ -904,7 +904,7 @@
   bulgarian: Loara
   chinese: Luwa'erhe
   czech: Loira
-  danish: .nan
+  danish: Loire
   dutch: Leie
   english: Loire
   estonian: Loire
@@ -912,13 +912,13 @@
   french: Loire
   german: Lüdersdorf
   greek: Ligiras
-  hindi: .nan
+  hindi: Lavaar Nadee
   hungarian: Loire
   italian: Loira
   japanese: Rowāru kawa
   latvian: Luāra
   lithuanian: Luara
-  norwegian: .nan
+  norwegian: Loire
   polish: Loara
   portuguese: Rio Loire
   romanian: Loara
@@ -935,7 +935,7 @@
   bulgarian: Yug-pirenei
   chinese: Nanbu-biliniusi
   czech: Midi-Pyrénées
-  danish: .nan
+  danish: Midi Pyrénées
   dutch: Zuid en Pyreneeën
   english: Midi Pyrenees
   estonian: Midi-Pyrénées
@@ -943,13 +943,13 @@
   french: Midi-Pyrénées
   german: Tolenberg
   greek: Midi Pyrenees
-  hindi: .nan
+  hindi: Midee Paayarenees
   hungarian: Midi-Pyrénées
   italian: Pirenei Centrali
   japanese: 'Midi pirenē '
   latvian: Dienvidi-Pireneji
   lithuanian: Pietūs-Pirenai
-  norwegian: .nan
+  norwegian: Midi Pyreneene
   polish: Midi-Pireneje
   portuguese: Sul-Pirenéus
   romanian: Midi-Pirinei
@@ -966,7 +966,7 @@
   bulgarian: Alpes
   chinese: A'erbeishan
   czech: Alpes
-  danish: .nan
+  danish: Alperne
   dutch: Alpes
   english: Alpes
   estonian: Alpes
@@ -974,13 +974,13 @@
   french: Alpes
   german: Alpenwestland
   greek: Alpes
-  hindi: .nan
+  hindi: Ailps Parvatamaala
   hungarian: Alpes
   italian: Delfinato
   japanese: Alpes
   latvian: Alpes
   lithuanian: Alpes
-  norwegian: .nan
+  norwegian: Alpes
   polish: Alpes
   portuguese: Alpes
   romanian: Alpes
@@ -997,7 +997,7 @@
   bulgarian: Centre-Sud
   chinese: Fazhongnan
   czech: Centre-Sud
-  danish: .nan
+  danish: Centre Sud
   dutch: Centrum-Zuid
   english: Centre-Sud
   estonian: Centre-Sud
@@ -1005,13 +1005,13 @@
   french: Centre-Sud
   german: Zentrum-Süd
   greek: Centre-Sud
-  hindi: .nan
+  hindi: Dakshin Kendr
   hungarian: Centre-Sud
   italian: Centro Sud
   japanese: Centre-Sud
   latvian: Centre-Sud
   lithuanian: Centre-Sud
-  norwegian: .nan
+  norwegian: Sør Sentrum
   polish: Centre-Sud
   portuguese: Centre-Sud
   romanian: Centre-Sud
@@ -1028,7 +1028,7 @@
   bulgarian: Wallonie
   chinese: Walongniya
   czech: Wallonie
-  danish: .nan
+  danish: Vallonien
   dutch: Wallonië
   english: Wallonie
   estonian: Wallonie
@@ -1036,14 +1036,14 @@
   french: Wallonie
   german: Wallonien
   greek: Vallonia
-  hindi: .nan
+  hindi: Vaalonee
   hungarian: Wallonie
   italian: Vallonia
   japanese: Wallonie
   latvian: Wallonie
   lithuanian: Wallonie
-  norwegian: .nan
-  polish: Wallonie
+  norwegian: Wallonie
+  polish: Walonia
   portuguese: Wallonie
   romanian: Wallonie
   russian: Wallonie
@@ -1059,7 +1059,7 @@
   bulgarian: Brabant
   chinese: Bulabante
   czech: Brabant
-  danish: .nan
+  danish: Brabant
   dutch: Brabant
   english: Brabant
   estonian: Brabant
@@ -1067,13 +1067,13 @@
   french: Brabant
   german: Brabant
   greek: Vravanti
-  hindi: .nan
+  hindi: Braidant
   hungarian: Brabant
   italian: Brabante
   japanese: Burabanto
   latvian: Brabant
   lithuanian: Brabantas
-  norwegian: .nan
+  norwegian: Brabant
   polish: Brabancja
   portuguese: Brabant
   romanian: Brabant
@@ -1090,7 +1090,7 @@
   bulgarian: Friziya
   chinese: Fulisilansheng
   czech: Frísko
-  danish: .nan
+  danish: Frisland
   dutch: Friesland
   english: Friesland
   estonian: Friisimaa
@@ -1098,13 +1098,13 @@
   french: Frise
   german: Friesland
   greek: Eparchia Frislant
-  hindi: .nan
+  hindi: Phreesalaind
   hungarian: Frízföld
   italian: Frisia
   japanese: Furīsuranto shū
   latvian: Frizlande
   lithuanian: Fryzija
-  norwegian: .nan
+  norwegian: Friesland
   polish: Fryzja
   portuguese: Frísia
   romanian: Frizia
@@ -1121,7 +1121,7 @@
   bulgarian: Sheland
   chinese: Xilandao
   czech: Sjælland
-  danish: .nan
+  danish: Sjælland
   dutch: Zeeland
   english: Sjaelland
   estonian: Sjælland
@@ -1129,13 +1129,13 @@
   french: Seeland
   german: Seeland
   greek: Selan
-  hindi: .nan
+  hindi: Zeelaind
   hungarian: Sjælland
   italian: Selandia
   japanese: Sheran-jima
   latvian: Zēlande
   lithuanian: Zelandija
-  norwegian: .nan
+  norwegian: Sjaelland
   polish: Zelandia
   portuguese: Zelândia
   romanian: Sjælland
@@ -1152,7 +1152,7 @@
   bulgarian: Norrland
   chinese: Nuo'erlan
   czech: Norrland
-  danish: .nan
+  danish: Norrland
   dutch: Norrland
   english: Norrland
   estonian: Norrland
@@ -1160,13 +1160,13 @@
   french: Norrland
   german: Norrland
   greek: Norlant
-  hindi: .nan
+  hindi: Norrland।
   hungarian: Norrland
   italian: Nordica
   japanese: Nōrurando
   latvian: Norlande
   lithuanian: Norlandas
-  norwegian: .nan
+  norwegian: Norrland
   polish: Norrland
   portuguese: Norlândia
   romanian: Norrland
@@ -1183,7 +1183,7 @@
   bulgarian: Yuzhen tirol
   chinese: Bo'erzhanuo
   czech: Bolzano
-  danish: .nan
+  danish: Sydtyrol
   dutch: Zuid-Tirol
   english: South Tyrol
   estonian: Bolzano
@@ -1191,14 +1191,14 @@
   french: Bolzano
   german: Südtirol
   greek: Autonomi eparchia toy Boltsano
-  hindi: .nan
+  hindi: Dakshin Taayarol
   hungarian: Bolzano
   italian: Alto Adige
   japanese: Borutsuāno
   latvian: Bolcāno
   lithuanian: Pietų Tirolis
-  norwegian: .nan
-  polish: Bozen-Südtirol
+  norwegian: Sør Tyrol
+  polish: Bolzano-Południowy Tyrol
   portuguese: Bolzano
   romanian: Bolzano
   russian: Bol'tsano
@@ -1214,7 +1214,7 @@
   bulgarian: Barnaul
   chinese: Ba'ernao'er
   czech: Barnaul
-  danish: .nan
+  danish: Barnaul
   dutch: Barnaoel
   english: Barnaul
   estonian: Barnaul
@@ -1222,13 +1222,13 @@
   french: Barnaoul
   german: Barnaul
   greek: Barnaoyl
-  hindi: .nan
+  hindi: Beranul
   hungarian: Barnaul
   italian: Luponia
   japanese: Barunauru
   latvian: Barnaula
   lithuanian: Barnaulas
-  norwegian: .nan
+  norwegian: Barnaul
   polish: Barnauł
   portuguese: Barnaul
   romanian: Barnaul
@@ -1245,7 +1245,7 @@
   bulgarian: Madrid
   chinese: Madeli
   czech: Madrid
-  danish: .nan
+  danish: Madrid
   dutch: Madrid
   english: Madrid
   estonian: Madrid
@@ -1253,13 +1253,13 @@
   french: Madrid
   german: Madrid
   greek: Madriti
-  hindi: .nan
+  hindi: Madrid
   hungarian: Madrid
   italian: Madride
   japanese: Madorīdo
   latvian: Madride
   lithuanian: Madridas
-  norwegian: .nan
+  norwegian: Madrid
   polish: Madryt
   portuguese: Madrid
   romanian: Madrid
@@ -1307,7 +1307,7 @@
   bulgarian: Nordungarn
   chinese: Hongbei
   czech: Northern Hungary
-  danish: .nan
+  danish: Észak Magyarország
   dutch: Noordelijk Hongarije
   english: Northern Hungary
   estonian: Põhja-Ungari
@@ -1315,14 +1315,14 @@
   french: Hongrie septentrionale
   german: Nordungarn
   greek: Northern Hungary
-  hindi: .nan
+  hindi: Uttaree Hangaree
   hungarian: Észak-Magyarország
   italian: Ungheria Settentrionale
   japanese: Kita
   latvian: Northern Hungary
   lithuanian: Northern Hungary
-  norwegian: .nan
-  polish: Northern Hungary
+  norwegian: Nord Ungarn
+  polish: Północne Węgry
   portuguese: Northern Hungary
   romanian: Ungaria de Nord
   russian: Severnaja Vengrija
@@ -1338,7 +1338,7 @@
   bulgarian: Albaniya
   chinese: A'erbaniya
   czech: Albánie
-  danish: .nan
+  danish: Albanien
   dutch: Albanië
   english: Albania
   estonian: Albaania
@@ -1346,13 +1346,13 @@
   french: Albanie
   german: Albanien
   greek: Alvania
-  hindi: .nan
+  hindi: Albaaniya
   hungarian: Albánia
   italian: Albania
   japanese: Arubania
   latvian: Albānija
   lithuanian: Albanija
-  norwegian: .nan
+  norwegian: Albania
   polish: Albania
   portuguese: Albânia
   romanian: Albania
@@ -1369,7 +1369,7 @@
   bulgarian: Voyvodina
   chinese: Fuyifudingna
   czech: Vojvodina
-  danish: .nan
+  danish: Vojvodina
   dutch: Vojvodina
   english: Vojvodina
   estonian: Vojvodina
@@ -1377,13 +1377,13 @@
   french: Voïvodine
   german: Wojwodina
   greek: Voivontina
-  hindi: .nan
+  hindi: Vaagvodoina
   hungarian: Vajdaság
   italian: Voivodina
   japanese: Vuoivuodina
   latvian: Vojvodina
   lithuanian: Voivodina
-  norwegian: .nan
+  norwegian: Vojvodina
   polish: Wojwodina
   portuguese: Voivodina
   romanian: Voivodina
@@ -1400,7 +1400,7 @@
   bulgarian: Munteniya
   chinese: Mengteniya
   czech: Munténie
-  danish: .nan
+  danish: Muntenien
   dutch: Muntenië
   english: Muntenia
   estonian: Munteenia
@@ -1408,13 +1408,13 @@
   french: Munténie
   german: Wallachei
   greek: Muntenia
-  hindi: .nan
+  hindi: Munteniya
   hungarian: Munténia
   italian: Muntenia
   japanese: Muntenia
   latvian: Muntenia
   lithuanian: Muntenija
-  norwegian: .nan
+  norwegian: Muntenia
   polish: Muntenia
   portuguese: Muntênia
   romanian: Muntenia
@@ -1431,7 +1431,7 @@
   bulgarian: Atika
   chinese: Atiqia
   czech: Attika
-  danish: .nan
+  danish: Attika
   dutch: Attica
   english: Attica
   estonian: Attica
@@ -1439,13 +1439,13 @@
   french: Attique
   german: Attika
   greek: Attiki
-  hindi: .nan
+  hindi: Attich
   hungarian: Attika
   italian: Attica
   japanese: Attika
   latvian: Atika
   lithuanian: Atika
-  norwegian: .nan
+  norwegian: Attica
   polish: Attyka
   portuguese: Ática
   romanian: Attica
@@ -1462,7 +1462,7 @@
   bulgarian: Sofiya
   chinese: Suofeiya
   czech: Sofie
-  danish: .nan
+  danish: Sofia
   dutch: Sofia
   english: Sofia
   estonian: Sofia
@@ -1470,13 +1470,13 @@
   french: Sofia
   german: Sofia
   greek: Sofia
-  hindi: .nan
+  hindi: Sophiya
   hungarian: Szófia
   italian: Sofia
   japanese: Sofia
   latvian: Sofija
   lithuanian: Sofija
-  norwegian: .nan
+  norwegian: Sofia
   polish: Sofia
   portuguese: Sófia
   romanian: Sofia
@@ -1493,7 +1493,7 @@
   bulgarian: Ankara
   chinese: Anqiala
   czech: Ankara
-  danish: .nan
+  danish: Ankara
   dutch: Ankara
   english: Ankara
   estonian: Ankara
@@ -1501,13 +1501,13 @@
   french: Ankara
   german: Ankara
   greek: Άgkura
-  hindi: .nan
+  hindi: Ankaar
   hungarian: Ankara
   italian: Ancara
   japanese: Ankara
   latvian: Ankara
   lithuanian: Ankara
-  norwegian: .nan
+  norwegian: Ankara
   polish: Ankara
   portuguese: Ancara
   romanian: Ankara
@@ -1524,7 +1524,7 @@
   bulgarian: Vyurtemberg
   chinese: Futengbao
   czech: Württembersko
-  danish: .nan
+  danish: Württemberg
   dutch: Württemberg
   english: Württemberg
   estonian: Württemberg
@@ -1532,13 +1532,13 @@
   french: Wurtemberg
   german: Württemberg
   greek: Vurtemvergi
-  hindi: .nan
+  hindi: Vurtemabarg
   hungarian: Württemberg
   italian: Vittimberga
   japanese: Vuyurutenberuku
   latvian: Virtemberga
   lithuanian: Viurtembergas
-  norwegian: .nan
+  norwegian: Württemberg
   polish: Wirtembergia
   portuguese: Vurtemberga
   romanian: Württemberg
@@ -1555,7 +1555,7 @@
   bulgarian: Reynland
   chinese: Laiyinlan
   czech: Porýní
-  danish: .nan
+  danish: Rheinland
   dutch: Rijnland
   english: Rhineland
   estonian: Reinimaa
@@ -1563,13 +1563,13 @@
   french: Rhénanie
   german: Rheinland
   greek: Rinania
-  hindi: .nan
+  hindi: Naagaalaind
   hungarian: Rhineland
   italian: Renania
   japanese: Rainranto
   latvian: Reinzeme
   lithuanian: Reino kraštas
-  norwegian: .nan
+  norwegian: Rheinland
   polish: Nadrenia
   portuguese: Renânia
   romanian: Renania
@@ -1586,7 +1586,7 @@
   bulgarian: Gorna bavariya
   chinese: Shangbafaliya
   czech: Horní Bavorsko
-  danish: .nan
+  danish: Oberbayern
   dutch: Opper-Beieren
   english: Oberbayern
   estonian: Ülem-Baieri ringkond
@@ -1594,13 +1594,13 @@
   french: Haute-Bavière
   german: Oberbayern
   greek: Άno Vauaria
-  hindi: .nan
+  hindi: Obairbayairn
   hungarian: Felső-Bajorország
   italian: Alta Baviera
   japanese: Ōbābaierun
   latvian: Augšbavārija
   lithuanian: Aukštutine Bavarija
-  norwegian: .nan
+  norwegian: Oberbayern
   polish: Górna Bawaria
   portuguese: Alta Baviera
   romanian: Oberbayern
@@ -1617,7 +1617,7 @@
   bulgarian: Dolna bavariya
   chinese: Xiabafaliya
   czech: Dolní Bavorsko
-  danish: .nan
+  danish: Niederbayern
   dutch: Neder-Beieren
   english: Niederbayern
   estonian: Alam-Baieri ringkond
@@ -1625,13 +1625,13 @@
   french: Basse-Bavière
   german: Niederbayern
   greek: Kato Vauaria
-  hindi: .nan
+  hindi: Niaidairbayairn
   hungarian: Alsó-Bajorország
   italian: Bassa Baviera
   japanese: Nīdābaierun gyōseikanku
   latvian: Niederbayern
   lithuanian: Žemutine Bavarija
-  norwegian: .nan
+  norwegian: Niederbayern
   polish: Dolna Bawaria
   portuguese: Baixa Baviera
   romanian: Niederbayern
@@ -1648,7 +1648,7 @@
   bulgarian: Franken
   chinese: Fulanken
   czech: Franken
-  danish: .nan
+  danish: Franken
   dutch: Franken
   english: Franken
   estonian: Franken
@@ -1656,13 +1656,13 @@
   french: Franken
   german: Franken
   greek: Fragkoi
-  hindi: .nan
+  hindi: Phrainkan
   hungarian: Franken
   italian: Franconia
   japanese: Furanken
   latvian: Franken
   lithuanian: Franken
-  norwegian: .nan
+  norwegian: Franken
   polish: Franken
   portuguese: Franken
   romanian: Franken
@@ -1679,7 +1679,7 @@
   bulgarian: Hesen
   chinese: Heisen
   czech: Hesensko
-  danish: .nan
+  danish: Hessen
   dutch: Hessen
   english: Hessen
   estonian: Hessen
@@ -1687,13 +1687,13 @@
   french: Hesse
   german: Hessen
   greek: Έssi
-  hindi: .nan
+  hindi: Hese
   hungarian: Hessen
   italian: Assia
   japanese: Hessen-shū
   latvian: Hesene
   lithuanian: Hesenas
-  norwegian: .nan
+  norwegian: Hessen
   polish: Hesja
   portuguese: Hesse
   romanian: Hessa
@@ -1710,7 +1710,7 @@
   bulgarian: Regierungsbezirk weser-ems
   chinese: Weixi-aimusi
   czech: Weser-Ems
-  danish: .nan
+  danish: Weser Ems
   dutch: Weser-Ems
   english: Weser-Ems
   estonian: Weser-Ems
@@ -1718,13 +1718,13 @@
   french: Weser-Ems
   german: Weser-Ems
   greek: Weser-Ems
-  hindi: .nan
+  hindi: Vesar Aims
   hungarian: Weser-Ems
   italian: Visurgi-Amasi
   japanese: Kanri chiku weser - emusu
   latvian: Weser-Ems
   lithuanian: Weser-Ems
-  norwegian: .nan
+  norwegian: Weser Ems
   polish: Weser-Ems
   portuguese: Weser-Ems
   romanian: Weser-Ems
@@ -1741,7 +1741,7 @@
   bulgarian: Vestfaliya
   chinese: Xifaliya
   czech: Vestfálsko
-  danish: .nan
+  danish: Westfalen
   dutch: Westfalen
   english: Westfalen
   estonian: Vestfaal
@@ -1749,13 +1749,13 @@
   french: Westphalie
   german: Westfalen
   greek: Westfalen
-  hindi: .nan
+  hindi: Vestapheliya
   hungarian: Westfalen
   italian: Vestfalia
   japanese: Vuesutofāren
   latvian: Westfalen
   lithuanian: Vestfalija
-  norwegian: .nan
+  norwegian: Westfalen
   polish: Westfalia
   portuguese: Vestfália
   romanian: Westfalia
@@ -1772,7 +1772,7 @@
   bulgarian: Shlezvig-holshtayn
   chinese: Shilesuyige-he'ersitaiyin
   czech: Šlesvicko-Holštýnsko
-  danish: .nan
+  danish: Slesvig Holsten
   dutch: Sleeswijk-Holstein
   english: Schleswig-Holstein
   estonian: Schleswig-Holstein
@@ -1780,13 +1780,13 @@
   french: Hambourg
   german: Schleswig-Holstein
   greek: Slesvich-Cholstain
-  hindi: .nan
+  hindi: Shlesavig Holsateen
   hungarian: Schleswig-Holstein
   italian: Iutland Meridionale
   japanese: Shurēsuvuihi horushutain-shū
   latvian: Šlēsviga-Holšteina
   lithuanian: Šlezvigas-Holšteinas
-  norwegian: .nan
+  norwegian: Schleswig Holstein
   polish: Szlezwik-Holsztyn
   portuguese: Eslésvico-Holsácia
   romanian: Schleswig-Holstein
@@ -1803,7 +1803,7 @@
   bulgarian: Hanover
   chinese: Hannuowei
   czech: Hannover
-  danish: .nan
+  danish: Hannover
   dutch: Hannover
   english: Hannover
   estonian: Hannover
@@ -1811,13 +1811,13 @@
   french: Hanovre
   german: Hannover
   greek: Annovero
-  hindi: .nan
+  hindi: Hanovar
   hungarian: Hannover
   italian: Annover
   japanese: Hanōfā
   latvian: Hannovere
   lithuanian: Hanoveris
-  norwegian: .nan
+  norwegian: Hannover
   polish: Hanower
   portuguese: Hanôver
   romanian: Hanovra
@@ -1834,7 +1834,7 @@
   bulgarian: Tyuringiya
   chinese: Tulingen
   czech: Durynsko
-  danish: .nan
+  danish: Thüringen
   dutch: Thuringen
   english: Thüringen
   estonian: Tüüringi
@@ -1842,13 +1842,13 @@
   french: Thuringe
   german: Thüringen
   greek: Thoyringia
-  hindi: .nan
+  hindi: Thurungiya
   hungarian: Türingia
   italian: Turingia
   japanese: Teyūringen shū
   latvian: Tiringene
   lithuanian: Tiuringija
-  norwegian: .nan
+  norwegian: Thuringia
   polish: Turyngia
   portuguese: Turíngia
   romanian: Turingia
@@ -1865,7 +1865,7 @@
   bulgarian: Meklenburg
   chinese: Meikelunbao
   czech: Meklenbursko
-  danish: .nan
+  danish: Mecklenburg
   dutch: Mecklenburg
   english: Mecklenburg
   estonian: Mecklenburg
@@ -1873,13 +1873,13 @@
   french: Meklembourg
   german: Mecklenburg
   greek: Mecklenburg
-  hindi: .nan
+  hindi: Meklemabarg
   hungarian: Mecklenburg
   italian: Meclemburgo
   japanese: Mekurenburuku
   latvian: Mecklenburg
   lithuanian: Meklenburgas
-  norwegian: .nan
+  norwegian: Mecklenburg
   polish: Meklemburgia
   portuguese: Meclemburgo
   romanian: Mecklenburg
@@ -1896,7 +1896,7 @@
   bulgarian: Vorpommern
   chinese: Xibomeilaniya
   czech: Vorpommern
-  danish: .nan
+  danish: Forpommern
   dutch: Voor-Pommeren
   english: Vorpommern
   estonian: Vorpommern
@@ -1904,13 +1904,13 @@
   french: Poméranie occidentale
   german: Vorpommern
   greek: Vorpommern
-  hindi: .nan
+  hindi: Varboomarn
   hungarian: Vorpommern
   italian: Pomerania Anteriore
   japanese: Vorpommern.
   latvian: Vorpommern
   lithuanian: Vorpommern
-  norwegian: .nan
+  norwegian: Vorpommern
   polish: Pomorze Przednie
   portuguese: Vorpommern
   romanian: Pomerania Anterioară
@@ -1927,7 +1927,7 @@
   bulgarian: Hinterpommern
   chinese: Houbomeilaniya
   czech: Hinterpommern
-  danish: .nan
+  danish: Bagpommern
   dutch: Achter-Pommeren
   english: Hinterpommern
   estonian: Hinterpommern
@@ -1935,13 +1935,13 @@
   french: Poméranie ultérieure
   german: Hinterpommern
   greek: Hinterpommern
-  hindi: .nan
+  hindi: Pomeran
   hungarian: Hinterpommern
   italian: Pomerania Orientale
   japanese: Pōmaran
   latvian: Hinterpommern
   lithuanian: Hinterpommern
-  norwegian: .nan
+  norwegian: Pomeran
   polish: Pomorze Tylne
   portuguese: Transpomerânia
   romanian: Pomerania Posterioară
@@ -1958,7 +1958,7 @@
   bulgarian: Brandenburg
   chinese: Bolandengbao
   czech: Braniborsko
-  danish: .nan
+  danish: Brandenburg
   dutch: Brandenburg
   english: Brandenburg
   estonian: Brandenburg
@@ -1966,13 +1966,13 @@
   french: Brandebourg
   german: Brandenburg
   greek: Vrandemvoyrgo
-  hindi: .nan
+  hindi: Braindenabarg
   hungarian: Brandenburg
   italian: Brandeburgo
   japanese: Burandenburuku-shū
   latvian: Brandenburga
   lithuanian: Brandenburgas
-  norwegian: .nan
+  norwegian: Brandenburg
   polish: Brandenburgia
   portuguese: Brandemburgo
   romanian: Brandenburg
@@ -1989,7 +1989,7 @@
   bulgarian: Saksoniya
   chinese: Sakesen
   czech: Sasko
-  danish: .nan
+  danish: Sachsen
   dutch: Saksen
   english: Sachsen
   estonian: Saksimaa
@@ -1997,13 +1997,13 @@
   french: Saxe
   german: Sachsen
   greek: Saxonia
-  hindi: .nan
+  hindi: Saiksonee
   hungarian: Szászország
   italian: Sassonia
   japanese: Zakusen-shū
   latvian: Saksija
   lithuanian: Saksonija
-  norwegian: .nan
+  norwegian: Sachsen
   polish: Saksonia
   portuguese: Saxônia
   romanian: Saxonia
@@ -2020,7 +2020,7 @@
   bulgarian: Dolna sileziya
   chinese: Xiaxilixiya
   czech: Dolní Slezsko
-  danish: .nan
+  danish: Województwo Dolnośląskie
   dutch: Neder-Silezië
   english: Niederschlesien
   estonian: Alam-Sileesia
@@ -2028,13 +2028,13 @@
   french: Basse-Silésie
   german: Niederschlesien
   greek: Kato Silesia
-  hindi: .nan
+  hindi: Nichala Silesiya
   hungarian: Niederschlesien
   italian: Bassa Slesia
   japanese: Shita no shirejia
   latvian: Niederschlesien
   lithuanian: Niederschlesien
-  norwegian: .nan
+  norwegian: Nedre Silesia
   polish: Dolny Śląsk
   portuguese: Baixa Silésia
   romanian: Niederschlesien
@@ -2051,7 +2051,7 @@
   bulgarian: Gorna sileziya
   chinese: Shangxilixiya
   czech: Horní Slezsko
-  danish: .nan
+  danish: Oberglesia
   dutch: Opper-Silezië
   english: Oberschlesien
   estonian: Ülem-Sileesia
@@ -2059,13 +2059,13 @@
   french: Haute-Silésie
   german: Oberschlesien
   greek: Άno Silesia
-  hindi: .nan
+  hindi: Obairgalchi
   hungarian: Oberschlesien
   italian: Alta Slesia
   japanese: Ob ob
   latvian: Oberschlesien
   lithuanian: Aukštutine Silezija
-  norwegian: .nan
+  norwegian: Oberglesia
   polish: Górny Śląsk
   portuguese: Alta Silésia
   romanian: Silezia Superioară
@@ -2082,7 +2082,7 @@
   bulgarian: Ostmark
   chinese: Ostmark
   czech: Ostmark
-  danish: .nan
+  danish: Ostmark
   dutch: Oostmark
   english: Ostmark
   estonian: Ostmark
@@ -2090,13 +2090,13 @@
   french: Mark-Est
   german: Ostmark
   greek: Ostmark
-  hindi: .nan
+  hindi: Ostamaark
   hungarian: Ostmark
   italian: Marca Orientale
   japanese: Osutomaruku
   latvian: Ostmark
   lithuanian: Ostmark
-  norwegian: .nan
+  norwegian: Ostmark
   polish: Marchia Wschodnia
   portuguese: Ostmark
   romanian: Ostmark
@@ -2113,7 +2113,7 @@
   bulgarian: Sudetska oblast
   chinese: Sutaide
   czech: Sudety
-  danish: .nan
+  danish: Sudeterlandet
   dutch: Sudetenland
   english: Sudetenland
   estonian: Sudeedimaa
@@ -2121,13 +2121,13 @@
   french: Région des Sudètes
   german: Sudetenland
   greek: Soyditia
-  hindi: .nan
+  hindi: Sutatanalaind
   hungarian: Szudétavidék
   italian: Sudeti
   japanese: Zudēten chihō
   latvian: Sudetenland
   lithuanian: Sudetų kraštas
-  norwegian: .nan
+  norwegian: Sudetenland
   polish: Kraj Sudetów
   portuguese: Região dos Sudetas
   romanian: Sudetenland
@@ -2144,7 +2144,7 @@
   bulgarian: Westslowakei
   chinese: Xisiluofake
   czech: RŠÚJ Západné Slovensko
-  danish: .nan
+  danish: Western Slovakiet
   dutch: Westelijk Slovakije
   english: Western Slovakia
   estonian: Western Slovakia
@@ -2152,13 +2152,13 @@
   french: Western Slovakia
   german: Westslowakei
   greek: Western Slovakia
-  hindi: .nan
+  hindi: Pashchimee Slovaakiya
   hungarian: Western Slovakia
   italian: Slovacchia Occidentale
   japanese: Westslovakia.
   latvian: Western Slovakia
   lithuanian: Western Slovakia
-  norwegian: .nan
+  norwegian: Vest Slovakia
   polish: Zachodnia Słowacja
   portuguese: Western Slovakia
   romanian: Western Slovakia
@@ -2175,7 +2175,7 @@
   bulgarian: Nuts:sk
   chinese: Dongsiluofake
   czech: SK-NUTS
-  danish: .nan
+  danish: Øst Slovakiet
   dutch: Oostelijk Slovakije
   english: Eastern Slovakia
   estonian: Eastern Slovakia
@@ -2183,13 +2183,13 @@
   french: Eastern Slovakia
   german: Ostslowakei
   greek: Eastern Slovakia
-  hindi: .nan
+  hindi: Poorvee Slovaakiya
   hungarian: Eastern Slovakia
   italian: Slovacchia Orientale
   japanese: 'Nattsu: sk.'
   latvian: Eastern Slovakia
   lithuanian: NUTS:SK
-  norwegian: .nan
+  norwegian: Øst Slovakia
   polish: Wschodnia Słowacja
   portuguese: Eastern Slovakia
   romanian: Eastern Slovakia
@@ -2206,7 +2206,7 @@
   bulgarian: Zaolzhe
   chinese: Zha'ao'erjie
   czech: Zaolzie
-  danish: .nan
+  danish: Za Ol I Ie
   dutch: Zaolzie
   english: Zaolzie
   estonian: Zaolzie
@@ -2214,13 +2214,13 @@
   french: Zaolzie
   german: Olsaland
   greek: Zaolzie
-  hindi: .nan
+  hindi: Yaanee Uttar Ol
   hungarian: Zaolzie
   italian: Zaolzie
   japanese: Orusējibieto.
   latvian: Zaolzie
   lithuanian: Zaolzie
-  norwegian: .nan
+  norwegian: Za Ol I Dvs
   polish: Zaolzie
   portuguese: Zaolzie
   romanian: Transolza
@@ -2237,7 +2237,7 @@
   bulgarian: Carpathian Ruthenia
   chinese: Ka'erbaqianlusainiya
   czech: Carpathian Ruthenia
-  danish: .nan
+  danish: Karpaterne Ruthenia
   dutch: Karpato-Roethenië
   english: Carpathian Ruthenia
   estonian: Carpathian Ruthenia
@@ -2245,13 +2245,13 @@
   french: Ruthénie subcarpathique
   german: Transkarpathien
   greek: Roythinia ton Karpathion
-  hindi: .nan
+  hindi: Kaarpethiyan Rootheniyam
   hungarian: Kárpátalja
   italian: Rutenia subcarpatica
   japanese: Carpathian Ruthenia
   latvian: Carpathian Ruthenia
   lithuanian: Karpatų Rusia
-  norwegian: .nan
+  norwegian: Carpathian Ruthenia
   polish: Zakarpacie
   portuguese: Transcarpátia
   romanian: Transcarpatia
@@ -2299,7 +2299,7 @@
   bulgarian: Moraviya
   chinese: Molaweiya
   czech: Morava
-  danish: .nan
+  danish: Mähren
   dutch: Moravië
   english: Moravia
   estonian: Morava
@@ -2307,13 +2307,13 @@
   french: Moravie
   german: Mähren
   greek: Moravia
-  hindi: .nan
+  hindi: Moraaviya
   hungarian: Morvaország
   italian: Moravia
   japanese: Moravuia
   latvian: Morāvija
   lithuanian: Moravija
-  norwegian: .nan
+  norwegian: Moravia
   polish: Morawy
   portuguese: Morávia
   romanian: Moravia
@@ -2361,7 +2361,7 @@
   bulgarian: Dobrudzha
   chinese: Duobuluojia
   czech: Dobrudža
-  danish: .nan
+  danish: Dobrogea
   dutch: Dobroedzja
   english: Dobrudja
   estonian: Dobrudža
@@ -2369,13 +2369,13 @@
   french: Dobroudja
   german: Dobrich
   greek: Dovroytsa
-  hindi: .nan
+  hindi: Dab
   hungarian: Dobrudzsa
   italian: Dobrugia
   japanese: Doburoja
   latvian: Dobrudja
   lithuanian: Dobrudža
-  norwegian: .nan
+  norwegian: Dobrudja
   polish: Dobrudża
   portuguese: Dobruja
   romanian: Dobrogea
@@ -2392,7 +2392,7 @@
   bulgarian: Besarabiya
   chinese: Bisalabiya
   czech: Besarábie
-  danish: .nan
+  danish: Bessarabien
   dutch: Bessarabië
   english: Bessarabia
   estonian: Bessaraabia
@@ -2400,13 +2400,13 @@
   french: Bessarabie
   german: Bessarabien
   greek: Vessaravia
-  hindi: .nan
+  hindi: Besarbiya
   hungarian: Besszarábia
   italian: Bessarabia
   japanese: Bessarabia
   latvian: Besarābija
   lithuanian: Besarabija
-  norwegian: .nan
+  norwegian: Bessarabia
   polish: Besarabia
   portuguese: Bessarábia
   romanian: Basarabia
@@ -2423,7 +2423,7 @@
   bulgarian: Moldova
   chinese: Mo'erduowa
   czech: Moldavsko
-  danish: .nan
+  danish: Moldova
   dutch: Moldavië
   english: Moldova
   estonian: Moldova
@@ -2431,13 +2431,13 @@
   french: Moldavie
   german: Moldawien
   greek: Moldavia
-  hindi: .nan
+  hindi: Moldova
   hungarian: Moldova
   italian: Moldavia
   japanese: Morudoba
   latvian: Moldova
   lithuanian: Moldavija
-  norwegian: .nan
+  norwegian: Moldova
   polish: Mołdawia
   portuguese: Moldávia
   romanian: Republica Moldova
@@ -2454,7 +2454,7 @@
   bulgarian: Bukovina
   chinese: Bukeweina
   czech: Bukovina
-  danish: .nan
+  danish: Bukovina
   dutch: Boekovina
   english: Bucovina
   estonian: Bukoviina
@@ -2462,13 +2462,13 @@
   french: Bucovine
   german: Bukowina
   greek: Voykovina
-  hindi: .nan
+  hindi: Buukavin
   hungarian: Bukovina
   italian: Bucovina
   japanese: Bukovuina
   latvian: Bukovina
   lithuanian: Bukovina
-  norwegian: .nan
+  norwegian: Bucovina
   polish: Bukowina
   portuguese: Bucovina
   romanian: Bucovina
@@ -2485,7 +2485,7 @@
   bulgarian: Olteniya
   chinese: Ao'erteniya
   czech: Olténie
-  danish: .nan
+  danish: Oltenien
   dutch: Oltenië
   english: Oltenia
   estonian: Olteenia
@@ -2493,13 +2493,13 @@
   french: Olténie
   german: Kleine Walachei
   greek: Oltenia
-  hindi: .nan
+  hindi: Olten
   hungarian: Olténia
   italian: Oltenia
   japanese: Orutenia
   latvian: Oltenia
   lithuanian: Oltenia
-  norwegian: .nan
+  norwegian: Olten
   polish: Oltenia
   portuguese: Oltênia
   romanian: Oltenia
@@ -2516,7 +2516,7 @@
   bulgarian: Banat
   chinese: Banate
   czech: Banát
-  danish: .nan
+  danish: Banatet
   dutch: Banaat
   english: Banat
   estonian: Banaat
@@ -2524,13 +2524,13 @@
   french: Banat historique
   german: Banat
   greek: Vanato
-  hindi: .nan
+  hindi: Ladakiyaan
   hungarian: Bánság
   italian: Banato
   japanese: Banato
   latvian: Banata
   lithuanian: Banatas
-  norwegian: .nan
+  norwegian: Jenter
   polish: Banat
   portuguese: Banato
   romanian: Banat
@@ -2547,7 +2547,7 @@
   bulgarian: Krishana
   chinese: Kelisana
   czech: Krišana
-  danish: .nan
+  danish: Crișana
   dutch: Crișana
   english: Crisana
   estonian: Krisaania
@@ -2555,13 +2555,13 @@
   french: Crişana
   german: Kreischland
   greek: Crisana
-  hindi: .nan
+  hindi: Sankat
   hungarian: Körösvidék
   italian: Crisania
   japanese: Sakebu
   latvian: Crisana
   lithuanian: Krišana
-  norwegian: .nan
+  norwegian: Crisana
   polish: Kriszana
   portuguese: Crișana
   romanian: Crişana
@@ -2578,7 +2578,7 @@
   bulgarian: Transilvaniya
   chinese: Telanxiwaniya
   czech: Sedmihradsko
-  danish: .nan
+  danish: Transsylvanien
   dutch: Transsylvanië
   english: Transylvania
   estonian: Transilvaania
@@ -2586,13 +2586,13 @@
   french: Transylvanie
   german: Siebenbürgen
   greek: Transulvania
-  hindi: .nan
+  hindi: Traansilveniya
   hungarian: Erdély
   italian: Transilvania
   japanese: Toranshiruvuania
   latvian: Transilvānija
   lithuanian: Transilvanija
-  norwegian: .nan
+  norwegian: Transylvania
   polish: Siedmiogród
   portuguese: Transilvânia
   romanian: Transilvania
@@ -2609,7 +2609,7 @@
   bulgarian: Gdansk
   chinese: Gedansike
   czech: Gdaňsk
-  danish: .nan
+  danish: Gdańsk
   dutch: Dantzig
   english: Danzig
   estonian: Gdańsk
@@ -2617,13 +2617,13 @@
   french: Gdańsk
   german: Danzig
   greek: Gkntansk
-  hindi: .nan
+  hindi: Daansk
   hungarian: Gdańsk
   italian: Danzica
   japanese: Gudanisuku
   latvian: Gdaņska
   lithuanian: Gdanskas
-  norwegian: .nan
+  norwegian: Danzig
   polish: Gdańsk
   portuguese: Gdansk
   romanian: Gdańsk
@@ -2640,7 +2640,7 @@
   bulgarian: Poznan
   chinese: Bozinan
   czech: Poznaň
-  danish: .nan
+  danish: Poznań
   dutch: Posen
   english: Poznan
   estonian: Poznań
@@ -2648,13 +2648,13 @@
   french: Poznań
   german: Posen
   greek: Poznan
-  hindi: .nan
+  hindi: Poznaan
   hungarian: Poznań
   italian: Poznań
   japanese: Pozunan
   latvian: Poznaņa
   lithuanian: Poznane
-  norwegian: .nan
+  norwegian: Poznan
   polish: Poznań
   portuguese: Posnânia
   romanian: Poznań
@@ -2702,7 +2702,7 @@
   bulgarian: Krakov
   chinese: Kelakefu
   czech: Krakov
-  danish: .nan
+  danish: Kraków
   dutch: Krakau
   english: Krakow
   estonian: Kraków
@@ -2710,13 +2710,13 @@
   french: Cracovie
   german: Beskidland
   greek: Krakovia
-  hindi: .nan
+  hindi: Kreek
   hungarian: Krakkó
   italian: Cracovia
   japanese: Kurakufu
   latvian: Krakova
   lithuanian: Krokuva
-  norwegian: .nan
+  norwegian: Krakow
   polish: Kraków
   portuguese: Cracóvia
   romanian: Cracovia
@@ -2733,7 +2733,7 @@
   bulgarian: Stanisławów
   chinese: Shitannisilaweifu
   czech: Stanisławów
-  danish: .nan
+  danish: Ivano Frankivsk
   dutch: Stanislau
   english: Stanisławów
   estonian: Stanisławów
@@ -2741,13 +2741,13 @@
   french: Stanisławów
   german: Stanislau
   greek: Stanisławów
-  hindi: .nan
+  hindi: Stanisławow
   hungarian: Stanisławów
   italian: Stanislao
   japanese: Sutanisuwafu
   latvian: Stanisławów
   lithuanian: Stanisławów
-  norwegian: .nan
+  norwegian: Stanisławów
   polish: Stanisławów
   portuguese: Stanisławów
   romanian: Stanisławów
@@ -2764,7 +2764,7 @@
   bulgarian: Keltse
   chinese: Kaiercai
   czech: Kielce
-  danish: .nan
+  danish: Kielce
   dutch: Kielce
   english: Kielce
   estonian: Kielce
@@ -2772,13 +2772,13 @@
   french: Kielce
   german: Kielitz
   greek: Kieltse
-  hindi: .nan
+  hindi: Keels
   hungarian: Kielce
   italian: Chielze
   japanese: Kyerutsue
   latvian: Kelce
   lithuanian: Kelcai
-  norwegian: .nan
+  norwegian: Kielce
   polish: Kielce
   portuguese: Kielce
   romanian: Kielce
@@ -2795,7 +2795,7 @@
   bulgarian: Lvov
   chinese: Liwofu
   czech: Lvov
-  danish: .nan
+  danish: Lviv
   dutch: Lemberg
   english: Lwów
   estonian: Lviv
@@ -2803,13 +2803,13 @@
   french: Lviv
   german: Lemberg
   greek: Lviv
-  hindi: .nan
+  hindi: Laayans
   hungarian: Lviv
   italian: Leopoli
   japanese: Rivuiu
   latvian: Ļvova
   lithuanian: Lvovas
-  norwegian: .nan
+  norwegian: Løver
   polish: Lwów
   portuguese: Leópolis
   romanian: Liov
@@ -2826,7 +2826,7 @@
   bulgarian: Lyublin
   chinese: Lubulin
   czech: Lublin
-  danish: .nan
+  danish: Lublin
   dutch: Lublin
   english: Lublin
   estonian: Lublin
@@ -2834,13 +2834,13 @@
   french: Lublin
   german: Lüben
   greek: Loyblin
-  hindi: .nan
+  hindi: Labaleen
   hungarian: Lublin
   italian: Lublino
   japanese: Ruburin
   latvian: Ļubļina
   lithuanian: Liublinas
-  norwegian: .nan
+  norwegian: Lublin
   polish: Lublin
   portuguese: Lublin
   romanian: Lublin
@@ -2888,7 +2888,7 @@
   bulgarian: Polesiya
   chinese: Bolixiya
   czech: Polesí
-  danish: .nan
+  danish: Polesien
   dutch: Polesië
   english: Polesie
   estonian: Polesje
@@ -2896,13 +2896,13 @@
   french: Polésie
   german: Polesien
   greek: Polesia
-  hindi: .nan
+  hindi: Polsee
   hungarian: Polesie
   italian: Polesia
   japanese: Porīsha
   latvian: Poļesje
   lithuanian: Polese
-  norwegian: .nan
+  norwegian: Polesie
   polish: Polesie
   portuguese: Polésia
   romanian: Polesia
@@ -2919,7 +2919,7 @@
   bulgarian: Navahrudak
   chinese: Xingeluduoke
   czech: Novogrodek
-  danish: .nan
+  danish: Nowogródek
   dutch: Navahroedak
   english: Nowogródek
   estonian: Navahrudak
@@ -2927,13 +2927,13 @@
   french: Navahroudak
   german: Neugrund
   greek: Nowogródek
-  hindi: .nan
+  hindi: Naveenata
   hungarian: Navahrudak
   italian: Neonatia
   japanese: Navuafurudaku
   latvian: Navahrudaka
   lithuanian: Naugardukas
-  norwegian: .nan
+  norwegian: Nowogródek
   polish: Nowogródek
   portuguese: Navahrudak
   romanian: Nowogródek
@@ -2950,7 +2950,7 @@
   bulgarian: Vileyka
   chinese: Weilieyiqia
   czech: Vilejka
-  danish: .nan
+  danish: Edge
   dutch: Wilejka
   english: Wilejka
   estonian: Vilejka
@@ -2958,13 +2958,13 @@
   french: Vileïka
   german: Vilejka
   greek: Wilejka
-  hindi: .nan
+  hindi: Kinaara
   hungarian: Vilejka
   italian: Vilechia
   japanese: Tsuno
   latvian: Viļejka
   lithuanian: Vileika
-  norwegian: .nan
+  norwegian: Kant
   polish: Wilejka
   portuguese: Wilejka
   romanian: Wilejka
@@ -2981,7 +2981,7 @@
   bulgarian: Byalistok
   chinese: Biyaweisituoke
   czech: Bělostok
-  danish: .nan
+  danish: Białystok
   dutch: Białystok
   english: Białystok
   estonian: Białystok
@@ -2989,13 +2989,13 @@
   french: Białystok
   german: Bjelostock
   greek: Biaoyistok
-  hindi: .nan
+  hindi: Belastok
   hungarian: Białystok
   italian: Bialistocco
   japanese: Byauisutoku
   latvian: Bjalistoka
   lithuanian: Balstoge
-  norwegian: .nan
+  norwegian: Białystok
   polish: Białystok
   portuguese: Białystok
   romanian: Białystok
@@ -3012,7 +3012,7 @@
   bulgarian: Plotsk
   chinese: Puwocike
   czech: Płock
-  danish: .nan
+  danish: Płock
   dutch: Plotsk
   english: Płock
   estonian: Płock
@@ -3020,13 +3020,13 @@
   french: Płock
   german: Schröttersburg
   greek: Poyotsk
-  hindi: .nan
+  hindi: Plok
   hungarian: Płock
   italian: Plochia
   japanese: Puuotsuku
   latvian: Plocka
   lithuanian: Plockas
-  norwegian: .nan
+  norwegian: Płock
   polish: Płock
   portuguese: Płock
   romanian: Płock
@@ -3043,7 +3043,7 @@
   bulgarian: Yutland
   chinese: Ridelanbandao
   czech: Jutsko
-  danish: .nan
+  danish: Jylland
   dutch: Jutland
   english: Jutland
   estonian: Jüütimaa
@@ -3051,13 +3051,13 @@
   french: Jutland
   german: Jütland
   greek: Gioytlandi
-  hindi: .nan
+  hindi: Jootalaind
   hungarian: Jylland
   italian: Iutland
   japanese: Yutorando hantō
   latvian: Jitlande
   lithuanian: Jutlandijos pusiasalis
-  norwegian: .nan
+  norwegian: Jylland
   polish: Półwysep Jutlandzki
   portuguese: Jutlândia
   romanian: Iutlanda
@@ -3074,7 +3074,7 @@
   bulgarian: Islandiya
   chinese: Bingdao
   czech: Island
-  danish: .nan
+  danish: Island
   dutch: IJsland
   english: Iceland
   estonian: Island
@@ -3082,13 +3082,13 @@
   french: Islande
   german: Island
   greek: Islandia
-  hindi: .nan
+  hindi: Aaisalaind
   hungarian: Izland
   italian: Islanda
   japanese: Aisurando
   latvian: Islande
   lithuanian: Islandija
-  norwegian: .nan
+  norwegian: Island
   polish: Islandia
   portuguese: Islândia
   romanian: Islanda
@@ -3105,7 +3105,7 @@
   bulgarian: Grenlandiya
   chinese: Gelinglan
   czech: Grónsko
-  danish: .nan
+  danish: Grønland
   dutch: Groenland
   english: Greenland
   estonian: Gröönimaa
@@ -3113,13 +3113,13 @@
   french: Groenland
   german: Grönland
   greek: Groilandia
-  hindi: .nan
+  hindi: Greenalaind
   hungarian: Grönland
   italian: Groenlandia
   japanese: Gurīnrando
   latvian: Grenlande
   lithuanian: Grenlandija
-  norwegian: .nan
+  norwegian: Grønland
   polish: Grenlandia
   portuguese: Gronelândia
   romanian: Groenlanda
@@ -3136,7 +3136,7 @@
   bulgarian: Sloveniya
   chinese: Siluowenniya
   czech: Slovinsko
-  danish: .nan
+  danish: Slovenien
   dutch: Slovenië
   english: Slovenia
   estonian: Sloveenia
@@ -3144,13 +3144,13 @@
   french: Slovénie
   german: Slowenien
   greek: Slovenia
-  hindi: .nan
+  hindi: Sloveniya
   hungarian: Szlovénia
   italian: Slovenia
   japanese: Surobenia
   latvian: Slovēnija
   lithuanian: Slovenija
-  norwegian: .nan
+  norwegian: Slovenia
   polish: Słowenia
   portuguese: Eslovénia
   romanian: Slovenia
@@ -3167,7 +3167,7 @@
   bulgarian: Dalmatsiya
   chinese: Da'ermatiya
   czech: Dalmácie
-  danish: .nan
+  danish: Dalmatien
   dutch: Dalmatië
   english: Dalmatia
   estonian: Dalmaatsia
@@ -3175,13 +3175,13 @@
   french: Dalmatie
   german: Dalmatien
   greek: Dalmatia
-  hindi: .nan
+  hindi: Daalmeshiya
   hungarian: Dalmácia
   italian: Dalmazia
   japanese: Darumachia
   latvian: Dalmācija
   lithuanian: Dalmatija
-  norwegian: .nan
+  norwegian: Dalmatia
   polish: Dalmacja
   portuguese: Dalmácia
   romanian: Dalmația
@@ -3198,7 +3198,7 @@
   bulgarian: Bosna i hertsegovina
   chinese: Bosiniya
   czech: Bosna
-  danish: .nan
+  danish: Bosnien Hercegovina
   dutch: Bosnië
   english: Bosnia
   estonian: Bosnia
@@ -3206,13 +3206,13 @@
   french: Bosnie
   german: Bosnisches-Land
   greek: Vosnia
-  hindi: .nan
+  hindi: Bosniya Aur Harzegovina
   hungarian: Bosznia
   italian: Bosnia
   japanese: Bosunia herutsuegobina
   latvian: Bosnija
   lithuanian: Bosnija
-  norwegian: .nan
+  norwegian: Bosnia
   polish: Bośnia
   portuguese: Bósnia
   romanian: Bosnia
@@ -3229,7 +3229,7 @@
   bulgarian: Cherna gora
   chinese: Mengteneigeluo
   czech: Černá Hora
-  danish: .nan
+  danish: Montenegro
   dutch: Montenegro
   english: Montenegro
   estonian: Montenegro
@@ -3237,13 +3237,13 @@
   french: Monténégro
   german: Dunkerberg
   greek: Maurovoynio
-  hindi: .nan
+  hindi: Monteneegro
   hungarian: Montenegró
   italian: Montenegro
   japanese: Monteneguro
   latvian: Melnkalne
   lithuanian: Juodkalnija
-  norwegian: .nan
+  norwegian: Montenegro
   polish: Czarnogóra
   portuguese: Montenegro
   romanian: Muntenegru
@@ -3260,7 +3260,7 @@
   bulgarian: Makedoniya
   chinese: Maqidun
   czech: Makedonie
-  danish: .nan
+  danish: Macedonia
   dutch: Macedonië
   english: Macedonia
   estonian: Macedonia
@@ -3268,13 +3268,13 @@
   french: Macédoine
   german: Mazedonien
   greek: Makedonia
-  hindi: .nan
+  hindi: Maisedoniya
   hungarian: Macedónia
   italian: Macedonia
   japanese: Makedonia
   latvian: Maķedonija
   lithuanian: Macedonia
-  norwegian: .nan
+  norwegian: Makedonia
   polish: Macedonia
   portuguese: Macedónia
   romanian: Macedonia
@@ -3291,7 +3291,7 @@
   bulgarian: Sarbiya
   chinese: Saierweiya
   czech: Srbsko
-  danish: .nan
+  danish: Serbien
   dutch: Servië
   english: Serbia
   estonian: Serbia
@@ -3299,13 +3299,13 @@
   french: Serbie
   german: Serbien
   greek: Servia
-  hindi: .nan
+  hindi: Sarbiya
   hungarian: Szerbia
   italian: Serbia
   japanese: Serubia
   latvian: Serbija
   lithuanian: Serbija
-  norwegian: .nan
+  norwegian: Serbia
   polish: Serbia
   portuguese: Sérvia
   romanian: Serbia
@@ -3322,7 +3322,7 @@
   bulgarian: Morava
   chinese: Molawa
   czech: Morava
-  danish: .nan
+  danish: Morava
   dutch: Morava
   english: Morava
   estonian: Morava
@@ -3330,13 +3330,13 @@
   french: Morava
   german: Morava
   greek: Morava
-  hindi: .nan
+  hindi: Moraaviya
   hungarian: Morava
   italian: Morava
   japanese: Moravua
   latvian: Morava
   lithuanian: Morava
-  norwegian: .nan
+  norwegian: Moravia
   polish: Morava
   portuguese: Morava
   romanian: Morava
@@ -3353,7 +3353,7 @@
   bulgarian: Harvatiya
   chinese: Keluodiya
   czech: Chorvatsko
-  danish: .nan
+  danish: Kroatien
   dutch: Kroatië
   english: Croatia
   estonian: Horvaatia
@@ -3361,13 +3361,13 @@
   french: Croatie
   german: Kroatien
   greek: Kroatia
-  hindi: .nan
+  hindi: Kroeshiya
   hungarian: Horvátország
   italian: Croazia
   japanese: Kuroachia
   latvian: Horvātija
   lithuanian: Kroatija
-  norwegian: .nan
+  norwegian: Kroatia
   polish: Chorwacja
   portuguese: Croácia
   romanian: Croația
@@ -3384,7 +3384,7 @@
   bulgarian: Østlandet
   chinese: Dongnuowei
   czech: Østlandet
-  danish: .nan
+  danish: Østlandet
   dutch: Oostlanden
   english: Østlandet
   estonian: Østlandet
@@ -3392,13 +3392,13 @@
   french: Østlandet
   german: Ostnorwegen
   greek: Anatoliki Norvigia
-  hindi: .nan
+  hindi: Poorvee Norve
   hungarian: Østlandet
   italian: Est Norvegia
   japanese: Esutoran
   latvian: Østlandet
   lithuanian: Rytų Norvegija
-  norwegian: .nan
+  norwegian: Østlandet
   polish: Østlandet
   portuguese: Noruega Oriental
   romanian: Østlandet
@@ -3415,7 +3415,7 @@
   bulgarian: Uusimaa
   chinese: Xindiqu
   czech: Uusimaa
-  danish: .nan
+  danish: Nyland
   dutch: Uusimaa
   english: Uusimaa
   estonian: Uusimaa
@@ -3423,13 +3423,13 @@
   french: Uusimaa
   german: Nyland
   greek: Uusimaa
-  hindi: .nan
+  hindi: Uusima
   hungarian: Nyland tartomány
   italian: Nilandia
   japanese: Ūshimā ken
   latvian: Uusimaa
   lithuanian: Ūsima
-  norwegian: .nan
+  norwegian: Uusimaa
   polish: Uusimaa
   portuguese: Uusimaa
   romanian: Uusimaa
@@ -3446,7 +3446,7 @@
   bulgarian: Lisabon
   chinese: Lisiben
   czech: Lisabon
-  danish: .nan
+  danish: Lissabon
   dutch: Lissabon
   english: Lisbon
   estonian: Lissabon
@@ -3454,13 +3454,13 @@
   french: Lisbonne
   german: Lissabon
   greek: Lisavona
-  hindi: .nan
+  hindi: Lisban
   hungarian: Lisszabon
   italian: Lisbona
   japanese: Risubon
   latvian: Lisabona
   lithuanian: Lisabona
-  norwegian: .nan
+  norwegian: Lisboa
   polish: Lizbona
   portuguese: Lisboa
   romanian: Lisabona
@@ -3477,7 +3477,7 @@
   bulgarian: Lenstar
   chinese: Lunsitesheng
   czech: Leinster
-  danish: .nan
+  danish: Leinster
   dutch: Leinster
   english: Leinster
   estonian: Leinsteri
@@ -3485,13 +3485,13 @@
   french: Laineterre
   german: Leinstein
   greek: Lenster
-  hindi: .nan
+  hindi: Leenastar
   hungarian: Leinster
   italian: Irlanda Occidentale
   japanese: Rensutā
   latvian: Lenstera
   lithuanian: Lensteris
-  norwegian: .nan
+  norwegian: Leinster
   polish: Leinster
   portuguese: Leinster
   romanian: Leinster
@@ -3508,7 +3508,7 @@
   bulgarian: Sardiniya
   chinese: Sadingdao
   czech: Sardinie
-  danish: .nan
+  danish: Sardinien
   dutch: Sardinië
   english: Sardinia
   estonian: Sardiinia
@@ -3516,13 +3516,13 @@
   french: Sardaigne
   german: Sardinien
   greek: Sardinia
-  hindi: .nan
+  hindi: Saardiniya
   hungarian: Szardínia
   italian: Sardegna
   japanese: Sarudēnya
   latvian: Sardinija
   lithuanian: Sardinija
-  norwegian: .nan
+  norwegian: Sardinia
   polish: Sardynia
   portuguese: Sardenha
   romanian: Sardinia
@@ -3539,7 +3539,7 @@
   bulgarian: Sitsiliya
   chinese: Xixilidao
   czech: Sicílie
-  danish: .nan
+  danish: Sicilien
   dutch: Sicilië
   english: Sicily
   estonian: Sitsiilia
@@ -3547,13 +3547,13 @@
   french: Sicile
   german: Sizilien
   greek: Sikelia
-  hindi: .nan
+  hindi: Sisilee
   hungarian: Szicília
   italian: Sicilia
   japanese: Shichiria
   latvian: Sicilija
   lithuanian: Sicilija
-  norwegian: .nan
+  norwegian: Sicilia
   polish: Sycylia
   portuguese: Sicília
   romanian: Sicilia
@@ -3570,7 +3570,7 @@
   bulgarian: Malta
   chinese: Ma'erta
   czech: Malta
-  danish: .nan
+  danish: Malta
   dutch: Malta
   english: Malta
   estonian: Malta
@@ -3578,13 +3578,13 @@
   french: Malte
   german: Malta
   greek: Malta
-  hindi: .nan
+  hindi: Maalta
   hungarian: Málta
   italian: Malta
   japanese: Maruta
   latvian: Malta
   lithuanian: Malta
-  norwegian: .nan
+  norwegian: Malta
   polish: Malta
   portuguese: Malta
   romanian: Malta
@@ -3601,7 +3601,7 @@
   bulgarian: Kampaniya
   chinese: Kanpaniyadaqu
   czech: Kampánie
-  danish: .nan
+  danish: Campania
   dutch: Campanië
   english: Campania
   estonian: Campania
@@ -3609,13 +3609,13 @@
   french: Campanie
   german: Kampanien
   greek: Kabania
-  hindi: .nan
+  hindi: Kaampaaniya
   hungarian: Campania
   italian: Campania
   japanese: Kanpania-shū
   latvian: Kampānija
   lithuanian: Kampanija
-  norwegian: .nan
+  norwegian: Campania
   polish: Kampania
   portuguese: Campânia
   romanian: Campania
@@ -3632,7 +3632,7 @@
   bulgarian: Gibraltar
   chinese: Zhibuluotuo
   czech: Gibraltar
-  danish: .nan
+  danish: Gibraltar
   dutch: Gibraltar
   english: Gibraltar
   estonian: Gibraltar
@@ -3640,13 +3640,13 @@
   french: Gibraltar
   german: Gibraltar
   greek: Givraltar
-  hindi: .nan
+  hindi: Jibraaltar
   hungarian: Gibraltár
   italian: Gibilterra
   japanese: Jiburarutaru
   latvian: Gibraltārs
   lithuanian: Gibraltaras
-  norwegian: .nan
+  norwegian: Gibraltar
   polish: Gibraltar
   portuguese: Gibraltar
   romanian: Gibraltar
@@ -3663,7 +3663,7 @@
   bulgarian: Severna irlandiya
   chinese: Bei'aierlan
   czech: Severní Irsko
-  danish: .nan
+  danish: Nordirland
   dutch: Noord-Ierland
   english: Northern Ireland
   estonian: Põhja-Iirimaa
@@ -3671,13 +3671,13 @@
   french: Irlande du Nord
   german: Nordirland
   greek: Voreia Irlandia
-  hindi: .nan
+  hindi: Uttaree Aayaralaind
   hungarian: Észak-Írország
   italian: Irlanda del Nord
   japanese: Kitaairurando
   latvian: Ziemeļirija
   lithuanian: Šiaures Airija
-  norwegian: .nan
+  norwegian: Nord Irland
   polish: Irlandia Północna
   portuguese: Irlanda do Norte
   romanian: Irlanda de Nord
@@ -3694,7 +3694,7 @@
   bulgarian: Severoshotlandska planinska zemya
   chinese: Sugelangaodi
   czech: Skotská vysočina
-  danish: .nan
+  danish: Det Skotske Højland
   dutch: Schotse Hooglanden
   english: Scottish Highlands
   estonian: Põhja-Šoti mägismaa
@@ -3702,13 +3702,13 @@
   french: Montagnes Écossaises
   german: Nord-West-Schottland
   greek: Scottish Highlands
-  hindi: .nan
+  hindi: Skotish Parvateey Kshetr
   hungarian: Skót-felföld
   italian: Gli Altipiani
   japanese: Hairando chihō
   latvian: Scottish Highlands
   lithuanian: Škotijos aukštumos
-  norwegian: .nan
+  norwegian: Det Skotske Høylandet
   polish: Highlands
   portuguese: Terras Altas
   romanian: Scottish Highlands
@@ -3725,7 +3725,7 @@
   bulgarian: Lothian
   chinese: Luoxian
   czech: Lothian
-  danish: .nan
+  danish: Lothian
   dutch: Lothian
   english: Lothian
   estonian: Lothian
@@ -3733,13 +3733,13 @@
   french: Lothian
   german: Süd-Ost-Schottland
   greek: Lothian
-  hindi: .nan
+  hindi: Lothiyan
   hungarian: Lothian
   italian: Lotania
   japanese: Rōjian
   latvian: Lothian
   lithuanian: Lodianas
-  norwegian: .nan
+  norwegian: Lothian
   polish: Lothian
   portuguese: Lothian
   romanian: Lothian
@@ -3756,7 +3756,7 @@
   bulgarian: Uels
   chinese: Weiersi
   czech: Wales
-  danish: .nan
+  danish: Wales
   dutch: Wales
   english: Wales
   estonian: Wales
@@ -3764,13 +3764,13 @@
   french: Pays de Galles
   german: Walchen
   greek: Oyalia
-  hindi: .nan
+  hindi: Vels
   hungarian: Wales
   italian: Galles
   japanese: Uēruzu
   latvian: Velsa
   lithuanian: Velsas
-  norwegian: .nan
+  norwegian: Wales
   polish: Walia
   portuguese: País de Gales
   romanian: Țara Galilor
@@ -3787,7 +3787,7 @@
   bulgarian: Yugozapadna angliya
   chinese: Xinanyinggelan
   czech: Jihozápadní Anglie
-  danish: .nan
+  danish: South West England
   dutch: Zuid-West Engeland
   english: South-West England
   estonian: Edela-Inglismaa
@@ -3795,13 +3795,13 @@
   french: Cornouallies
   german: Kornwalen
   greek: South-West England
-  hindi: .nan
+  hindi: Disha
   hungarian: South West England
   italian: Sud Ovest
   japanese: Sausu uesuto ingurando
   latvian: Dienvidrietumanglija
   lithuanian: Pietvakarių Anglija
-  norwegian: .nan
+  norwegian: Sør Vest England
   polish: South West England
   portuguese: Sudoeste da Inglaterra
   romanian: South West England
@@ -3818,7 +3818,7 @@
   bulgarian: Gotland
   chinese: Gedelandao
   czech: Gotland
-  danish: .nan
+  danish: Gotland
   dutch: Gotland
   english: Gotland
   estonian: Ojamaa
@@ -3826,13 +3826,13 @@
   french: Gotland
   german: Gotland
   greek: Gkotlant
-  hindi: .nan
+  hindi: Gotalaind
   hungarian: Gotland
   italian: Gotlandia
   japanese: Gottorando-jima
   latvian: Gotlande
   lithuanian: Gotlandas
-  norwegian: .nan
+  norwegian: Gotland
   polish: Gotlandia
   portuguese: Gotlândia
   romanian: Gotland
@@ -3849,7 +3849,7 @@
   bulgarian: East anglia
   chinese: Donganggeliya
   czech: East Anglia
-  danish: .nan
+  danish: Kongeriget East Anglia
   dutch: Oost Anglië
   english: East Anglia
   estonian: East Anglia
@@ -3857,13 +3857,13 @@
   french: Est-Anglie
   german: Ost-Anglen
   greek: East Anglia
-  hindi: .nan
+  hindi: Poorvee Briten
   hungarian: East Anglia
   italian: Anglia orientale
   japanese: Īsuto anguria
   latvian: East Anglia
   lithuanian: East Anglia
-  norwegian: .nan
+  norwegian: East Anglia
   polish: Anglia Wschodnia
   portuguese: East Anglia
   romanian: East Anglia
@@ -3911,7 +3911,7 @@
   bulgarian: Saseks
   chinese: Sasaikesijun
   czech: Sussex
-  danish: .nan
+  danish: Sussex
   dutch: Sussex
   english: Sussex
   estonian: Sussex
@@ -3919,13 +3919,13 @@
   french: Sudaige
   german: Südsachsen
   greek: Sassex
-  hindi: .nan
+  hindi: Saseks
   hungarian: Sussex
   italian: Cantia
   japanese: Sasekkusu
   latvian: Sussex
   lithuanian: Sussex
-  norwegian: .nan
+  norwegian: Sussex
   polish: Sussex
   portuguese: Sussex
   romanian: Sussex
@@ -3942,7 +3942,7 @@
   bulgarian: West midlands
   chinese: West midlands
   czech: West Midlands
-  danish: .nan
+  danish: West Midlands
   dutch: West Middenlanden
   english: West Midlands
   estonian: West Midlands
@@ -3950,13 +3950,13 @@
   french: Midlands de l'Ouest
   german: West-Mittelland
   greek: West Midlands
-  hindi: .nan
+  hindi: Vest Midalainds
   hungarian: West Midlands
   italian: Terre di mezzo ovest
   japanese: Uesuto middoranzu
   latvian: West Midlands
   lithuanian: Vakarų Midlandsas
-  norwegian: .nan
+  norwegian: West Midlands
   polish: West Midlands
   portuguese: Midlands Ocidentais
   romanian: West Midlands
@@ -3973,7 +3973,7 @@
   bulgarian: Iyst midlands
   chinese: Dongmidelan
   czech: East Midlands
-  danish: .nan
+  danish: East Midlands
   dutch: Oost Middenlanden
   english: East Midlands
   estonian: East Midlands
@@ -3981,13 +3981,13 @@
   french: Midlands de l'Est
   german: Ost-Mittelland
   greek: East Midlands
-  hindi: .nan
+  hindi: Eest Midalainds
   hungarian: Kelet-Közép-Anglia
   italian: Terre di mezzo est
   japanese: Īsuto middoranzu
   latvian: Austrummidlenda
   lithuanian: Rytų Midlandsas
-  norwegian: .nan
+  norwegian: East Midlands
   polish: East Midlands
   portuguese: Midlands Orientais
   romanian: East Midlands
@@ -4004,7 +4004,7 @@
   bulgarian: Yorkshar
   chinese: Yuekejun
   czech: Yorkshire
-  danish: .nan
+  danish: Yorkshire
   dutch: Yorkshire
   english: Yorkshire
   estonian: Yorkshire
@@ -4012,13 +4012,13 @@
   french: Evyrac
   german: Yorkshire
   greek: Giorksir
-  hindi: .nan
+  hindi: Yorkashaayar
   hungarian: Yorkshire
   italian: Eborachia
   japanese: Yōkushā
   latvian: Jorkšira
   lithuanian: Jorkšyras
-  norwegian: .nan
+  norwegian: Yorkshire
   polish: Yorkshire
   portuguese: Yorkshire
   romanian: Yorkshire
@@ -4035,7 +4035,7 @@
   bulgarian: Nordengland
   chinese: Yingbei
   czech: Northern England
-  danish: .nan
+  danish: Nordengland
   dutch: Noordelijk Engeland
   english: Northern England
   estonian: Northern England
@@ -4043,13 +4043,13 @@
   french: Nortombrie
   german: Nordengland
   greek: Northern England
-  hindi: .nan
+  hindi: Uttaree Inglaind
   hungarian: Northern England
   italian: Inghilterra settentrionale
   japanese: Nōdengēto
   latvian: Northern England
   lithuanian: Šiaures Anglija
-  norwegian: .nan
+  norwegian: Nord England
   polish: Anglia Północna
   portuguese: Norte da Inglaterra
   romanian: Northern England
@@ -4066,7 +4066,7 @@
   bulgarian: Lankashar
   chinese: Lankaixia
   czech: Lancashire
-  danish: .nan
+  danish: Lancashire
   dutch: Lancashire
   english: Lancashire
   estonian: Lancashire
@@ -4074,13 +4074,13 @@
   french: Mancêtre
   german: Lankastscheier
   greek: Lancashire
-  hindi: .nan
+  hindi: Lainkaashir
   hungarian: Lancashire
   italian: Mancunia
   japanese: Rankashā
   latvian: Lankašira
   lithuanian: Lankašyras
-  norwegian: .nan
+  norwegian: Lancashire
   polish: Lancashire
   portuguese: Lancashire
   romanian: Lancashire
@@ -4097,7 +4097,7 @@
   bulgarian: Lanark
   chinese: Lanake
   czech: Lanark
-  danish: .nan
+  danish: Lanark
   dutch: Lanark
   english: Lanark
   estonian: Lanark
@@ -4105,13 +4105,13 @@
   french: Glasgovie
   german: Süd-West-Schottland
   greek: Lanark
-  hindi: .nan
+  hindi: Lainaark
   hungarian: Lanark
   italian: Valentia Ovest
   japanese: Ranāku
   latvian: Lanark
   lithuanian: Lanark
-  norwegian: .nan
+  norwegian: Lanark
   polish: Lanark
   portuguese: Lanark
   romanian: Lanark
@@ -4128,7 +4128,7 @@
   bulgarian: Konaht
   chinese: Kangnuotesheng
   czech: Connacht
-  danish: .nan
+  danish: Connacht
   dutch: Connacht
   english: Connaught
   estonian: Connachti
@@ -4136,13 +4136,13 @@
   french: Le Condaît
   german: Konichtsland
   greek: Konot
-  hindi: .nan
+  hindi: Kanot
   hungarian: Connacht
   italian: Irlanda Orientale
   japanese: Konōto
   latvian: Connaught
   lithuanian: Konachtas
-  norwegian: .nan
+  norwegian: Connaught
   polish: Connacht
   portuguese: Connacht
   romanian: Connaught
@@ -4159,7 +4159,7 @@
   bulgarian: Manstar
   chinese: Mangsitesheng
   czech: Munster
-  danish: .nan
+  danish: Munster
   dutch: Munster
   english: Munster
   estonian: Munsteri
@@ -4167,13 +4167,13 @@
   french: Monterre
   german: Münstein
   greek: Manster
-  hindi: .nan
+  hindi: Munstar
   hungarian: Munster
   italian: Irlanda Meridionale
   japanese: Mansutā
   latvian: Manstera
   lithuanian: Mansteris
-  norwegian: .nan
+  norwegian: Munster
   polish: Munster
   portuguese: Munster
   romanian: Munster
@@ -4190,7 +4190,7 @@
   bulgarian: Abardiynshar
   chinese: Abodingjun
   czech: Aberdeenshire
-  danish: .nan
+  danish: Aberdeenshire
   dutch: Aberdeenshire
   english: Aberdeenshire
   estonian: Aberdeenshire
@@ -4198,13 +4198,13 @@
   french: Aberdonie
   german: Nord-Ost-Schottland
   greek: Aberdeenshire
-  hindi: .nan
+  hindi: Ebardeenashaayar
   hungarian: Aberdeenshire
   italian: Est Caledonia
   japanese: Abadīnshā
   latvian: Aberdeenshire
   lithuanian: Aberdynšyras
-  norwegian: .nan
+  norwegian: Aberdeenshire
   polish: Aberdeenshire
   portuguese: Aberdeenshire
   romanian: Aberdeenshire
@@ -4221,7 +4221,7 @@
   bulgarian: Krim
   chinese: Kelimiya
   czech: Krym
-  danish: .nan
+  danish: Krim
   dutch: Krim
   english: Crimea
   estonian: Krimmi
@@ -4229,13 +4229,13 @@
   french: Crimée
   german: Krim
   greek: Krimaia
-  hindi: .nan
+  hindi: Kreemiya
   hungarian: Krím
   italian: Crimea
   japanese: Kurimiahantō
   latvian: Krima
   lithuanian: Krymas
-  norwegian: .nan
+  norwegian: Krim
   polish: Półwysep Krymski
   portuguese: Crimeia
   romanian: Crimeea
@@ -4252,7 +4252,7 @@
   bulgarian: Skone
   chinese: Sikene
   czech: Scania
-  danish: .nan
+  danish: Skåne
   dutch: Skåne
   english: Scania
   estonian: Skåne
@@ -4260,13 +4260,13 @@
   french: Scanie
   german: Schonen
   greek: Skania
-  hindi: .nan
+  hindi: Skainiya
   hungarian: Skåne tartomány
   italian: Scania
   japanese: Sukōne chihō
   latvian: Scania
   lithuanian: Scania
-  norwegian: .nan
+  norwegian: Scania
   polish: Skania
   portuguese: Escânia
   romanian: Skåne
@@ -4283,7 +4283,7 @@
   bulgarian: Smoland
   chinese: Simolan
   czech: Småland
-  danish: .nan
+  danish: Småland
   dutch: Småland
   english: Småland
   estonian: Småland
@@ -4291,13 +4291,13 @@
   french: Småland
   german: Småland
   greek: Smolant
-  hindi: .nan
+  hindi: Smaarak
   hungarian: Småland tartomány
   italian: Smolandia
   japanese: Sumōrando chihō
   latvian: Småland
   lithuanian: Smolandas
-  norwegian: .nan
+  norwegian: Småland
   polish: Smalandia
   portuguese: Småland
   romanian: Småland
@@ -4314,7 +4314,7 @@
   bulgarian: Västergötland
   chinese: Xiyuetelan
   czech: Västergötland
-  danish: .nan
+  danish: Västergötland
   dutch: Westelijk Gotenland
   english: Västergötland
   estonian: Västergötland
@@ -4322,13 +4322,13 @@
   french: Västergötland
   german: Västergötland
   greek: Dutiko Gkotlant
-  hindi: .nan
+  hindi: Vastairgotland।
   hungarian: Västergötland tartomány
   italian: Gotia Ovest
   japanese: Vuesuteruiētorando chihō
   latvian: Västergötland
   lithuanian: Västergötland
-  norwegian: .nan
+  norwegian: Västergötland
   polish: Västergötland
   portuguese: Västergötland
   romanian: Västergötland
@@ -4345,7 +4345,7 @@
   bulgarian: Svealand
   chinese: Siwei'alan
   czech: Svealand
-  danish: .nan
+  danish: Svealand
   dutch: Svealand
   english: Svealand
   estonian: Svealand
@@ -4353,13 +4353,13 @@
   french: Svealand
   german: Svealand
   greek: Svialant
-  hindi: .nan
+  hindi: Svaialand
   hungarian: Svealand
   italian: Svezia propria
   japanese: Suvuearando
   latvian: Svēlande
   lithuanian: Svealandas
-  norwegian: .nan
+  norwegian: Svealand
   polish: Svealand
   portuguese: Svealand
   romanian: Svealand
@@ -4376,7 +4376,7 @@
   bulgarian: Vestlandet
   chinese: Xinuowei
   czech: Vestlandet
-  danish: .nan
+  danish: Vestlandet
   dutch: Westlanden
   english: Vestlandet
   estonian: Vestlandet
@@ -4384,13 +4384,13 @@
   french: Vestlandet
   german: Westnorwegen
   greek: Dutiki Norvigia
-  hindi: .nan
+  hindi: Pashchimee Norve
   hungarian: Vestlandet
   italian: Norvegia dell'Ovest
   japanese: Vuesutoran
   latvian: Vestlandet
   lithuanian: Vestlandet
-  norwegian: .nan
+  norwegian: Vestlandet
   polish: Vestlandet
   portuguese: Noruega Ocidental
   romanian: Vestlandet
@@ -4407,7 +4407,7 @@
   bulgarian: Trøndelag
   chinese: Telundelagejun
   czech: Trøndelag
-  danish: .nan
+  danish: Trøndelag
   dutch: Trøndelag
   english: Trøndelag
   estonian: Trøndelag
@@ -4415,13 +4415,13 @@
   french: Comté de Trøndelag
   german: Tröndelag
   greek: Trentelagk
-  hindi: .nan
+  hindi: Trondelaag
   hungarian: Trøndelag
   italian: Trudelandia
   japanese: Toronderāgu
   latvian: Trendelāga
   lithuanian: Triondelagas
-  norwegian: .nan
+  norwegian: Trøndelag
   polish: Trøndelag
   portuguese: Trøndelag
   romanian: Trøndelag
@@ -4438,7 +4438,7 @@
   bulgarian: Nord-norge
   chinese: Beinuowei
   czech: Nord-Norge
-  danish: .nan
+  danish: Nord Norge
   dutch: Noordelijk Noorwegen
   english: Nord-Norge
   estonian: Põhja-Norra
@@ -4446,13 +4446,13 @@
   french: Nord-Norge
   german: Nordnorwegen
   greek: Voreia Norvigia
-  hindi: .nan
+  hindi: Uttaree Norve
   hungarian: Észak-Norvégia
   italian: Norvegia del Nord
   japanese: Nōrunoruge
   latvian: Nord-Norge
   lithuanian: Šiaures Norvegija
-  norwegian: .nan
+  norwegian: Nord Norge
   polish: Nord-Norge
   portuguese: Noruega Setentrional
   romanian: Nord-Norge
@@ -4469,7 +4469,7 @@
   bulgarian: Olandski ostrovi
   chinese: Aolan
   czech: Alandy
-  danish: .nan
+  danish: Åland
   dutch: Åland
   english: Åland
   estonian: Ahvenamaa
@@ -4477,13 +4477,13 @@
   french: Åland
   german: Åland
   greek: Ώlant
-  hindi: .nan
+  hindi: Olaind Dveepasamooh
   hungarian: Åland
   italian: Alandia
   japanese: Ōrando shotō
   latvian: Olande
   lithuanian: Alandai
-  norwegian: .nan
+  norwegian: Et Land
   polish: Wyspy Alandzkie
   portuguese: Ilhas Åland
   romanian: Insulele Åland
@@ -4500,7 +4500,7 @@
   bulgarian: Kareliya
   chinese: Qialeilia
   czech: Karjala
-  danish: .nan
+  danish: Karelen
   dutch: Karelië
   english: Karelia
   estonian: Karjala
@@ -4508,14 +4508,14 @@
   french: Karjala
   german: Karelien
   greek: Karelia
-  hindi: .nan
+  hindi: Kaareliya
   hungarian: Karjala
   italian: Carelia
   japanese: Kareria
   latvian: Karjala
   lithuanian: Karjala
-  norwegian: .nan
-  polish: Karjala
+  norwegian: Karelen
+  polish: Karelia
   portuguese: Carélia
   romanian: Karjala
   russian: Karelija
@@ -4531,7 +4531,7 @@
   bulgarian: Salla
   chinese: Sala
   czech: Salla
-  danish: .nan
+  danish: Salla
   dutch: Salla
   english: Salla
   estonian: Salla vald
@@ -4539,13 +4539,13 @@
   french: Salla
   german: Salla
   greek: Salla
-  hindi: .nan
+  hindi: Praarthana Karana
   hungarian: Salla
   italian: Salla
   japanese: Sara
   latvian: Salla
   lithuanian: Salla
-  norwegian: .nan
+  norwegian: Be
   polish: Salla
   portuguese: Salla
   romanian: Salla
@@ -4562,7 +4562,7 @@
   bulgarian: Lapland
   chinese: Lapulan
   czech: Lappi
-  danish: .nan
+  danish: Lapland
   dutch: Lapland
   english: Lapland
   estonian: Lappi
@@ -4570,13 +4570,13 @@
   french: Lappi
   german: Lappland
   greek: Lapland
-  hindi: .nan
+  hindi: Laipalaind
   hungarian: Lappi
   italian: Lapponia
   japanese: Lapland
   latvian: Lappi
   lithuanian: Lappi
-  norwegian: .nan
+  norwegian: Lappland
   polish: Lappi
   portuguese: Lapland
   romanian: Lappi
@@ -4593,7 +4593,7 @@
   bulgarian: Ostrobothnia
   chinese: Boteng
   czech: Pohjanmaa
-  danish: .nan
+  danish: Österbotten
   dutch: Ostrobothnia
   english: Ostrobothnia
   estonian: Pohjanmaa
@@ -4601,13 +4601,13 @@
   french: Pohjanmaa
   german: Österbotten
   greek: Ostrovothnia
-  hindi: .nan
+  hindi: Ostrobothniya
   hungarian: Pohjanmaa
   italian: Ostrobotnia
   japanese: Ostrobothnia
   latvian: Pohjanmaa
   lithuanian: Pohjanmaa
-  norwegian: .nan
+  norwegian: Österbotten
   polish: Pohjanmaa
   portuguese: Ostrobothnia
   romanian: Pohjanmaa
@@ -4624,7 +4624,7 @@
   bulgarian: Savonia
   chinese: Sawoniya
   czech: Savo
-  danish: .nan
+  danish: Savolax
   dutch: Savonia
   english: Savonia
   estonian: Savo
@@ -4632,13 +4632,13 @@
   french: Savo
   german: Savo
   greek: Savonia
-  hindi: .nan
+  hindi: Savoniya
   hungarian: Savo
   italian: Savonia
   japanese: Savonia
   latvian: Savo
   lithuanian: Savo
-  norwegian: .nan
+  norwegian: Savonia
   polish: Savo
   portuguese: Savonia
   romanian: Savo
@@ -4655,7 +4655,7 @@
   bulgarian: Ostschweiz
   chinese: Ruidong
   czech: Eastern Switzerland
-  danish: .nan
+  danish: Øst Switzerland
   dutch: Oostelijk Zwitserland
   english: Eastern Switzerland
   estonian: Eastern Switzerland
@@ -4663,14 +4663,14 @@
   french: Suisse orientale
   german: Ostschweiz
   greek: Eastern Switzerland
-  hindi: .nan
+  hindi: Poorvee Svitjaralaind
   hungarian: Eastern Switzerland
   italian: Svizzera orientale
   japanese: Ostschweiz
   latvian: Eastern Switzerland
   lithuanian: Eastern Switzerland
-  norwegian: .nan
-  polish: Eastern Switzerland
+  norwegian: Øst Sveits
+  polish: Wschodnia Szwajcaria
   portuguese: Eastern Switzerland
   romanian: Eastern Switzerland
   russian: Eastern Switzerland
@@ -4686,7 +4686,7 @@
   bulgarian: Gorna avstriya
   chinese: Shangaodilizhou
   czech: Horní Rakousy
-  danish: .nan
+  danish: Oberösterreich
   dutch: Opper-Oostenrijk
   english: Upper Austria
   estonian: Ülem-Austria
@@ -4694,13 +4694,13 @@
   french: Haute-Autriche
   german: Oberösterreich
   greek: Άno Austria
-  hindi: .nan
+  hindi: Ooparee Ostriya
   hungarian: Felső-Ausztria
   italian: Alta Austria
   japanese: Ōbāesutāraihi shū
   latvian: Augšaustrija
   lithuanian: Aukštutine Austrija
-  norwegian: .nan
+  norwegian: Øvre Østerrike
   polish: Górna Austria
   portuguese: Alta Áustria
   romanian: Austria Superioară
@@ -4717,7 +4717,7 @@
   bulgarian: Tirol
   chinese: Diluo'er
   czech: Tyrol
-  danish: .nan
+  danish: Tyrol
   dutch: Tirol
   english: Tyrol
   estonian: Tyrol
@@ -4725,13 +4725,13 @@
   french: Tyrol
   german: Tirol
   greek: Tirolo
-  hindi: .nan
+  hindi: Taayarol
   hungarian: Tirol
   italian: Tirolo
   japanese: Chiroru
   latvian: Tyrol
   lithuanian: Tirolis
-  norwegian: .nan
+  norwegian: Tyrol
   polish: Tyrol
   portuguese: Tirol
   romanian: Tirol
@@ -4748,7 +4748,7 @@
   bulgarian: Alfyold
   chinese: Xiongyali dapingyuan
   czech: Velká dunajská nížina
-  danish: .nan
+  danish: Store Ungarske Slette
   dutch: Grote Hongaarse Laagvlakte
   english: Alföld
   estonian: Alföld
@@ -4756,13 +4756,13 @@
   french: Alföld
   german: Niederungarn
   greek: Alföld
-  hindi: .nan
+  hindi: Maidaan
   hungarian: Alföld
   italian: Bassa Ungheria
   japanese: Hangarī taiheigen
   latvian: Alföld
   lithuanian: Alfeldas
-  norwegian: .nan
+  norwegian: Vanlig
   polish: Wielka Nizina Węgierska
   portuguese: Grande Planície Húngara
   romanian: Marea Câmpie Ungară
@@ -4779,7 +4779,7 @@
   bulgarian: Dunantul
   chinese: Waiduonao
   czech: Zadunají
-  danish: .nan
+  danish: Transdanubia
   dutch: Transdanubië
   english: Transdanubia
   estonian: Dunántúl
@@ -4787,13 +4787,13 @@
   french: Transdanubie
   german: Transdanubien
   greek: Uperdoynavia
-  hindi: .nan
+  hindi: Traansadanyoobiya
   hungarian: Dunántúl
   italian: Transdanubia
   japanese: Toransudansu
   latvian: Transdanubia
   lithuanian: Transdanubia
-  norwegian: .nan
+  norwegian: Transdanubia
   polish: Kraj Zadunajski
   portuguese: Transdanubia
   romanian: Transdanubia
@@ -4810,7 +4810,7 @@
   bulgarian: Kalabriya
   chinese: Qialabuliya
   czech: Kalábrie
-  danish: .nan
+  danish: Calabrien
   dutch: Calabrië
   english: Calabria
   estonian: Calabria
@@ -4818,13 +4818,13 @@
   french: Calabre
   german: Kalabrien
   greek: Kalavria
-  hindi: .nan
+  hindi: Kaalaabriya
   hungarian: Calabria
   italian: Calabria
   japanese: Karaburia-shū
   latvian: Kalabrija
   lithuanian: Kalabrija
-  norwegian: .nan
+  norwegian: Calabria
   polish: Kalabria
   portuguese: Calábria
   romanian: Calabria
@@ -4841,7 +4841,7 @@
   bulgarian: Abrutso
   chinese: Abuluzuo
   czech: Abruzzo
-  danish: .nan
+  danish: Abruzzo
   dutch: Abruzzen
   english: Abruzzo
   estonian: Abruzzo
@@ -4849,13 +4849,13 @@
   french: Abruzzes
   german: Abruzzen
   greek: Abroytso
-  hindi: .nan
+  hindi: Egreestoso
   hungarian: Abruzzo
   italian: Abruzzo
   japanese: Aburuttsuo-shū
   latvian: Abruco
   lithuanian: Abrucai
-  norwegian: .nan
+  norwegian: Abruzzo
   polish: Abruzja
   portuguese: Abruzos
   romanian: Abruzzo
@@ -4872,7 +4872,7 @@
   bulgarian: Piemont
   chinese: Pi'aimengte
   czech: Piemont
-  danish: .nan
+  danish: Piemonte
   dutch: Piëmont
   english: Piedmont
   estonian: Piemonte
@@ -4880,13 +4880,13 @@
   french: Piémont
   german: Piemont
   greek: Pedemontio
-  hindi: .nan
+  hindi: Piaidmont
   hungarian: Piemont
   italian: Piemonte
   japanese: Piemonte-shū
   latvian: Pjemonta
   lithuanian: Pjemontas
-  norwegian: .nan
+  norwegian: Piemonte
   polish: Piemont
   portuguese: Piemonte
   romanian: Piemont
@@ -4903,7 +4903,7 @@
   bulgarian: Lombardiya
   chinese: Lunbadi
   czech: Lombardie
-  danish: .nan
+  danish: Lombardiet
   dutch: Lombardije
   english: Lombardy
   estonian: Lombardia
@@ -4911,13 +4911,13 @@
   french: Lombardie
   german: Lombardei
   greek: Lomvardia
-  hindi: .nan
+  hindi: Lombaardee
   hungarian: Lombardia
   italian: Lombardia
   japanese: Ronbarudia-shū
   latvian: Lombardija
   lithuanian: Lombardija
-  norwegian: .nan
+  norwegian: Lombardia
   polish: Lombardia
   portuguese: Lombardia
   romanian: Lombardia
@@ -4934,7 +4934,7 @@
   bulgarian: Veneto
   chinese: Weinituo
   czech: Benátsko
-  danish: .nan
+  danish: Veneto
   dutch: Veneto
   english: Veneto
   estonian: Veneto
@@ -4942,13 +4942,13 @@
   french: Vénétie
   german: Venetien
   greek: Veneto
-  hindi: .nan
+  hindi: Vainato
   hungarian: Veneto
   italian: Veneto
   japanese: Vueneto-shū
   latvian: Veneto
   lithuanian: Venetas
-  norwegian: .nan
+  norwegian: Veneto
   polish: Wenecja Euganejska
   portuguese: Vêneto
   romanian: Veneto
@@ -4965,7 +4965,7 @@
   bulgarian: Emiliya-romanya
   chinese: Aimiliya-luomanie
   czech: Emilia-Romagna
-  danish: .nan
+  danish: Emilia Romagna
   dutch: Emilia-Romagna
   english: Emilia Romagna
   estonian: Emilia Romagna
@@ -4973,13 +4973,13 @@
   french: Émilie-Romagne
   german: Emilia-Romagna
   greek: Emilia-Romania
-  hindi: .nan
+  hindi: Emeeliya Romaana
   hungarian: Emilia-Romagna
   italian: Emilia-Romagna
   japanese: Emiria romānya shū
   latvian: Emilija-Romanja
   lithuanian: Emilija-Romanija
-  norwegian: .nan
+  norwegian: Emilia Romagna
   polish: Emilia-Romania
   portuguese: Emília-Romanha
   romanian: Emilia-Romagna
@@ -4996,7 +4996,7 @@
   bulgarian: Toskana
   chinese: Tuosiqiana
   czech: Toskánsko
-  danish: .nan
+  danish: Toscana
   dutch: Toscane
   english: Tuscany
   estonian: Toscana
@@ -5004,13 +5004,13 @@
   french: Toscane
   german: Toskana
   greek: Toskani
-  hindi: .nan
+  hindi: Taskanee
   hungarian: Toszkána
   italian: Toscana
   japanese: Tosukāna shū
   latvian: Toskāna
   lithuanian: Toskana
-  norwegian: .nan
+  norwegian: Toscana
   polish: Toskania
   portuguese: Toscana
   romanian: Toscana
@@ -5027,7 +5027,7 @@
   bulgarian: Zara
   chinese: Zhala
   czech: Zara
-  danish: .nan
+  danish: Zara
   dutch: Zara
   english: Zara
   estonian: Zara
@@ -5035,13 +5035,13 @@
   french: Zara
   german: Zara
   greek: Zara
-  hindi: .nan
+  hindi: Zaara
   hungarian: Zara
   italian: Zara
   japanese: Zara
   latvian: Zara
   lithuanian: Zara
-  norwegian: .nan
+  norwegian: Zara
   polish: Zara
   portuguese: Zara
   romanian: Zara
@@ -5058,7 +5058,7 @@
   bulgarian: Dodekanezi
   chinese: Shi'er qundao
   czech: Dodekany
-  danish: .nan
+  danish: Dodekaneserne
   dutch: Dodekanesos
   english: Dodecanese
   estonian: Dodekaneesid
@@ -5066,13 +5066,13 @@
   french: Dodécanèse
   german: Dodekanes
   greek: Dodekanisa
-  hindi: .nan
+  hindi: Dodaichanaisai
   hungarian: Dodekanészosz
   italian: Dodecaneso
   japanese: Dodekanesushotō
   latvian: Dodekanesa
   lithuanian: Dodekanesas
-  norwegian: .nan
+  norwegian: Dodekanesisk
   polish: Dodekanez
   portuguese: Dodecaneso
   romanian: Dodecanez
@@ -5089,7 +5089,7 @@
   bulgarian: Kataloniya
   chinese: Jiatailuoniya
   czech: Katalánsko
-  danish: .nan
+  danish: Catalonien
   dutch: Catalonië
   english: Cataluña
   estonian: Kataloonia
@@ -5097,13 +5097,13 @@
   french: Catalogne
   german: Katalonien
   greek: Katalonia
-  hindi: .nan
+  hindi: Kaitaloniya
   hungarian: Katalónia
   italian: Catalogna
   japanese: Katarūnya shū
   latvian: Katalonija
   lithuanian: Katalonija
-  norwegian: .nan
+  norwegian: Catalonia
   polish: Katalonia
   portuguese: Catalunha
   romanian: Catalonia
@@ -5151,7 +5151,7 @@
   bulgarian: Valensiya
   chinese: Walunxiya
   czech: Valencie
-  danish: .nan
+  danish: Valencia
   dutch: Valencia
   english: Valencia
   estonian: Valencia
@@ -5159,13 +5159,13 @@
   french: Valence
   german: Valencia
   greek: Valenthia
-  hindi: .nan
+  hindi: Vaalensiya
   hungarian: Valencia
   italian: Valenza
   japanese: Barenshia
   latvian: Valensija
   lithuanian: Valensija
-  norwegian: .nan
+  norwegian: Valencia
   polish: Walencja
   portuguese: Valência
   romanian: Valencia
@@ -5182,7 +5182,7 @@
   bulgarian: Mursiya
   chinese: Muerxiya
   czech: Murcia
-  danish: .nan
+  danish: Murcia
   dutch: Murcia
   english: Murcia
   estonian: Murcia
@@ -5190,13 +5190,13 @@
   french: Murcie
   german: Murcia
   greek: Moyrthia
-  hindi: .nan
+  hindi: Marsiya
   hungarian: Murcia
   italian: Murcia
   japanese: Murushia
   latvian: Mursija
   lithuanian: Mursija
-  norwegian: .nan
+  norwegian: Murcia
   polish: Murcja
   portuguese: Múrcia
   romanian: Murcia
@@ -5213,7 +5213,7 @@
   bulgarian: Sevilya
   chinese: Saiweiliya
   czech: Sevilla
-  danish: .nan
+  danish: Sevilla
   dutch: Sevilla
   english: Sevilla
   estonian: Sevilla
@@ -5221,13 +5221,13 @@
   french: Séville
   german: Sevilla
   greek: Sevilli
-  hindi: .nan
+  hindi: Sevila
   hungarian: Sevilla
   italian: Siviglia
   japanese: Sebiria
   latvian: Sevilja
   lithuanian: Sevilija
-  norwegian: .nan
+  norwegian: Sevilla
   polish: Sewilla
   portuguese: Sevilha
   romanian: Sevilla
@@ -5244,7 +5244,7 @@
   bulgarian: Estremadura
   chinese: Aisiteleimadula
   czech: Extremadura
-  danish: .nan
+  danish: Extremadura
   dutch: Extremadura
   english: Extremadura
   estonian: Extremadura
@@ -5252,13 +5252,13 @@
   french: Estrémadure
   german: Extremadura
   greek: Estremadoyra
-  hindi: .nan
+  hindi: Anuvartee
   hungarian: Extremadura
   italian: Estremadura
   japanese: Esutoremadoūra shū
   latvian: Estremadura
   lithuanian: Estremadūra
-  norwegian: .nan
+  norwegian: Estremadura
   polish: Estremadura
   portuguese: Estremadura
   romanian: Extremadura
@@ -5275,7 +5275,7 @@
   bulgarian: Galicia
   chinese: Galicia
   czech: Galicia
-  danish: .nan
+  danish: Galicien
   dutch: Galicië
   english: Galicia
   estonian: Galicia
@@ -5283,13 +5283,13 @@
   french: Galicia
   german: Galicia
   greek: Galicia
-  hindi: .nan
+  hindi: Galishiya
   hungarian: Galicia
   italian: Galizia
   japanese: Garishia
   latvian: Galicia
   lithuanian: Galicia
-  norwegian: .nan
+  norwegian: Galicia
   polish: Galicia
   portuguese: Galicia
   romanian: Galicia
@@ -5306,7 +5306,7 @@
   bulgarian: Navara
   chinese: Nawala
   czech: Navarra
-  danish: .nan
+  danish: Navarra
   dutch: Navarra
   english: Navarra
   estonian: Navarra
@@ -5314,13 +5314,13 @@
   french: Communauté forale de Navarre
   german: Navarra
   greek: Navarra
-  hindi: .nan
+  hindi: Navaaraar
   hungarian: Navarra
   italian: Navarra
   japanese: Nabara-shū
   latvian: Navarra
   lithuanian: Navara
-  norwegian: .nan
+  norwegian: Navarra
   polish: Nawarra
   portuguese: Navarra
   romanian: Navarra
@@ -5337,7 +5337,7 @@
   bulgarian: Granada
   chinese: Gelanada
   czech: Granada
-  danish: .nan
+  danish: Granada
   dutch: Granada
   english: Granada
   estonian: Granada
@@ -5345,13 +5345,13 @@
   french: Grenade
   german: Granada
   greek: Granada
-  hindi: .nan
+  hindi: Grenaada
   hungarian: Granada
   italian: Granada
   japanese: Guranada
   latvian: Granada
   lithuanian: Granada
-  norwegian: .nan
+  norwegian: Granada
   polish: Grenada
   portuguese: Granada
   romanian: Granada
@@ -5368,7 +5368,7 @@
   bulgarian: Leon
   chinese: Leon
   czech: Leon
-  danish: .nan
+  danish: Leon
   dutch: Leon
   english: León
   estonian: Leon
@@ -5376,13 +5376,13 @@
   french: León
   german: Leon
   greek: León
-  hindi: .nan
+  hindi: Sinh
   hungarian: León
   italian: Leon
   japanese: Reon
   latvian: Leon
   lithuanian: León
-  norwegian: .nan
+  norwegian: Løve
   polish: Leon
   portuguese: León
   romanian: León
@@ -5399,7 +5399,7 @@
   bulgarian: Ciudad real
   chinese: Lei'a'ercheng
   czech: Ciudad Real
-  danish: .nan
+  danish: Ciudad Real
   dutch: Ciudad Real
   english: Ciudad Real
   estonian: Ciudad Real
@@ -5407,13 +5407,13 @@
   french: Ciudad Real
   german: Ciudad Real
   greek: Ciudad Real
-  hindi: .nan
+  hindi: Asalee Shahar
   hungarian: Ciudad Real
   italian: Ciudad Real
   japanese: Shiudā rearu
   latvian: Ciudad Real
   lithuanian: Siudad Realis
-  norwegian: .nan
+  norwegian: Ekte By
   polish: Ciudad Real
   portuguese: Cidade Real
   romanian: Ciudad Real
@@ -5430,7 +5430,7 @@
   bulgarian: Burgos
   chinese: Buergesi
   czech: Burgos
-  danish: .nan
+  danish: Burgos
   dutch: Boergos
   english: Burgos
   estonian: Burgos
@@ -5438,13 +5438,13 @@
   french: Burgos
   german: Burgos
   greek: Boyrgos
-  hindi: .nan
+  hindi: Bargos
   hungarian: Burgos
   italian: Burgos
   japanese: Burugosu
   latvian: Burgosa
   lithuanian: Burgosas
-  norwegian: .nan
+  norwegian: Burgos
   polish: Burgos
   portuguese: Burgos
   romanian: Burgos
@@ -5461,7 +5461,7 @@
   bulgarian: Balearski ostrovi
   chinese: Balialiqundao
   czech: Baleáry
-  danish: .nan
+  danish: De Baleariske Øer
   dutch: Balearen
   english: Islas Baleares
   estonian: Baleaarid
@@ -5469,13 +5469,13 @@
   french: Îles Baléares
   german: Balearische Inseln
   greek: Valearides Nisoi
-  hindi: .nan
+  hindi: Belierik Dveep Samooh
   hungarian: Baleár-szigetek
   italian: Isole Baleari
   japanese: Barearesu shotō
   latvian: Baleāru Salas
   lithuanian: Balearų salos
-  norwegian: .nan
+  norwegian: Balearene
   polish: Baleary
   portuguese: Baleares
   romanian: Insulele Baleare
@@ -5492,7 +5492,7 @@
   bulgarian: Kanarski ostrovi
   chinese: Jianaliqundao
   czech: Kanárské ostrovy
-  danish: .nan
+  danish: De Kanariske Øer
   dutch: Canarische Eilanden
   english: Islas Canarias
   estonian: Kanaari saared
@@ -5500,13 +5500,13 @@
   french: Îles Canaries
   german: Kanarische Inseln
   greek: Kanaries Nisoi
-  hindi: .nan
+  hindi: Kainaree Dveepasamooh
   hungarian: Kanári-szigetek
   italian: Isole Canarie
   japanese: Kanariashotō
   latvian: Kanāriju Salas
   lithuanian: Kanarų salos
-  norwegian: .nan
+  norwegian: Kanariøyene
   polish: Wyspy Kanaryjskie
   portuguese: Canárias
   romanian: Insulele Canare
@@ -5523,7 +5523,7 @@
   bulgarian: Beja
   chinese: Beja
   czech: Beja
-  danish: .nan
+  danish: Beja
   dutch: Beja
   english: Beja
   estonian: Beja
@@ -5531,13 +5531,13 @@
   french: Beja
   german: Beja
   greek: Beja
-  hindi: .nan
+  hindi: Beja
   hungarian: Beja
   italian: Beja
   japanese: Yamayama
   latvian: Beja
   lithuanian: Beja
-  norwegian: .nan
+  norwegian: Beja
   polish: Beja
   portuguese: Beja
   romanian: Beja
@@ -5554,7 +5554,7 @@
   bulgarian: Porto
   chinese: Bo'ertu
   czech: Porto
-  danish: .nan
+  danish: Porto
   dutch: Porto
   english: Porto
   estonian: Porto
@@ -5562,13 +5562,13 @@
   french: Porto
   german: Porto
   greek: Porto
-  hindi: .nan
+  hindi: Pattan
   hungarian: Porto
   italian: Porto
   japanese: Poruto
   latvian: Portu
   lithuanian: Portas
-  norwegian: .nan
+  norwegian: Porto
   polish: Porto
   portuguese: Porto
   romanian: Porto
@@ -5585,7 +5585,7 @@
   bulgarian: Guarda
   chinese: Gua'erda
   czech: Guarda
-  danish: .nan
+  danish: Guarda Kommune
   dutch: Guarda
   english: Guarda
   estonian: Guarda
@@ -5593,13 +5593,13 @@
   french: Guarda
   german: Guarda
   greek: Guarda
-  hindi: .nan
+  hindi: Nazar
   hungarian: Guarda
   italian: Guarda
   japanese: Mite
   latvian: Guarda
   lithuanian: Guarda
-  norwegian: .nan
+  norwegian: Se
   polish: Guarda
   portuguese: Guarda
   romanian: Guarda
@@ -5616,7 +5616,7 @@
   bulgarian: Krit
   chinese: Kelite
   czech: Kréta
-  danish: .nan
+  danish: Kreta
   dutch: Kreta
   english: Crete
   estonian: Kreeta
@@ -5624,13 +5624,13 @@
   french: Crète
   german: Kreta
   greek: Kriti
-  hindi: .nan
+  hindi: Aalochana
   hungarian: Kréta
   italian: Creta
   japanese: Kureta-jima
   latvian: Krēta
   lithuanian: Kreta
-  norwegian: .nan
+  norwegian: Kreta
   polish: Kreta
   portuguese: Creta
   romanian: Creta
@@ -5647,7 +5647,7 @@
   bulgarian: Republika kipar
   chinese: Saipulesi
   czech: Kypr
-  danish: .nan
+  danish: Cypern
   dutch: Cyprus
   english: Cyprus
   estonian: Küpros
@@ -5655,13 +5655,13 @@
   french: Chypre
   german: Republik Zypern
   greek: Kypros
-  hindi: .nan
+  hindi: Saipras
   hungarian: Ciprusi Köztársaság
   italian: Cipro
   japanese: Kipurosu
   latvian: Kipra
   lithuanian: Kipras
-  norwegian: .nan
+  norwegian: Kypros
   polish: Cypr
   portuguese: Chipre
   romanian: Cipru
@@ -5678,7 +5678,7 @@
   bulgarian: Trakiya
   chinese: Seleisi
   czech: Thrákie
-  danish: .nan
+  danish: Thrakien
   dutch: Thracië
   english: Thrace
   estonian: Traakia
@@ -5686,13 +5686,13 @@
   french: Thrace
   german: Thrakien
   greek: Thraki
-  hindi: .nan
+  hindi: Minat
   hungarian: Trákia
   italian: Tracia
   japanese: Torakia
   latvian: Trāķija
   lithuanian: Trakija
-  norwegian: .nan
+  norwegian: Thrace
   polish: Tracja
   portuguese: Trácia
   romanian: Tracia
@@ -5709,7 +5709,7 @@
   bulgarian: Epir
   chinese: Yibilusidiqu
   czech: Epirus
-  danish: .nan
+  danish: Epeiros
   dutch: Epirus
   english: Epirus
   estonian: Epeiros
@@ -5717,13 +5717,13 @@
   french: Épire
   german: Epizen
   greek: Ήpeiros
-  hindi: .nan
+  hindi: Epas
   hungarian: Epirus
   italian: Epiro
   japanese: Epirasu
   latvian: Epira
   lithuanian: Epyras
-  norwegian: .nan
+  norwegian: Epirus
   polish: Epir
   portuguese: Epirus
   romanian: Epirus
@@ -5740,7 +5740,7 @@
   bulgarian: Pelopones
   chinese: Boluobennisa
   czech: Peloponés
-  danish: .nan
+  danish: Peloponnes
   dutch: Peloponnesos
   english: Peloponnese
   estonian: Peloponnesos
@@ -5748,13 +5748,13 @@
   french: Péloponnèse
   german: Pöwoneß
   greek: Peloponnisos
-  hindi: .nan
+  hindi: Peloponeez
   hungarian: Peloponnészosz
   italian: Peloponneso
   japanese: Peroponesosu hantō
   latvian: Peloponesa
   lithuanian: Peloponesas
-  norwegian: .nan
+  norwegian: Peloponnese
   polish: Peloponez
   portuguese: Peloponeso
   romanian: Peloponez
@@ -5771,7 +5771,7 @@
   bulgarian: Egeyski ostrovi
   chinese: Aiqinhaizhudao
   czech: Egejské ostrovy
-  danish: .nan
+  danish: De Ægæiske Øer
   dutch: Egeïsche Eilanden
   english: Aegean Islands
   estonian: Egeuse saared
@@ -5779,13 +5779,13 @@
   french: Îles Égéennes
   german: Ägäische Inseln
   greek: Nisia Aigaioy Pelagoys
-  hindi: .nan
+  hindi: Ejiyan Dveep
   hungarian: Égei-szigetek
   italian: Isole egee
   japanese: Ēge umi shotō
   latvian: Aegean Islands
   lithuanian: Egejo salos
-  norwegian: .nan
+  norwegian: Egeerhavet
   polish: Wyspy Egejskie
   portuguese: Ilhas Egeias
   romanian: Aegean Islands
@@ -5802,7 +5802,7 @@
   bulgarian: Memel
   chinese: Meimei'er
   czech: Memel
-  danish: .nan
+  danish: Memel
   dutch: Memel
   english: Memel
   estonian: Memel
@@ -5810,13 +5810,13 @@
   french: Memel
   german: Memel
   greek: Memel
-  hindi: .nan
+  hindi: Memal
   hungarian: Memel
   italian: Memel
   japanese: Memel
   latvian: Memel
   lithuanian: Memel
-  norwegian: .nan
+  norwegian: Mem
   polish: Memel
   portuguese: Memel
   romanian: Memel
@@ -5833,7 +5833,7 @@
   bulgarian: Shaulyay
   chinese: Xiaoli'ai
   czech: Šiauliai
-  danish: .nan
+  danish: Šiauliai
   dutch: Schaulen
   english: Siauliai
   estonian: Šiauliai
@@ -5841,13 +5841,13 @@
   french: Šiauliai
   german: Schaulen
   greek: Siaoyliai
-  hindi: .nan
+  hindi: Siyaaliya
   hungarian: Siauliai
   italian: Šiauliai
   japanese: Shaurei
   latvian: Šauļi
   lithuanian: Šiauliai
-  norwegian: .nan
+  norwegian: Siauliai
   polish: Szawle
   portuguese: Siauliai
   romanian: Šiauliai
@@ -5864,7 +5864,7 @@
   bulgarian: Kurland
   chinese: Ku'erlan
   czech: Kurzeme
-  danish: .nan
+  danish: Kurland
   dutch: Koerland
   english: Kurland
   estonian: Kurzeme
@@ -5872,13 +5872,13 @@
   french: Kurzeme
   german: Kurland
   greek: Kurland
-  hindi: .nan
+  hindi: Kurlaind
   hungarian: Kurzeme
   italian: Kurzeme
   japanese: Kūrurando
   latvian: Kurzeme
   lithuanian: Kurzeme
-  norwegian: .nan
+  norwegian: Kurland
   polish: Kurzeme
   portuguese: Kurland
   romanian: Kurzeme
@@ -5895,7 +5895,7 @@
   bulgarian: Tartu
   chinese: Ta'ertu
   czech: Tartu
-  danish: .nan
+  danish: Tartu
   dutch: Tartoe
   english: Tartu
   estonian: Tartu
@@ -5903,13 +5903,13 @@
   french: Tartu
   german: Dorpat
   greek: Tartoy
-  hindi: .nan
+  hindi: Sitaara
   hungarian: Tartu
   italian: Tartu
   japanese: Tarutou
   latvian: Tartu
   lithuanian: Tartu
-  norwegian: .nan
+  norwegian: Tartu
   polish: Tartu
   portuguese: Tartu
   romanian: Tartu
@@ -5926,7 +5926,7 @@
   bulgarian: Odesa
   chinese: Aodesa
   czech: Oděsa
-  danish: .nan
+  danish: Odessa
   dutch: Odessa
   english: Odessa
   estonian: Odessa
@@ -5934,13 +5934,13 @@
   french: Odessa
   german: Bockstadt
   greek: Odissos
-  hindi: .nan
+  hindi: Odisha
   hungarian: Odessza
   italian: Odessa
   japanese: Odessa
   latvian: Odesa
   lithuanian: Odesa
-  norwegian: .nan
+  norwegian: Odessa
   polish: Odessa
   portuguese: Odessa
   romanian: Odesa
@@ -5957,7 +5957,7 @@
   bulgarian: Chernigov
   chinese: Qie'ernigefu
   czech: Černihiv
-  danish: .nan
+  danish: Tjernihiv
   dutch: Tsjernigov
   english: Chernigov
   estonian: Tšernigiv
@@ -5965,13 +5965,13 @@
   french: Tchernihiv
   german: Tschernigau
   greek: Tsernichiv
-  hindi: .nan
+  hindi: Chhairnigov
   hungarian: Csernyihiv
   italian: Černihiv
   japanese: Cherunīhiu
   latvian: Čerņihiva
   lithuanian: Černigovas
-  norwegian: .nan
+  norwegian: Chernigov
   polish: Czernihów
   portuguese: Tchernihiv
   romanian: Cernihiv
@@ -5988,7 +5988,7 @@
   bulgarian: Mozir
   chinese: Mojili
   czech: Mazyr
-  danish: .nan
+  danish: Mazyr
   dutch: Mozir
   english: Mozyr
   estonian: Mazyr
@@ -5996,13 +5996,13 @@
   french: Mazyr
   german: Mosyr
   greek: Mozyr
-  hindi: .nan
+  hindi: Mozir
   hungarian: Mazir
   italian: Mazyr
   japanese: Mazuiru
   latvian: Mazira
   lithuanian: Mozyrius
-  norwegian: .nan
+  norwegian: Mozyr
   polish: Mozyrz
   portuguese: Mazir
   romanian: Mozyr
@@ -6019,7 +6019,7 @@
   bulgarian: Sankt peterburg
   chinese: Shengbidebao
   czech: Petrohrad
-  danish: .nan
+  danish: Sankt Petersborg
   dutch: Sint-Petersburg
   english: Leningrad
   estonian: Peterburi
@@ -6027,13 +6027,13 @@
   french: Saint-Pétersbourg
   german: Ludendorffshafen
   greek: Agia Petroypoli
-  hindi: .nan
+  hindi: Sent Peetarsabarg
   hungarian: Szentpétervár
   italian: San Pietroburgo
   japanese: Sankutopeteruburuku
   latvian: Sanktpēterburga
   lithuanian: Sankt Peterburgas
-  norwegian: .nan
+  norwegian: Leningrad
   polish: Piotrogród
   portuguese: São Petersburgo
   romanian: Sankt Petersburg
@@ -6050,7 +6050,7 @@
   bulgarian: Herson
   chinese: He'ersong
   czech: Cherson
-  danish: .nan
+  danish: Kherson
   dutch: Cherson
   english: Kherson
   estonian: Herson
@@ -6058,13 +6058,13 @@
   french: Kherson
   german: Cherson
   greek: Chersona
-  hindi: .nan
+  hindi: Kherasan
   hungarian: Herszon
   italian: Cherson
   japanese: Heruson
   latvian: Hersona
   lithuanian: Chersonas
-  norwegian: .nan
+  norwegian: Kherson
   polish: Chersoń
   portuguese: Kherson
   romanian: Herson
@@ -6081,7 +6081,7 @@
   bulgarian: Nikolaev
   chinese: Nigulayefu
   czech: Mykolajiv
-  danish: .nan
+  danish: Mykolaiv
   dutch: Mykolajiv
   english: Mykolaiv
   estonian: Mõkolajiv
@@ -6089,13 +6089,13 @@
   french: Mykolaïv
   german: Greuthunger-Nikolaus
   greek: Mikolaiv
-  hindi: .nan
+  hindi: Maikolaiv
   hungarian: Mikolajiv
   italian: Mykolaïv
   japanese: Muikorāiu
   latvian: Mikolajiva
   lithuanian: Mykolajivas
-  norwegian: .nan
+  norwegian: Mykolaiv
   polish: Mikołajów
   portuguese: Mykolaiv
   romanian: Nicolaev
@@ -6112,7 +6112,7 @@
   bulgarian: Vinitsa
   chinese: Wennicha
   czech: Vinnycja
-  danish: .nan
+  danish: Vínnitsja
   dutch: Vinnytsja
   english: Vinnytsia
   estonian: Vinnõtsja
@@ -6120,13 +6120,13 @@
   french: Vinnytsia
   german: Winniza
   greek: Vinitsa
-  hindi: .nan
+  hindi: Rog
   hungarian: Vinnicja
   italian: Vinnycja
   japanese: Vuīn'nuitsuya
   latvian: Vinnica
   lithuanian: Vinycia
-  norwegian: .nan
+  norwegian: Vinnytsia
   polish: Winnica
   portuguese: Vinnytsia
   romanian: Vinița
@@ -6143,7 +6143,7 @@
   bulgarian: Hmelnitski
   chinese: Hemeiliniciji
   czech: Chmelnyckyj
-  danish: .nan
+  danish: Khmelnytskyj
   dutch: Chmelnytsky
   english: Khmelnytskyi
   estonian: Hmelnõtskõi
@@ -6151,13 +6151,13 @@
   french: Khmelnytskyï
   german: Chmelnyzkyj
   greek: Khmelnytskyi
-  hindi: .nan
+  hindi: Khmelnaitskee
   hungarian: Hmelnickij
   italian: Chmel'nyc'kyj
   japanese: Fumerinitsukī
   latvian: Hmeļnicka
   lithuanian: Chmelnyckis
-  norwegian: .nan
+  norwegian: Khmelnytskyi
   polish: Chmielnicki
   portuguese: Khmelnytsky
   romanian: Hmelnîțkîi
@@ -6174,7 +6174,7 @@
   bulgarian: Zaporozhie
   chinese: Zhaboluore
   czech: Záporoží
-  danish: .nan
+  danish: Zaporizjzja
   dutch: Zaporizja
   english: Zaporozhe
   estonian: Zaporižžja
@@ -6182,13 +6182,13 @@
   french: Zaporijjia
   german: Saporoschie
   greek: Zaporizia
-  hindi: .nan
+  hindi: Zaaporeeziya
   hungarian: Zaporizzsja
   italian: Zaporižžja
   japanese: Zaporīja
   latvian: Zaporižja
   lithuanian: Zaporože
-  norwegian: .nan
+  norwegian: Zaporozhye
   polish: Zaporoże
   portuguese: Zaporíjia
   romanian: Zaporijjea
@@ -6205,7 +6205,7 @@
   bulgarian: Zhitomir
   chinese: Rituomier
   czech: Žytomyr
-  danish: .nan
+  danish: Zjytomyr
   dutch: Zjytomyr
   english: Zhytomyr
   estonian: Žõtomõr
@@ -6213,13 +6213,13 @@
   french: Jytomyr
   german: Friedenwald
   greek: Zitomir
-  hindi: .nan
+  hindi: Zaitomir
   hungarian: Zsitomir
   italian: Žytomyr
   japanese: Jitōmiru
   latvian: Žitomira
   lithuanian: Žitomyras
-  norwegian: .nan
+  norwegian: Zhytomyr
   polish: Żytomierz
   portuguese: Jitomir
   romanian: Jîtomîr
@@ -6236,7 +6236,7 @@
   bulgarian: Kiev
   chinese: Jifu
   czech: Kyjev
-  danish: .nan
+  danish: Kijev
   dutch: Kiev
   english: Kiev
   estonian: Kiiev
@@ -6244,13 +6244,13 @@
   french: Kiev
   german: Kiroffo
   greek: Kievo
-  hindi: .nan
+  hindi: Keev
   hungarian: Kijev
   italian: Kiev
   japanese: Kiefu
   latvian: Kijeva
   lithuanian: Kijevas
-  norwegian: .nan
+  norwegian: Kiev
   polish: Kijów
   portuguese: Kiev
   romanian: Kiev
@@ -6267,7 +6267,7 @@
   bulgarian: Cherkasi
   chinese: Qie'erqiase
   czech: Čerkasy
-  danish: .nan
+  danish: Tjerkasy
   dutch: Tsjerkasy
   english: Cherkasy
   estonian: Tšerkassõ
@@ -6275,13 +6275,13 @@
   french: Tcherkassy
   german: Tscherkassen
   greek: Tserkasi
-  hindi: .nan
+  hindi: Phata
   hungarian: Cserkaszi
   italian: Čerkasy
   japanese: Cherukāsui
   latvian: Čerkasi
   lithuanian: Čerkasai
-  norwegian: .nan
+  norwegian: Cherkasy
   polish: Czerkasy
   portuguese: Tcherkássi
   romanian: Cerkasî
@@ -6298,7 +6298,7 @@
   bulgarian: Bobruysk
   chinese: Bobuluyisike
   czech: Babrujsk
-  danish: .nan
+  danish: Babrujsk
   dutch: Babroejsk
   english: Bobruysk
   estonian: Babrujsk
@@ -6306,13 +6306,13 @@
   french: Babrouïsk
   german: Biberach
   greek: Babroyisk
-  hindi: .nan
+  hindi: Bobruisk
   hungarian: Babrujszk
   italian: Babrujsk
   japanese: Baburuisuku
   latvian: Babruiska
   lithuanian: Babruiskas
-  norwegian: .nan
+  norwegian: Bobruisk
   polish: Bobrujsk
   portuguese: Bobruisk
   romanian: Bobruysk
@@ -6329,7 +6329,7 @@
   bulgarian: Kaluga
   chinese: Qialujia
   czech: Kaluga
-  danish: .nan
+  danish: Kaluga
   dutch: Kaloega
   english: Kaluga
   estonian: Kaluga
@@ -6337,13 +6337,13 @@
   french: Kalouga
   german: Kalün
   greek: Kaloygka
-  hindi: .nan
+  hindi: Kaluga
   hungarian: Kaluga
   italian: Kaluga
   japanese: Karūga
   latvian: Kaluga
   lithuanian: Kaluga
-  norwegian: .nan
+  norwegian: Kaluga
   polish: Kaługa
   portuguese: Kaluga
   romanian: Kaluga
@@ -6360,7 +6360,7 @@
   bulgarian: Minsk
   chinese: Mingsike
   czech: Minsk
-  danish: .nan
+  danish: Minsk
   dutch: Minsk
   english: Minsk
   estonian: Minsk
@@ -6368,13 +6368,13 @@
   french: Minsk
   german: Meinha
   greek: Minsk
-  hindi: .nan
+  hindi: Min‍s‍ka
   hungarian: Minszk
   italian: Minsk
   japanese: Minsuku
   latvian: Minska
   lithuanian: Minskas
-  norwegian: .nan
+  norwegian: Minsk
   polish: Mińsk
   portuguese: Minsk
   romanian: Minsk
@@ -6391,7 +6391,7 @@
   bulgarian: Vitebsk
   chinese: Weijiebusike
   czech: Vitebsk
-  danish: .nan
+  danish: Vitebsk
   dutch: Vitebsk
   english: Vitebsk
   estonian: Viciebsk
@@ -6399,13 +6399,13 @@
   french: Vitebsk
   german: Weißenbau
   greek: Vitsebsk
-  hindi: .nan
+  hindi: Vitaibsk
   hungarian: Vicebszk
   italian: Vicebsk
   japanese: Vuītsuepusuku
   latvian: Vitebska
   lithuanian: Vitebskas
-  norwegian: .nan
+  norwegian: Vitebsk
   polish: Witebsk
   portuguese: Vitebsk
   romanian: Vitebsk
@@ -6422,7 +6422,7 @@
   bulgarian: Luga
   chinese: Luga
   czech: Luga
-  danish: .nan
+  danish: Luga
   dutch: Loega
   english: Luga
   estonian: Luga
@@ -6430,13 +6430,13 @@
   french: Luga
   german: Lügen
   greek: Luga
-  hindi: .nan
+  hindi: Jhooth
   hungarian: Luga
   italian: Luga
   japanese: Rūga
   latvian: Luga
   lithuanian: Luga
-  norwegian: .nan
+  norwegian: På
   polish: Luga
   portuguese: Luga
   romanian: Luga
@@ -6453,7 +6453,7 @@
   bulgarian: Pskov
   chinese: Pusikefu
   czech: Pskov
-  danish: .nan
+  danish: Pskov
   dutch: Pskov
   english: Pskov
   estonian: Pihkva
@@ -6461,13 +6461,13 @@
   french: Pskov
   german: Pleskau
   greek: Pskof
-  hindi: .nan
+  hindi: Aavaran
   hungarian: Pszkov
   italian: Pskov
   japanese: Pusukofu
   latvian: Pleskava
   lithuanian: Pskovas
-  norwegian: .nan
+  norwegian: Pskov
   polish: Psków
   portuguese: Pskov
   romanian: Pskov
@@ -6484,7 +6484,7 @@
   bulgarian: Nevel
   chinese: Nevel
   czech: Nevel
-  danish: .nan
+  danish: Nevel
   dutch: Nevel
   english: Nevel
   estonian: Nevel
@@ -6492,13 +6492,13 @@
   french: Nevel
   german: Neu-Wen
   greek: Nevel
-  hindi: .nan
+  hindi: Shikshit
   hungarian: Nevel
   italian: Nevel
   japanese: Kyōiku suru
   latvian: Nevel
   lithuanian: Nevel
-  norwegian: .nan
+  norwegian: Utdanne
   polish: Nevel
   portuguese: Nevel
   romanian: Nevel
@@ -6515,7 +6515,7 @@
   bulgarian: Burgas
   chinese: Buerjiasi
   czech: Burgas
-  danish: .nan
+  danish: Burgas
   dutch: Boergas
   english: Burgas
   estonian: Burgas
@@ -6523,13 +6523,13 @@
   french: Bourgas
   german: Burgas
   greek: Boyrgkas
-  hindi: .nan
+  hindi: Bargaas
   hungarian: Burgasz
   italian: Burgas
   japanese: Buru gasu
   latvian: Burgasa
   lithuanian: Burgasas
-  norwegian: .nan
+  norwegian: Burgas
   polish: Burgas
   portuguese: Burgas
   romanian: Burgas
@@ -6546,7 +6546,7 @@
   bulgarian: Plovdiv
   chinese: Puluofudifu
   czech: Plovdiv
-  danish: .nan
+  danish: Plovdiv
   dutch: Plovdiv
   english: Plovdiv
   estonian: Plovdiv
@@ -6554,13 +6554,13 @@
   french: Plovdiv
   german: Plowdiw
   greek: Filippoypoli
-  hindi: .nan
+  hindi: Plovadiv
   hungarian: Plovdiv
   italian: Plovdiv
   japanese: Purovudifu
   latvian: Plovdiva
   lithuanian: Plovdivas
-  norwegian: .nan
+  norwegian: Plovdiv
   polish: Płowdiw
   portuguese: Plovdiv
   romanian: Plovdiv
@@ -6577,7 +6577,7 @@
   bulgarian: Murmansk
   chinese: Mo'ermansike
   czech: Murmansk
-  danish: .nan
+  danish: Murmansk
   dutch: Moermansk
   english: Murmansk
   estonian: Murmansk
@@ -6585,13 +6585,13 @@
   french: Mourmansk
   german: Murmau
   greek: Moyrmansk
-  hindi: .nan
+  hindi: Moranjak
   hungarian: Murmanszk
   italian: Murmansk
   japanese: Murumansuku
   latvian: Murmanska
   lithuanian: Murmanskas
-  norwegian: .nan
+  norwegian: Murmansk
   polish: Murmańsk
   portuguese: Murmansque
   romanian: Murmansk
@@ -6608,7 +6608,7 @@
   bulgarian: Arhangelsk
   chinese: A'erhange'ersike
   czech: Archangelsk
-  danish: .nan
+  danish: Arkhangelsk
   dutch: Archangelsk
   english: Arkhangelsk
   estonian: Arhangelsk
@@ -6616,13 +6616,13 @@
   french: Arkhangelsk
   german: Arkanstadt
   greek: Archangelsk
-  hindi: .nan
+  hindi: Asairansgsk
   hungarian: Arhangelszk
   italian: Arcangelo
   japanese: Aruhangerisuku
   latvian: Arhangeļska
   lithuanian: Archangelskas
-  norwegian: .nan
+  norwegian: Arkhangelsk
   polish: Archangielsk
   portuguese: Arcangel
   romanian: Arhanghelsk
@@ -6639,7 +6639,7 @@
   bulgarian: Onega
   chinese: Aoneijia
   czech: Onega
-  danish: .nan
+  danish: Onega
   dutch: Onega
   english: Onega
   estonian: Onega
@@ -6647,13 +6647,13 @@
   french: Onega
   german: Onawich
   greek: Onegka
-  hindi: .nan
+  hindi: Onega Jheel
   hungarian: Onyega
   italian: Onega
   japanese: Gun ga
   latvian: Onega
   lithuanian: Onega
-  norwegian: .nan
+  norwegian: Onega
   polish: Onega
   portuguese: Onega
   romanian: Onega
@@ -6670,7 +6670,7 @@
   bulgarian: Olonez
   chinese: Aoluonieci
   czech: Oloněc
-  danish: .nan
+  danish: Olonets
   dutch: Olonets
   english: Olonets
   estonian: Aunus
@@ -6678,13 +6678,13 @@
   french: Olonets
   german: Onoletz
   greek: Olonets
-  hindi: .nan
+  hindi: Olanets
   hungarian: Olonets
   italian: Olonec
   japanese: Oronetsu
   latvian: Oloņeca
   lithuanian: Olonecas
-  norwegian: .nan
+  norwegian: Olonets
   polish: Ołoniec
   portuguese: Olonets
   romanian: Olonets
@@ -6701,7 +6701,7 @@
   bulgarian: Volgograd
   chinese: Fuerjiagele
   czech: Volgograd
-  danish: .nan
+  danish: Volgograd
   dutch: Volgastad
   english: Stalingrad
   estonian: Volgograd
@@ -6709,13 +6709,13 @@
   french: Volgograd
   german: Hindenburg
   greek: Volgkogkrant
-  hindi: .nan
+  hindi: Volgograad
   hungarian: Volgográd
   italian: Volgograd
   japanese: Vuorugogurādo
   latvian: Volgograda
   lithuanian: Volgogradas
-  norwegian: .nan
+  norwegian: Stalingrad
   polish: Wołgograd
   portuguese: Volgogrado
   romanian: Volgograd
@@ -6732,7 +6732,7 @@
   bulgarian: Rostov
   chinese: Luosituofu
   czech: Rostov
-  danish: .nan
+  danish: Rostov
   dutch: Rostov
   english: Rostov
   estonian: Rostov
@@ -6740,13 +6740,13 @@
   french: Rostov Veliki
   german: Rostow
   greek: Rostof
-  hindi: .nan
+  hindi: Rostov
   hungarian: Rosztov
   italian: Rostov Velikij
   japanese: Rosutofu
   latvian: Rostova
   lithuanian: Rostovas
-  norwegian: .nan
+  norwegian: Rostov
   polish: Rostów
   portuguese: Rostóvia
   romanian: Rostov
@@ -6763,7 +6763,7 @@
   bulgarian: Moskva
   chinese: Mosike
   czech: Moskva
-  danish: .nan
+  danish: Moskva
   dutch: Moskou
   english: Moscow
   estonian: Moskva
@@ -6771,13 +6771,13 @@
   french: Moscou
   german: Moskau
   greek: Moscha
-  hindi: .nan
+  hindi: Maasko
   hungarian: Moszkva
   italian: Mosca
   japanese: Mosukuwa
   latvian: Maskava
   lithuanian: Maskva
-  norwegian: .nan
+  norwegian: Moskva
   polish: Moskwa
   portuguese: Moscou
   romanian: Moscova
@@ -6794,7 +6794,7 @@
   bulgarian: Kursk
   chinese: Kuersike
   czech: Kursk
-  danish: .nan
+  danish: Kursk
   dutch: Koersk
   english: Kursk
   estonian: Kursk
@@ -6802,13 +6802,13 @@
   french: Koursk
   german: Kaisenberg
   greek: Koyrsk
-  hindi: .nan
+  hindi: Kursk
   hungarian: Kurszk
   italian: Kursk
   japanese: Kurusuku
   latvian: Kurska
   lithuanian: Kurskas
-  norwegian: .nan
+  norwegian: Kursk
   polish: Kursk
   portuguese: Kursk
   romanian: Kursk
@@ -6825,7 +6825,7 @@
   bulgarian: Harkov
   chinese: Ha'erkefu
   czech: Charkov
-  danish: .nan
+  danish: Kharkiv
   dutch: Charkov
   english: Kharkov
   estonian: Harkiv
@@ -6833,13 +6833,13 @@
   french: Kharkiv
   german: Karkau
   greek: Charkovo
-  hindi: .nan
+  hindi: Khaarakiv
   hungarian: Harkov
   italian: Charkiv
   japanese: Harukiu
   latvian: Harkova
   lithuanian: Charkovas
-  norwegian: .nan
+  norwegian: Kharkov
   polish: Charków
   portuguese: Carcóvia
   romanian: Harkov
@@ -6856,7 +6856,7 @@
   bulgarian: Orel
   chinese: Orel
   czech: Orel
-  danish: .nan
+  danish: Orjol
   dutch: Orel
   english: Orel
   estonian: Orel
@@ -6864,14 +6864,14 @@
   french: Orel
   german: Örel
   greek: Orel
-  hindi: .nan
+  hindi: Seep
   hungarian: Orel
   italian: Orel
   japanese: Oryōru
   latvian: Orel
   lithuanian: Orel
-  norwegian: .nan
-  polish: Orel
+  norwegian: Orel
+  polish: Orzeł
   portuguese: Orel
   romanian: Orel
   russian: Oryol
@@ -6887,7 +6887,7 @@
   bulgarian: Tula
   chinese: Tula
   czech: Tula
-  danish: .nan
+  danish: Tula
   dutch: Toela
   english: Tula
   estonian: Tula
@@ -6895,13 +6895,13 @@
   french: Tula
   german: Tülenshafen
   greek: Tula
-  hindi: .nan
+  hindi: Aap
   hungarian: Tula
   italian: Tula
   japanese: Tula
   latvian: Tula
   lithuanian: Tula
-  norwegian: .nan
+  norwegian: Tula
   polish: Tula
   portuguese: Tula
   romanian: Tula
@@ -6918,7 +6918,7 @@
   bulgarian: Bryansk
   chinese: Buliangsike
   czech: Brjansk
-  danish: .nan
+  danish: Brjansk
   dutch: Brjansk
   english: Bryansk
   estonian: Brjansk
@@ -6926,13 +6926,13 @@
   french: Briansk
   german: Waldemarstadt
   greek: Briansk
-  hindi: .nan
+  hindi: Braansk
   hungarian: Brjanszk
   italian: Brjansk
   japanese: Buryansuku
   latvian: Brjanska
   lithuanian: Brianskas
-  norwegian: .nan
+  norwegian: Bryansk
   polish: Briańsk
   portuguese: Briansk
   romanian: Breansk
@@ -6949,7 +6949,7 @@
   bulgarian: Sumi
   chinese: Sumei
   czech: Sumy
-  danish: .nan
+  danish: Sumy
   dutch: Soemy
   english: Sumy
   estonian: Sumõ
@@ -6957,13 +6957,13 @@
   french: Soumy
   german: Sumy
   greek: Soymi
-  hindi: .nan
+  hindi: Pashu
   hungarian: Szumi
   italian: Sumy
   japanese: Sūmui
   latvian: Sumi
   lithuanian: Sumai
-  norwegian: .nan
+  norwegian: Summy
   polish: Sumy
   portuguese: Sumy
   romanian: Sumî
@@ -6980,7 +6980,7 @@
   bulgarian: Dnipro
   chinese: Dinieboluo
   czech: Dnipro
-  danish: .nan
+  danish: Dnipro
   dutch: Dnipro
   english: Dnipropetrovsk
   estonian: Dnipro
@@ -6988,13 +6988,13 @@
   french: Dnipro
   german: Dnipropetrovsk
   greek: Ntnipro
-  hindi: .nan
+  hindi: Neepar
   hungarian: Dnyipro
   italian: Dnipro
   japanese: Donipuro
   latvian: Dnipro
   lithuanian: Dnipras
-  norwegian: .nan
+  norwegian: Dnipropetrovsk
   polish: Dniepr
   portuguese: Dnipro
   romanian: Dnipro
@@ -7011,7 +7011,7 @@
   bulgarian: Donetsk
   chinese: Dunniecike
   czech: Doněck
-  danish: .nan
+  danish: Donetsk
   dutch: Donetsk
   english: Stalino
   estonian: Donetsk
@@ -7019,13 +7019,13 @@
   french: Donetsk
   german: Donezstadt
   greek: Ntonetsk
-  hindi: .nan
+  hindi: Staalino
   hungarian: Doneck
   italian: Donec'k
   japanese: Donetsuiku
   latvian: Doņecka
   lithuanian: Doneckas
-  norwegian: .nan
+  norwegian: Stalino
   polish: Donieck
   portuguese: Donetsk
   romanian: Donețk
@@ -7042,7 +7042,7 @@
   bulgarian: Lugansk
   chinese: Lugansike
   czech: Luhansk
-  danish: .nan
+  danish: Luhansk
   dutch: Loehansk
   english: Voroshilovgrad
   estonian: Lugansk
@@ -7050,13 +7050,13 @@
   french: Louhansk
   german: Lugansk
   greek: Loychansk
-  hindi: .nan
+  hindi: Voroshilovgrad।
   hungarian: Luhanszk
   italian: Luhans'k
   japanese: Ruhānshiku
   latvian: Luhanska
   lithuanian: Luhanskas
-  norwegian: .nan
+  norwegian: Voroshilovgrad
   polish: Ługańsk
   portuguese: Luhansk
   romanian: Luhansk
@@ -7073,7 +7073,7 @@
   bulgarian: Azerbaydzhan
   chinese: Asaibaijiang
   czech: Ázerbájdžán
-  danish: .nan
+  danish: Aserbajdsjan
   dutch: Azerbeidzjan
   english: Azerbaijan
   estonian: Aserbaidžaan
@@ -7081,13 +7081,13 @@
   french: Azerbaïdjan
   german: Öland
   greek: Azerbaitzan
-  hindi: .nan
+  hindi: Azarabaijaan
   hungarian: Azerbajdzsán
   italian: Azerbaigian
   japanese: Azerubaijan
   latvian: Azerbaidžāna
   lithuanian: Azerbaidžanas
-  norwegian: .nan
+  norwegian: Aserbajdsjan
   polish: Azerbejdżan
   portuguese: Azerbaijão
   romanian: Azerbaidjan
@@ -7104,7 +7104,7 @@
   bulgarian: Armeniya
   chinese: Yameiniya
   czech: Arménie
-  danish: .nan
+  danish: Armenien
   dutch: Armenië
   english: Armenia
   estonian: Armeenia
@@ -7112,13 +7112,13 @@
   french: Arménie
   german: Armenianland
   greek: Armenia
-  hindi: .nan
+  hindi: Aarmeeniya
   hungarian: Örményország
   italian: Armenia
   japanese: Arumenia
   latvian: Armēnija
   lithuanian: Armenija
-  norwegian: .nan
+  norwegian: Armenia
   polish: Armenia
   portuguese: Arménia
   romanian: Armenia
@@ -7135,7 +7135,7 @@
   bulgarian: Georgia
   chinese: Qiaozhiya
   czech: Georgia
-  danish: .nan
+  danish: Georgia
   dutch: Georgië
   english: Georgia
   estonian: Georgia
@@ -7143,14 +7143,14 @@
   french: Georgia
   german: Georgien
   greek: Georgia
-  hindi: .nan
+  hindi: Jorjiya
   hungarian: Georgia
   italian: Georgia
   japanese: Jōjia
   latvian: Džordžija
   lithuanian: Georgia
-  norwegian: .nan
-  polish: Georgia
+  norwegian: Georgia
+  polish: Gruzja
   portuguese: Geórgia
   romanian: Georgia
   russian: Gruziya
@@ -7166,7 +7166,7 @@
   bulgarian: Dagestan
   chinese: Dajisitangongheguo
   czech: Dagestán
-  danish: .nan
+  danish: Republikken Dagestan
   dutch: Dagestan
   english: Dagestan
   estonian: Dagestan
@@ -7174,13 +7174,13 @@
   french: Daghestan
   german: Dagenstadt
   greek: Dimokratia toy ntagkestan
-  hindi: .nan
+  hindi: Daagistaan
   hungarian: Dagesztán
   italian: Daghestan
   japanese: Dagesutankyōwakoku
   latvian: Dagestāna
   lithuanian: Dagestanas
-  norwegian: .nan
+  norwegian: Dagestan
   polish: Dagestan
   portuguese: Daguestão
   romanian: Daghestan
@@ -7197,7 +7197,7 @@
   bulgarian: Kavkaz
   chinese: Gaojiasuoshanmai
   czech: Kavkaz
-  danish: .nan
+  danish: Kaukasus
   dutch: Kaukasus
   english: Caucasus Mountains
   estonian: Kaukasus
@@ -7205,13 +7205,13 @@
   french: Géographie du Caucase
   german: Kaukasien
   greek: Kaykasos
-  hindi: .nan
+  hindi: Kaakeshas Parvat Shrnkhala
   hungarian: Kaukázus
   italian: Catena del Caucaso
   japanese: Kōkasasu sanmyaku
   latvian: Kaukāzs
   lithuanian: Kaukazo kalnai
-  norwegian: .nan
+  norwegian: Caucasus Mountains
   polish: Kaukaz
   portuguese: Cordilheira do Cáucaso
   romanian: Munții Caucaz
@@ -7228,7 +7228,7 @@
   bulgarian: Krasnodar
   chinese: Kelasinuoda'er
   czech: Krasnodar
-  danish: .nan
+  danish: Krasnodar
   dutch: Krasnodar
   english: Krasnodar
   estonian: Krasnodar
@@ -7236,13 +7236,13 @@
   french: Krasnodar
   german: Wilhelmstadt
   greek: Krasnontar
-  hindi: .nan
+  hindi: Kraasnodaar
   hungarian: Krasznodar
   italian: Krasnodar
   japanese: Kurasunodāru
   latvian: Krasnodara
   lithuanian: Krasnodaras
-  norwegian: .nan
+  norwegian: Krasnodar
   polish: Krasnodar
   portuguese: Krasnodar
   romanian: Krasnodar
@@ -7259,7 +7259,7 @@
   bulgarian: Stavropol
   chinese: Sitafuluobo'er
   czech: Stavropol
-  danish: .nan
+  danish: Stavropol
   dutch: Stavropol
   english: Stavropol
   estonian: Stavropol
@@ -7267,13 +7267,13 @@
   french: Stavropol
   german: Schtravonheiß
   greek: Stauropol
-  hindi: .nan
+  hindi: Stirupol
   hungarian: Sztavropol
   italian: Stavropol'
   japanese: Sutavuropori
   latvian: Stavropole
   lithuanian: Stavropolis
-  norwegian: .nan
+  norwegian: Stavropol
   polish: Stawropol
   portuguese: Stavropol
   romanian: Stavropol
@@ -7290,7 +7290,7 @@
   bulgarian: Astrahan
   chinese: Asitelahan
   czech: Astrachaň
-  danish: .nan
+  danish: Astrakhan
   dutch: Astrachan
   english: Astrakhan
   estonian: Astrahan
@@ -7298,13 +7298,13 @@
   french: Astrakhan
   german: Letzte-Wolgastadt
   greek: Άstrachan
-  hindi: .nan
+  hindi: Aastraakhaan
   hungarian: Asztrahán
   italian: Astrachan'
   japanese: Asutorahan
   latvian: Astrahaņa
   lithuanian: Astrachane
-  norwegian: .nan
+  norwegian: Astrakhan
   polish: Astrachań
   portuguese: Astracã
   romanian: Astrahan
@@ -7321,7 +7321,7 @@
   bulgarian: Elista
   chinese: Ailisita
   czech: Elista
-  danish: .nan
+  danish: Elista
   dutch: Elista
   english: Elista
   estonian: Elista
@@ -7329,13 +7329,13 @@
   french: Elista
   german: Kalmibahën
   greek: Elista
-  hindi: .nan
+  hindi: Elista
   hungarian: Eliszta
   italian: elista
   japanese: Erisuta
   latvian: Elista
   lithuanian: Elista
-  norwegian: .nan
+  norwegian: Elista
   polish: Elista
   portuguese: Elista
   romanian: Elista
@@ -7352,7 +7352,7 @@
   bulgarian: Volgodonsk
   chinese: Fuerjiadunsike
   czech: Volgodonsk
-  danish: .nan
+  danish: Volgodonsk
   dutch: Volgodonsk
   english: Volgodonsk
   estonian: Volgodonsk
@@ -7360,13 +7360,13 @@
   french: Volgodonsk
   german: Wolgodonsk
   greek: Volgodonsk
-  hindi: .nan
+  hindi: Volgodons
   hungarian: Volgodonsk
   italian: Volgodonsk
   japanese: Vuorugodonsuku
   latvian: Volgodonska
   lithuanian: Volgodonskas
-  norwegian: .nan
+  norwegian: Volgodonsk
   polish: Wołgodońsk
   portuguese: Volgodonsk
   romanian: Volgodonsk
@@ -7383,7 +7383,7 @@
   bulgarian: Saratov
   chinese: Salatuofu
   czech: Saratov
-  danish: .nan
+  danish: Saratov
   dutch: Saratov
   english: Saratov
   estonian: Saratov
@@ -7391,13 +7391,13 @@
   french: Saratov
   german: Saratau
   greek: Saratof
-  hindi: .nan
+  hindi: Seraatov
   hungarian: Szaratov
   italian: Saratov
   japanese: Saratofu
   latvian: Saratova
   lithuanian: Saratovas
-  norwegian: .nan
+  norwegian: Saratov
   polish: Saratów
   portuguese: Saratov
   romanian: Saratov
@@ -7414,7 +7414,7 @@
   bulgarian: Belgorod
   chinese: Bie'ergeluode
   czech: Bělgorod
-  danish: .nan
+  danish: Belgorod
   dutch: Belgorod
   english: Belgorod
   estonian: Belgorod
@@ -7422,13 +7422,13 @@
   french: Belgorod
   german: Weißenstadt
   greek: Belgkoront
-  hindi: .nan
+  hindi: Belagorod
   hungarian: Belgorod
   italian: Belgorod
   japanese: Berugorodo
   latvian: Belgoroda
   lithuanian: Belgorodas
-  norwegian: .nan
+  norwegian: Belgorod
   polish: Biełgorod
   portuguese: Belgorod
   romanian: Belgorod
@@ -7445,7 +7445,7 @@
   bulgarian: Gomel
   chinese: Gemeili
   czech: Homel
-  danish: .nan
+  danish: Homel
   dutch: Homel
   english: Gomel
   estonian: Homiel
@@ -7453,13 +7453,13 @@
   french: Homiel
   german: Homiel
   greek: Gomel
-  hindi: .nan
+  hindi: Gomel
   hungarian: Homel
   italian: Homel'
   japanese: Homeri
   latvian: Gomeļa
   lithuanian: Gomelis
-  norwegian: .nan
+  norwegian: Gomel
   polish: Homel
   portuguese: Gomel
   romanian: Gomel
@@ -7476,7 +7476,7 @@
   bulgarian: Smolensk
   chinese: Simolengsike
   czech: Smolensk
-  danish: .nan
+  danish: Smolensk
   dutch: Smolensk
   english: Smolensk
   estonian: Smolensk
@@ -7484,13 +7484,13 @@
   french: Smolensk
   german: Smolenskau
   greek: Smolensk
-  hindi: .nan
+  hindi: Smolensk
   hungarian: Szmolenszk
   italian: Smolensk
   japanese: Sumorensuku
   latvian: Smoļenska
   lithuanian: Smolenskas
-  norwegian: .nan
+  norwegian: Smolensk
   polish: Smoleńsk
   portuguese: Smolensk
   romanian: Smolensk
@@ -7507,7 +7507,7 @@
   bulgarian: Roslaval
   chinese: Luosilafuer
   czech: Roslavl
-  danish: .nan
+  danish: Roslavl
   dutch: Roslavl
   english: Roslavl
   estonian: Roslavl
@@ -7515,13 +7515,13 @@
   french: Roslavl
   german: Roslavenland
   greek: Roslavl
-  hindi: .nan
+  hindi: Smolensk
   hungarian: Roszlavl
   italian: Roslavl'
   japanese: Rosuravuri
   latvian: Roslavl
   lithuanian: Roslavlis
-  norwegian: .nan
+  norwegian: Roslavl
   polish: Rosław
   portuguese: Roslavl
   romanian: Roslavl
@@ -7538,7 +7538,7 @@
   bulgarian: Volhov
   chinese: Wo'erhuofu
   czech: Volchov
-  danish: .nan
+  danish: Volkhov
   dutch: Volchov
   english: Volkhov
   estonian: Volhov
@@ -7546,13 +7546,13 @@
   french: Volkhov
   german: Neu-Volkstadt
   greek: Volkhov
-  hindi: .nan
+  hindi: Volkhov
   hungarian: Volkhov
   italian: Volchov
   japanese: Vuoruhofu
   latvian: Volhova
   lithuanian: Volchovas
-  norwegian: .nan
+  norwegian: Volkhov
   polish: Wołchow
   portuguese: Volkhov
   romanian: Volkhov
@@ -7569,7 +7569,7 @@
   bulgarian: Millerovo
   chinese: Milieluowo
   czech: Millerovo
-  danish: .nan
+  danish: Millerovo
   dutch: Millerovo
   english: Millerovo
   estonian: Millerovo
@@ -7577,14 +7577,14 @@
   french: Millerovo
   german: Müllerau
   greek: Millerovo
-  hindi: .nan
+  hindi: Milarovo
   hungarian: Millerovo
   italian: Millerovo
   japanese: Millerovo
   latvian: Millerovo
   lithuanian: Millerovo
-  norwegian: .nan
-  polish: Millerovo
+  norwegian: Millerovo
+  polish: Millerowo
   portuguese: Millerovo
   romanian: Millerovo
   russian: Millerovsky
@@ -7600,7 +7600,7 @@
   bulgarian: Rzhev
   chinese: Lerefu
   czech: Ržev
-  danish: .nan
+  danish: Rzhev
   dutch: Rzjev
   english: Rzhev
   estonian: Ržev
@@ -7608,13 +7608,13 @@
   french: Rjev
   german: Rewen
   greek: Rzhev
-  hindi: .nan
+  hindi: Rzhaiv
   hungarian: Rzhev
   italian: Ržev
   japanese: Rujefu
   latvian: Rzhev
   lithuanian: Rževas
-  norwegian: .nan
+  norwegian: Rzhev
   polish: Rżew
   portuguese: Rjev
   romanian: Rjev
@@ -7631,7 +7631,7 @@
   bulgarian: Kalinin
   chinese: Jialining
   czech: Kalinin
-  danish: .nan
+  danish: Kalinin
   dutch: Kalinin
   english: Kalinin
   estonian: Kalinin
@@ -7639,13 +7639,13 @@
   french: Kalinine
   german: Königstadt
   greek: Kalinin
-  hindi: .nan
+  hindi: Kailinin
   hungarian: Kalinin
   italian: Kalinin
   japanese: Karīnin
   latvian: Kalinin
   lithuanian: Kalininas
-  norwegian: .nan
+  norwegian: Kalinin
   polish: Kalinin
   portuguese: Kalinin
   romanian: Kalinin
@@ -7662,7 +7662,7 @@
   bulgarian: Yaroslaval
   chinese: Yaluosilafuer
   czech: Jaroslavl
-  danish: .nan
+  danish: Jaroslavl
   dutch: Jaroslavl
   english: Yaroslavl
   estonian: Jaroslavl
@@ -7670,13 +7670,13 @@
   french: Iaroslavl
   german: Yaroschaffen
   greek: Giaroslavl
-  hindi: .nan
+  hindi: Yaaroslaav
   hungarian: Jaroszlavl
   italian: Jaroslavl'
   japanese: Yarosuravuri
   latvian: Jaroslavļa
   lithuanian: Jaroslavlis
-  norwegian: .nan
+  norwegian: Yaroslavl
   polish: Jarosław
   portuguese: Iaroslavl
   romanian: Iaroslavl
@@ -7693,7 +7693,7 @@
   bulgarian: Kazan
   chinese: Kashan
   czech: Kazaň
-  danish: .nan
+  danish: Kasan
   dutch: Kazan
   english: Kazan
   estonian: Kaasan
@@ -7701,13 +7701,13 @@
   french: Kazan
   german: Kazanshafen
   greek: Kazan
-  hindi: .nan
+  hindi: Kaazaan
   hungarian: Kazany
   italian: Kazan'
   japanese: Kazan
   latvian: Kazaņa
   lithuanian: Kazane
-  norwegian: .nan
+  norwegian: Kazan
   polish: Kazań
   portuguese: Cazã
   romanian: Kazan
@@ -7724,7 +7724,7 @@
   bulgarian: Ulyanovsky
   chinese: Ulyanovsky
   czech: Ulyanovsky
-  danish: .nan
+  danish: Ulyanovsky
   dutch: Ulyanovsky
   english: Ulyanovsky
   estonian: Ulyanovsky
@@ -7732,13 +7732,13 @@
   french: Ulyanovsky
   german: Lanowstadt
   greek: Ulyanovsky
-  hindi: .nan
+  hindi: Ulyanovsky
   hungarian: Ulyanovsky
   italian: Ulyanovsky
   japanese: Ulyanovsky
   latvian: Ulyanovsky
   lithuanian: Ulyanovsky
-  norwegian: .nan
+  norwegian: Ulyanovsky
   polish: Ulyanovsky
   portuguese: Ulyanovsky
   romanian: Ulyanovsky
@@ -7755,7 +7755,7 @@
   bulgarian: Kuybishev
   chinese: Gubixuefu
   czech: Kujbyšev
-  danish: .nan
+  danish: Kuibyshev
   dutch: Koejbysjev
   english: Kuibyshev
   estonian: Kuibyshev
@@ -7763,13 +7763,13 @@
   french: Kouïbychev
   german: Kübßstadt
   greek: Kuibyshev
-  hindi: .nan
+  hindi: Kuibyshaiv
   hungarian: Kujbisev
   italian: Kujbyšev
   japanese: Kuibishefu
   latvian: Kuibyshev
   lithuanian: Kuibyševas
-  norwegian: .nan
+  norwegian: Kuibyshev
   polish: Kujbyszew
   portuguese: Kuibyshev
   romanian: Kuibyshev
@@ -7786,7 +7786,7 @@
   bulgarian: Gorki
   chinese: Gorki
   czech: Gorki
-  danish: .nan
+  danish: Gorki
   dutch: Gorki
   english: Gorki
   estonian: Gorki
@@ -7794,13 +7794,13 @@
   french: Gorki
   german: Gorkendorf
   greek: Gorki
-  hindi: .nan
+  hindi: Maiksim Gorkee
   hungarian: Gorki
   italian: Gorki
   japanese: Gākī
   latvian: Gorki
   lithuanian: Gorki
-  norwegian: .nan
+  norwegian: Gorki
   polish: Gorki
   portuguese: Gorki
   romanian: Gorki
@@ -7817,7 +7817,7 @@
   bulgarian: Ivanovo
   chinese: Yiwannuowo
   czech: Ivanovo
-  danish: .nan
+  danish: Ivanovo
   dutch: Ivanovo
   english: Ivanovo
   estonian: Ivanovo
@@ -7825,13 +7825,13 @@
   french: Ivanovo
   german: Ivansbach
   greek: Ivanovo
-  hindi: .nan
+  hindi: Ivaanovo
   hungarian: Ivanovo
   italian: Ivanovo
   japanese: Ivuanovuo
   latvian: Ivanova
   lithuanian: Ivanovas
-  norwegian: .nan
+  norwegian: Ivanovo
   polish: Iwanowo
   portuguese: Ivanovo
   romanian: Ivanov
@@ -7848,7 +7848,7 @@
   bulgarian: Ryazan
   chinese: Liangzan
   czech: Rjazaň
-  danish: .nan
+  danish: Rjasan
   dutch: Rjazan
   english: Ryazan
   estonian: Rjazan
@@ -7856,13 +7856,13 @@
   french: Riazan
   german: Rayzenvich
   greek: Riazan
-  hindi: .nan
+  hindi: Raayazaan
   hungarian: Rjazany
   italian: Rjazan'
   japanese: Ryazan
   latvian: Rjazaņa
   lithuanian: Riazane
-  norwegian: .nan
+  norwegian: Ryazan
   polish: Riazań
   portuguese: Riazã
   romanian: Reazan
@@ -7879,7 +7879,7 @@
   bulgarian: Penza
   chinese: Bensa
   czech: Penza
-  danish: .nan
+  danish: Pensa
   dutch: Penza
   english: Penza
   estonian: Penza
@@ -7887,13 +7887,13 @@
   french: Penza
   german: Pensa
   greek: Penza
-  hindi: .nan
+  hindi: Penza
   hungarian: Penza
   italian: Penza
   japanese: Penza
   latvian: Penza
   lithuanian: Penza
-  norwegian: .nan
+  norwegian: Penza
   polish: Penza
   portuguese: Penza
   romanian: Penza
@@ -7910,7 +7910,7 @@
   bulgarian: Cheboksari
   chinese: Qiebokesalei
   czech: Čeboksary
-  danish: .nan
+  danish: Tjeboksary
   dutch: Tsjeboksary
   english: Cheboksary
   estonian: Tšeboksarõ
@@ -7918,13 +7918,13 @@
   french: Tcheboksary
   german: Hebach
   greek: Tseboxari
-  hindi: .nan
+  hindi: Chelekh
   hungarian: Csebokszári
   italian: Čeboksary
   japanese: Chebokusaru
   latvian: Čeboksari
   lithuanian: Čeboksarai
-  norwegian: .nan
+  norwegian: Cheboksary
   polish: Czeboksary
   portuguese: Tcheboksary
   romanian: Ceboksarî
@@ -7941,7 +7941,7 @@
   bulgarian: Tambov
   chinese: Tanbofu
   czech: Tambov
-  danish: .nan
+  danish: Tambov
   dutch: Tambov
   english: Tambov
   estonian: Tambov
@@ -7949,13 +7949,13 @@
   french: Tambov
   german: Tambau
   greek: Tabof
-  hindi: .nan
+  hindi: Tov
   hungarian: Tambov
   italian: Tambov
   japanese: Tanbofu
   latvian: Tambova
   lithuanian: Tambovas
-  norwegian: .nan
+  norwegian: Tambov
   polish: Tambow
   portuguese: Tambov
   romanian: Tambov
@@ -7972,7 +7972,7 @@
   bulgarian: Lipetsk
   chinese: Lipeicike
   czech: Lipeck
-  danish: .nan
+  danish: Lipetsk
   dutch: Lipetsk
   english: Lipetsk
   estonian: Lipetsk
@@ -7980,13 +7980,13 @@
   french: Lipetsk
   german: Libach
   greek: Lipetsk
-  hindi: .nan
+  hindi: Lipaatsk
   hungarian: Lipeck
   italian: Lipeck
   japanese: Ripetsuku
   latvian: Ļipecka
   lithuanian: Lipeckas
-  norwegian: .nan
+  norwegian: Lipetsk
   polish: Lipieck
   portuguese: Lipetsk
   romanian: Lipețk
@@ -8003,7 +8003,7 @@
   bulgarian: Poltava
   chinese: Bo'ertawa
   czech: Poltava
-  danish: .nan
+  danish: Poltava
   dutch: Poltava
   english: Poltava
   estonian: Poltava
@@ -8011,13 +8011,13 @@
   french: Poltava
   german: Poltawien
   greek: Poltava
-  hindi: .nan
+  hindi: Poltaava
   hungarian: Poltava
   italian: Poltava
   japanese: Porutavua
   latvian: Poltava
   lithuanian: Poltava
-  norwegian: .nan
+  norwegian: Poltava
   polish: Połtawa
   portuguese: Poltava
   romanian: Poltava
@@ -8034,7 +8034,7 @@
   bulgarian: Voronezh
   chinese: Woluonieri
   czech: Voroněž
-  danish: .nan
+  danish: Voronezj
   dutch: Voronezj
   english: Voronezh
   estonian: Voronež
@@ -8042,13 +8042,13 @@
   french: Voronej
   german: Woronesch
   greek: Voronez
-  hindi: .nan
+  hindi: Voronish
   hungarian: Voronyezs
   italian: Voronež
   japanese: Vuoroneji
   latvian: Voroņeža
   lithuanian: Voronežas
-  norwegian: .nan
+  norwegian: Voronezh
   polish: Woroneż
   portuguese: Voronej
   romanian: Voronej
@@ -8065,7 +8065,7 @@
   bulgarian: Ohayo
   chinese: Ehaiezhou
   czech: Ohio
-  danish: .nan
+  danish: Ohio
   dutch: Ohio
   english: Ohio
   estonian: Ohio
@@ -8073,13 +8073,13 @@
   french: Ohio
   german: Ohio
   greek: Ochaio
-  hindi: .nan
+  hindi: Ohaayo
   hungarian: Ohio
   italian: Ohio
   japanese: Ohaio-shū
   latvian: Ohaio
   lithuanian: Ohajas
-  norwegian: .nan
+  norwegian: Ohio
   polish: Ohio
   portuguese: Ohio
   romanian: Ohio
@@ -8096,7 +8096,7 @@
   bulgarian: Pechora
   chinese: Bozhaola
   czech: Pečora
-  danish: .nan
+  danish: Petjora
   dutch: Petsjora
   english: Pechora
   estonian: Petšora
@@ -8104,13 +8104,13 @@
   french: Petchora
   german: Pechau
   greek: Pechora
-  hindi: .nan
+  hindi: Pechora
   hungarian: Pecsora
   italian: Pečora
   japanese: Pechora
   latvian: Pečora
   lithuanian: Pechora
-  norwegian: .nan
+  norwegian: Pechora
   polish: Peczora
   portuguese: Pechora
   romanian: Pechora
@@ -8127,7 +8127,7 @@
   bulgarian: Veliki novgorod
   chinese: Danuofugeluode
   czech: Veliký Novgorod
-  danish: .nan
+  danish: Velikij Novgorod
   dutch: Veliki Novgorod
   english: Novgorod
   estonian: Veliki Novgorod
@@ -8135,13 +8135,13 @@
   french: Novgorod
   german: Naugard
   greek: Novgkoront
-  hindi: .nan
+  hindi: Ghaatee Novagorod
   hungarian: Velikij Novgorod
   italian: Velikij Novgorod
   japanese: Novugorodo
   latvian: Veļikijnovgoroda
   lithuanian: Didysis Naugardas
-  norwegian: .nan
+  norwegian: Novgorod
   polish: Nowogród Wielki
   portuguese: Novogárdia Magna
   romanian: Veliki Novgorod
@@ -8158,7 +8158,7 @@
   bulgarian: Tihvin
   chinese: Jihewen
   czech: Tichvin
-  danish: .nan
+  danish: Tikhvin
   dutch: Tichvin
   english: Tikhvin
   estonian: Tihvin
@@ -8166,13 +8166,13 @@
   french: Tikhvine
   german: Tichwin
   greek: Tikhvin
-  hindi: .nan
+  hindi: Sent Peetarsabarg Mein
   hungarian: Tikhvin
   italian: Tichvin
   japanese: Chifuvuin
   latvian: Tihvina
   lithuanian: Tichvinas
-  norwegian: .nan
+  norwegian: Tikhvin
   polish: Tichwin
   portuguese: Tikhvin
   romanian: Tihvin
@@ -8189,7 +8189,7 @@
   bulgarian: Mikhaylovka
   chinese: Mikhaylovka
   czech: Mikhaylovka
-  danish: .nan
+  danish: Mikhaylovka
   dutch: Mikhaylovka
   english: Mikhaylovka
   estonian: Mikhaylovka
@@ -8197,13 +8197,13 @@
   french: Mikhaylovka
   german: Michailaue
   greek: Mikhaylovka
-  hindi: .nan
+  hindi: Volgograad
   hungarian: Mihajlovka
   italian: Michajlovka
   japanese: Mikhaylovka
   latvian: Mikhaylovka
   lithuanian: Mikhaylovka
-  norwegian: .nan
+  norwegian: Mikhaylovka
   polish: Michajłowka
   portuguese: Mikhaylovka
   romanian: Mikhaylovka
@@ -8220,7 +8220,7 @@
   bulgarian: Teheran
   chinese: Deheilan
   czech: Teherán
-  danish: .nan
+  danish: Teheran
   dutch: Teheran
   english: Tehran
   estonian: Teheran
@@ -8228,13 +8228,13 @@
   french: Téhéran
   german: Teheran
   greek: Techerani
-  hindi: .nan
+  hindi: Teharaan
   hungarian: Teherán
   italian: Teheran
   japanese: Teheran
   latvian: Teherāna
   lithuanian: Teheranas
-  norwegian: .nan
+  norwegian: Teheran
   polish: Teheran
   portuguese: Teerã
   romanian: Teheran
@@ -8251,7 +8251,7 @@
   bulgarian: Kabul
   chinese: Kabuer
   czech: Kábul
-  danish: .nan
+  danish: Kabul
   dutch: Kaboel
   english: Kabul
   estonian: Kabul
@@ -8259,13 +8259,13 @@
   french: Kaboul
   german: Kabul
   greek: Kaboyl
-  hindi: .nan
+  hindi: Kaabul
   hungarian: Kabul
   italian: Kabul
   japanese: Kāburu
   latvian: Kabula
   lithuanian: Kabulas
-  norwegian: .nan
+  norwegian: Godkjennelse
   polish: Kabul
   portuguese: Cabul
   romanian: Kabul
@@ -8282,7 +8282,7 @@
   bulgarian: Geschichte dschibutis#kolonialzeit
   chinese: Fashusuomali
   czech: Francouzské Somálsko
-  danish: .nan
+  danish: Fransk Somaliland
   dutch: Frans-Somaliland
   english: French Somaliland
   estonian: French Somaliland
@@ -8290,13 +8290,13 @@
   french: Côte française des Somalis
   german: Geschichte Dschibutis#Kolonialzeit
   greek: French Somaliland
-  hindi: .nan
+  hindi: Phrench Somaalilaind
   hungarian: Francia Szomáliföld
   italian: Somalia francese
   japanese: Furansu-ryō somarirando
   latvian: French Somaliland
   lithuanian: Prancūzijos Somalilandas
-  norwegian: .nan
+  norwegian: Fransk Somaliland
   polish: Somali Francuskie
   portuguese: Somalilândia Francesa
   romanian: Somalia franceză
@@ -8313,7 +8313,7 @@
   bulgarian: Britanska somaliya
   chinese: Yingshusuomali
   czech: Britské Somálsko
-  danish: .nan
+  danish: Britisk Somaliland
   dutch: Brits-Somaliland
   english: British Somaliland
   estonian: British Somaliland
@@ -8321,13 +8321,13 @@
   french: Somalie britannique
   german: Britisch-Somaliland
   greek: British Somaliland
-  hindi: .nan
+  hindi: British Somaalilaind
   hungarian: British Somaliland
   italian: Somalia britannica
   japanese: Igirisu-ryō somarirando
   latvian: British Somaliland
   lithuanian: Britų Somalilandas
-  norwegian: .nan
+  norwegian: British Somaliland
   polish: Somali Brytyjskie
   portuguese: Somalilândia Britânica
   romanian: Somalia Britanică
@@ -8344,7 +8344,7 @@
   bulgarian: Pitkern
   chinese: Pitekaienqundao
   czech: Pitcairnovy ostrovy
-  danish: .nan
+  danish: Pitcairn
   dutch: Pitcairneilanden
   english: Pitcairn Island
   estonian: Pitcairn
@@ -8352,13 +8352,13 @@
   french: Îles Pitcairn
   german: Pitcairninseln
   greek: Nisoi Pitkairn
-  hindi: .nan
+  hindi: Pitakern Dveepasamooh
   hungarian: Pitcairn-szigetek
   italian: Isole Pitcairn
   japanese: Pitokeanshotō
   latvian: Pitkērna
   lithuanian: Pitkerno salos
-  norwegian: .nan
+  norwegian: Pitcairn Island
   polish: Pitcairn
   portuguese: Ilhas Pitcairn
   romanian: Insulele Pitcairn
@@ -8375,7 +8375,7 @@
   bulgarian: Etiopiya
   chinese: Aisaiebiya
   czech: Etiopie
-  danish: .nan
+  danish: Etiopien
   dutch: Ethiopië
   english: Ethiopia
   estonian: Etioopia
@@ -8383,13 +8383,13 @@
   french: Éthiopie
   german: Äthiopien
   greek: Aithiopia
-  hindi: .nan
+  hindi: Ithopiya
   hungarian: Etiópia
   italian: Etiopia
   japanese: Echiopia
   latvian: Etiopija
   lithuanian: Etiopija
-  norwegian: .nan
+  norwegian: Etiopia
   polish: Etiopia
   portuguese: Etiópia
   romanian: Etiopia
@@ -8406,7 +8406,7 @@
   bulgarian: Senegal
   chinese: Saineijia'er
   czech: Senegal
-  danish: .nan
+  danish: Senegal
   dutch: Senegal
   english: Senegal
   estonian: Senegal
@@ -8414,13 +8414,13 @@
   french: Sénégal
   german: Senegal
   greek: Senegali
-  hindi: .nan
+  hindi: Senegal
   hungarian: Szenegál
   italian: Senegal
   japanese: Senegaru
   latvian: Senegāla
   lithuanian: Senegalas
-  norwegian: .nan
+  norwegian: Senegal
   polish: Senegal
   portuguese: Senegal
   romanian: Senegal
@@ -8437,7 +8437,7 @@
   bulgarian: Libiyska pustinya
   chinese: Libiyashamo
   czech: Libyjská poušť
-  danish: .nan
+  danish: Libyske Ørken
   dutch: Libische Woestijn
   english: Libyan Desert
   estonian: Liibüa kõrb
@@ -8445,13 +8445,13 @@
   french: Désert Libyque
   german: Libysche Wüste
   greek: Libyan Desert
-  hindi: .nan
+  hindi: Libayan Marusthal
   hungarian: Líbiai-sivatag
   italian: Deserto Libico-Nubiano
   japanese: Ribia sabaku
   latvian: Libyan Desert
   lithuanian: Libijos dykuma
-  norwegian: .nan
+  norwegian: Libysk Ørkenen
   polish: Pustynia Libijska
   portuguese: Deserto da Líbia
   romanian: Deşertul Libian
@@ -8468,7 +8468,7 @@
   bulgarian: Gana
   chinese: Jiana
   czech: Ghana
-  danish: .nan
+  danish: Ghana
   dutch: Ghana
   english: Ghana
   estonian: Ghana
@@ -8476,13 +8476,13 @@
   french: Ghana
   german: Ghana
   greek: Gkana
-  hindi: .nan
+  hindi: Ghaana
   hungarian: Ghána
   italian: Ghana
   japanese: Gāna
   latvian: Gana
   lithuanian: Gana
-  norwegian: .nan
+  norwegian: Ghana
   polish: Ghana
   portuguese: Gana
   romanian: Ghana
@@ -8499,7 +8499,7 @@
   bulgarian: Transvaal
   chinese: Delanshiwa
   czech: Transvaal
-  danish: .nan
+  danish: Transvaal
   dutch: Transvaal
   english: Transvaal
   estonian: Transvaal
@@ -8507,13 +8507,13 @@
   french: Transvaal
   german: Transvaal
   greek: Transvaal
-  hindi: .nan
+  hindi: Traansavaal Praant
   hungarian: Transvaal
   italian: Transvaal
   japanese: Toransuvuāru
   latvian: Transvaal
   lithuanian: Transvaal
-  norwegian: .nan
+  norwegian: Transvaal
   polish: Transwal
   portuguese: Transvaal
   romanian: Transvaal
@@ -8530,7 +8530,7 @@
   bulgarian: Southern Ontario
   chinese: Nan'ansheng
   czech: Southern Ontario
-  danish: .nan
+  danish: Southern Ontario
   dutch: Zuidelijk Ontario
   english: Southern Ontario
   estonian: Southern Ontario
@@ -8538,13 +8538,13 @@
   french: Sud de l'Ontario
   german: Southern Ontario
   greek: Southern Ontario
-  hindi: .nan
+  hindi: Dakshinee Ontaariyo
   hungarian: Southern Ontario
   italian: Southern Ontario
   japanese: Southern Ontario
   latvian: Southern Ontario
   lithuanian: Southern Ontario
-  norwegian: .nan
+  norwegian: Sør Ontario
   polish: Southern Ontario
   portuguese: Ontário Meridional
   romanian: Southern Ontario
@@ -8561,7 +8561,7 @@
   bulgarian: Meksiko
   chinese: Moxigecheng
   czech: Ciudad de México
-  danish: .nan
+  danish: Mexico City
   dutch: Mexico-Stad
   english: Mexico City
   estonian: México
@@ -8569,13 +8569,13 @@
   french: Mexico
   german: Mexiko-Stadt
   greek: Poli toy Mexikoy
-  hindi: .nan
+  hindi: Meksiko Nagar
   hungarian: Mexikóváros
   italian: Città del Messico
   japanese: Mekishikoshiti
   latvian: Mehiko
   lithuanian: Meksikas
-  norwegian: .nan
+  norwegian: Mexico City
   polish: Meksyk
   portuguese: Cidade do México
   romanian: Ciudad de México
@@ -8592,7 +8592,7 @@
   bulgarian: Pampa
   chinese: Pengbacaoyuan
   czech: Pampy
-  danish: .nan
+  danish: Pampas
   dutch: Pampa
   english: Pampas
   estonian: Pampa
@@ -8600,13 +8600,13 @@
   french: Pampa
   german: Pampa
   greek: Paba
-  hindi: .nan
+  hindi: Pampa
   hungarian: Pampák
   italian: Pampa
   japanese: Panpa
   latvian: Pampas
   lithuanian: Pampos
-  norwegian: .nan
+  norwegian: Pampas
   polish: Pampa
   portuguese: Pampa
   romanian: Pampas
@@ -8623,7 +8623,7 @@
   bulgarian: Santyago de chile
   chinese: Shengdiyage
   czech: Santiago de Chile
-  danish: .nan
+  danish: Santiago De Chile
   dutch: Santiago
   english: Santiago
   estonian: Santiago
@@ -8631,13 +8631,13 @@
   french: Santiago
   german: Santiago de Chile
   greek: Santiago
-  hindi: .nan
+  hindi: Saintiyaago
   hungarian: Santiago de Chile
   italian: Santiago del Cile
   japanese: Santiago
   latvian: Santjago
   lithuanian: Santjagas
-  norwegian: .nan
+  norwegian: Santiago
   polish: Santiago
   portuguese: Santiago
   romanian: Santiago de Chile
@@ -8654,7 +8654,7 @@
   bulgarian: Mato groso
   chinese: Matuogeluosuozhou
   czech: Mato Grosso
-  danish: .nan
+  danish: Mato Grosso
   dutch: Mato Grosso
   english: Mato Grosso
   estonian: Mato Grosso osariik
@@ -8662,13 +8662,13 @@
   french: Mato Grosso
   german: Mato Grosso
   greek: Mato Gkroso
-  hindi: .nan
+  hindi: Maato Groso
   hungarian: Mato Grosso
   italian: Mato Grosso
   japanese: Mattogurosso-shū
   latvian: Matugrosu
   lithuanian: Mato Grosas
-  norwegian: .nan
+  norwegian: Ekkelt
   polish: Mato Grosso
   portuguese: Mato Grosso
   romanian: Mato Grosso
@@ -8685,7 +8685,7 @@
   bulgarian: Maldivi
   chinese: Ma'erdaifu
   czech: Maledivy
-  danish: .nan
+  danish: Maldiverne
   dutch: Malediven
   english: Maldives
   estonian: Maldiivid
@@ -8693,13 +8693,13 @@
   french: Maldives
   german: Malediven
   greek: Maldives
-  hindi: .nan
+  hindi: Maaladeev
   hungarian: Maldív-szigetek
   italian: Maldive
   japanese: Morudibu
   latvian: Maldivija
   lithuanian: Maldyvai
-  norwegian: .nan
+  norwegian: Maldivene
   polish: Malediwy
   portuguese: Maldivas
   romanian: Maldive
@@ -8716,7 +8716,7 @@
   bulgarian: Kanto
   chinese: Kanto
   czech: Kanto
-  danish: .nan
+  danish: Kanto
   dutch: Kanto
   english: Kanto
   estonian: Kanto
@@ -8724,13 +8724,13 @@
   french: Kanto
   german: Kanto
   greek: Kanto
-  hindi: .nan
+  hindi: Kaantee Kshetr
   hungarian: Kanto
   italian: Kanto
   japanese: Uta
   latvian: Kanto
   lithuanian: Kanto
-  norwegian: .nan
+  norwegian: Sang
   polish: Kantō
   portuguese: Kanto
   romanian: Kanto
@@ -8747,7 +8747,7 @@
   bulgarian: Gansu
   chinese: Gansusheng
   czech: Kan-su
-  danish: .nan
+  danish: Gansu
   dutch: Gansu
   english: Gansu
   estonian: Gansu
@@ -8755,13 +8755,13 @@
   french: Gansu
   german: Gansu
   greek: Kansoy
-  hindi: .nan
+  hindi: Gaansoo
   hungarian: Kanszu
   italian: Gansu
   japanese: Kanshuku-shō
   latvian: Gaņsu
   lithuanian: Gansu
-  norwegian: .nan
+  norwegian: Gansu
   polish: Gansu
   portuguese: Gansu
   romanian: Gansu
@@ -8778,7 +8778,7 @@
   bulgarian: Severen ostrov
   chinese: Beidao
   czech: Severní ostrov
-  danish: .nan
+  danish: Nordøen
   dutch: Noordereiland
   english: North Island
   estonian: Põhjasaar
@@ -8786,13 +8786,13 @@
   french: Île du Nord
   german: Nordinsel
   greek: Voreio Nisi
-  hindi: .nan
+  hindi: Uttar Dveep
   hungarian: Északi-sziget
   italian: Isola del Nord
   japanese: Kitajima
   latvian: Ziemeļsala
   lithuanian: Šiaures sala
-  norwegian: .nan
+  norwegian: Nordøya
   polish: Wyspa Północna
   portuguese: Ilha Norte
   romanian: Insula de Nord
@@ -8809,7 +8809,7 @@
   bulgarian: Novi yuzhen uels
   chinese: Xinnanweiershizhou
   czech: Nový Jižní Wales
-  danish: .nan
+  danish: New South Wales
   dutch: Nieuw-Zuid-Wales
   english: New South Wales
   estonian: Uus-Lõuna-Wales
@@ -8817,13 +8817,13 @@
   french: Nouvelle-Galles du Sud
   german: New South Wales
   greek: Nea Notia Oyalia
-  hindi: .nan
+  hindi: Nyoo Sauth Vels
   hungarian: Új-Dél-Wales
   italian: Nuovo Galles del Sud
   japanese: Nyūsausuuēruzu shū
   latvian: Jaundienvidvelsa
   lithuanian: Naujasis Pietų Velsas
-  norwegian: .nan
+  norwegian: New South Wales
   polish: Nowa Południowa Walia
   portuguese: Nova Gales do Sul
   romanian: Noul Wales de Sud
@@ -8871,7 +8871,7 @@
   bulgarian: Taklamakan
   chinese: Takelamaganshamo
   czech: Taklamakan
-  danish: .nan
+  danish: Taklamakan
   dutch: Taklamakan
   english: Taklamakan
   estonian: Taklimakan
@@ -8879,13 +8879,13 @@
   french: Désert du Taklamakan
   german: Taklamakan
   greek: Takla Makan
-  hindi: .nan
+  hindi: Traakamain
   hungarian: Takla-Makán
   italian: Deserto del Taklamakan
   japanese: Takuramakan sabaku
   latvian: Taklamakans
   lithuanian: Taklamakanas
-  norwegian: .nan
+  norwegian: Taklamakan
   polish: Takla Makan
   portuguese: Taclamacã
   romanian: Taklamakan
@@ -8902,7 +8902,7 @@
   bulgarian: Mianmar
   chinese: Miandian
   czech: Myanmar
-  danish: .nan
+  danish: Myanmar
   dutch: Myanmar
   english: Burma
   estonian: Myanmar
@@ -8910,13 +8910,13 @@
   french: Birmanie
   german: Myanmar
   greek: Mianmar
-  hindi: .nan
+  hindi: Myaanmaar
   hungarian: Mianmar
   italian: Birmania
   japanese: Myanmā
   latvian: Mjanma
   lithuanian: Mianmaras
-  norwegian: .nan
+  norwegian: Burma
   polish: Mjanma
   portuguese: Myanmar
   romanian: Myanmar
@@ -8933,7 +8933,7 @@
   bulgarian: Tayland
   chinese: Taiguo
   czech: Thajsko
-  danish: .nan
+  danish: Thailand
   dutch: Thailand
   english: Siam
   estonian: Tai
@@ -8941,13 +8941,13 @@
   french: Thaïlande
   german: Thailand
   greek: Tailandi
-  hindi: .nan
+  hindi: Thaeelaind
   hungarian: Thaiföld
   italian: Thailandia
   japanese: Tai ōkoku
   latvian: Taizeme
   lithuanian: Tailandas
-  norwegian: .nan
+  norwegian: Siam
   polish: Tajlandia
   portuguese: Tailândia
   romanian: Thailanda
@@ -8964,7 +8964,7 @@
   bulgarian: Spanish Africa
   chinese: Xibanya feizhou
   czech: Spanish Africa
-  danish: .nan
+  danish: Spansk Afrika
   dutch: Spaans-Afrika
   english: Spanish Africa
   estonian: Spanish Africa
@@ -8972,13 +8972,13 @@
   french: Afrique espagnole
   german: Spanish Africa
   greek: Spanish Africa
-  hindi: .nan
+  hindi: Spenish Aphreeka
   hungarian: Spanish Africa
   italian: Spanish Africa
   japanese: Spanish Africa
   latvian: Spanish Africa
   lithuanian: Spanish Africa
-  norwegian: .nan
+  norwegian: Spansk Afrika
   polish: Spanish Africa
   portuguese: África Espanhola
   romanian: Spanish Africa
@@ -8995,7 +8995,7 @@
   bulgarian: Bagdad
   chinese: Bageda
   czech: Bagdád
-  danish: .nan
+  danish: Bagdad
   dutch: Bagdad
   english: Baghdad
   estonian: Bagdad
@@ -9003,13 +9003,13 @@
   french: Bagdad
   german: Bagdad
   greek: Vagdati
-  hindi: .nan
+  hindi: Bagadaad
   hungarian: Bagdad
   italian: Baghdad
   japanese: Bagudādo
   latvian: Bagdāde
   lithuanian: Bagdadas
-  norwegian: .nan
+  norwegian: Bagdad
   polish: Bagdad
   portuguese: Bagdá
   romanian: Bagdad
@@ -9026,7 +9026,7 @@
   bulgarian: Nadzhd
   chinese: Neizhi
   czech: Nadžd
-  danish: .nan
+  danish: Najd
   dutch: Nadjd
   english: Nejd
   estonian: Najd
@@ -9034,13 +9034,13 @@
   french: Nejd
   german: Nadschd
   greek: Natznt
-  hindi: .nan
+  hindi: Najd
   hungarian: Nedzsd
   italian: Najd
   japanese: Najudo
   latvian: Nejd
   lithuanian: Nedždas
-  norwegian: .nan
+  norwegian: Nejd
   polish: Nadżd
   portuguese: Négede
   romanian: Nejd
@@ -9057,7 +9057,7 @@
   bulgarian: Yemen
   chinese: Yemen
   czech: Jemen
-  danish: .nan
+  danish: Yemen
   dutch: Jemen
   english: Yemen
   estonian: Jeemen
@@ -9065,13 +9065,13 @@
   french: Yémen
   german: Jemen
   greek: Uemeni
-  hindi: .nan
+  hindi: Yaman
   hungarian: Jemen
   italian: Yemen
   japanese: Iemen
   latvian: Jemena
   lithuanian: Jemenas
-  norwegian: .nan
+  norwegian: Jemen
   polish: Jemen
   portuguese: Iémen
   romanian: Yemen
@@ -9088,7 +9088,7 @@
   bulgarian: Oman
   chinese: Aman
   czech: Omán
-  danish: .nan
+  danish: Oman
   dutch: Oman
   english: Oman
   estonian: Omaan
@@ -9096,13 +9096,13 @@
   french: Oman
   german: Oman
   greek: Oman
-  hindi: .nan
+  hindi: Omaan
   hungarian: Omán
   italian: Oman
   japanese: Omān
   latvian: Omāna
   lithuanian: Omanas
-  norwegian: .nan
+  norwegian: Oman
   polish: Oman
   portuguese: Omã
   romanian: Oman
@@ -9119,7 +9119,7 @@
   bulgarian: Leopoldville
   chinese: Li'aobodecheng
   czech: Leopoldville
-  danish: .nan
+  danish: Kinshasa
   dutch: Leopoldstad
   english: Leopoldville
   estonian: Leopoldville
@@ -9127,13 +9127,13 @@
   french: Léopoldville
   german: Leopoldville
   greek: Leopoldville
-  hindi: .nan
+  hindi: Keenshaasa
   hungarian: Leopoldville
   italian: Leopoldopoli
   japanese: Leopoldville
   latvian: Leopoldville
   lithuanian: Leopoldville
-  norwegian: .nan
+  norwegian: Leopoldville
   polish: Leopoldville
   portuguese: Leopoldville
   romanian: Leopoldville
@@ -9150,7 +9150,7 @@
   bulgarian: Portuguese Guinea
   chinese: Pushujineiya
   czech: Portuguese Guinea
-  danish: .nan
+  danish: Portugisisk Guinea
   dutch: Portugees-Guinea
   english: Portuguese Guinea
   estonian: Portugali Guinea
@@ -9158,13 +9158,13 @@
   french: Guinée portugaise
   german: Portuguese Guinea
   greek: Portuguese Guinea
-  hindi: .nan
+  hindi: Purtagaalee Ginee
   hungarian: Portuguese Guinea
   italian: Guinea portoghese
   japanese: Porutogaru-ryō ginia
   latvian: Portuguese Guinea
   lithuanian: Portugalijos Gvineja
-  norwegian: .nan
+  norwegian: Portugisisk Guinea
   polish: Gwinea Portugalska
   portuguese: Guiné Portuguesa
   romanian: Portuguese Guinea
@@ -9181,7 +9181,7 @@
   bulgarian: Ekvatorialna gvineya
   chinese: Chidaojineiya
   czech: Rovníková Guinea
-  danish: .nan
+  danish: Ækvatorialguinea
   dutch: Equatoriaal-Guinea
   english: Equatorial Guinea
   estonian: Ekvatoriaal-Guinea
@@ -9189,13 +9189,13 @@
   french: Guinée équatoriale
   german: Äquatorialguinea
   greek: Isimerini Goyinea
-  hindi: .nan
+  hindi: Bhoomadhyarekheey Ginee
   hungarian: Egyenlítői-Guinea
   italian: Guinea Equatoriale
   japanese: Sekidōginia
   latvian: Ekvatoriālā Gvineja
   lithuanian: Pusiaujo Gvineja
-  norwegian: .nan
+  norwegian: Ekvatorial Guinea
   polish: Gwinea Równikowa
   portuguese: Guiné Equatorial
   romanian: Guineea Ecuatorială
@@ -9212,7 +9212,7 @@
   bulgarian: Liberiya
   chinese: Libiliya
   czech: Libérie
-  danish: .nan
+  danish: Liberia
   dutch: Liberia
   english: Liberia
   estonian: Libeeria
@@ -9220,13 +9220,13 @@
   french: Liberia
   german: Liberia
   greek: Liveria
-  hindi: .nan
+  hindi: Laiberiya
   hungarian: Libéria
   italian: Liberia
   japanese: Riberia
   latvian: Libērija
   lithuanian: Liberija
-  norwegian: .nan
+  norwegian: Liberia
   polish: Liberia
   portuguese: Libéria
   romanian: Liberia
@@ -9243,7 +9243,7 @@
   bulgarian: Folklandski ostrovi
   chinese: Fukelanqundao
   czech: Falklandy
-  danish: .nan
+  danish: Falklandsøerne
   dutch: Falklandeilanden
   english: Falkland Islands
   estonian: Falklandi saared
@@ -9251,13 +9251,13 @@
   french: Îles Malouines
   german: Falklandinseln
   greek: Nisoi Foklant
-  hindi: .nan
+  hindi: Fokalaind Dveepasamooh
   hungarian: Falkland-szigetek
   italian: Isole Falkland
   japanese: Fōkurando shotō
   latvian: Folklenda Salas
   lithuanian: Folklando
-  norwegian: .nan
+  norwegian: Falklandsøyene
   polish: Falklandy
   portuguese: Ilhas Malvinas
   romanian: Insulele Falkland
@@ -9274,7 +9274,7 @@
   bulgarian: Urugvay
   chinese: Wulagui
   czech: Uruguay
-  danish: .nan
+  danish: Uruguay
   dutch: Uruguay
   english: Uruguay
   estonian: Uruguay
@@ -9282,13 +9282,13 @@
   french: Uruguay
   german: Uruguay
   greek: Oyroygoyai
-  hindi: .nan
+  hindi: Urugve
   hungarian: Uruguay
   italian: Uruguay
   japanese: Uruguai
   latvian: Urugvaja
   lithuanian: Urugvajus
-  norwegian: .nan
+  norwegian: Uruguay
   polish: Urugwaj
   portuguese: Uruguai
   romanian: Uruguay
@@ -9305,7 +9305,7 @@
   bulgarian: Paragvay
   chinese: Balagui
   czech: Paraguay
-  danish: .nan
+  danish: Paraguay
   dutch: Paraguay
   english: Paraguay
   estonian: Paraguay
@@ -9313,13 +9313,13 @@
   french: Paraguay
   german: Paraguay
   greek: Paragoyai
-  hindi: .nan
+  hindi: Pairaagve
   hungarian: Paraguay
   italian: Paraguay
   japanese: Paraguai
   latvian: Paragvaja
   lithuanian: Paragvajus
-  norwegian: .nan
+  norwegian: Paraguay
   polish: Paragwaj
   portuguese: Paraguai
   romanian: Paraguay
@@ -9336,7 +9336,7 @@
   bulgarian: La pas
   chinese: Labasi
   czech: La Paz
-  danish: .nan
+  danish: La Paz
   dutch: La Paz
   english: La Paz
   estonian: La Paz
@@ -9344,13 +9344,13 @@
   french: La Paz
   german: La Paz
   greek: La Pas
-  hindi: .nan
+  hindi: La Paas
   hungarian: La Paz
   italian: La Paz
   japanese: Rapasu
   latvian: Lapasa
   lithuanian: La Pasas
-  norwegian: .nan
+  norwegian: Fred
   polish: La Paz
   portuguese: La Paz
   romanian: La Paz
@@ -9367,7 +9367,7 @@
   bulgarian: Lima
   chinese: Lima
   czech: Lima
-  danish: .nan
+  danish: Lima
   dutch: Lima
   english: Lima
   estonian: Lima
@@ -9375,13 +9375,13 @@
   french: Lima
   german: Lima
   greek: Lima
-  hindi: .nan
+  hindi: Leema
   hungarian: Lima
   italian: Lima
   japanese: Rima
   latvian: Lima
   lithuanian: Lima
-  norwegian: .nan
+  norwegian: Lima
   polish: Lima
   portuguese: Lima
   romanian: Lima
@@ -9398,7 +9398,7 @@
   bulgarian: Panama
   chinese: Banama
   czech: Panama
-  danish: .nan
+  danish: Panama
   dutch: Panama
   english: Panamá
   estonian: Panama
@@ -9406,13 +9406,13 @@
   french: Panama
   german: Panama
   greek: Panamas
-  hindi: .nan
+  hindi: Panaama
   hungarian: Panama
   italian: Panama
   japanese: Panama
   latvian: Panama
   lithuanian: Panama
-  norwegian: .nan
+  norwegian: Panama
   polish: Panama
   portuguese: Panamá
   romanian: Panama
@@ -9429,7 +9429,7 @@
   bulgarian: Ekvador
   chinese: Eguaduo'er
   czech: Ekvádor
-  danish: .nan
+  danish: Ecuador
   dutch: Ecuador
   english: Ecuador
   estonian: Ecuador
@@ -9437,13 +9437,13 @@
   french: Équateur
   german: Ecuador
   greek: Isimerinos
-  hindi: .nan
+  hindi: Eekvaador
   hungarian: Ecuador
   italian: Ecuador
   japanese: Ekuadoru
   latvian: Ekvadora
   lithuanian: Ekvadoras
-  norwegian: .nan
+  norwegian: Ecuador
   polish: Ekwador
   portuguese: Equador
   romanian: Ecuador
@@ -9460,7 +9460,7 @@
   bulgarian: Cundinamarca
   chinese: Cundinamaka
   czech: Cundinamarca
-  danish: .nan
+  danish: Cundinamarca
   dutch: Cundinamarca
   english: Cundinamarca
   estonian: Cundinamarca
@@ -9468,13 +9468,13 @@
   french: Cundinamarca
   german: Cundinamarca
   greek: Cundinamarca
-  hindi: .nan
+  hindi: Kundir Knids।
   hungarian: Cundinamarca
   italian: Cundinamarca
   japanese: Cundinamarca
   latvian: Cundinamarca
   lithuanian: Cundinamarca
-  norwegian: .nan
+  norwegian: Cundinamarca
   polish: Cundinamarca
   portuguese: Cundinamarca
   romanian: Cundinamarca
@@ -9491,7 +9491,7 @@
   bulgarian: Miranda
   chinese: Milanda
   czech: Miranda
-  danish: .nan
+  danish: Miranda
   dutch: Miranda
   english: Miranda
   estonian: Miranda
@@ -9499,13 +9499,13 @@
   french: Miranda
   german: Miranda
   greek: Miranda
-  hindi: .nan
+  hindi: Miraanda
   hungarian: Miranda
   italian: Miranda
   japanese: Miranda
   latvian: Miranda
   lithuanian: Miranda
-  norwegian: .nan
+  norwegian: Miranda
   polish: Miranda
   portuguese: Miranda
   romanian: Miranda
@@ -9522,7 +9522,7 @@
   bulgarian: Leeward Islands
   chinese: Beifengqundao
   czech: Závětrné ostrovy
-  danish: .nan
+  danish: Leeward Islands
   dutch: Benedenwindse Eilanden
   english: Leeward Islands
   estonian: Leeward Islands
@@ -9530,13 +9530,13 @@
   french: Leeward Islands
   german: Leeward Islands
   greek: Upinemes Nisoi
-  hindi: .nan
+  hindi: Leevard Dveep
   hungarian: Szélcsendes-szigetek
   italian: Isole Sopravento Settentrionali
   japanese: Rīwādo shotō
   latvian: Leeward Islands
   lithuanian: Pavejines Antilų salos
-  norwegian: .nan
+  norwegian: Leeward Islands
   polish: Wyspy Podwietrzne
   portuguese: Leeward Islands
   romanian: Insulele Sub Vânt
@@ -9553,7 +9553,7 @@
   bulgarian: Surinam
   chinese: Sulinan
   czech: Surinam
-  danish: .nan
+  danish: Surinam
   dutch: Suriname
   english: Suriname
   estonian: Suriname
@@ -9561,13 +9561,13 @@
   french: Suriname
   german: Suriname
   greek: Soyrinam
-  hindi: .nan
+  hindi: Sooreenaam
   hungarian: Suriname
   italian: Suriname
   japanese: Surinamu
   latvian: Surinama
   lithuanian: Surinamas
-  norwegian: .nan
+  norwegian: Surinam
   polish: Surinam
   portuguese: Suriname
   romanian: Surinam
@@ -9584,7 +9584,7 @@
   bulgarian: Frenska gviana
   chinese: Fashuguiyana
   czech: Francouzská Guyana
-  danish: .nan
+  danish: Fransk Guyana
   dutch: Frans-Guyana
   english: French Guiana
   estonian: Prantsuse Guajaana
@@ -9592,13 +9592,13 @@
   french: Guyane
   german: Französisch-Guayana
   greek: Galliki Goyiana
-  hindi: .nan
+  hindi: Phraanseesee Guyaana
   hungarian: Francia Guyana
   italian: Guyana francese
   japanese: Furansu-ryō giana
   latvian: Gviāna
   lithuanian: Prancūzijos Gviana
-  norwegian: .nan
+  norwegian: Fransk Guyana
   polish: Gujana Francuska
   portuguese: Guiana Francesa
   romanian: Guyana Franceză
@@ -9615,7 +9615,7 @@
   bulgarian: British Honduras
   chinese: Yingshuhongdulasi
   czech: Britský Honduras
-  danish: .nan
+  danish: British Honduras
   dutch: Brits-Honduras
   english: British Honduras
   estonian: British Honduras
@@ -9623,13 +9623,13 @@
   french: Honduras britannique
   german: British Honduras
   greek: British Honduras
-  hindi: .nan
+  hindi: British Honduraas
   hungarian: British Honduras
   italian: Honduras britannico
   japanese: British Honduras
   latvian: British Honduras
   lithuanian: Britų Hondūras
-  norwegian: .nan
+  norwegian: Britiske Honduras
   polish: Honduras Brytyjski
   portuguese: Honduras Britânicas
   romanian: British Honduras
@@ -9646,7 +9646,7 @@
   bulgarian: Honduras
   chinese: Hongdulasi
   czech: Honduras
-  danish: .nan
+  danish: Honduras
   dutch: Honduras
   english: Honduras
   estonian: Honduras
@@ -9654,13 +9654,13 @@
   french: Honduras
   german: Honduras
   greek: Ondoyra
-  hindi: .nan
+  hindi: Hauchar
   hungarian: Honduras
   italian: Honduras
   japanese: Honjurasu
   latvian: Hondurasa
   lithuanian: Hondūras
-  norwegian: .nan
+  norwegian: Honduras
   polish: Honduras
   portuguese: Honduras
   romanian: Honduras
@@ -9677,7 +9677,7 @@
   bulgarian: Gvatemala
   chinese: Weidimala
   czech: Guatemala
-  danish: .nan
+  danish: Guatemala
   dutch: Guatemala
   english: Guatemala
   estonian: Guatemala
@@ -9685,13 +9685,13 @@
   french: Guatemala
   german: Guatemala
   greek: Goyatemala
-  hindi: .nan
+  hindi: Gvaatemaala
   hungarian: Guatemala
   italian: Guatemala
   japanese: Guatemara
   latvian: Gvatemala
   lithuanian: Gvatemala
-  norwegian: .nan
+  norwegian: Guatemala
   polish: Gwatemala
   portuguese: Guatemala
   romanian: Guatemala
@@ -9708,7 +9708,7 @@
   bulgarian: Salvador
   chinese: Sa'erwaduo
   czech: Salvador
-  danish: .nan
+  danish: El Salvador
   dutch: El Salvador
   english: El Salvador
   estonian: El Salvador
@@ -9716,13 +9716,13 @@
   french: Salvador
   german: El Salvador
   greek: El Salvador
-  hindi: .nan
+  hindi: Al Saalvaador
   hungarian: Salvador
   italian: El Salvador
   japanese: Erusarubadoru
   latvian: Salvadora
   lithuanian: Salvadoras
-  norwegian: .nan
+  norwegian: Frelseren
   polish: Salwador
   portuguese: El Salvador
   romanian: El Salvador
@@ -9739,7 +9739,7 @@
   bulgarian: Kuba
   chinese: Guba
   czech: Kuba
-  danish: .nan
+  danish: Cuba
   dutch: Cuba
   english: Cuba
   estonian: Kuuba
@@ -9747,13 +9747,13 @@
   french: Cuba
   german: Kuba
   greek: Koyva
-  hindi: .nan
+  hindi: Kyooba
   hungarian: Kuba
   italian: Cuba
   japanese: Kyūba
   latvian: Kuba
   lithuanian: Kuba
-  norwegian: .nan
+  norwegian: Cuba
   polish: Kuba
   portuguese: Cuba
   romanian: Cuba
@@ -9770,7 +9770,7 @@
   bulgarian: Kosta rika
   chinese: Gesidalijia
   czech: Kostarika
-  danish: .nan
+  danish: Costa Rica
   dutch: Costa Rica
   english: Costa Rica
   estonian: Costa Rica
@@ -9778,13 +9778,13 @@
   french: Costa Rica
   german: Costa Rica
   greek: Kosta Rika
-  hindi: .nan
+  hindi: Kosta Rika
   hungarian: Costa Rica
   italian: Costa Rica
   japanese: Kosutarika
   latvian: Kostarika
   lithuanian: Kosta Rika
-  norwegian: .nan
+  norwegian: Costa Rica
   polish: Kostaryka
   portuguese: Costa Rica
   romanian: Costa Rica
@@ -9801,7 +9801,7 @@
   bulgarian: Nikaragua
   chinese: Nijialagua
   czech: Nikaragua
-  danish: .nan
+  danish: Nicaragua
   dutch: Nicaragua
   english: Nicaragua
   estonian: Nicaragua
@@ -9809,13 +9809,13 @@
   french: Nicaragua
   german: Nicaragua
   greek: Nikaragoya
-  hindi: .nan
+  hindi: Nikaaraagua
   hungarian: Nicaragua
   italian: Nicaragua
   japanese: Nikaragua
   latvian: Nikaragva
   lithuanian: Nikaragva
-  norwegian: .nan
+  norwegian: Nicaragua
   polish: Nikaragua
   portuguese: Nicarágua
   romanian: Nicaragua
@@ -9832,7 +9832,7 @@
   bulgarian: Haiti
   chinese: Haidi
   czech: Haiti
-  danish: .nan
+  danish: Haiti
   dutch: Haïti
   english: Haiti
   estonian: Haiti
@@ -9840,13 +9840,13 @@
   french: Haïti
   german: Haiti
   greek: Aiti
-  hindi: .nan
+  hindi: Haitee
   hungarian: Haiti
   italian: Haiti
   japanese: Haichi
   latvian: Haiti
   lithuanian: Haitis
-  norwegian: .nan
+  norwegian: Haiti
   polish: Haiti
   portuguese: Haiti
   romanian: Haiti
@@ -9863,7 +9863,7 @@
   bulgarian: Dominikanska republika
   chinese: Duomingnijia
   czech: Dominikánská republika
-  danish: .nan
+  danish: Dominikanske Republik
   dutch: Dominicaanse Republiek
   english: Dominican Republic
   estonian: Dominikaani Vabariik
@@ -9871,13 +9871,13 @@
   french: République dominicaine
   german: Dominikanische Republik
   greek: Dominikani Dimokratia
-  hindi: .nan
+  hindi: Dominikan Ganaraajy
   hungarian: Dominikai Köztársaság
   italian: Repubblica Dominicana
   japanese: Dominikakyōwakoku
   latvian: Dominikāna
   lithuanian: Dominikos Respublika
-  norwegian: .nan
+  norwegian: Den Dominikanske Republikk
   polish: Dominikana
   portuguese: República Dominicana
   romanian: Republica Dominicană
@@ -9894,7 +9894,7 @@
   bulgarian: Frenska indiya
   chinese: Fashuyindu
   czech: Francouzská Indie
-  danish: .nan
+  danish: Fransk Indien
   dutch: Frans-Indië
   english: French India
   estonian: French India
@@ -9902,13 +9902,13 @@
   french: Inde française
   german: Französisch-Indien
   greek: French India
-  hindi: .nan
+  hindi: Phraanseesee Bhaarat
   hungarian: Francia India
   italian: Insediamenti francesi in India
   japanese: Furansu indo
   latvian: French India
   lithuanian: French India
-  norwegian: .nan
+  norwegian: Fransk India
   polish: Indie Francuskie
   portuguese: Índia Francesa
   romanian: French India
@@ -9925,7 +9925,7 @@
   bulgarian: Goa
   chinese: Guoabang
   czech: Goa
-  danish: .nan
+  danish: Goa
   dutch: Goa
   english: Goa
   estonian: Goa osariik
@@ -9933,13 +9933,13 @@
   french: Goa
   german: Goa
   greek: Gkoa
-  hindi: .nan
+  hindi: Gova
   hungarian: Goa
   italian: Goa
   japanese: Goa-shū
   latvian: Goa
   lithuanian: Goa
-  norwegian: .nan
+  norwegian: Goa
   polish: Goa
   portuguese: Goa
   romanian: Goa
@@ -9956,7 +9956,7 @@
   bulgarian: Nagqu
   chinese: Naqushi
   czech: Nagčhu
-  danish: .nan
+  danish: Nagqu
   dutch: Nagchu
   english: Nagqu
   estonian: Nagqu
@@ -9964,13 +9964,13 @@
   french: Préfecture de Nagchu
   german: Nagqu
   greek: Nagqu
-  hindi: .nan
+  hindi: Nagachu Vibhaag
   hungarian: Nagqu
   italian: Prefettura di Nagqu
   japanese: Nakuchu ichi
   latvian: Nagqu
   lithuanian: Nagču prefektūra
-  norwegian: .nan
+  norwegian: Nagqu
   polish: Nagqu
   portuguese: Nagqu
   romanian: Nagqu
@@ -9987,7 +9987,7 @@
   bulgarian: Nepal
   chinese: Nibo'er
   czech: Nepál
-  danish: .nan
+  danish: Nepal
   dutch: Nepal
   english: Nepal
   estonian: Nepal
@@ -9995,13 +9995,13 @@
   french: Népal
   german: Nepal
   greek: Nepal
-  hindi: .nan
+  hindi: Nepaal
   hungarian: Nepál
   italian: Nepal
   japanese: Nepāru
   latvian: Nepāla
   lithuanian: Nepalas
-  norwegian: .nan
+  norwegian: Nepal
   polish: Nepal
   portuguese: Nepal
   romanian: Nepal
@@ -10018,7 +10018,7 @@
   bulgarian: Butan
   chinese: Budan
   czech: Bhútán
-  danish: .nan
+  danish: Bhutan
   dutch: Bhutan
   english: Bhutan
   estonian: Bhutan
@@ -10026,13 +10026,13 @@
   french: Bhoutan
   german: Bhutan
   greek: Boytan
-  hindi: .nan
+  hindi: Bhootaan
   hungarian: Bhután
   italian: Bhutan
   japanese: Būtan
   latvian: Butāna
   lithuanian: Butanas
-  norwegian: .nan
+  norwegian: Bhutan
   polish: Bhutan
   portuguese: Butão
   romanian: Bhutan
@@ -10049,7 +10049,7 @@
   bulgarian: Yunnan
   chinese: Yunnansheng
   czech: Jün-nan
-  danish: .nan
+  danish: Yunnan
   dutch: Yunnan
   english: Yunnan
   estonian: Yunnan
@@ -10057,13 +10057,13 @@
   french: Yunnan
   german: Yunnan
   greek: Gioynan
-  hindi: .nan
+  hindi: Yunnaan
   hungarian: Jünnan
   italian: Yunnan
   japanese: Un'nan-shō
   latvian: Juņnaņa
   lithuanian: Junanas
-  norwegian: .nan
+  norwegian: Yunnan
   polish: Junnan
   portuguese: Iunã
   romanian: Yunnan
@@ -10080,7 +10080,7 @@
   bulgarian: Honkong
   chinese: Xianggang
   czech: Hongkong
-  danish: .nan
+  danish: Hongkong
   dutch: Hongkong
   english: Hong Kong
   estonian: Hongkong
@@ -10088,13 +10088,13 @@
   french: Hong Kong
   german: Hongkong
   greek: Chongk Kongk
-  hindi: .nan
+  hindi: Hong Kong
   hungarian: Hongkong
   italian: Hong Kong
   japanese: Honkon
   latvian: Honkonga
   lithuanian: Honkongas
-  norwegian: .nan
+  norwegian: Hong Kong
   polish: Hongkong
   portuguese: Hong Kong
   romanian: Hong Kong
@@ -10111,7 +10111,7 @@
   bulgarian: Manila
   chinese: Manila
   czech: Manila
-  danish: .nan
+  danish: Manila
   dutch: Manilla
   english: Manila
   estonian: Manila
@@ -10119,13 +10119,13 @@
   french: Manille
   german: Manila
   greek: Manila
-  hindi: .nan
+  hindi: Maneela
   hungarian: Manila
   italian: Manila
   japanese: Manira
   latvian: Manila
   lithuanian: Manila
-  norwegian: .nan
+  norwegian: Manila
   polish: Manila
   portuguese: Manila
   romanian: Manila
@@ -10142,7 +10142,7 @@
   bulgarian: Kirin
   chinese: Jilin
   czech: Kirin
-  danish: .nan
+  danish: At Gøre
   dutch: Kirin
   english: Kirin
   estonian: Kirin
@@ -10150,13 +10150,13 @@
   french: Kirin
   german: Kirin
   greek: Kirin
-  hindi: .nan
+  hindi: Karane Ke Lie
   hungarian: Kirin
   italian: Kirin
   japanese: Kirin
   latvian: Kirin
   lithuanian: Kirin
-  norwegian: .nan
+  norwegian: Å Gjøre
   polish: Kirin
   portuguese: Kirin
   romanian: Kirin
@@ -10173,7 +10173,7 @@
   bulgarian: Tuvinska narodna republika
   chinese: Tuwenguo
   czech: Tuvinská aratská republika
-  danish: .nan
+  danish: Folkerepublikken Tuva
   dutch: Volksrepubliek Toeva
   english: Tannu Tuva
   estonian: Tuva Rahvavabariik
@@ -10181,13 +10181,13 @@
   french: Tannou-Touva
   german: Tuwinische Volksrepublik
   greek: Laiki Dimokratia tis Tannoy Tiva
-  hindi: .nan
+  hindi: Usakee Dhun
   hungarian: Tuvai Népköztársaság
   italian: Repubblica Popolare di Tuva
   japanese: Touvua jinmin kyōwakoku
   latvian: Tannu Tuva
   lithuanian: Tannu Tuva
-  norwegian: .nan
+  norwegian: Hennes Tun
   polish: Tuwińska Republika Ludowa
   portuguese: Tannu Tuva
   romanian: Republica Populară Tuva
@@ -10204,7 +10204,7 @@
   bulgarian: Mongoliya
   chinese: Menggu gaoyuan
   czech: Mongolsko
-  danish: .nan
+  danish: Mongoliet
   dutch: Mongolië
   english: Mongolia
   estonian: Mongoolia
@@ -10212,13 +10212,13 @@
   french: Mongolie
   german: Mongolei
   greek: Mongolia
-  hindi: .nan
+  hindi: Mangoliya
   hungarian: Mongólia
   italian: Mongolia
   japanese: Mongoru kuni
   latvian: Mongolija
   lithuanian: Mongolija
-  norwegian: .nan
+  norwegian: Mongolia
   polish: Mongolia
   portuguese: Mongólia
   romanian: Mongolia
@@ -10235,7 +10235,7 @@
   bulgarian: Nyufaundlend i labrador
   chinese: Niusheng
   czech: Newfoundland a Labrador
-  danish: .nan
+  danish: Newfoundland Og Labrador
   dutch: Newfoundland en Labrador
   english: Newfoundland
   estonian: Newfoundland ja Labrador
@@ -10243,13 +10243,13 @@
   french: Terre-Neuve-et-Labrador
   german: Neufundland und Labrador
   greek: Nea Gi kai Labrantor
-  hindi: .nan
+  hindi: Nyoofanalaind Aur Laibraador
   hungarian: Új-Fundland és Labrador
   italian: Terranova e Labrador
   japanese: Nyūfandorando raburadōru shū
   latvian: Ņūfaundlenda un Labradora
   lithuanian: Niufaundlandas ir Labradoras
-  norwegian: .nan
+  norwegian: Newfoundland
   polish: Nowa Fundlandia i Labrador
   portuguese: Terra Nova e Labrador
   romanian: Newfoundland şi Labrador
@@ -10266,7 +10266,7 @@
   bulgarian: Labrador
   chinese: Labuladuo
   czech: Labrador
-  danish: .nan
+  danish: Labrador
   dutch: Labrador
   english: Labrador
   estonian: Labrador
@@ -10274,13 +10274,13 @@
   french: Labrador
   german: Labrador
   greek: Labrador
-  hindi: .nan
+  hindi: Laibraador
   hungarian: Labrador
   italian: Labrador
   japanese: Raburadōru chihō
   latvian: Labrador
   lithuanian: Labradoras
-  norwegian: .nan
+  norwegian: Labrador
   polish: Labrador
   portuguese: Labrador
   romanian: Labrador
@@ -10297,7 +10297,7 @@
   bulgarian: Nord-borneo
   chinese: Beipoluozhou
   czech: North Borneo
-  danish: .nan
+  danish: Britisk Nordborneo
   dutch: Brits Noord-Borneo
   english: North Borneo
   estonian: North Borneo
@@ -10305,13 +10305,13 @@
   french: Bornéo du Nord
   german: Nord-Borneo
   greek: North Borneo
-  hindi: .nan
+  hindi: Uttar Kaalimantaan
   hungarian: North Borneo
   italian: Borneo del Nord
   japanese: Eiryō kita boruneo
   latvian: North Borneo
   lithuanian: North Borneo
-  norwegian: .nan
+  norwegian: North Borneo
   polish: Borneo Północne
   portuguese: Bornéu do Norte
   romanian: Borneo de Nord
@@ -10328,7 +10328,7 @@
   bulgarian: Kalimantan
   chinese: Jialimandan
   czech: Kalimantan
-  danish: .nan
+  danish: Kalimantan
   dutch: Kalimantan
   english: Kalimantan
   estonian: Kalimantan
@@ -10336,13 +10336,13 @@
   french: Kalimantan
   german: Kalimantan
   greek: Kalimantan
-  hindi: .nan
+  hindi: Kaalimantaan
   hungarian: Kalimantan
   italian: Kalimantan
   japanese: Karimantan
   latvian: Kalimantan
   lithuanian: Kalimantanas
-  norwegian: .nan
+  norwegian: Kalimantan
   polish: Kalimantan
   portuguese: Calimantã
   romanian: Kalimantan
@@ -10359,7 +10359,7 @@
   bulgarian: Yava
   chinese: Zhuawadao
   czech: Jáva
-  danish: .nan
+  danish: Java
   dutch: Java
   english: Java
   estonian: Jaava
@@ -10367,13 +10367,13 @@
   french: Java
   german: Java
   greek: Iava
-  hindi: .nan
+  hindi: Jaava
   hungarian: Jáva
   italian: Giava
   japanese: Jawatō
   latvian: Java
   lithuanian: Java
-  norwegian: .nan
+  norwegian: Java
   polish: Jawa
   portuguese: Java
   romanian: Insula Java
@@ -10390,7 +10390,7 @@
   bulgarian: Singapur
   chinese: Xinjiapo
   czech: Singapur
-  danish: .nan
+  danish: Singapore
   dutch: Singapore
   english: Singapore
   estonian: Singapur
@@ -10398,13 +10398,13 @@
   french: Singapour
   german: Singapur
   greek: Sigkapoyri
-  hindi: .nan
+  hindi: Singaapur
   hungarian: Szingapúr
   italian: Singapore
   japanese: Shingapōru
   latvian: Singapūra
   lithuanian: Singapūras
-  norwegian: .nan
+  norwegian: Singapore
   polish: Singapur
   portuguese: Singapura
   romanian: Singapore
@@ -10421,7 +10421,7 @@
   bulgarian: Faryorski ostrovi
   chinese: Faluoqundao
   czech: Faerské ostrovy
-  danish: .nan
+  danish: Færøerne
   dutch: Faeröer
   english: Faroe Islands
   estonian: Fääri saared
@@ -10429,13 +10429,13 @@
   french: Îles Féroé
   german: Färöer Inseln
   greek: Nisoi Feroes
-  hindi: .nan
+  hindi: Faro Dveepasamooh
   hungarian: Feröer
   italian: Fær Øer
   japanese: Ferō shotō
   latvian: Fēru Salas
   lithuanian: Farerai
-  norwegian: .nan
+  norwegian: Færøyene
   polish: Wyspy Owcze
   portuguese: Ilhas Feroe
   romanian: Insulele Feroe
@@ -10452,7 +10452,7 @@
   bulgarian: Glostarshar
   chinese: Geluositejun
   czech: Gloucestershire
-  danish: .nan
+  danish: Gloucestershire
   dutch: Gloucestershire
   english: Gloucestershire
   estonian: Gloucestershire
@@ -10460,13 +10460,13 @@
   french: Gloucestershire
   german: Brükenstau
   greek: Gloucestershire
-  hindi: .nan
+  hindi: Glostarshaayar
   hungarian: Gloucestershire
   italian: Gloucestershire
   japanese: Gurosutashā
   latvian: Glosteršira
   lithuanian: Glosteršyras
-  norwegian: .nan
+  norwegian: Gloucestershire
   polish: Gloucestershire
   portuguese: Condado de Gloucester
   romanian: Gloucestershire
@@ -10483,7 +10483,7 @@
   bulgarian: Izmir
   chinese: Yizimier
   czech: Smyrna
-  danish: .nan
+  danish: Izmir
   dutch: İzmir
   english: Izmir
   estonian: İzmir
@@ -10491,13 +10491,13 @@
   french: Izmir
   german: Izmir
   greek: Smyrni
-  hindi: .nan
+  hindi: Izamir
   hungarian: İzmir
   italian: Smirne
   japanese: Izumiru
   latvian: Izmira
   lithuanian: Izmiras
-  norwegian: .nan
+  norwegian: Izmir
   polish: Izmir
   portuguese: Esmirna
   romanian: İzmir
@@ -10514,7 +10514,7 @@
   bulgarian: Bursa
   chinese: Buersa
   czech: Bursa
-  danish: .nan
+  danish: Bursa
   dutch: Bursa
   english: Bursa
   estonian: Bursa
@@ -10522,13 +10522,13 @@
   french: Bursa
   german: Bursa
   greek: Proysa
-  hindi: .nan
+  hindi: Barsa
   hungarian: Bursa
   italian: Bursa
   japanese: Burusa
   latvian: Bursa
   lithuanian: Bursa
-  norwegian: .nan
+  norwegian: Bursa
   polish: Bursa
   portuguese: Bursa
   romanian: Bursa
@@ -10545,7 +10545,7 @@
   bulgarian: Odrin
   chinese: Aidiernei
   czech: Edirne
-  danish: .nan
+  danish: Edirne
   dutch: Edirne
   english: Edirne
   estonian: Edirne
@@ -10553,13 +10553,13 @@
   french: Edirne
   german: Edirne
   greek: Adrianoypoli
-  hindi: .nan
+  hindi: Edirane
   hungarian: Edirne
   italian: Edirne
   japanese: Edirune
   latvian: Edirne
   lithuanian: Edirne
-  norwegian: .nan
+  norwegian: Edirne
   polish: Edirne
   portuguese: Edirne
   romanian: Edirne
@@ -10576,7 +10576,7 @@
   bulgarian: Antaliya
   chinese: Antaliya
   czech: Antalya
-  danish: .nan
+  danish: Antalya
   dutch: Antalya
   english: Antalya
   estonian: Antalya
@@ -10584,13 +10584,13 @@
   french: Antalya
   german: Antalya
   greek: Attaleia
-  hindi: .nan
+  hindi: Entaalya
   hungarian: Antalya
   italian: Adalia
   japanese: Antaruya
   latvian: Antalja
   lithuanian: Antalija
-  norwegian: .nan
+  norwegian: Antalya
   polish: Antalya
   portuguese: Antália
   romanian: Antalya
@@ -10607,7 +10607,7 @@
   bulgarian: Afionkarahisar
   chinese: Afeiyongqialaxisa'er
   czech: Afyonkarahisar
-  danish: .nan
+  danish: Opium
   dutch: Afyonkarahisar
   english: Afyon
   estonian: Afyonkarahisar
@@ -10615,13 +10615,13 @@
   french: Afyonkarahisar
   german: Afyonkarahisar
   greek: Afion Karachisar
-  hindi: .nan
+  hindi: Afeem
   hungarian: Afyonkarahisar
   italian: Afyonkarahisar
   japanese: Afiyonkarahisāru
   latvian: Afjonkarahisara
   lithuanian: Afjonkarahisaras
-  norwegian: .nan
+  norwegian: Opium
   polish: Afyonkarahisar
   portuguese: Afyonkarahisar
   romanian: Afyonkarahisar
@@ -10638,7 +10638,7 @@
   bulgarian: Malatiya
   chinese: Maladiya
   czech: Malatya
-  danish: .nan
+  danish: Malatya
   dutch: Malatya
   english: Malatya
   estonian: Malatya
@@ -10646,13 +10646,13 @@
   french: Malatya
   german: Malatya
   greek: Malateia
-  hindi: .nan
+  hindi: Maalaatiya
   hungarian: Malatya
   italian: Malatya
   japanese: Maratiya
   latvian: Malatja
   lithuanian: Malatija
-  norwegian: .nan
+  norwegian: Malatia
   polish: Malatya
   portuguese: Malatya
   romanian: Malatya
@@ -10669,7 +10669,7 @@
   bulgarian: Mersin
   chinese: Meierxin
   czech: Mersin
-  danish: .nan
+  danish: Mersin
   dutch: Mersin
   english: Mersin
   estonian: Mersin
@@ -10677,13 +10677,13 @@
   french: Mersin
   german: Mersin
   greek: Mersini
-  hindi: .nan
+  hindi: Hina
   hungarian: Mersin
   italian: Mersina
   japanese: Merusuin
   latvian: Mersina
   lithuanian: Mersinas
-  norwegian: .nan
+  norwegian: Myrtle
   polish: Mersin
   portuguese: Mersin
   romanian: Mersin
@@ -10700,7 +10700,7 @@
   bulgarian: Koniya
   chinese: Keniya
   czech: Konya
-  danish: .nan
+  danish: Konya
   dutch: Konya
   english: Konya
   estonian: Konya
@@ -10708,13 +10708,13 @@
   french: Konya
   german: Konya
   greek: Ikonio
-  hindi: .nan
+  hindi: Konya
   hungarian: Konya
   italian: Konya
   japanese: Kon'ya
   latvian: Konja
   lithuanian: Konija
-  norwegian: .nan
+  norwegian: Konya
   polish: Konya
   portuguese: Cônia
   romanian: Konya
@@ -10731,7 +10731,7 @@
   bulgarian: Izmit
   chinese: Yizimite
   czech: İzmit
-  danish: .nan
+  danish: İzmit
   dutch: İzmit
   english: Izmit
   estonian: İzmit
@@ -10739,13 +10739,13 @@
   french: Izmit
   german: İzmit
   greek: Izmit
-  hindi: .nan
+  hindi: Izamit
   hungarian: İzmit
   italian: İzmit
   japanese: Izumitto
   latvian: Izmita
   lithuanian: Izmitas
-  norwegian: .nan
+  norwegian: Izmit
   polish: İzmit
   portuguese: İzmit
   romanian: Izmit
@@ -10762,7 +10762,7 @@
   bulgarian: Kayseri
   chinese: Kaisaili
   czech: Kayseri
-  danish: .nan
+  danish: Kayseri
   dutch: Kayseri
   english: Kayseri
   estonian: Kayseri
@@ -10770,13 +10770,13 @@
   french: Kayseri
   german: Kayseri
   greek: Kaisareia
-  hindi: .nan
+  hindi: Kaayaseree
   hungarian: Kayseri
   italian: Kayseri
   japanese: Kaiseri
   latvian: Kajseri
   lithuanian: Kaiseris
-  norwegian: .nan
+  norwegian: Kayseri
   polish: Kayseri
   portuguese: Caiseri
   romanian: Kayseri
@@ -10793,7 +10793,7 @@
   bulgarian: Sivas
   chinese: Xiwasi
   czech: Sivas
-  danish: .nan
+  danish: Sivas
   dutch: Sivas
   english: Sivas
   estonian: Sivas
@@ -10801,13 +10801,13 @@
   french: Sivas
   german: Sivas
   greek: Sevasteia
-  hindi: .nan
+  hindi: Sivaas
   hungarian: Sivas
   italian: Sivas
   japanese: Suivuasu
   latvian: Sivasa
   lithuanian: Sivasas
-  norwegian: .nan
+  norwegian: Sivas
   polish: Sivas
   portuguese: Sivas
   romanian: Sivas
@@ -10824,7 +10824,7 @@
   bulgarian: Diarbekir
   chinese: Diyabake'er
   czech: Diyarbakır
-  danish: .nan
+  danish: Diyarbakır
   dutch: Diyarbakır
   english: Diyarbakır
   estonian: Diyarbakır
@@ -10832,13 +10832,13 @@
   french: Diyarbakır
   german: Diyarbakır
   greek: Ntigiarbakir
-  hindi: .nan
+  hindi: Daabaayir
   hungarian: Diyarbakır
   italian: Diyarbakır
   japanese: Diyarubakuru
   latvian: Dijarbakira
   lithuanian: Dijarbakyras
-  norwegian: .nan
+  norwegian: Diyarbakir
   polish: Diyarbakır
   portuguese: Diarbaquir
   romanian: Diyarbakır
@@ -10855,7 +10855,7 @@
   bulgarian: Vologda
   chinese: Woluogeda
   czech: Vologda
-  danish: .nan
+  danish: Vologda
   dutch: Vologda
   english: Vologda
   estonian: Vologda
@@ -10863,13 +10863,13 @@
   french: Vologda
   german: Wosnech
   greek: Vologda
-  hindi: .nan
+  hindi: Vologa
   hungarian: Vologda
   italian: Vologda
   japanese: Vuoroguda
   latvian: Vologda
   lithuanian: Vologda
-  norwegian: .nan
+  norwegian: Vologda
   polish: Wołogda
   portuguese: Vologda
   romanian: Vologda
@@ -10886,7 +10886,7 @@
   bulgarian: Hakkari
   chinese: Hakali
   czech: Hakkari
-  danish: .nan
+  danish: Hakkari
   dutch: Hakkâri
   english: Hakkari
   estonian: Hakkari
@@ -10894,13 +10894,13 @@
   french: Hakkari
   german: Hakkari
   greek: Hakkari
-  hindi: .nan
+  hindi: Haakaaree
   hungarian: Hakkari
   italian: Hakkari
   japanese: Yae-kan
   latvian: Hakkari
   lithuanian: Hakkari
-  norwegian: .nan
+  norwegian: Hakkari
   polish: Hakkari
   portuguese: Hakkari
   romanian: Hakkari
@@ -10917,7 +10917,7 @@
   bulgarian: Tundzheli
   chinese: Tongjieli
   czech: Tunceli
-  danish: .nan
+  danish: Tunceli
   dutch: Tunceli
   english: Tunceli
   estonian: Tunceli
@@ -10925,13 +10925,13 @@
   french: Tunceli
   german: Tunceli
   greek: Toyntzeli
-  hindi: .nan
+  hindi: Tanselee
   hungarian: Tunceli
   italian: Tunceli
   japanese: Tounjeri
   latvian: Tunceli
   lithuanian: Tunceli
-  norwegian: .nan
+  norwegian: Tunceli
   polish: Tunceli
   portuguese: Tunceli
   romanian: Tunceli
@@ -10948,7 +10948,7 @@
   bulgarian: Trabzon
   chinese: Telabuzong
   czech: Trabzon
-  danish: .nan
+  danish: Trabzon
   dutch: Trabzon
   english: Trabzon
   estonian: Trabzon
@@ -10956,13 +10956,13 @@
   french: Trabzon
   german: Trabzon
   greek: Trapezoynta
-  hindi: .nan
+  hindi: Traabzan
   hungarian: Trabzon
   italian: Trebisonda
   japanese: Torabuzon
   latvian: Trabzona
   lithuanian: Trabzonas
-  norwegian: .nan
+  norwegian: Trabzon
   polish: Trabzon
   portuguese: Trebizonda
   romanian: Trabzon
@@ -10979,7 +10979,7 @@
   bulgarian: Samsun
   chinese: Samusong
   czech: Samsun
-  danish: .nan
+  danish: Samsun
   dutch: Samson
   english: Samsun
   estonian: Samsun
@@ -10987,13 +10987,13 @@
   french: Samsun
   german: Samsun
   greek: Sampsoynta
-  hindi: .nan
+  hindi: Saimasan
   hungarian: Samsun
   italian: Samsun
   japanese: Samusun
   latvian: Samsuna
   lithuanian: Samsunas
-  norwegian: .nan
+  norwegian: Samsun
   polish: Samsun
   portuguese: Samsun
   romanian: Samsun
@@ -11010,7 +11010,7 @@
   bulgarian: Kastamonu
   chinese: Qiasitamonu
   czech: Kastamonu
-  danish: .nan
+  danish: Kastamon
   dutch: Kastamonu
   english: Kastamonu
   estonian: Kastamonu
@@ -11018,13 +11018,13 @@
   french: Kastamonu
   german: Kastamonu
   greek: Kastamoni
-  hindi: .nan
+  hindi: Kastaaman
   hungarian: Kastamonu
   italian: Kastamonu
   japanese: Kasutamonu
   latvian: Kastamonu
   lithuanian: Kastamonu
-  norwegian: .nan
+  norwegian: Kastamon
   polish: Kastamonu
   portuguese: Castamonu
   romanian: Kastamonu
@@ -11041,7 +11041,7 @@
   bulgarian: Nova angliya
   chinese: Xinyinggelan
   czech: Nová Anglie
-  danish: .nan
+  danish: New England
   dutch: Nieuw-Engeland
   english: New England
   estonian: Uus-Inglismaa
@@ -11049,13 +11049,13 @@
   french: Nouvelle-Angleterre
   german: Neuengland
   greek: Nea Anglia
-  hindi: .nan
+  hindi: Nyoo Inglaind
   hungarian: Új-Anglia
   italian: Nuova Inghilterra
   japanese: Nyūingurando
   latvian: Jaunanglija
   lithuanian: Naujoji Anglija
-  norwegian: .nan
+  norwegian: Nye England
   polish: Nowa Anglia
   portuguese: Nova Inglaterra
   romanian: Noua Anglie
@@ -11072,7 +11072,7 @@
   bulgarian: Nyu york
   chinese: Niuyuezhou
   czech: New York
-  danish: .nan
+  danish: New York
   dutch: Nieuw Nederland
   english: New York
   estonian: New York
@@ -11080,13 +11080,13 @@
   french: New York
   german: New York
   greek: New York
-  hindi: .nan
+  hindi: Nyooyork
   hungarian: New York
   italian: New York
   japanese: Nyūyōku
   latvian: Ņujorka
   lithuanian: Niujorkas
-  norwegian: .nan
+  norwegian: New York
   polish: Nowy Jork
   portuguese: Nova Iorque
   romanian: New York
@@ -11103,7 +11103,7 @@
   bulgarian: Nyu dzharsi
   chinese: Xinzhou
   czech: New Jersey
-  danish: .nan
+  danish: New Jersey
   dutch: Nieuw Jersië
   english: New Jersey
   estonian: New Jersey osariik
@@ -11111,13 +11111,13 @@
   french: New Jersey
   german: New Jersey
   greek: Nioy Tzersei
-  hindi: .nan
+  hindi: Nyoo Jarsee
   hungarian: New Jersey
   italian: New Jersey
   japanese: Nyūjājī shū
   latvian: Ņūdžersija
   lithuanian: Naujasis Džersis
-  norwegian: .nan
+  norwegian: New Jersey
   polish: New Jersey
   portuguese: Nova Jérsia
   romanian: New Jersey
@@ -11134,7 +11134,7 @@
   bulgarian: Pensilvaniya
   chinese: Binxifaniyazhou
   czech: Pensylvánie
-  danish: .nan
+  danish: Pennsylvania
   dutch: Pennsylvania
   english: Pennsylvania
   estonian: Pennsylvania
@@ -11142,13 +11142,13 @@
   french: Pennsylvanie
   german: Pennsylvania
   greek: Pensulvania
-  hindi: .nan
+  hindi: Pensilaveniya
   hungarian: Pennsylvania
   italian: Pennsylvania
   japanese: Penshirubenia-shū
   latvian: Pensilvānija
   lithuanian: Pensilvanija
-  norwegian: .nan
+  norwegian: Pennsylvania
   polish: Pensylwania
   portuguese: Pensilvânia
   romanian: Pennsylvania
@@ -11165,7 +11165,7 @@
   bulgarian: Merilend
   chinese: Malilanzhou
   czech: Maryland
-  danish: .nan
+  danish: Maryland
   dutch: Maryland
   english: Maryland
   estonian: Maryland
@@ -11173,13 +11173,13 @@
   french: Maryland
   german: Maryland
   greek: Merilant
-  hindi: .nan
+  hindi: Mairilaind
   hungarian: Maryland
   italian: Maryland
   japanese: Merīrando shū
   latvian: Mērilenda
   lithuanian: Merilandas
-  norwegian: .nan
+  norwegian: Maryland
   polish: Maryland
   portuguese: Maryland
   romanian: Maryland
@@ -11196,7 +11196,7 @@
   bulgarian: Virdzhiniya
   chinese: Fujiniyazhou
   czech: Virginie
-  danish: .nan
+  danish: Virginia
   dutch: Virginia
   english: Virginia
   estonian: Virginia
@@ -11204,13 +11204,13 @@
   french: Virginie
   german: Virginia
   greek: Virtzinia
-  hindi: .nan
+  hindi: Varjeeniya
   hungarian: Virginia
   italian: Virginia
   japanese: Bājinia shū
   latvian: Virdžinija
   lithuanian: Virdžinija
-  norwegian: .nan
+  norwegian: Virginia
   polish: Wirginia
   portuguese: Virgínia
   romanian: Virginia
@@ -11227,7 +11227,7 @@
   bulgarian: Severna karolina
   chinese: Beiqialuolainazhou
   czech: Severní Karolína
-  danish: .nan
+  danish: North Carolina
   dutch: Noord Carolina
   english: North Carolina
   estonian: Põhja-Carolina
@@ -11235,13 +11235,13 @@
   french: Caroline du Nord
   german: North Carolina
   greek: Voreia Karolina
-  hindi: .nan
+  hindi: North Kairoleena
   hungarian: Észak-Karolina
   italian: Carolina del Nord
   japanese: Nōsukaroraina shū
   latvian: Ziemeļkarolina
   lithuanian: Šiaures Karolina
-  norwegian: .nan
+  norwegian: North Carolina
   polish: Karolina Północna
   portuguese: Carolina do Norte
   romanian: Carolina de Nord
@@ -11258,7 +11258,7 @@
   bulgarian: Yuzhna karolina
   chinese: Nanqialuolainazhou
   czech: Jižní Karolína
-  danish: .nan
+  danish: South Carolina
   dutch: Zuid Carolina
   english: South Carolina
   estonian: Lõuna-Carolina
@@ -11266,13 +11266,13 @@
   french: Caroline du Sud
   german: South Carolina
   greek: Notia Karolina
-  hindi: .nan
+  hindi: Sauth Kairoleena
   hungarian: Dél-Karolina
   italian: Carolina del Sud
   japanese: Sausukaroraina-shū
   latvian: Dienvidkarolina
   lithuanian: Pietų Karolina
-  norwegian: .nan
+  norwegian: Sør Carolina
   polish: Karolina Południowa
   portuguese: Carolina do Sul
   romanian: Carolina de Sud
@@ -11289,7 +11289,7 @@
   bulgarian: Georgia
   chinese: Qiaozhiyazhou
   czech: Georgia
-  danish: .nan
+  danish: Georgia
   dutch: Georgia
   english: Georgia
   estonian: Georgia
@@ -11297,13 +11297,13 @@
   french: Georgia
   german: Georgia
   greek: Georgia
-  hindi: .nan
+  hindi: Jorjiya
   hungarian: Georgia
   italian: Georgia
   japanese: Jōjia
   latvian: Džordžija
   lithuanian: Georgia
-  norwegian: .nan
+  norwegian: Georgia
   polish: Georgia
   portuguese: Geórgia
   romanian: Georgia
@@ -11320,7 +11320,7 @@
   bulgarian: Florida
   chinese: Foluolidazhou
   czech: Florida
-  danish: .nan
+  danish: Florida
   dutch: Florida
   english: Florida
   estonian: Florida
@@ -11328,13 +11328,13 @@
   french: Floride
   german: Florida
   greek: Florinta
-  hindi: .nan
+  hindi: Florida
   hungarian: Florida
   italian: Florida
   japanese: Furorida-shū
   latvian: Florida
   lithuanian: Florida
-  norwegian: .nan
+  norwegian: Florida
   polish: Floryda
   portuguese: Flórida
   romanian: Florida
@@ -11351,7 +11351,7 @@
   bulgarian: Alabama
   chinese: Yalabamazhou
   czech: Alabama
-  danish: .nan
+  danish: Alabama
   dutch: Alabama
   english: Alabama
   estonian: Alabama
@@ -11359,13 +11359,13 @@
   french: Alabama
   german: Alabama
   greek: Alabama
-  hindi: .nan
+  hindi: Alaabaama
   hungarian: Alabama
   italian: Alabama
   japanese: Arabama-shū
   latvian: Alabama
   lithuanian: Alabama
-  norwegian: .nan
+  norwegian: Alabama
   polish: Alabama
   portuguese: Alabama
   romanian: Alabama
@@ -11382,7 +11382,7 @@
   bulgarian: Tenesi
   chinese: Tiannaxizhou
   czech: Tennessee
-  danish: .nan
+  danish: Tennessee
   dutch: Tennessee
   english: Tennessee
   estonian: Tennessee
@@ -11390,13 +11390,13 @@
   french: Tennessee
   german: Tennessee
   greek: Tenesi
-  hindi: .nan
+  hindi: Tenesee
   hungarian: Tennessee
   italian: Tennessee
   japanese: Teneshī shū
   latvian: Tenesi
   lithuanian: Tenesis
-  norwegian: .nan
+  norwegian: Tennessee
   polish: Tennessee
   portuguese: Tennessee
   romanian: Tennessee
@@ -11413,7 +11413,7 @@
   bulgarian: Kentaki
   chinese: Kentajizhou
   czech: Kentucky
-  danish: .nan
+  danish: Kentucky
   dutch: Kentucky
   english: Kentucky
   estonian: Kentucky
@@ -11421,13 +11421,13 @@
   french: Kentucky
   german: Kentucky
   greek: Kentaki
-  hindi: .nan
+  hindi: Khichadee Bhaasha
   hungarian: Kentucky
   italian: Kentucky
   japanese: Kentakkī shū
   latvian: Kentuki
   lithuanian: Kentukis
-  norwegian: .nan
+  norwegian: Kentucky
   polish: Kentucky
   portuguese: Kentucky
   romanian: Kentucky
@@ -11444,7 +11444,7 @@
   bulgarian: Misisipi
   chinese: Mixixibizhou
   czech: Mississippi
-  danish: .nan
+  danish: Mississippi
   dutch: Mississippi
   english: Mississippi
   estonian: Mississippi osariik
@@ -11452,13 +11452,13 @@
   french: Mississippi
   german: Mississippi
   greek: Misisipi
-  hindi: .nan
+  hindi: Misisippee
   hungarian: Mississippi
   italian: Mississippi
   japanese: Mishishippi-shū
   latvian: Misisipi
   lithuanian: Misisipe
-  norwegian: .nan
+  norwegian: Mississippi
   polish: Missisipi
   portuguese: Mississippi
   romanian: Mississippi
@@ -11475,7 +11475,7 @@
   bulgarian: Luiziana
   chinese: Luyisiannazhou
   czech: Louisiana
-  danish: .nan
+  danish: Louisiana
   dutch: Louisiana
   english: Louisiana
   estonian: Louisiana
@@ -11483,13 +11483,13 @@
   french: Louisiane
   german: Louisiana
   greek: Loyiziana
-  hindi: .nan
+  hindi: Lueeziyaana
   hungarian: Louisiana
   italian: Louisiana
   japanese: Ruijiana-shū
   latvian: Luiziāna
   lithuanian: Luiziana
-  norwegian: .nan
+  norwegian: Louisiana
   polish: Luizjana
   portuguese: Luisiana
   romanian: Louisiana
@@ -11506,7 +11506,7 @@
   bulgarian: Arkanzas
   chinese: Akensezhou
   czech: Arkansas
-  danish: .nan
+  danish: Arkansas
   dutch: Arkansas
   english: Arkansas
   estonian: Arkansas
@@ -11514,13 +11514,13 @@
   french: Arkansas
   german: Arkansas
   greek: Άrkanso
-  hindi: .nan
+  hindi: Aarkansa
   hungarian: Arkansas
   italian: Arkansas
   japanese: Ākansō shū
   latvian: Ārkanzasa
   lithuanian: Arkanzasas
-  norwegian: .nan
+  norwegian: Arkansas
   polish: Arkansas
   portuguese: Arkansas
   romanian: Arkansas
@@ -11537,7 +11537,7 @@
   bulgarian: Misuri
   chinese: Misulizhou
   czech: Missouri
-  danish: .nan
+  danish: Missouri
   dutch: Missouri
   english: Missouri
   estonian: Missouri osariik
@@ -11545,13 +11545,13 @@
   french: Missouri
   german: Missouri
   greek: Mizoyri
-  hindi: .nan
+  hindi: Mizooree
   hungarian: Missouri
   italian: Missouri
   japanese: Mizūri shū
   latvian: Misūri
   lithuanian: Misūris
-  norwegian: .nan
+  norwegian: Missouri
   polish: Missouri
   portuguese: Missouri
   romanian: Missouri
@@ -11568,7 +11568,7 @@
   bulgarian: Oklahoma
   chinese: Ekelahemazhou
   czech: Oklahoma
-  danish: .nan
+  danish: Oklahoma
   dutch: Oklahoma
   english: Oklahoma
   estonian: Oklahoma
@@ -11576,13 +11576,13 @@
   french: Oklahoma
   german: Oklahoma
   greek: Oklachoma
-  hindi: .nan
+  hindi: Oklaahoma
   hungarian: Oklahoma
   italian: Oklahoma
   japanese: Okurahoma-shū
   latvian: Oklahoma
   lithuanian: Oklahoma
-  norwegian: .nan
+  norwegian: Oklahoma
   polish: Oklahoma
   portuguese: Oklahoma
   romanian: Oklahoma
@@ -11599,7 +11599,7 @@
   bulgarian: Teksas
   chinese: Dekesasizhou
   czech: Texas
-  danish: .nan
+  danish: Texas
   dutch: Texas
   english: Texas
   estonian: Texas
@@ -11607,13 +11607,13 @@
   french: Texas
   german: Texas
   greek: Texas
-  hindi: .nan
+  hindi: Teksas
   hungarian: Texas
   italian: Texas
   japanese: Tekisasu-shū
   latvian: Teksasa
   lithuanian: Teksasas
-  norwegian: .nan
+  norwegian: Texas
   polish: Teksas
   portuguese: Texas
   romanian: Texas
@@ -11630,7 +11630,7 @@
   bulgarian: Nyu meksiko
   chinese: Xinmoxigezhou
   czech: Nové Mexiko
-  danish: .nan
+  danish: New Mexico
   dutch: Nieuw Mexico
   english: New Mexico
   estonian: New Mexico
@@ -11638,13 +11638,13 @@
   french: Nouveau-Mexique
   german: New Mexico
   greek: Neo Mexiko
-  hindi: .nan
+  hindi: Nyoo Meksiko
   hungarian: Új-Mexikó
   italian: Nuovo Messico
   japanese: Nyūmekishiko shū
   latvian: Ņūmeksika
   lithuanian: Naujoji Meksika
-  norwegian: .nan
+  norwegian: New Mexico
   polish: Nowy Meksyk
   portuguese: Novo México
   romanian: New Mexico
@@ -11661,7 +11661,7 @@
   bulgarian: Arizona
   chinese: Yalisangnazhou
   czech: Arizona
-  danish: .nan
+  danish: Arizona
   dutch: Arizona
   english: Arizona
   estonian: Arizona
@@ -11669,13 +11669,13 @@
   french: Arizona
   german: Arizona
   greek: Arizona
-  hindi: .nan
+  hindi: Ereejona
   hungarian: Arizona
   italian: Arizona
   japanese: Arizona-shū
   latvian: Arizona
   lithuanian: Arizona
-  norwegian: .nan
+  norwegian: Arizona
   polish: Arizona
   portuguese: Arizona
   romanian: Arizona
@@ -11692,7 +11692,7 @@
   bulgarian: Kaliforniya
   chinese: Jiazhou
   czech: Kalifornie
-  danish: .nan
+  danish: Californien
   dutch: Californië
   english: California
   estonian: California
@@ -11700,13 +11700,13 @@
   french: Californie
   german: Kalifornien
   greek: Kalifornia
-  hindi: .nan
+  hindi: Kailiforniya
   hungarian: Kalifornia
   italian: California
   japanese: Kariforunia-shū
   latvian: Kalifornija
   lithuanian: Kalifornija
-  norwegian: .nan
+  norwegian: California
   polish: Kalifornia
   portuguese: Califórnia
   romanian: California
