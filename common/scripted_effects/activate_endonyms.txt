@@ -1,6 +1,10 @@
 activate_endonyms = {
 
-        if = { limit = { owner = { is_german_speaking_country = yes } }
+        if = { limit = { owner = { is_english_speaking_country = yes } }
+                    apply_english_endonyms = yes
+                }
+
+        else_if = { limit = { owner = { is_german_speaking_country = yes } }
             apply_german_endonyms = yes
         }
 
@@ -91,6 +95,10 @@ activate_endonyms = {
         else_if = { limit = { owner = { tag = DEN } }
                                             apply_danish_endonyms = yes
                                         }
+
+        else_if = { limit = { owner = { tag = ALB } }
+                                                    apply_albanian_endonyms = yes
+                                                }
 
         else_if = { limit = { owner = { is_chinese_speaking_country = yes } }
             apply_chinese_endonyms = yes
