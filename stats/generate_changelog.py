@@ -73,4 +73,4 @@ for language,_ in languages:
 for language,_ in languages:
     modification = changelog[language]
     if (modification[0] != 0 or modification[1] != 0):
-        print("{}: new {} cities names and {} states names".format(language,modification[0],modification[1]))
+        print("{}: changed {} cities names and {} states names".format(language,modification[0],modification[1]))
