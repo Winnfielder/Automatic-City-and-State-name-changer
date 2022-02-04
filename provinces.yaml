@@ -321,34 +321,34 @@
 - Province id: 192
   StateID: 144
   albanian: Narvik
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Na'erweike
+  arab: Narifik
+  belarusian: Narvik
+  bulgarian: Narvik
+  chinese: Naerweike
   czech: Narvik
   danish: Narvik
   dutch: Narvik
   english: Narvik
-  estonian: Narviki vald
+  estonian: Narviki
   finnish: Narvik
   french: Narvik
   german: Narvik
-  greek: Narvik
-  hindi: Naavik
-  hungarian: Narvik község
+  greek: Nárvik
+  hindi: Naaravik
+  hungarian: Narvik
   italian: Narvik
-  japanese: .nan
+  japanese: Narubikku
   latvian: Narvik
   lithuanian: Narvik
   norwegian: Narvik
-  polish: Narwik
+  polish: Narvik
   portuguese: Narvik
   romanian: Narvik
   russian: Narvik
   spanish: Narvik
-  swedish: Narviks kommun
+  swedish: Narviks
   turkish: Narvik
-  ukrainian: .nan
+  ukrainian: Narvik
   yugoslav: Narvik
 - Province id: 197
   StateID: 147
@@ -1345,34 +1345,34 @@
 - Province id: 487
   StateID: 265
   albanian: Mikhaylovka
-  arab: .nan
-  belarusian: Michajlauka
-  bulgarian: .nan
-  chinese: Mihayiluofuka
-  czech: Mikhaylovka
+  arab: Mikhaylufka
+  belarusian: Michajlaŭka
+  bulgarian: Mikhaĭlovka
+  chinese: Mǐhāyīluòfūkǎ
+  czech: Michajlovka
   danish: Mikhaylovka
   dutch: Mikhaylovka
   english: Mikhaylovka
-  estonian: Mikhaylovka
+  estonian: Mihhailovka
   finnish: Mikhaylovka
-  french: Mikhaylovka
+  french: Mikhaïlovka
   german: Michailaue
   greek: Mikhaylovka
   hindi: Volgograad
-  hungarian: Mihajlovka
+  hungarian: Mikhaylovka
   italian: Michajlovka
-  japanese: .nan
+  japanese: Mikhaylovka
   latvian: Mikhaylovka
   lithuanian: Mikhaylovka
   norwegian: Mikhaylovka
   polish: Michajłowka
-  portuguese: Mikhaylovka
-  romanian: Mikhaylovka
-  russian: Mihajlovka
+  portuguese: Mikhailovka
+  romanian: Mihailovka
+  russian: Mikhaylovka
   spanish: Mikhaylovka
-  swedish: Mikhaylovka
-  turkish: Mikhaylovka
-  ukrainian: Mykhajlovka
+  swedish: Michajlovka
+  turkish: Mihaylovka
+  ukrainian: Mykhaylivka
   yugoslav: Mikhaylovka
 - Province id: 488
   StateID: 203
@@ -3584,36 +3584,36 @@
   yugoslav: Homs
 - Province id: 1065
   StateID: 454
-  albanian: An-Nāsira
-  arab: An-Nāsira
-  belarusian: Nazareth
-  bulgarian: Nazareth
-  chinese: Nasalei
-  czech: Nazareth
+  albanian: Nazareti
+  arab: Alnaasira
+  belarusian: Nazaret
+  bulgarian: Nazaret
+  chinese: Násālēi
+  czech: Nazaret
   danish: Nazareth
   dutch: Nazareth
   english: Nazareth
-  estonian: Nazareth
-  finnish: Nazareth
+  estonian: Naatsaret
+  finnish: Nasaret
   french: Nazareth
   german: Nazareth
-  greek: Nazaret
+  greek: Nazarét
   hindi: Naazarath
-  hungarian: Nazareth
+  hungarian: Názáret
   italian: Nazareth
-  japanese: .nan
-  latvian: Nazareth
-  lithuanian: Nazareth
+  japanese: Nazare
+  latvian: Nācarete
+  lithuanian: Nazaretas
   norwegian: Nazareth
-  polish: Nazareth
-  portuguese: Nazareth
-  romanian: Nazareth
-  russian: Nazareth
-  spanish: Nazareth
-  swedish: Nazareth
-  turkish: Nasira
-  ukrainian: Nazareth
-  yugoslav: Nazareth
+  polish: Nazaret
+  portuguese: Nazaré
+  romanian: Nazaret
+  russian: Nazareta
+  spanish: Nazaret
+  swedish: Nasaret
+  turkish: Nasıra
+  ukrainian: Nazaryak
+  yugoslav: Nazaret
 - Province id: 1068
   StateID: 446
   albanian: Beni Suef
@@ -3809,9 +3809,9 @@
 - Province id: 1117
   StateID: 534
   albanian: Niigata
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
+  arab: Nighata
+  belarusian: Niihata
+  bulgarian: Niigata
   chinese: Xinxi
   czech: Niigata
   danish: Niigata
@@ -3826,8 +3826,8 @@
   hungarian: Niigata
   italian: Niigata
   japanese: Nīgata
-  latvian: Niigata
-  lithuanian: Niigata
+  latvian: Ņiigata
+  lithuanian: Nijigata
   norwegian: Niigata
   polish: Niigata
   portuguese: Niigata
@@ -5665,12 +5665,12 @@
 - Province id: 1910
   StateID: 787
   albanian: Kotli
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Keteli
+  arab: Kutli
+  belarusian: Katly
+  bulgarian: Kotli
+  chinese: Guōlú
   czech: Kotli
-  danish: Kedler
+  danish: Kotli
   dutch: Kotli
   english: Kotli
   estonian: Kotli
@@ -5681,18 +5681,18 @@
   hindi: Kotalee
   hungarian: Kotli
   italian: Kotli
-  japanese: .nan
+  japanese: Kotli
   latvian: Kotli
   lithuanian: Kotlis
-  norwegian: Kjeler
+  norwegian: Kotli
   polish: Kotli
   portuguese: Kotli
   romanian: Kotli
-  russian: Kotli
+  russian: Kotly
   spanish: Kotli
   swedish: Kotli
   turkish: Kotli
-  ukrainian: .nan
+  ukrainian: Kotli
   yugoslav: Kotli
 - Province id: 1939
   StateID: 547
@@ -5760,36 +5760,36 @@
   yugoslav: Maracaibo
 - Province id: 1951
   StateID: 777
-  albanian: Lome
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Lome
-  czech: Lome
+  albanian: Lomé
+  arab: Lwsy
+  belarusian: Lame
+  bulgarian: Lome
+  chinese: Luòměi
+  czech: Lomé
   danish: Lomé
-  dutch: Lome
+  dutch: Lomé
   english: Lome
-  estonian: Lome
-  finnish: Lome
-  french: Lome
-  german: Lome
-  greek: Lome
+  estonian: Lomé
+  finnish: Lomé
+  french: Lomé
+  german: Lomé
+  greek: Lomé
   hindi: Lolom
-  hungarian: Lome
-  italian: Lome
-  japanese: .nan
+  hungarian: Lomé
+  italian: Lomé
+  japanese: Rome
   latvian: Lome
-  lithuanian: Lome
+  lithuanian: Lomė
   norwegian: Lome
-  polish: Lome
-  portuguese: Lome
-  romanian: Lome
-  russian: Lome
-  spanish: Lome
-  swedish: Lome
-  turkish: Lome
-  ukrainian: .nan
-  yugoslav: Lome
+  polish: Lomé
+  portuguese: Lomé
+  romanian: Lomé
+  russian: Lishennyy
+  spanish: Lomé
+  swedish: Lomé
+  turkish: Lomé
+  ukrainian: Lom
+  yugoslav: Lomé
 - Province id: 1965
   StateID: 277
   albanian: Meksiko
@@ -8801,35 +8801,35 @@
 - Province id: 3618
   StateID: 406
   albanian: Guryev
-  arab: .nan
-  belarusian: Hurjeu
-  bulgarian: .nan
-  chinese: Guliyefu
+  arab: Jurif
+  belarusian: Guryev
+  bulgarian: Goriaev
+  chinese: Géluónífū
   czech: Guryev
-  danish: Atyrau
-  dutch: Guryev
+  danish: Guryev
+  dutch: Ruryev
   english: Guryev
-  estonian: Guryev
+  estonian: Gurnev
   finnish: Guryev
-  french: Gouriev
-  german: Guryev
-  greek: Guryev
+  french: Guryev
+  german: Gurtev
+  greek: Ormanézikos
   hindi: Gureev
   hungarian: Guryev
-  italian: Guryev
-  japanese: .nan
+  italian: Guyryev
+  japanese: Guryev
   latvian: Guryev
   lithuanian: Guryev
   norwegian: Guryev
-  polish: Gurjew
+  polish: Guryjev
   portuguese: Guryev
-  romanian: Guryev
-  russian: Gurev
+  romanian: Garryev
+  russian: Guryev
   spanish: Guryev
   swedish: Guryev
   turkish: Guryev
-  ukrainian: Huryev
-  yugoslav: Guryev
+  ukrainian: Hurʹyev
+  yugoslav: Gujav
 - Province id: 3652
   StateID: 27
   albanian: Dizhoni
@@ -9472,35 +9472,35 @@
   yugoslav: Zaragoza
 - Province id: 3838
   StateID: 1
-  albanian: Ajáccio
+  albanian: Ajaçio
   arab: Ajaksyu
-  belarusian: Ajaccio
-  bulgarian: Ajaccio
-  chinese: Ajaccio
+  belarusian: Ayach
+  bulgarian: Ayacho
+  chinese: Āyǎkèxiào
   czech: Ajaccio
   danish: Ajaccio
   dutch: Ajaccio
   english: Ajaccio
   estonian: Ajaccio
   finnish: Ajaccio
-  french: Ajáccio
+  french: Ajaccio
   german: Ajaccio
-  greek: Ajáccio
+  greek: Aiákeio
   hindi: Azaashiyo
   hungarian: Ajaccio
   italian: Aiaccio
-  japanese: .nan
-  latvian: Ajaccio
-  lithuanian: Ajaccio
+  japanese: Ajakushio
+  latvian: Ažaksjo
+  lithuanian: Ajačas
   norwegian: Ajaccio
   polish: Ajaccio
   portuguese: Ajáccio
   romanian: Ajaccio
-  russian: Ajaccio
+  russian: Poroshok
   spanish: Ayacio
   swedish: Ajaccio
   turkish: Ajaccio
-  ukrainian: Ajaccio
+  ukrainian: Boroshno
   yugoslav: Ajaccio
 - Province id: 3844
   StateID: 731
@@ -11489,19 +11489,19 @@
 - Province id: 4569
   StateID: 373
   albanian: Saint Louis
-  arab: Sant liz
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Shengluyisi
-  czech: Saint Louis
-  danish: St Louis
+  arab: Sant Luis
+  belarusian: Sent Luis
+  bulgarian: Seĭnt Luis
+  chinese: Shènglùyìsī
+  czech: Svatý Louis
+  danish: Saint Louis
   dutch: Sint-Lodewijk
   english: Saint Louis
   estonian: Saint Louis
-  finnish: Saint Louis
+  finnish: Pyhä Louis
   french: Saint Louis
   german: Saint Louis
-  greek: Saint Louis
+  greek: Ágios Loúis
   hindi: Sant Luis
   hungarian: Saint Louis
   italian: Saint Louis
@@ -11511,13 +11511,13 @@
   norwegian: Saint Louis
   polish: Saint Louis
   portuguese: Saint Louis
-  romanian: Saint Louis
-  russian: Saint Louis
+  romanian: Sfântul Louis
+  russian: Svyatoy Lui
   spanish: San Luis de Ilinueses
   swedish: Saint Louis
   turkish: Saint Louis
-  ukrainian: .nan
-  yugoslav: Saint Louis
+  ukrainian: Sent Luyis
+  yugoslav: Sveti Louis
 - Province id: 4572
   StateID: 328
   albanian: Hsinking
@@ -12928,11 +12928,11 @@
   yugoslav: Mašhad
 - Province id: 5033
   StateID: 757
-  albanian: Lhasa
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Lasuo
+  albanian: Lzasa
+  arab: Lasa
+  belarusian: Lhasa
+  bulgarian: Lkhasa
+  chinese: Lāsà
   czech: Lhasa
   danish: Lhasa
   dutch: Lhasa
@@ -12941,22 +12941,22 @@
   finnish: Lhasa
   french: Lhasa
   german: Lhasa
-  greek: Lhasa
+  greek: Lása
   hindi: Lhaasa
   hungarian: Lhasa
   italian: Lhasa
-  japanese: .nan
+  japanese: Rasa
   latvian: Lhasa
   lithuanian: Lhasa
   norwegian: Lhasa
   polish: Lhasa
   portuguese: Lassa
   romanian: Lhasa
-  russian: Lhasa
+  russian: Lkhasa
   spanish: Lhasa
   swedish: Lhasa
   turkish: Lhasa
-  ukrainian: .nan
+  ukrainian: Lhasa
   yugoslav: Lhasa
 - Province id: 5034
   StateID: 557
@@ -16929,11 +16929,11 @@
 - Province id: 7087
   StateID: 532
   albanian: Shizuoka
-  arab: .nan
+  arab: Shizuka
   belarusian: Sidzuoka
-  bulgarian: .nan
-  chinese: Jinggang
-  czech: Shizuoka
+  bulgarian: Shidzuoka
+  chinese: Jìnggāng
+  czech: Šizuoka
   danish: Shizuoka
   dutch: Shizuoka
   english: Shizuoka
@@ -16941,12 +16941,12 @@
   finnish: Shizuoka
   french: Shizuoka
   german: Shizuoka
-  greek: Shizuoka
+  greek: Sigouóka
   hindi: Shizoooka
   hungarian: Sizuoka
   italian: Shizuoka
   japanese: Shizuoka
-  latvian: Shizuoka
+  latvian: Sidzuoka
   lithuanian: Šidzuoka
   norwegian: Shizuoka
   polish: Shizuoka
@@ -16956,7 +16956,7 @@
   spanish: Shizuoka
   swedish: Shizuoka
   turkish: Shizuoka
-  ukrainian: .nan
+  ukrainian: Shyzuoka
   yugoslav: Shizuoka
 - Province id: 7096
   StateID: 186
@@ -23938,34 +23938,34 @@
   StateID: 428
   albanian: Ahmadabad
   arab: Ahmad abad
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Aihamaidabade
-  czech: Ahmadabad
+  belarusian: Ahmedabad
+  bulgarian: Akhmedabad
+  chinese: Àihāmàidábādé
+  czech: Ahmadábád
   danish: Ahmedabad
   dutch: Ahmadabad
   english: Ahmadabad
-  estonian: Ahmadabad
-  finnish: Ahmadabad
-  french: Ahmadabad
-  german: Ahmadabad
-  greek: Ahmadabad
+  estonian: Ahmedabad
+  finnish: Ahmedabad
+  french: Ahmedabad
+  german: Ahmedabad
+  greek: Achmentampánt
   hindi: Ahamadaabaad
-  hungarian: Ahmadabad
-  italian: Ahmadabad
-  japanese: .nan
-  latvian: Ahmadabad
-  lithuanian: Ahmadabad
-  norwegian: Ahmedabad
+  hungarian: Ahmadábád
+  italian: Amadabado
+  japanese: Afumadābādo
+  latvian: Amdāvāda
+  lithuanian: Ahmadabadas
+  norwegian: Ahmadabad
   polish: Ahmadabad
-  portuguese: Ahmadabad
-  romanian: Ahmadabad
-  russian: Ahmadabad
+  portuguese: Amedabade
+  romanian: Ahmedabad
+  russian: Akhmadabad
   spanish: Ahmadabad
-  swedish: Ahmadabad
-  turkish: Ahmadabad
-  ukrainian: .nan
-  yugoslav: Ahmadabad
+  swedish: Ahmedabad
+  turkish: Ahmedabad
+  ukrainian: Akhmadabad
+  yugoslav: Ahmedabad
 - Province id: 9979
   StateID: 173
   albanian: Malaga
@@ -27074,10 +27074,10 @@
   StateID: 131
   albanian: Cockermouth
   arab: Cockermouth
-  belarusian: Piekamut
-  bulgarian: Cockermouth
-  chinese: Kekemaosi
-  czech: Cockermouth
+  belarusian: Pekamut
+  bulgarian: Kokermaut
+  chinese: Kēkèmáosī
+  czech: Kohermouth
   danish: Cockermouth
   dutch: Cockermouth
   english: Cockermouth
@@ -27085,7 +27085,7 @@
   finnish: Cockermouth
   french: Bonaparteville
   german: Karlugwal
-  greek: Cockermouth
+  greek: Katsaróla
   hindi: Kokaakauth
   hungarian: Cockermouth
   italian: Cockermouth
@@ -27096,12 +27096,12 @@
   polish: Cockermouth
   portuguese: Cockermouth
   romanian: Cockermouth
-  russian: .nan
+  russian: Uklon
   spanish: Cockermouth
   swedish: Cockermouth
   turkish: Cockermouth
-  ukrainian: Cockermouth
-  yugoslav: Cockermouth
+  ukrainian: Kokelʹ
+  yugoslav: Kocmouth
 - Province id: 11336
   StateID: 243
   albanian: Roslavl
@@ -27841,10 +27841,10 @@
 - Province id: 11476
   StateID: 245
   albanian: Millerovo
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Millerovo
+  arab: Milirufu
+  belarusian: Milierava
+  bulgarian: Milovo
+  chinese: Mǐlièluōwò
   czech: Millerovo
   danish: Millerovo
   dutch: Millerovo
@@ -27857,19 +27857,19 @@
   hindi: Milarovo
   hungarian: Millerovo
   italian: Millerovo
-  japanese: .nan
+  japanese: Mirībū
   latvian: Millerovo
   lithuanian: Millerovo
   norwegian: Millerovo
   polish: Millerowo
-  portuguese: Millerovo
+  portuguese: Milerovo
   romanian: Millerovo
   russian: Millerovo
   spanish: Millerovo
   swedish: Millerovo
   turkish: Millerovo
-  ukrainian: .nan
-  yugoslav: Millerovo
+  ukrainian: Millerovo
+  yugoslav: Milirovo
 - Province id: 11479
   StateID: 91
   albanian: Lwów
@@ -28608,36 +28608,36 @@
   yugoslav: Bolzano/Bozen
 - Province id: 11610
   StateID: 155
-  albanian: Pecs
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Pecs
-  czech: Pecs
+  albanian: Pécs
+  arab: Bitsh
+  belarusian: Pieč
+  bulgarian: Pech
+  chinese: Pèiqí
+  czech: Pécs
   danish: Pécs
   dutch: Vijfkerken
   english: Pecs
-  estonian: Pecs
-  finnish: Pecs
-  french: Pecs
+  estonian: Pécs
+  finnish: Pécs
+  french: Pécs
   german: Fünfkirchen
-  greek: Pecs
+  greek: Pets
   hindi: Pee Ee See Es
-  hungarian: Pecs
-  italian: Pecs
-  japanese: .nan
-  latvian: Pecs
-  lithuanian: Pecs
+  hungarian: Pécs
+  italian: Cinquechiese
+  japanese: Pēchi
+  latvian: Pēča
+  lithuanian: Pėčas
   norwegian: Pecs
   polish: Pecz
-  portuguese: Pecs
-  romanian: Pecs
-  russian: Pecs
-  spanish: Pecs
-  swedish: Pecs
-  turkish: Pecs
-  ukrainian: .nan
-  yugoslav: Pecs
+  portuguese: Pécs
+  romanian: Pécs
+  russian: Pech
+  spanish: Pécs
+  swedish: Pécs
+  turkish: Pécs
+  ukrainian: Pech
+  yugoslav: Pečuh
 - Province id: 11612
   StateID: 152
   albanian: Villach
@@ -28928,36 +28928,36 @@
   yugoslav: Braga
 - Province id: 11674
   StateID: 229
-  albanian: Ganja
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Ganja
-  czech: Ganja
-  danish: Ganja
-  dutch: Ganja
+  albanian: Ganxha
+  arab: Janja
+  belarusian: Gandja
+  bulgarian: Gunja
+  chinese: Zhànjiǎ
+  czech: Gjandža
+  danish: Gandja
+  dutch: Gandja
   english: Ganja
-  estonian: Ganja
-  finnish: Ganja
-  french: Ganja
+  estonian: Gjandža
+  finnish: Gandža
+  french: Gandja
   german: Wilhelm-Galwitz
-  greek: Ganja
+  greek: Nkantzá
   hindi: Ganj
-  hungarian: Ganja
-  italian: Ganja
-  japanese: .nan
-  latvian: Ganja
-  lithuanian: Ganja
+  hungarian: Gandzsa
+  italian: Tesoria
+  japanese: Gyanja
+  latvian: Gendže
+  lithuanian: Gendžė
   norwegian: Ganja
   polish: Gandża
   portuguese: Ganja
-  romanian: Ganja
-  russian: Ganja
-  spanish: Ganja
-  swedish: Ganja
-  turkish: Ganja
-  ukrainian: .nan
-  yugoslav: Ganja
+  romanian: Gandja
+  russian: Gyandzha
+  spanish: Ganyá
+  swedish: Gäncä
+  turkish: Gence
+  ukrainian: Hanʹya
+  yugoslav: Gandža
 - Province id: 11683
   StateID: 197
   albanian: Mykolaiv
@@ -29057,35 +29057,35 @@
 - Province id: 11724
   StateID: 237
   albanian: Elitsa
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Elitsa
-  czech: Elitsa
-  danish: Elitsa
+  arab: Iilista
+  belarusian: Elista
+  bulgarian: Elista
+  chinese: Āilìsītǎ
+  czech: Elista
+  danish: Elista
   dutch: Elistad
   english: Elitsa
-  estonian: Elitsa
-  finnish: Elitsa
-  french: Elitsa
+  estonian: Elista
+  finnish: Elista
+  french: Elista
   german: Elistadt
-  greek: Elitsa
+  greek: Elísta
   hindi: Elitsa
-  hungarian: Elitsa
-  italian: Elitsa
-  japanese: .nan
-  latvian: Elitsa
-  lithuanian: Elitsa
+  hungarian: Eliszta
+  italian: Elista
+  japanese: Erisuta
+  latvian: Elista
+  lithuanian: Elista
   norwegian: Elitsa
   polish: Elista
-  portuguese: Elitsa
-  romanian: Elitsa
+  portuguese: Elista
+  romanian: Elista
   russian: Elista
-  spanish: Elitsa
-  swedish: Elitsa
-  turkish: Elitsa
-  ukrainian: .nan
-  yugoslav: Elitsa
+  spanish: Elistá
+  swedish: Elista
+  turkish: Elista
+  ukrainian: Elista
+  yugoslav: Elista
 - Province id: 11746
   StateID: 344
   albanian: Adane
@@ -29153,12 +29153,12 @@
 - Province id: 11752
   StateID: 611
   albanian: Zhangbei
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Zhangbei
+  arab: Kan Tshangh
+  belarusian: Čžan
+  bulgarian: Dzhan Beshe
+  chinese: Zhāngběizhèn
   czech: Zhangbei
-  danish: Zhang
+  danish: Zhangbei
   dutch: Zhangbei
   english: Zhangbei
   estonian: Zhangbei
@@ -29166,21 +29166,21 @@
   french: Zhangbei
   german: Zhangbei
   greek: Zhangbei
-  hindi: Jhaang
+  hindi: Jhaangabeee
   hungarian: Zhangbei
   italian: Zhangbei
-  japanese: .nan
+  japanese: Chō Cha
   latvian: Zhangbei
   lithuanian: Zhangbei
-  norwegian: Zhang
+  norwegian: Zhangbei
   polish: Zhangbei
   portuguese: Zhangbei
   romanian: Zhangbei
-  russian: Zhangbei
+  russian: Chzhan
   spanish: Zhangbei
   swedish: Zhangbei
   turkish: Zhangbei
-  ukrainian: .nan
+  ukrainian: Zhan
   yugoslav: Zhangbei
 - Province id: 11767
   StateID: 44
@@ -31841,15 +31841,15 @@
 - Province id: 12715
   StateID: 474
   albanian: Mérida
-  arab: .nan
-  belarusian: .nan
-  bulgarian: .nan
-  chinese: Meilida
+  arab: Marida
+  belarusian: Mieryda
+  bulgarian: Merida
+  chinese: Méilǐd
   czech: Mérida
-  danish: Merida
+  danish: Mérida
   dutch: Mérida
   english: Mérida
-  estonian: Merida
+  estonian: Mérida
   finnish: Mérida
   french: Mérida
   german: Mérida
@@ -31857,18 +31857,18 @@
   hindi: Merida
   hungarian: Mérida
   italian: Mérida
-  japanese: .nan
+  japanese: Merida
   latvian: Merida
   lithuanian: Merida
   norwegian: Mérida
   polish: Mérida
   portuguese: Mérida
-  romanian: Mérida
-  russian: Mérida
+  romanian: Mérid
+  russian: Merida
   spanish: Mérida
-  swedish: Mérida
-  turkish: Mérida
-  ukrainian: .nan
+  swedish: Mérid
+  turkish: Mérid
+  ukrainian: Merida
   yugoslav: Mérida
 - Province id: 12725
   StateID: 551
