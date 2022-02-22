@@ -31,6 +31,7 @@ def fix_language(dataframe, filename, language, language_code):
         if not page.exists():
             print("current name {} does not exists in {} wikipedia!".format(current_name, language))
             # get it from the other languages
+            # TODO FIX fill_missing_in_row return now dataframe
             new_name = fill_missing_in_row(dataframe,index)
             if new_name==None:
                 print("no wiki found, attempt translation in english")

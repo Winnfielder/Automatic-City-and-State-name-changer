@@ -18,6 +18,7 @@
   hungarian: Stavanger
   italian: Stavanger
   japanese: Sutavuangeru
+  korean: Seutabang Eleu
   latvian: Stavangeres komūna
   lithuanian: Stavangeris
   norwegian: Stavanger
@@ -50,6 +51,7 @@
   hungarian: Narjan-Mar
   italian: Nar'jan-Mar
   japanese: Nariyan maru
+  korean: Naliyanmaleu
   latvian: Narjanmara
   lithuanian: Narjan Maras
   norwegian: Naryan Mar
@@ -82,6 +84,7 @@
   hungarian: Balzer
   italian: Balzer
   japanese: Baruzā
+  korean: Baelleoeo
   latvian: Balzer
   lithuanian: Balzer
   norwegian: Balzer
@@ -114,6 +117,7 @@
   hungarian: Velikij Novgorod
   italian: Velikij Novgorod
   japanese: Novugorodo
+  korean: Bellikinobeugolodeu
   latvian: Veļikijnovgoroda
   lithuanian: Didysis Naugardas
   norwegian: Novgorod
@@ -146,6 +150,7 @@
   hungarian: Jaroszlavl
   italian: Jaroslavl'
   japanese: Yarosuravuri
+  korean: Yaloseullabeul
   latvian: Jaroslavļa
   lithuanian: Jaroslavlis
   norwegian: Yaroslavl
@@ -178,6 +183,7 @@
   hungarian: Bergen
   italian: Bergen
   japanese: Berugen
+  korean: Beleugen
   latvian: Bergena
   lithuanian: Bergenas
   norwegian: Bergen
@@ -210,6 +216,7 @@
   hungarian: Willemstad
   italian: Willemstad
   japanese: Uiremusutatto
+  korean: Billemseutateu
   latvian: Vilemstade
   lithuanian: Vilemstadas
   norwegian: Willemstad
@@ -242,6 +249,7 @@
   hungarian: Falun
   italian: Falun
   japanese: Fārun
+  korean: Pallun
   latvian: Fāluna
   lithuanian: Faliunas
   norwegian: Falun
@@ -274,6 +282,7 @@
   hungarian: Arensburg
   italian: Arensburg
   japanese: Arensubāgu
+  korean: Ile Jeu Buleukeu
   latvian: Arensburg
   lithuanian: Arensburg
   norwegian: Arensburg
@@ -306,6 +315,7 @@
   hungarian: Lubumbashi
   italian: Lubumbashi
   japanese: Rubunba
+  korean: Lubumbasi
   latvian: Lubumbaši
   lithuanian: Lubumbašis
   norwegian: Elisabethville
@@ -338,6 +348,7 @@
   hungarian: Narvik
   italian: Narvik
   japanese: Narubikku
+  korean: Narvik
   latvian: Narvik
   lithuanian: Narvik
   norwegian: Narvik
@@ -370,6 +381,7 @@
   hungarian: Salla
   italian: Salla
   japanese: Sara
+  korean: Gidohada
   latvian: Salla
   lithuanian: Salla
   norwegian: Be
@@ -402,6 +414,7 @@
   hungarian: Aberdeen
   italian: Aberdeen
   japanese: Abadīn
+  korean: Aebeodin
   latvian: Aberdīna
   lithuanian: Aberdynas
   norwegian: Aberdeen
@@ -434,6 +447,7 @@
   hungarian: Rēzekne
   italian: Rēzekne
   japanese: Rēzekune
+  korean: Lejekeune
   latvian: Rēzekne
   lithuanian: Rezekne
   norwegian: Rezekne
@@ -466,6 +480,7 @@
   hungarian: Wilhelmshaven
   italian: Wilhelmshaven
   japanese: Vuiruherumusuhāfen
+  korean: Bilhelleumseuhapen
   latvian: Wilhelmshaven
   lithuanian: Vilhelmshafenas
   norwegian: Wilhelmshaven
@@ -498,6 +513,7 @@
   hungarian: Norwich
   italian: Norwich
   japanese: Norijji
+  korean: Nolichi
   latvian: Noridža
   lithuanian: Noridžas
   norwegian: Norwich
@@ -530,6 +546,7 @@
   hungarian: Bydgoszcz
   italian: Bydgoszcz
   japanese: Buidogoshuchu
+  korean: Bideugosyuchi
   latvian: Bidgošča
   lithuanian: Bydgoščius
   norwegian: Bydgoszcz
@@ -562,6 +579,7 @@
   hungarian: Skót-felföld
   italian: Highlands
   japanese: Hairando chihō
+  korean: Hailaendeu Jibang
   latvian: Highlands
   lithuanian: Škotijos aukštumos
   norwegian: Det Skotske Høylandet
@@ -594,6 +612,7 @@
   hungarian: Wexford
   italian: Wexford
   japanese: Uekkusufōdo
+  korean: Wegseupeodeu
   latvian: Wexford
   lithuanian: Veksfordas
   norwegian: Wexford
@@ -626,6 +645,7 @@
   hungarian: Tullamore
   italian: Tullamore
   japanese: Taramoa
+  korean: Teolleomo Eo
   latvian: Tullamore
   lithuanian: Talamoras
   norwegian: Tullamore
@@ -658,6 +678,7 @@
   hungarian: Szmolenszk
   italian: Smolensk
   japanese: Sumorensuku
+  korean: Seumollenseukeu
   latvian: Smoļenska
   lithuanian: Smolenskas
   norwegian: Smolensk
@@ -690,6 +711,7 @@
   hungarian: Daugavpils
   italian: Daugavpils
   japanese: Daugafupirusu
+  korean: Daugapeupilseu
   latvian: Daugavpils
   lithuanian: Daugpilis
   norwegian: Daugavpils
@@ -722,6 +744,7 @@
   hungarian: Wrexham
   italian: Wrexham
   japanese: Rekusamu
+  korean: Legseom
   latvian: Wrexham
   lithuanian: Reksamas
   norwegian: Wrexham
@@ -754,6 +777,7 @@
   hungarian: Rostock
   italian: Rostock
   japanese: Ro sutokku
+  korean: Loseutokeu
   latvian: Rostoka
   lithuanian: Rostokas
   norwegian: Rostock
@@ -786,6 +810,7 @@
   hungarian: Newcastle
   italian: Castelnuovo
   japanese: Nyūkassuru
+  korean: Nyukaeseul
   latvian: Newcastle
   lithuanian: Niukaslas
   norwegian: Newcastle
@@ -818,6 +843,7 @@
   hungarian: Gdańsk
   italian: Danzica
   japanese: Gudanisuku
+  korean: Geudanseukeu
   latvian: Gdaņska
   lithuanian: Gdanskas
   norwegian: Danzig
@@ -850,6 +876,7 @@
   hungarian: Cardiff
   italian: Fortetaffo
   japanese: Kādifu
+  korean: Kadipeu
   latvian: Kārdifa
   lithuanian: Kardifas
   norwegian: Cardiff
@@ -882,6 +909,7 @@
   hungarian: Kaluga
   italian: Kaluga
   japanese: Karūga
+  korean: Kalluga
   latvian: Kaluga
   lithuanian: Kaluga
   norwegian: Kaluga
@@ -914,6 +942,7 @@
   hungarian: Göteborg
   italian: Göteborg
   japanese: Yōtebori
+  korean: Yeteboli
   latvian: Gēteborga
   lithuanian: Geteborgas
   norwegian: Göteborg
@@ -946,6 +975,7 @@
   hungarian: Londonderry
   italian: Derry
   japanese: Rondonderī
+  korean: Deli
   latvian: Deri
   lithuanian: Londonderis
   norwegian: Londonderry
@@ -978,6 +1008,7 @@
   hungarian: Amszterdam
   italian: Amsterdam
   japanese: Amusuterudamu
+  korean: Amseuteleudam
   latvian: Amsterdama
   lithuanian: Amsterdamas
   norwegian: Amsterdam
@@ -1010,6 +1041,7 @@
   hungarian: Uljanovszk
   italian: Ul'janovsk
   japanese: Uriyanofusuku
+  korean: Ulliyanobseukeu
   latvian: Uļjanovska
   lithuanian: Uljanovskas
   norwegian: Ulyanovsk
@@ -1042,6 +1074,7 @@
   hungarian: Siedlce
   italian: Siedlce
   japanese: Shi doru su
+  korean: Siedeulche
   latvian: Sedlce
   lithuanian: Sedlcos
   norwegian: Siedlce
@@ -1074,6 +1107,7 @@
   hungarian: Maladzecsna
   italian: Maladzečna
   japanese: Maladsetschna
+  korean: Mallajechina
   latvian: Maladzječna
   lithuanian: Maladečina
   norwegian: Molodeczno
@@ -1106,6 +1140,7 @@
   hungarian: Swansea
   italian: Swansea
   japanese: Suuonjī
+  korean: Seuwanji
   latvian: Svonzi
   lithuanian: Svonsis
   norwegian: Swansea
@@ -1138,6 +1173,7 @@
   hungarian: Voronyezs
   italian: Voronež
   japanese: Vuoroneji
+  korean: Bolonesi
   latvian: Voroņeža
   lithuanian: Voronežas
   norwegian: Voronezh
@@ -1170,6 +1206,7 @@
   hungarian: Harkov
   italian: Charkiv
   japanese: Harukiu
+  korean: Haleukiu
   latvian: Harkova
   lithuanian: Charkovas
   norwegian: Kharkov
@@ -1202,6 +1239,7 @@
   hungarian: Kowel
   italian: Kovel'
   japanese: Kōvueri
+  korean: Kobel
   latvian: Koveļa
   lithuanian: Kovelis
   norwegian: Kovel
@@ -1234,6 +1272,7 @@
   hungarian: Weimar
   italian: Weimar
   japanese: Vuaimaru
+  korean: Baimaleu
   latvian: Veimāra
   lithuanian: Veimaras
   norwegian: Weimar
@@ -1266,6 +1305,7 @@
   hungarian: Tarnów
   italian: Tarnau
   japanese: Tarunufu
+  korean: Taleunupeu
   latvian: Tarnova
   lithuanian: Tarnuvas
   norwegian: Tarn
@@ -1298,6 +1338,7 @@
   hungarian: Vinnicja
   italian: Vinnycja
   japanese: Vuīn'nuitsuya
+  korean: Binnicha
   latvian: Vinnica
   lithuanian: Vinycia
   norwegian: Vinnytsia
@@ -1330,6 +1371,7 @@
   hungarian: Dieppe
   italian: Dieppe
   japanese: Dieppu
+  korean: Diepeu
   latvian: Dieppe
   lithuanian: Dieppe
   norwegian: Dieppe
@@ -1362,6 +1404,7 @@
   hungarian: Mikhaylovka
   italian: Michajlovka
   japanese: Mikhaylovka
+  korean: Mikhaylovka
   latvian: Mikhaylovka
   lithuanian: Mikhaylovka
   norwegian: Mikhaylovka
@@ -1394,6 +1437,7 @@
   hungarian: Cserkaszi
   italian: Čerkasy
   japanese: Cherukāsui
+  korean: Cheleukasi
   latvian: Čerkasi
   lithuanian: Čerkasai
   norwegian: Cherkasy
@@ -1426,6 +1470,7 @@
   hungarian: Dortmund
   italian: Dortmund
   japanese: Dorutomunto
+  korean: Doleuteumunteu
   latvian: Dortmunde
   lithuanian: Dortmundas
   norwegian: Dortmund
@@ -1458,6 +1503,7 @@
   hungarian: Orléans
   italian: Orléans
   japanese: Orurean
+  korean: Oleulleang
   latvian: Orleāna
   lithuanian: Orleanas
   norwegian: Orleans
@@ -1490,6 +1536,7 @@
   hungarian: Kowel
   italian: Kowel
   japanese: Kōvueri
+  korean: Kobel
   latvian: Koveļa
   lithuanian: Kovelis
   norwegian: Kowel
@@ -1522,6 +1569,7 @@
   hungarian: Drezda
   italian: Dresda
   japanese: Doresuden
+  korean: Deuleseuden
   latvian: Drēzdene
   lithuanian: Dresdenas
   norwegian: Dresden
@@ -1554,6 +1602,7 @@
   hungarian: Brüsszel
   italian: Brusselle
   japanese: Buryusseru
+  korean: Beulwisel
   latvian: Briseles
   lithuanian: Briuselio
   norwegian: Brussel
@@ -1586,6 +1635,7 @@
   hungarian: Kijev
   italian: Kiev
   japanese: Kiefu
+  korean: Kiyepeu
   latvian: Kijeva
   lithuanian: Kijevas
   norwegian: Kiev
@@ -1618,6 +1668,7 @@
   hungarian: Plymouth
   italian: Plymouth
   japanese: Purimasu
+  korean: Peullimeoseu
   latvian: Plimuta
   lithuanian: Plimutas
   norwegian: Plymouth
@@ -1650,6 +1701,7 @@
   hungarian: Haguenau
   italian: Haguenau
   japanese: Agunō
+  korean: Ageuno
   latvian: Haguenau
   lithuanian: Haguenau
   norwegian: Haguenau
@@ -1682,6 +1734,7 @@
   hungarian: Legnica
   italian: Liegnitz
   japanese: Regunitsua
+  korean: Legeunicha
   latvian: Legņica
   lithuanian: Legnica
   norwegian: Liegnitz
@@ -1714,6 +1767,7 @@
   hungarian: Pinszk
   italian: Pinsk
   japanese: Pinsuku
+  korean: Pinseukeu
   latvian: Pinska
   lithuanian: Pinskas
   norwegian: Furu
@@ -1746,6 +1800,7 @@
   hungarian: Ostrowiec
   italian: Ostrowiec
   japanese: Osttrowiec.
+  korean: Ostrowiec
   latvian: Ostrowiec
   lithuanian: Ostrowiec
   norwegian: Ostrowiec
@@ -1778,6 +1833,7 @@
   hungarian: Kassel
   italian: Kassel
   japanese: Kasseru
+  korean: Kasel
   latvian: Kasele
   lithuanian: Kaselis
   norwegian: Kassel
@@ -1810,6 +1866,7 @@
   hungarian: Luck
   italian: Łuck
   japanese: Rūtsuiku
+  korean: Lucheukeu
   latvian: Lucka
   lithuanian: Luckas
   norwegian: Flaks
@@ -1842,6 +1899,7 @@
   hungarian: Dunkerque
   italian: Dunkerque
   japanese: Dankeruku
+  korean: Doengkeleukeu
   latvian: Denkerka
   lithuanian: Diunkerkas
   norwegian: Dunkerque
@@ -1874,6 +1932,7 @@
   hungarian: Csernyivci
   italian: Černivci
   japanese: Cheruniutsuī
+  korean: Cheleuniuchi
   latvian: Čerņivci
   lithuanian: Černivciai
   norwegian: Chernivtsi
@@ -1906,6 +1965,7 @@
   hungarian: Köln
   italian: Colonia
   japanese: Kerun
+  korean: Koelleun
   latvian: Ķelne
   lithuanian: Kelnas
   norwegian: Köln
@@ -1938,6 +1998,7 @@
   hungarian: Võru
   italian: Võru
   japanese: Vuoru
+  korean: Beolu
   latvian: Veru
   lithuanian: Veru
   norwegian: Volley
@@ -1970,6 +2031,7 @@
   hungarian: Újvidék
   italian: Novi Sad
   japanese: Novui sado
+  korean: Nobisadeu
   latvian: Novisada
   lithuanian: Novi Sadas
   norwegian: Novi Trist
@@ -2002,6 +2064,7 @@
   hungarian: Limoges
   italian: Limoges
   japanese: Rimōju
+  korean: Limoju
   latvian: Limoža
   lithuanian: Limožas
   norwegian: Limoges
@@ -2034,6 +2097,7 @@
   hungarian: Santiago de Chile
   italian: Santiago del Cile
   japanese: Santiago
+  korean: Santiago
   latvian: Santjago
   lithuanian: Santjagas
   norwegian: Santiago
@@ -2066,6 +2130,7 @@
   hungarian: Châteauroux
   italian: Châteauroux
   japanese: Shatōrū
+  korean: Syatolu
   latvian: Šatorū
   lithuanian: Šatoru
   norwegian: Châteauroux
@@ -2098,6 +2163,7 @@
   hungarian: Konstanca
   italian: Costanza
   japanese: Konsutantsua
+  korean: Konseutancha
   latvian: Konstanca
   lithuanian: Konstanca
   norwegian: Konstant
@@ -2130,6 +2196,7 @@
   hungarian: Zürich
   italian: Zurigo
   japanese: Chūrihhi
+  korean: Chwilihi
   latvian: Cirihe
   lithuanian: Ciurichas
   norwegian: Zürich
@@ -2162,6 +2229,7 @@
   hungarian: Innsbruck
   italian: Innsbruck
   japanese: Insuburukku
+  korean: Inseubeulukeu
   latvian: Insbruka
   lithuanian: Insbrukas
   norwegian: Innsbruck
@@ -2194,6 +2262,7 @@
   hungarian: Mulhouse
   italian: Mulhouse
   japanese: Myurūzu
+  korean: Mwillujeu
   latvian: Miluza
   lithuanian: Miulūzas
   norwegian: Mulhouse
@@ -2226,6 +2295,7 @@
   hungarian: Salzburg
   italian: Salisburgo
   japanese: Zarutsuburuku
+  korean: Jalcheubuleukeu
   latvian: Zalcburga
   lithuanian: Zalcburgas
   norwegian: Salzburg
@@ -2258,6 +2328,7 @@
   hungarian: Brassó
   italian: Braşov
   japanese: Burashovu
+  korean: Beulasyobeu
   latvian: Brašova
   lithuanian: Brašovas
   norwegian: Brasov
@@ -2290,6 +2361,7 @@
   hungarian: München
   italian: Monaco di Baviera
   japanese: Myunhen
+  korean: Mwinhen
   latvian: Minhene
   lithuanian: Miunchenas
   norwegian: München
@@ -2322,6 +2394,7 @@
   hungarian: Augsburg
   italian: Augusta
   japanese: Aukusuburuku
+  korean: Aukeuseubuleukeu
   latvian: Augsburga
   lithuanian: Augsburgas
   norwegian: Augsburg
@@ -2354,6 +2427,7 @@
   hungarian: Novorossiysk
   italian: Novorossijsk
   japanese: Novuoroshīsuku
+  korean: Nobolosiseukeu
   latvian: Novorosijska
   lithuanian: Novorosijskas
   norwegian: Novorossiysk
@@ -2386,6 +2460,7 @@
   hungarian: Herszon
   italian: Cherson
   japanese: Heruson
+  korean: Heleuson
   latvian: Hersona
   lithuanian: Chersonas
   norwegian: Kherson
@@ -2418,6 +2493,7 @@
   hungarian: León
   italian: Leon
   japanese: Reon
+  korean: Le On
   latvian: Leon
   lithuanian: León
   norwegian: Løve
@@ -2450,6 +2526,7 @@
   hungarian: Linz
   italian: Linz
   japanese: Rintsu
+  korean: Lincheu
   latvian: Linca
   lithuanian: Lincas
   norwegian: Linz
@@ -2482,6 +2559,7 @@
   hungarian: Bilbao
   italian: Bilbao
   japanese: Birubao
+  korean: Bilbao
   latvian: Bilbao
   lithuanian: Bilbao
   norwegian: Bilbao
@@ -2514,6 +2592,7 @@
   hungarian: Tiraspol
   italian: Tiraspol
   japanese: Tirasupori
+  korean: Tilaseupol
   latvian: Tiraspole
   lithuanian: Tiraspolis
   norwegian: Tiraspol
@@ -2546,6 +2625,7 @@
   hungarian: A Coruña
   italian: A Coruña
   japanese: A korūnya
+  korean: Lakolunya
   latvian: Akoruņa
   lithuanian: La Korunja
   norwegian: La Coruña
@@ -2578,6 +2658,7 @@
   hungarian: Salsk
   italian: Sal'sk
   japanese: Sarusuku
+  korean: Salseukeu
   latvian: Saļska
   lithuanian: Salsk
   norwegian: Salsk
@@ -2610,6 +2691,7 @@
   hungarian: Annecy
   italian: Annecy
   japanese: Anushī
+  korean: Ansi
   latvian: Ansi
   lithuanian: Ansi
   norwegian: Annecy
@@ -2642,6 +2724,7 @@
   hungarian: Isparta
   italian: Isparta
   japanese: Usuparuta
+  korean: Iseupaleuta
   latvian: Isparta
   lithuanian: Isparta
   norwegian: Isparta
@@ -2674,6 +2757,7 @@
   hungarian: Norfolk
   italian: Norfolk
   japanese: Nōfōku
+  korean: Nopeogju
   latvian: Norfolka
   lithuanian: Norfolkas
   norwegian: Norfolk
@@ -2706,6 +2790,7 @@
   hungarian: Bejrút
   italian: Beirut
   japanese: Beirūto
+  korean: Beiluteu
   latvian: Beirūta
   lithuanian: Beirutas
   norwegian: Beirut
@@ -2738,6 +2823,7 @@
   hungarian: Kırıkkale
   italian: Kırıkkale
   japanese: Kurukkare
+  korean: Keuleukalle
   latvian: Kırıkkale
   lithuanian: Kirikale
   norwegian: Kırıkkale
@@ -2770,6 +2856,7 @@
   hungarian: Nápoly
   italian: Napoli
   japanese: Napori
+  korean: Napolli
   latvian: Neapole
   lithuanian: Neapolis
   norwegian: Napoli
@@ -2802,6 +2889,7 @@
   hungarian: Phoenix
   italian: Phoenix
   japanese: Fenikkusu
+  korean: Pinigseu
   latvian: Phoenix
   lithuanian: Phoenix
   norwegian: Føniks
@@ -2834,6 +2922,7 @@
   hungarian: Toledo
   italian: Toledo
   japanese: Toredo
+  korean: Tolledo
   latvian: Toledo
   lithuanian: Toledo
   norwegian: Toledo
@@ -2866,6 +2955,7 @@
   hungarian: Karditsa
   italian: Karditsa
   japanese: Karuditsua
+  korean: Kaleudicha
   latvian: Karditsa
   lithuanian: Kardica
   norwegian: Karditsa
@@ -2898,6 +2988,7 @@
   hungarian: Córdoba
   italian: Córdoba
   japanese: Korudoba
+  korean: Koleudoba
   latvian: Kordova
   lithuanian: Córdoba
   norwegian: Córdoba
@@ -2930,6 +3021,7 @@
   hungarian: Elazığ
   italian: Elâzığ
   japanese: Erazū
+  korean: Ellajeueu
   latvian: Elaziga
   lithuanian: Eliazihas
   norwegian: Xarepo
@@ -2962,6 +3054,7 @@
   hungarian: Burgos
   italian: Burgos
   japanese: Burugosu
+  korean: Buleugoseu
   latvian: Burgosa
   lithuanian: Burgosas
   norwegian: Burgos
@@ -2994,6 +3087,7 @@
   hungarian: Maraş
   italian: Maraş
   japanese: Asou
+  korean: Malaseu
   latvian: Maraş
   lithuanian: Maraş
   norwegian: Maroon
@@ -3026,6 +3120,7 @@
   hungarian: Adapazarı
   italian: Adapazarı
   japanese: Adapazaru
+  korean: Adapajali
   latvian: Adapazari
   lithuanian: Adapazaris
   norwegian: Adapillary
@@ -3058,6 +3153,7 @@
   hungarian: Toulon
   italian: Tolone
   japanese: Toūron
+  korean: Tullong
   latvian: Tulona
   lithuanian: Tulonas
   norwegian: Toulon
@@ -3090,6 +3186,7 @@
   hungarian: Gjirokastra
   italian: Argirocastro
   japanese: Jirokasutora
+  korean: Jilokaseuteoleu
   latvian: Ģirokastra
   lithuanian: Girokasteris
   norwegian: Gjirokastra
@@ -3122,6 +3219,7 @@
   hungarian: Amasya
   italian: Amasya
   japanese: Amasuiya
+  korean: Amasia
   latvian: Amasya
   lithuanian: Amasya
   norwegian: Amasi
@@ -3154,6 +3252,7 @@
   hungarian: Santarém
   italian: Santarém
   japanese: Santaremu
+  korean: Santaleng
   latvian: Santarém
   lithuanian: Santarém
   norwegian: Santarem
@@ -3186,6 +3285,7 @@
   hungarian: Ancona
   italian: Ancona
   japanese: Ankōna
+  korean: Ankona
   latvian: Ankona
   lithuanian: Ankona
   norwegian: Ancona
@@ -3218,6 +3318,7 @@
   hungarian: Manisa
   italian: Magnesia
   japanese: Manisa
+  korean: Manisa
   latvian: Manisa
   lithuanian: Manisa
   norwegian: Manisa
@@ -3250,6 +3351,7 @@
   hungarian: Bursa
   italian: Bursa
   japanese: Burusa
+  korean: Buleusa
   latvian: Bursa
   lithuanian: Bursa
   norwegian: Bursa
@@ -3282,6 +3384,7 @@
   hungarian: Szófia
   italian: Sofia
   japanese: Sofia
+  korean: Sopia
   latvian: Sofija
   lithuanian: Sofija
   norwegian: Sofia
@@ -3314,6 +3417,7 @@
   hungarian: Vlagyivosztok
   italian: Vladivostok
   japanese: Urajiosutoku
+  korean: Beulladiboseutokeu
   latvian: Vladivostoka
   lithuanian: Vladivostokas
   norwegian: Vladivostok
@@ -3346,6 +3450,7 @@
   hungarian: Setúbal
   italian: Setúbal
   japanese: Setoūbaru
+  korean: Setubal
   latvian: Setubala
   lithuanian: Setubalis
   norwegian: Setúbal
@@ -3378,6 +3483,7 @@
   hungarian: Lamia
   italian: Lamia
   japanese: Ramiā
+  korean: Lamia
   latvian: Lamia
   lithuanian: Lamija
   norwegian: Ghoul
@@ -3410,6 +3516,7 @@
   hungarian: Antalya
   italian: Adalia
   japanese: Antaruya
+  korean: Antallia
   latvian: Antalja
   lithuanian: Antalija
   norwegian: Antalya
@@ -3442,6 +3549,7 @@
   hungarian: Zunyi
   italian: Zunyi
   japanese: Zunyi shiti
+  korean: Jjun Isi
   latvian: Zunyi
   lithuanian: Dzuni
   norwegian: Z Fn
@@ -3474,6 +3582,7 @@
   hungarian: Kokura
   italian: Kokura
   japanese: Ogura
+  korean: Gokulasi
   latvian: Kokura
   lithuanian: Kokura
   norwegian: Kokura
@@ -3506,6 +3615,7 @@
   hungarian: Kanton
   italian: Canton
   japanese: Kōshū
+  korean: Gwangjeousi
   latvian: Guandžou
   lithuanian: Guangdžou
   norwegian: Guangzhou
@@ -3538,6 +3648,7 @@
   hungarian: Cádiz
   italian: Cadice
   japanese: Kadisu
+  korean: Kadiseu
   latvian: Kadisa
   lithuanian: Kadisas
   norwegian: Cádiz
@@ -3570,6 +3681,7 @@
   hungarian: Homsz
   italian: Homs
   japanese: Homusu
+  korean: Homseu
   latvian: Himsa
   lithuanian: Homsas
   norwegian: Homs
@@ -3602,6 +3714,7 @@
   hungarian: Názáret
   italian: Nazareth
   japanese: Nazare
+  korean: Nasales
   latvian: Nācarete
   lithuanian: Nazaretas
   norwegian: Nazareth
@@ -3634,6 +3747,7 @@
   hungarian: Bani Szuvajf
   italian: Beni Suef
   japanese: Beni suefu
+  korean: Benisuepeu
   latvian: Beni Suef
   lithuanian: Beni Sueifas
   norwegian: Suef Me
@@ -3666,6 +3780,7 @@
   hungarian: Csinan
   italian: Jinan
   japanese: Sainan
+  korean: Jinansi
   latvian: Dzjinaņa
   lithuanian: Dzinanas
   norwegian: Jinan
@@ -3698,6 +3813,7 @@
   hungarian: Hajkou
   italian: Haikou
   japanese: Haiku
+  korean: Haikeousi
   latvian: Haikou
   lithuanian: Haikou
   norwegian: H Ai
@@ -3730,6 +3846,7 @@
   hungarian: El-Alamein
   italian: El Alamein
   japanese: Eru aramein
+  korean: El Allamein
   latvian: El-Alamein
   lithuanian: El-Alamein
   norwegian: Verdener
@@ -3762,6 +3879,7 @@
   hungarian: Jeruzsálem
   italian: Gerusalemme
   japanese: Erusaremu
+  korean: Yelusallem
   latvian: Jeruzaleme
   lithuanian: Jeruzale
   norwegian: Jerusalem
@@ -3794,6 +3912,7 @@
   hungarian: Hirosima
   italian: Hiroshima
   japanese: Hiroshima
+  korean: Hilosimasi
   latvian: Hirosima
   lithuanian: Hirosima
   norwegian: Hiroshima
@@ -3826,6 +3945,7 @@
   hungarian: Niigata
   italian: Niigata
   japanese: Nīgata
+  korean: Nigata
   latvian: Ņiigata
   lithuanian: Nijigata
   norwegian: Niigata
@@ -3858,6 +3978,7 @@
   hungarian: Tobruk
   italian: Tobruch
   japanese: Toburuku
+  korean: Tubeulukeu
   latvian: Tobruk
   lithuanian: Tubrukas
   norwegian: Tobruk
@@ -3890,6 +4011,7 @@
   hungarian: Algír
   italian: Algeri
   japanese: Aruje
+  korean: Alje
   latvian: Alžira
   lithuanian: Alžyras
   norwegian: Algiers
@@ -3922,6 +4044,7 @@
   hungarian: Tripoli
   italian: Tripoli
   japanese: Toripori
+  korean: Teulipolli
   latvian: Tripole
   lithuanian: Tripolis
   norwegian: Tripoli
@@ -3954,6 +4077,7 @@
   hungarian: Port-Arthur
   italian: Porto Arturo
   japanese: Dairen
+  korean: Poteuaseo
   latvian: Port-Arthur
   lithuanian: Port-Arthur
   norwegian: Port Arthur
@@ -3986,6 +4110,7 @@
   hungarian: Granada
   italian: Granada
   japanese: Guranada
+  korean: Geulanada
   latvian: Granada
   lithuanian: Granada
   norwegian: Granada
@@ -4018,6 +4143,7 @@
   hungarian: Tokió
   italian: Tokyo
   japanese: Tōkyōto
+  korean: Dokyodo
   latvian: Tokija
   lithuanian: Tokijas
   norwegian: Tokyo
@@ -4050,6 +4176,7 @@
   hungarian: Agrinio
   italian: Agrinio
   japanese: Agurinio
+  korean: Ageulinio
   latvian: Agrinja
   lithuanian: Agrinijas
   norwegian: Agrinio
@@ -4082,6 +4209,7 @@
   hungarian: Kuching
   italian: Kuching
   japanese: Kuchin
+  korean: Kuching
   latvian: Kuching
   lithuanian: Kučingas
   norwegian: Kuching
@@ -4114,6 +4242,7 @@
   hungarian: Batangas
   italian: Batangas
   japanese: Batangasu-shū
+  korean: Batang Gaseuju
   latvian: Batangas
   lithuanian: Batangas
   norwegian: Batangas
@@ -4146,6 +4275,7 @@
   hungarian: Guadalcanal
   italian: Guadalcanal
   japanese: Gadarukanaru-jima
+  korean: Gwadalkanalseom
   latvian: Guadalcanal
   lithuanian: Gvadalkanalis
   norwegian: Guadalcanal
@@ -4178,6 +4308,7 @@
   hungarian: Goa
   italian: Goa
   japanese: Goa-shū
+  korean: Goaju
   latvian: Goa
   lithuanian: Goa
   norwegian: Goa
@@ -4210,6 +4341,7 @@
   hungarian: Ufa
   italian: Ufa
   japanese: Ufa
+  korean: Upa
   latvian: Ufa
   lithuanian: Ufa
   norwegian: Ufa
@@ -4242,6 +4374,7 @@
   hungarian: Kunming
   italian: Kunming
   japanese: Kon mei
+  korean: Kunmingsi
   latvian: Kuņmina
   lithuanian: Kunmingas
   norwegian: Kunming
@@ -4274,6 +4407,7 @@
   hungarian: Rangun
   italian: Yangon
   japanese: Yangon
+  korean: Yang Gon
   latvian: Jangona
   lithuanian: Rangūnas
   norwegian: Rangoon
@@ -4306,6 +4440,7 @@
   hungarian: Mumbai
   italian: Mumbai
   japanese: Munbai
+  korean: Mumbai
   latvian: Mumbaja
   lithuanian: Mumbajus
   norwegian: Bombay
@@ -4338,6 +4473,7 @@
   hungarian: Dusanbe
   italian: Dušanbe
   japanese: Doushanbe
+  korean: Dusyanbe
   latvian: Dušanbe
   lithuanian: Dušanbe
   norwegian: Dushanbe
@@ -4370,6 +4506,7 @@
   hungarian: Vancouver
   italian: Vancouver
   japanese: Bankūbā
+  korean: Baenkubeo
   latvian: Vankūvera
   lithuanian: Vankuveris
   norwegian: Vancouver
@@ -4402,6 +4539,7 @@
   hungarian: Dagupan
   italian: Dagupan
   japanese: Dagupan.
+  korean: Dagupan
   latvian: Dagupan
   lithuanian: Dagupanas
   norwegian: Dagupan
@@ -4434,6 +4572,7 @@
   hungarian: San Juan
   italian: San Juan
   japanese: Sanfuan
+  korean: Sanhuan
   latvian: San Juan
   lithuanian: San Chuanas
   norwegian: San Juan
@@ -4466,6 +4605,7 @@
   hungarian: Taskent
   italian: Tashkent
   japanese: Tashukento
+  korean: Tasyukenteu
   latvian: Taškenta
   lithuanian: Taškentas
   norwegian: Tashkent
@@ -4498,6 +4638,7 @@
   hungarian: Vientián
   italian: Vientiane
   japanese: Vuienchan
+  korean: Bientian
   latvian: Vjenčana
   lithuanian: Vientianas
   norwegian: Vientiane
@@ -4530,6 +4671,7 @@
   hungarian: Durban
   italian: Durban
   japanese: Dāban
+  korean: Deoban
   latvian: Durbana
   lithuanian: Durbanas
   norwegian: Durban
@@ -4562,6 +4704,7 @@
   hungarian: Csiangmaj
   italian: Chiang Mai
   japanese: Tēsabān'nakōn chienmai
+  korean: Chiangmai
   latvian: Čhianmai
   lithuanian: Čiangmajus
   norwegian: Chiang Mai
@@ -4594,6 +4737,7 @@
   hungarian: Mandalaj
   italian: Mandalay
   japanese: Mandarē
+  korean: Mandallei
   latvian: Mandalaja
   lithuanian: Mandalajus
   norwegian: Mandalay
@@ -4626,6 +4770,7 @@
   hungarian: Dasoguz
   italian: Dasoguz
   japanese: Dashoguzu
+  korean: Dasyogujeu
   latvian: Dasoguz
   lithuanian: Dasoguzas
   norwegian: Tashauz
@@ -4658,6 +4803,7 @@
   hungarian: Mangystau
   italian: Mangghystau
   japanese: Mangisutau shū
+  korean: Mang Giseutauju
   latvian: Manghistau
   lithuanian: Mangystau
   norwegian: Mannystau
@@ -4690,6 +4836,7 @@
   hungarian: Tajjüan
   italian: Taiyuan
   japanese: Taiyō
+  korean: Taiwiansi
   latvian: Taijuaņa
   lithuanian: Tajuanas
   norwegian: Taiyuan
@@ -4722,6 +4869,7 @@
   hungarian: Kamisli
   italian: Al-Qamishli
   japanese: Kāmishurī
+  korean: Kamisilli
   latvian: Qamishli
   lithuanian: Kamišlis
   norwegian: Qamishli
@@ -4754,6 +4902,7 @@
   hungarian: Navoiy
   italian: Navoiy
   japanese: Navuoi
+  korean: Naboi
   latvian: Navoiy
   lithuanian: Navojis
   norwegian: Navoi
@@ -4786,6 +4935,7 @@
   hungarian: San Diego
   italian: San Diego
   japanese: Sandiego
+  korean: Saendiego
   latvian: Sandjego
   lithuanian: San Diegas
   norwegian: San Diego
@@ -4818,6 +4968,7 @@
   hungarian: Buhara
   italian: Bukhara
   japanese: Buhara
+  korean: Buhala
   latvian: Buhara
   lithuanian: Buchara
   norwegian: Bukhara
@@ -4850,6 +5001,7 @@
   hungarian: Almati
   italian: Almaty
   japanese: Arumatoi
+  korean: Almati
   latvian: Almati
   lithuanian: Almata
   norwegian: Alma Ata
@@ -4882,6 +5034,7 @@
   hungarian: Indianapolis
   italian: Indianapolis
   japanese: Indianaporisu
+  korean: Indiaenapolliseu
   latvian: Indianapolisa
   lithuanian: Indianapolis
   norwegian: Indianapolis
@@ -4914,6 +5067,7 @@
   hungarian: Tbiliszi
   italian: Tbilisi
   japanese: Tobiri
+  korean: Teubillisi
   latvian: Tbilisi
   lithuanian: Tbilisis
   norwegian: Tbilisi
@@ -4946,6 +5100,7 @@
   hungarian: Noʻkis
   italian: Nukus
   japanese: Nukusu
+  korean: Nukuseu
   latvian: Nukus
   lithuanian: Nukusas
   norwegian: Nukus
@@ -4978,6 +5133,7 @@
   hungarian: Perth
   italian: Perth
   japanese: Pāsu
+  korean: Peoseu
   latvian: Pērta
   lithuanian: Pertas
   norwegian: Perth
@@ -5010,6 +5166,7 @@
   hungarian: Hanti-manszijszk
   italian: Chanty-mansijsk
   japanese: Hanti manshisuku
+  korean: Hantimansiseukeu
   latvian: Hantimansijska
   lithuanian: Chanty mansijskas
   norwegian: Khanty Mansiysk
@@ -5042,6 +5199,7 @@
   hungarian: Ayaguz
   italian: Ayaguz
   japanese: Taimingu
+  korean: Ayaajeu
   latvian: Ayaguz
   lithuanian: Ajagozas
   norwegian: Ayaguz
@@ -5074,6 +5232,7 @@
   hungarian: Szalehard
   italian: Salechard
   japanese: Sareharudo
+  korean: Sallehaleuteu
   latvian: Saleharda
   lithuanian: Salechardas
   norwegian: Salgskhard
@@ -5106,6 +5265,7 @@
   hungarian: Spokane
   italian: Spokane
   japanese: Supokēn
+  korean: Seupokaen
   latvian: Spokena
   lithuanian: Spokane
   norwegian: Spokane
@@ -5138,6 +5298,7 @@
   hungarian: Rapid City
   italian: Rapid City
   japanese: Rapiddoshiti
+  korean: Laepideusiti
   latvian: Rapid City
   lithuanian: Rapid City
   norwegian: Rask By
@@ -5170,6 +5331,7 @@
   hungarian: Ponta Delgada
   italian: Ponta Delgada
   japanese: Ponta derugada
+  korean: Pontadelgada
   latvian: Pontadelgada
   lithuanian: Ponta Delgada
   norwegian: Tynn Tips
@@ -5202,6 +5364,7 @@
   hungarian: Des Moines
   italian: Des Moines
   japanese: Demo in
+  korean: Dimoin
   latvian: Demoina
   lithuanian: De Moinas
   norwegian: Munker
@@ -5234,6 +5397,7 @@
   hungarian: Barnaul
   italian: Barnaul
   japanese: Barunauru
+  korean: Baleunaul
   latvian: Barnaula
   lithuanian: Barnaulas
   norwegian: Barnaul
@@ -5266,6 +5430,7 @@
   hungarian: Tulsa
   italian: Tulsa
   japanese: Tarusa
+  korean: Teolsa
   latvian: Talsa
   lithuanian: Talsa
   norwegian: Tulsa
@@ -5298,6 +5463,7 @@
   hungarian: Wellington
   italian: Wellington
   japanese: Uerinton
+  korean: Wellingteon
   latvian: Velingtona
   lithuanian: Velingtonas
   norwegian: Wellington
@@ -5330,6 +5496,7 @@
   hungarian: Sverdlovsk
   italian: Sverdlovsk
   japanese: Swerdlowsk
+  korean: Sverdlovsk
   latvian: Sverdlovsk
   lithuanian: Sverdlovsk
   norwegian: Sverdlovsk
@@ -5362,6 +5529,7 @@
   hungarian: Mahabad
   italian: Mahabad
   japanese: Mahābādo
+  korean: Mahabadeu
   latvian: Mahabad
   lithuanian: Mahabad
   norwegian: Mahabad
@@ -5394,6 +5562,7 @@
   hungarian: Denver
   italian: Denver
   japanese: Denbā
+  korean: Denbeo
   latvian: Denvera
   lithuanian: Denveris
   norwegian: Denver
@@ -5426,6 +5595,7 @@
   hungarian: Bismarck
   italian: Bismarck
   japanese: Bisumaruku
+  korean: Biseumaleukeu
   latvian: Bismarck
   lithuanian: Bismarkas
   norwegian: Bismarck
@@ -5458,6 +5628,7 @@
   hungarian: Miami
   italian: Miami
   japanese: Maiami
+  korean: Maiaemi
   latvian: Maiami
   lithuanian: Majamis
   norwegian: Miami
@@ -5490,6 +5661,7 @@
   hungarian: Minneapolis
   italian: Minneapolis
   japanese: Mineaporisu
+  korean: Miniaepolliseu
   latvian: Mineapolisa
   lithuanian: Mineapolis
   norwegian: Minneapolis
@@ -5522,6 +5694,7 @@
   hungarian: Ensenada
   italian: Ensenada
   japanese: Ensenada
+  korean: Ensenada
   latvian: Ensenada
   lithuanian: Ensenada
   norwegian: Ensenada
@@ -5554,6 +5727,7 @@
   hungarian: Tebriz
   italian: Tabriz
   japanese: Taburīzu
+  korean: Tabeulijeu
   latvian: Tebriza
   lithuanian: Tebrizas
   norwegian: Tabriz
@@ -5586,6 +5760,7 @@
   hungarian: Tuxtla Gutiérrez
   italian: Tuxtla Gutiérrez
   japanese: Tousutora gutieresu
+  korean: Tugseuteullagutieleseu
   latvian: Tuxtla Gutiérrez
   lithuanian: Tustla Gutjeresas
   norwegian: Tuxtla Gutierrez
@@ -5618,6 +5793,7 @@
   hungarian: Malabo
   italian: Malabo
   japanese: Marabo
+  korean: Mallabo
   latvian: Malabo
   lithuanian: Malabas
   norwegian: Malabo
@@ -5650,6 +5826,7 @@
   hungarian: Conakry
   italian: Conakry
   japanese: Konakuri
+  korean: Konakeuli
   latvian: Konakri
   lithuanian: Konakris
   norwegian: Conakry
@@ -5682,6 +5859,7 @@
   hungarian: Kotli
   italian: Kotli
   japanese: Kotli
+  korean: Boilleo
   latvian: Kotli
   lithuanian: Kotlis
   norwegian: Kotli
@@ -5714,6 +5892,7 @@
   hungarian: Nairobi
   italian: Nairobi
   japanese: Nairobi
+  korean: Nailobi
   latvian: Nairobi
   lithuanian: Nairobis
   norwegian: Nairobi
@@ -5746,6 +5925,7 @@
   hungarian: Maracaibo
   italian: Maracaibo
   japanese: Marakaibo
+  korean: Malakaibo
   latvian: Marakaibo
   lithuanian: Marakaibas
   norwegian: Maracaibo
@@ -5778,6 +5958,7 @@
   hungarian: Lomé
   italian: Lomé
   japanese: Rome
+  korean: Kkoma
   latvian: Lome
   lithuanian: Lomė
   norwegian: Lome
@@ -5810,6 +5991,7 @@
   hungarian: Mexikóváros
   italian: Città del Messico
   japanese: Mekishikoshiti
+  korean: Megsikositi
   latvian: Mehiko
   lithuanian: Meksikas
   norwegian: Mexico City
@@ -5842,6 +6024,7 @@
   hungarian: Gondar
   italian: Gondar
   japanese: Gondāru
+  korean: Gondaleu
   latvian: Gondar
   lithuanian: Gonderas
   norwegian: Gondar
@@ -5874,6 +6057,7 @@
   hungarian: León
   italian: Leon
   japanese: Reon
+  korean: Le On
   latvian: Leon
   lithuanian: León
   norwegian: Løve
@@ -5906,6 +6090,7 @@
   hungarian: Villahermosa
   italian: Villahermosa
   japanese: Biyaerumosa
+  korean: Biya Eleumosa
   latvian: Villahermosa
   lithuanian: Viljahermosa
   norwegian: Villahermosa
@@ -5938,6 +6123,7 @@
   hungarian: Medellín
   italian: Medellín
   japanese: Medejin
+  korean: Medein
   latvian: Medeljina
   lithuanian: Medeljinas
   norwegian: Medellin
@@ -5970,6 +6156,7 @@
   hungarian: Iszfahán
   italian: Esfahan
   japanese: Esufahān
+  korean: Iseupahan
   latvian: Isfahāna
   lithuanian: Isfahanas
   norwegian: Isfahan
@@ -6002,6 +6189,7 @@
   hungarian: Freetown
   italian: Freetown
   japanese: Furītaun
+  korean: Peulitaun
   latvian: Fritauna
   lithuanian: Fritaunas
   norwegian: Freetown
@@ -6034,6 +6222,7 @@
   hungarian: Tianshui
   italian: Tianshui
   japanese: Amatsu
+  korean: Tyensu Isi
   latvian: Tianshui
   lithuanian: Tianshui
   norwegian: Ti Ammoniakk Vann
@@ -6066,6 +6255,7 @@
   hungarian: Lagos
   italian: Lagos
   japanese: Ragosu
+  korean: Lagoseu
   latvian: Lagosa
   lithuanian: Lagosas
   norwegian: Lagos
@@ -6098,6 +6288,7 @@
   hungarian: Dzsaipur
   italian: Jaipur
   japanese: Jaipuru
+  korean: Jaipuleu
   latvian: Džajpura
   lithuanian: Džaipuras
   norwegian: Jaipur
@@ -6130,6 +6321,7 @@
   hungarian: Niamey
   italian: Niamey
   japanese: Niame
+  korean: Niame
   latvian: Niameja
   lithuanian: Niamejus
   norwegian: Niamey
@@ -6162,6 +6354,7 @@
   hungarian: Nuevo Laredo
   italian: Nuevo Laredo
   japanese: Nuebo raredo
+  korean: Nuebolaledo
   latvian: Nuevo Laredo
   lithuanian: Nuevo Laredas
   norwegian: Nuevo Laredo
@@ -6194,6 +6387,7 @@
   hungarian: Arak
   italian: Arak
   japanese: Arukōru
+  korean: Alab Salam
   latvian: Arak
   lithuanian: Arak
   norwegian: Alkohol
@@ -6226,6 +6420,7 @@
   hungarian: Belizeváros
   italian: Belize City
   japanese: Berīzushiti
+  korean: Bellijeusiti
   latvian: Beliza
   lithuanian: Belizas
   norwegian: Belize City
@@ -6258,6 +6453,7 @@
   hungarian: Yaoundé
   italian: Yaoundé
   japanese: Yaunde
+  korean: Yaunde
   latvian: Jaunde
   lithuanian: Jaunde
   norwegian: Yaoundé
@@ -6290,6 +6486,7 @@
   hungarian: N’Djamena
   italian: N'Djamena
   japanese: Njamena
+  korean: Eunjamena
   latvian: Ndžamena
   lithuanian: Ndžamena
   norwegian: Ndjamena
@@ -6322,6 +6519,7 @@
   hungarian: Delhi
   italian: Delhi
   japanese: Derī
+  korean: Delli
   latvian: Deli
   lithuanian: Delis
   norwegian: Delhi
@@ -6354,6 +6552,7 @@
   hungarian: Baszra
   italian: Bassora
   japanese: Basura
+  korean: Baseula
   latvian: Basra
   lithuanian: Basra
   norwegian: Basrah
@@ -6386,6 +6585,7 @@
   hungarian: Juba
   italian: Giuba
   japanese: Juba
+  korean: Juba
   latvian: Džūba
   lithuanian: Džuba
   norwegian: Allerede
@@ -6418,6 +6618,7 @@
   hungarian: Bagdad
   italian: Baghdad
   japanese: Bagudādo
+  korean: Bageudadeu
   latvian: Bagdāde
   lithuanian: Bagdadas
   norwegian: Bagdad
@@ -6450,6 +6651,7 @@
   hungarian: Namibe
   italian: Moçâmedes
   japanese: Mosamedesu
+  korean: Mosamedeuseu
   latvian: Namibe
   lithuanian: Namibe
   norwegian: Namibe
@@ -6482,6 +6684,7 @@
   hungarian: Asunción
   italian: Asunción
   japanese: Asunshion
+  korean: Asunsion
   latvian: Asunsjona
   lithuanian: Asunsjonas
   norwegian: Antagelse
@@ -6514,6 +6717,7 @@
   hungarian: Hobart
   italian: Hobart
   japanese: Hobāto
+  korean: Hobateu
   latvian: Hobārta
   lithuanian: Hobartas
   norwegian: Hobart
@@ -6546,6 +6750,7 @@
   hungarian: Dar es-Salaam
   italian: Dar es Salaam
   japanese: Daruesusarāmu
+  korean: Daleueseusallam
   latvian: Dāresalāma
   lithuanian: Dar es Salamas
   norwegian: Dar S Salam
@@ -6578,6 +6783,7 @@
   hungarian: Christchurch
   italian: Christchurch
   japanese: Kuraisutochāchi
+  korean: Keulaiseuteucheochi
   latvian: Kraistčērča
   lithuanian: Kraistčerčas
   norwegian: Christchurch
@@ -6610,6 +6816,7 @@
   hungarian: Arequipa
   italian: Arequipa
   japanese: Arekipa
+  korean: Alekipa
   latvian: Arekipa
   lithuanian: Arekipa
   norwegian: Arequipa
@@ -6642,6 +6849,7 @@
   hungarian: Dunedin
   italian: Dunedin
   japanese: Danīden
+  korean: Deonidin
   latvian: Danidina
   lithuanian: Danidinas
   norwegian: Dunedin
@@ -6674,6 +6882,7 @@
   hungarian: Bujumbura
   italian: Bujumbura
   japanese: Bujunbura
+  korean: Bujumbula
   latvian: Bužumbura
   lithuanian: Bužumbūra
   norwegian: Bujumbura
@@ -6706,6 +6915,7 @@
   hungarian: Truk
   italian: Truk
   japanese: Chūku
+  korean: Teuleog
   latvian: Truk
   lithuanian: Truk
   norwegian: Lastebil
@@ -6738,6 +6948,7 @@
   hungarian: Edmonton
   italian: Edmonton
   japanese: Edomonton
+  korean: Edeumeonteon
   latvian: Edmontona
   lithuanian: Edmontonas
   norwegian: Edmonton
@@ -6770,6 +6981,7 @@
   hungarian: Trondheim
   italian: Trondheim
   japanese: Toronhaimu
+  korean: Teulonheim
   latvian: Tronheima
   lithuanian: Trondheimas
   norwegian: Trondheim
@@ -6802,6 +7014,7 @@
   hungarian: Turku
   italian: Turku
   japanese: Touruku
+  korean: Tuleuku
   latvian: Turku
   lithuanian: Turku
   norwegian: Turku
@@ -6834,6 +7047,7 @@
   hungarian: Funchal
   italian: Funchal
   japanese: Funsharu
+  korean: Punsyal
   latvian: Funšāla
   lithuanian: Funšalis
   norwegian: Funchal
@@ -6866,6 +7080,7 @@
   hungarian: Vaasa
   italian: Vaasa
   japanese: Vuāsa
+  korean: Basa
   latvian: Vāsa
   lithuanian: Vasa
   norwegian: Vaasa
@@ -6898,6 +7113,7 @@
   hungarian: Murmanszk
   italian: Murmansk
   japanese: Murumansuku
+  korean: Muleumanseukeu
   latvian: Murmanska
   lithuanian: Murmanskas
   norwegian: Murmansk
@@ -6930,6 +7146,7 @@
   hungarian: Tampere
   italian: Tampere
   japanese: Tanpere
+  korean: Tampele
   latvian: Tampere
   lithuanian: Tampere
   norwegian: Tampere
@@ -6962,6 +7179,7 @@
   hungarian: Tikhvin
   italian: Tichvin
   japanese: Chifuvuin
+  korean: Tiheubin
   latvian: Tihvina
   lithuanian: Tichvinas
   norwegian: Tikhvin
@@ -6994,6 +7212,7 @@
   hungarian: Dundee
   italian: Dundee
   japanese: Dandī
+  korean: Deondi
   latvian: Dandī
   lithuanian: Dandi
   norwegian: Dundee
@@ -7026,6 +7245,7 @@
   hungarian: Szentpétervár
   italian: San Pietroburgo
   japanese: Sankutopeteruburuku
+  korean: Sangteupeteleubuleukeu
   latvian: Sanktpēterburga
   lithuanian: Sankt Peterburgas
   norwegian: Leningrad
@@ -7058,6 +7278,7 @@
   hungarian: Tallinn
   italian: Tallinn
   japanese: Tarin
+  korean: Tallin
   latvian: Tallina
   lithuanian: Talinas
   norwegian: Tallinn
@@ -7090,6 +7311,7 @@
   hungarian: Pärnu
   italian: Pärnu
   japanese: Parunu
+  korean: Paeleunu
   latvian: Pernau
   lithuanian: Pernu
   norwegian: Pärnu
@@ -7122,6 +7344,7 @@
   hungarian: Hága
   italian: L'Aia
   japanese: Den hāgu
+  korean: Heigeu
   latvian: Hāga
   lithuanian: Haga
   norwegian: Haagen
@@ -7154,6 +7377,7 @@
   hungarian: Płock
   italian: Płock
   japanese: Puuotsuku
+  korean: Peuwocheukeu
   latvian: Plocka
   lithuanian: Plockas
   norwegian: Płock
@@ -7186,6 +7410,7 @@
   hungarian: Suwałki
   italian: Suwałki
   japanese: Suvuauki
+  korean: Subauki
   latvian: Suvalki
   lithuanian: Suvalkai
   norwegian: Suwałki
@@ -7218,6 +7443,7 @@
   hungarian: Jēkabpils
   italian: Jēkabpils
   japanese: Iēkabupirusu
+  korean: Yekabpilseu
   latvian: Jēkabpils
   lithuanian: Jekabpilis
   norwegian: Jekabpils
@@ -7250,6 +7476,7 @@
   hungarian: Breda
   italian: Breda
   japanese: Bureda
+  korean: Beuleda
   latvian: Breda
   lithuanian: Breda
   norwegian: Breda
@@ -7282,6 +7509,7 @@
   hungarian: Glasgow
   italian: Glesga
   japanese: Gurasugō
+  korean: Geullaeseugo
   latvian: Glāzgova
   lithuanian: Glazgas
   norwegian: Glasgow
@@ -7314,6 +7542,7 @@
   hungarian: Port of Spain
   italian: Port of Spain
   japanese: Pōtoobusupein
+  korean: Poteuobeuseupein
   latvian: Portofspeina
   lithuanian: Port of Speinas
   norwegian: Port Of Spain
@@ -7346,6 +7575,7 @@
   hungarian: Memel
   italian: Memel
   japanese: Memel
+  korean: Gieoglyeog
   latvian: Memel
   lithuanian: Memel
   norwegian: Mem
@@ -7378,6 +7608,7 @@
   hungarian: Toruń
   italian: Toruń
   japanese: Torun
+  korean: Tolun
   latvian: Toruņa
   lithuanian: Torune
   norwegian: Torus
@@ -7410,6 +7641,7 @@
   hungarian: Ventspils
   italian: Ventspils
   japanese: Vuentsupirusu
+  korean: Bencheupilseu
   latvian: Ventspils
   lithuanian: Ventspilis
   norwegian: Ventspils
@@ -7442,6 +7674,7 @@
   hungarian: Douglas
   italian: Douglas
   japanese: Dagurasu
+  korean: Deogeulleoseu
   latvian: Douglas
   lithuanian: Douglas
   norwegian: Douglas
@@ -7474,6 +7707,7 @@
   hungarian: Vilnius
   italian: Vilno
   japanese: Vuirinyusu
+  korean: Bilnyuseu
   latvian: Viļņa
   lithuanian: Vilnius
   norwegian: Vilnius
@@ -7506,6 +7740,7 @@
   hungarian: Odense
   italian: Odense
   japanese: Ōdense
+  korean: Odense
   latvian: Odense
   lithuanian: Odense
   norwegian: Odense
@@ -7538,6 +7773,7 @@
   hungarian: Bréma
   italian: Brema
   japanese: Burēmen
+  korean: Beulemen
   latvian: Brēmene
   lithuanian: Bremenas
   norwegian: Bremen
@@ -7570,6 +7806,7 @@
   hungarian: Brjanszk
   italian: Brjansk
   japanese: Buryansuku
+  korean: Beulyanseukeu
   latvian: Brjanska
   lithuanian: Brianskas
   norwegian: Bryansk
@@ -7602,6 +7839,7 @@
   hungarian: Arhangelszk
   italian: Arcangelo
   japanese: Aruhangerisuku
+  korean: Aleuhangelseukeu
   latvian: Arhangeļska
   lithuanian: Archangelskas
   norwegian: Arkeangelsk
@@ -7634,6 +7872,7 @@
   hungarian: Babrujszk
   italian: Babrujsk
   japanese: Baburuisuku
+  korean: Babeulu Iseukeu
   latvian: Babruiska
   lithuanian: Babruiskas
   norwegian: Bobruisk
@@ -7666,6 +7905,7 @@
   hungarian: Bristol
   italian: Abona
   japanese: Burisutoru
+  korean: Beuliseuteul
   latvian: Bristole
   lithuanian: Bristolis
   norwegian: Bristol
@@ -7698,6 +7938,7 @@
   hungarian: Belfast
   italian: Belfast
   japanese: Berufasuto
+  korean: Belpaseuteu
   latvian: Belfāsta
   lithuanian: Belfastas
   norwegian: Belfast
@@ -7730,6 +7971,7 @@
   hungarian: Breszt
   italian: Brest
   japanese: Buresuto
+  korean: Beuleseuteu
   latvian: Bresta
   lithuanian: Brestas
   norwegian: Brzezz Litauen
@@ -7762,6 +8004,7 @@
   hungarian: Hrodna
   italian: Giardino
   japanese: Furodona
+  korean: Heulodeuna
   latvian: Grodņa
   lithuanian: Gardinas
   norwegian: Grodno
@@ -7794,6 +8037,7 @@
   hungarian: Koblenz
   italian: Koblenz
   japanese: Koburentsu
+  korean: Kobeullencheu
   latvian: Koblenca
   lithuanian: Koblencas
   norwegian: Koblenz
@@ -7826,6 +8070,7 @@
   hungarian: Düsseldorf
   italian: Düsseldorf
   japanese: Deyusserudorufu
+  korean: Dwiseldoleupeu
   latvian: Diseldorfa
   lithuanian: Diuseldorfas
   norwegian: Düsseldorf
@@ -7858,6 +8103,7 @@
   hungarian: Karacsi
   italian: Karachi
   japanese: Karachi
+  korean: Kalachi
   latvian: Karāči
   lithuanian: Karačis
   norwegian: Karachi
@@ -7890,6 +8136,7 @@
   hungarian: Hmelnickij
   italian: Chmelnyckyj
   japanese: Fumerinitsukī
+  korean: Heumelnicheuki
   latvian: Hmeļnicka
   lithuanian: Chmelnyckis
   norwegian: Khmelnytskyi
@@ -7922,6 +8169,7 @@
   hungarian: Radom
   italian: Radom
   japanese: Radomu
+  korean: Ladom
   latvian: Radoma
   lithuanian: Radomas
   norwegian: Arbeid
@@ -7954,6 +8202,7 @@
   hungarian: Kostrzyn nad Odrą
   italian: Custrino
   japanese: Kosutoshin nado odoron
+  korean: Koseuteusinnateuodeulong
   latvian: Kostšina pie Odras
   lithuanian: Kostšynas prie Odros
   norwegian: Küstrin
@@ -7986,6 +8235,7 @@
   hungarian: Ternopil
   italian: Tarnopol
   japanese: Terunōpiri
+  korean: Teleunopil
   latvian: Ternopiļa
   lithuanian: Ternopilis
   norwegian: Tarnopol
@@ -8018,6 +8268,7 @@
   hungarian: Dover
   italian: Dover
   japanese: Dōbā
+  korean: Dobeo
   latvian: Duvra
   lithuanian: Doveris
   norwegian: Dover
@@ -8050,6 +8301,7 @@
   hungarian: Portland
   italian: Portland
   japanese: Pōtorando
+  korean: Poteullaendeu
   latvian: Portlenda
   lithuanian: Portlandas
   norwegian: Portland
@@ -8082,6 +8334,7 @@
   hungarian: Namur
   italian: Namur
   japanese: Namyūru
+  korean: Namwileu
   latvian: Namira
   lithuanian: Namiūras
   norwegian: Namur
@@ -8114,6 +8367,7 @@
   hungarian: Szumi
   italian: Sumy
   japanese: Sūmui
+  korean: Sumi
   latvian: Sumi
   lithuanian: Sumai
   norwegian: Summy
@@ -8146,6 +8400,7 @@
   hungarian: Magdeburg
   italian: Magdeburgo
   japanese: Makudeburuku
+  korean: Mageudebuleukeu
   latvian: Magdeburga
   lithuanian: Magdeburgas
   norwegian: Magdeburg
@@ -8178,6 +8433,7 @@
   hungarian: Stalingrád
   italian: Stalingrad
   japanese: Vuorugogurādo
+  korean: Bolgogeuladeu
   latvian: Stalingrada
   lithuanian: Stalingradas
   norwegian: Stalingrad
@@ -8210,6 +8466,7 @@
   hungarian: Karlsruhe
   italian: Karlsruhe
   japanese: Kārusurūe
+  korean: Kaleulseulue
   latvian: Karlsrūe
   lithuanian: Karlsrūje
   norwegian: Karlsruhe
@@ -8242,6 +8499,7 @@
   hungarian: Lipcse
   italian: Lipsia
   japanese: Raiputsuihi
+  korean: Laipeuchihi
   latvian: Leipciga
   lithuanian: Leipcigas
   norwegian: Leipzig
@@ -8274,6 +8532,7 @@
   hungarian: Varsó
   italian: Varsavia
   japanese: Warushawa
+  korean: Baleusyaba
   latvian: Varšava
   lithuanian: Varšuva
   norwegian: Warszawa
@@ -8306,6 +8565,7 @@
   hungarian: Waldenburg
   italian: Waldenburg
   japanese: Vuarudenburuku
+  korean: Waldenburg
   latvian: Waldenburg
   lithuanian: Waldenburg
   norwegian: Waldenburg
@@ -8338,6 +8598,7 @@
   hungarian: Bonn
   italian: Bonn
   japanese: Bon
+  korean: Bon
   latvian: Bonna
   lithuanian: Bona
   norwegian: Bonn
@@ -8370,6 +8631,7 @@
   hungarian: Munkács
   italian: Mucacevo
   japanese: Muka ts che o
+  korean: Mukachebe
   latvian: Mukačeve
   lithuanian: Mukačevas
   norwegian: Mukacevo
@@ -8402,6 +8664,7 @@
   hungarian: Brest
   italian: Brest
   japanese: Buresuto
+  korean: Beuleseuteu
   latvian: Bresta
   lithuanian: Brestas
   norwegian: Brest
@@ -8434,6 +8697,7 @@
   hungarian: Sedan
   italian: Sedan
   japanese: Sedan
+  korean: Sedan
   latvian: Sedan
   lithuanian: Sedanas
   norwegian: Siden
@@ -8466,6 +8730,7 @@
   hungarian: Erfurt
   italian: Erfurt
   japanese: Eafuruto
+  korean: Eleupuleuteu
   latvian: Erfurte
   lithuanian: Erfurtas
   norwegian: Erfurt
@@ -8498,6 +8763,7 @@
   hungarian: Csernyihiv
   italian: Černihiv
   japanese: Cherunīhiu
+  korean: Cheleunihiu
   latvian: Čerņihiva
   lithuanian: Černigovas
   norwegian: Chernigov
@@ -8530,6 +8796,7 @@
   hungarian: Brno
   italian: Bruna
   japanese: Buruno
+  korean: Beuleuno
   latvian: Brno
   lithuanian: Brno
   norwegian: Brno
@@ -8562,6 +8829,7 @@
   hungarian: Kortrijk
   italian: Courtrai
   japanese: Korutoreiku
+  korean: Koleuteuleikeu
   latvian: Kortreika
   lithuanian: Kortreikas
   norwegian: Kortrijk
@@ -8594,6 +8862,7 @@
   hungarian: Szaratov
   italian: Saratov
   japanese: Saratofu
+  korean: Salatopeu
   latvian: Saratova
   lithuanian: Saratovas
   norwegian: Saratov
@@ -8626,6 +8895,7 @@
   hungarian: Kurszk
   italian: Kursk
   japanese: Kurusuku
+  korean: Kuleuseukeu
   latvian: Kurska
   lithuanian: Kurskas
   norwegian: Kursk
@@ -8658,6 +8928,7 @@
   hungarian: Eperjes
   italian: Prešov
   japanese: Pureshofu
+  korean: Peulesyou
   latvian: Prešova
   lithuanian: Prešovas
   norwegian: Prešov
@@ -8690,6 +8961,7 @@
   hungarian: Ostrava
   italian: Ostrava
   japanese: Osutoravua
+  korean: Oseuteulaba
   latvian: Ostrava
   lithuanian: Ostrava
   norwegian: Ostrava
@@ -8722,6 +8994,7 @@
   hungarian: Carlsbad
   italian: Carlsbad
   japanese: Kāruzubaddo
+  korean: Kaljeubaedeu
   latvian: Carlsbad
   lithuanian: Carlsbad
   norwegian: Carlsbad
@@ -8754,6 +9027,7 @@
   hungarian: Vichy
   italian: Vichy
   japanese: Vuishī
+  korean: Bisi
   latvian: Viši
   lithuanian: Viši
   norwegian: Vichy
@@ -8786,6 +9060,7 @@
   hungarian: Pancsova
   italian: Pancevo
   japanese: Panchevuo
+  korean: Panchebo
   latvian: Pančeva
   lithuanian: Pančevas
   norwegian: Pancevo
@@ -8818,6 +9093,7 @@
   hungarian: Guryev
   italian: Guyryev
   japanese: Guryev
+  korean: Gulibeseu
   latvian: Guryev
   lithuanian: Guryev
   norwegian: Guryev
@@ -8850,6 +9126,7 @@
   hungarian: Dijon
   italian: Digione
   japanese: Dijon
+  korean: Dijong
   latvian: Dižona
   lithuanian: Dižonas
   norwegian: Dijon
@@ -8882,6 +9159,7 @@
   hungarian: Batumi
   italian: Batumi
   japanese: Batoumi
+  korean: Batumi
   latvian: Batumi
   lithuanian: Batumis
   norwegian: Batumi
@@ -8914,6 +9192,7 @@
   hungarian: Ploieşti
   italian: Ploieşti
   japanese: Puroieshuti
+  korean: Peulloiesyuti
   latvian: Ploješti
   lithuanian: Ploještis
   norwegian: Ploiesti
@@ -8946,6 +9225,7 @@
   hungarian: Tours
   italian: Tours
   japanese: Toūru
+  korean: Tuleu
   latvian: Tūra
   lithuanian: Tūras
   norwegian: Turer
@@ -8978,6 +9258,7 @@
   hungarian: Groznij
   italian: Groznyj
   japanese: Gurozunui
+  korean: Geulojeuni
   latvian: Groznija
   lithuanian: Groznas
   norwegian: Grozny
@@ -9010,6 +9291,7 @@
   hungarian: Klagenfurt
   italian: Klagenfurt
   japanese: Kurāgenfuruto
+  korean: Keullagenpuleuteu
   latvian: Klāgenfurte
   lithuanian: Klagenfurtas
   norwegian: Klagenfurt
@@ -9042,6 +9324,7 @@
   hungarian: Szevasztopol
   italian: Sebastopoli
   japanese: Sevuasutopori
+  korean: Sebaseutopol
   latvian: Sevastopole
   lithuanian: Sevastopolis
   norwegian: Sevastopol
@@ -9074,6 +9357,7 @@
   hungarian: Szevasztopol
   italian: Sebastopoli
   japanese: Sevuasutopori
+  korean: Sebaseutopol
   latvian: Sevastopole
   lithuanian: Sevastopolis
   norwegian: Sevastópol
@@ -9106,6 +9390,7 @@
   hungarian: Chişinău
   italian: Chişinău
   japanese: Kishinau
+  korean: Kisineou
   latvian: Kišiņeva
   lithuanian: Kišiniovas
   norwegian: Chisinau
@@ -9138,6 +9423,7 @@
   hungarian: Majkop
   italian: Majkop
   japanese: Maikōpu
+  korean: Maikopeu
   latvian: Maikopa
   lithuanian: Maikopas
   norwegian: Maikop
@@ -9170,6 +9456,7 @@
   hungarian: Krasznodar
   italian: Krasnodar
   japanese: Kurasunodāru
+  korean: Keulaseunodaleu
   latvian: Krasnodara
   lithuanian: Krasnodaras
   norwegian: Krasnodar
@@ -9202,6 +9489,7 @@
   hungarian: Balta
   italian: Balta
   japanese: Baruta
+  korean: Balleta
   latvian: Balta
   lithuanian: Balta
   norwegian: Hvit
@@ -9234,6 +9522,7 @@
   hungarian: Grenoble
   italian: Granopoli
   japanese: Gurunōburu
+  korean: Geuleunobeul
   latvian: Grenoble
   lithuanian: Grenoblis
   norwegian: Grenoble
@@ -9266,6 +9555,7 @@
   hungarian: Toronto
   italian: Toronto
   japanese: Toronto
+  korean: Tolonto
   latvian: Toronto
   lithuanian: Torontas
   norwegian: Toronto
@@ -9298,6 +9588,7 @@
   hungarian: Ottawa
   italian: Ottawa
   japanese: Otawa
+  korean: Otawa
   latvian: Otava
   lithuanian: Otava
   norwegian: Ottawa
@@ -9330,6 +9621,7 @@
   hungarian: Milánó
   italian: Milano
   japanese: Mirano
+  korean: Millano
   latvian: Milāna
   lithuanian: Milanas
   norwegian: Milano
@@ -9362,6 +9654,7 @@
   hungarian: Portimão
   italian: Portimão
   japanese: Port port
+  korean: Poleutimang
   latvian: Portimauna
   lithuanian: Portimaunas
   norwegian: Portimão
@@ -9394,6 +9687,7 @@
   hungarian: Plevna
   italian: Pleven
   japanese: Purevuen
+  korean: Peulleben
   latvian: Plevena
   lithuanian: Plevenas
   norwegian: Pleven
@@ -9426,6 +9720,7 @@
   hungarian: Coimbra
   italian: Coimbra
   japanese: Koinbura
+  korean: Koimbeula
   latvian: Koimbra
   lithuanian: Koimbra
   norwegian: Coimbra
@@ -9458,6 +9753,7 @@
   hungarian: Zaragoza
   italian: Saragozza
   japanese: Saragosa
+  korean: Salagosa
   latvian: Saragosa
   lithuanian: Saragosa
   norwegian: Zaragoza
@@ -9490,6 +9786,7 @@
   hungarian: Ajaccio
   italian: Aiaccio
   japanese: Ajakushio
+  korean: Ajagsio
   latvian: Ažaksjo
   lithuanian: Ajačas
   norwegian: Ajaccio
@@ -9522,6 +9819,7 @@
   hungarian: Kateríni
   italian: Kateríni
   japanese: Katerīni
+  korean: Katelini
   latvian: Kateríni
   lithuanian: Katerine
   norwegian: Kateríni
@@ -9554,6 +9852,7 @@
   hungarian: Kütahya
   italian: Kütahya
   japanese: Kyutahiya
+  korean: Kwitahia
   latvian: Kitahja
   lithuanian: Kiutahija
   norwegian: Kutahya
@@ -9586,6 +9885,7 @@
   hungarian: Yozgat
   italian: Yozgat
   japanese: Yozugato
+  korean: Yojeugateu
   latvian: Yozgat
   lithuanian: Jozgatas
   norwegian: Yozgat
@@ -9618,6 +9918,7 @@
   hungarian: Vólosz
   italian: Volos
   japanese: Vuorosu
+  korean: Bolloseu
   latvian: Vola
   lithuanian: Volas
   norwegian: Hår
@@ -9650,6 +9951,7 @@
   hungarian: Dubrovnik
   italian: Ragusa
   japanese: Douburovuniku
+  korean: Dubeulobeunikeu
   latvian: Dubrovnika
   lithuanian: Dubrovnikas
   norwegian: Dubrovnik
@@ -9682,6 +9984,7 @@
   hungarian: Kayseri
   italian: Kayseri
   japanese: Kaiseri
+  korean: Kaiseli
   latvian: Kayseri
   lithuanian: Kayseri
   norwegian: Kayseri
@@ -9714,6 +10017,7 @@
   hungarian: Salamanca
   italian: Salamanca
   japanese: Saramanka
+  korean: Sallamangka
   latvian: Salamanka
   lithuanian: Salamanka
   norwegian: Salamanca
@@ -9746,6 +10050,7 @@
   hungarian: New York
   italian: New York
   japanese: Nyūyōku
+  korean: Nyuyog
   latvian: Ņujorka
   lithuanian: Niujorkas
   norwegian: New York
@@ -9778,6 +10083,7 @@
   hungarian: Szkopje
   italian: Skopje
   japanese: Sukopie
+  korean: Seukope
   latvian: Skopje
   lithuanian: Skopje
   norwegian: Skopje
@@ -9810,6 +10116,7 @@
   hungarian: Joánina
   italian: Giannina
   japanese: Yoanina
+  korean: Ioanina
   latvian: Ioannina
   lithuanian: Janina
   norwegian: Ioannina
@@ -9842,6 +10149,7 @@
   hungarian: Erbíl
   italian: Erbil
   japanese: Arubīru
+  korean: Aleubil
   latvian: Erbila
   lithuanian: Erbilis
   norwegian: Erbil
@@ -9874,6 +10182,7 @@
   hungarian: Split
   italian: Spalato
   japanese: Supuritto
+  korean: Seupeullis
   latvian: Split
   lithuanian: Split
   norwegian: Dele
@@ -9906,6 +10215,7 @@
   hungarian: Pamplona
   italian: Pamplona
   japanese: Panpurōna
+  korean: Pampeullona
   latvian: Pamplona
   lithuanian: Pamplona
   norwegian: Pamplona
@@ -9938,6 +10248,7 @@
   hungarian: Madrid
   italian: Madrid
   japanese: Madorīdo
+  korean: Madeulideu
   latvian: Madride
   lithuanian: Madridas
   norwegian: Madrid
@@ -9970,6 +10281,7 @@
   hungarian: Dajr Ez-zaur
   italian: Deir El-zor
   japanese: Derizoru
+  korean: Deileuejoleu
   latvian: Deir az-Zur
   lithuanian: Deir Ez Zoras
   norwegian: Deir ez-Zor
@@ -10002,6 +10314,7 @@
   hungarian: Cuenca
   italian: Cuenca
   japanese: Kuenka
+  korean: Kuengka
   latvian: Cuenca
   lithuanian: Kuenka
   norwegian: Cuenca
@@ -10034,6 +10347,7 @@
   hungarian: Eskişehir
   italian: Eskişehir
   japanese: Esukishehiru
+  korean: Eseukisyehileu
   latvian: Eskišehira
   lithuanian: Eskišechiras
   norwegian: Eskişehir
@@ -10066,6 +10380,7 @@
   hungarian: Caspe
   italian: Caspe
   japanese: Kasupe
+  korean: Kaseupe
   latvian: Caspe
   lithuanian: Caspe
   norwegian: Caspe
@@ -10098,6 +10413,7 @@
   hungarian: Washington
   italian: Washington
   japanese: Washinton
+  korean: Wosingteon
   latvian: Vašingtona
   lithuanian: Vašingtonas
   norwegian: Washington
@@ -10130,6 +10446,7 @@
   hungarian: Dallas
   italian: Dallas
   japanese: Darasu
+  korean: Daelleoseu
   latvian: Dalasa
   lithuanian: Dalasas
   norwegian: Dallas
@@ -10162,6 +10479,7 @@
   hungarian: Lárisza
   italian: Larissa
   japanese: Rarisa
+  korean: Lalisa
   latvian: Larisa
   lithuanian: Larisa
   norwegian: Larissa
@@ -10194,6 +10512,7 @@
   hungarian: Gümüşhane
   italian: Gümüşhane
   japanese: Gyumyushuhāne
+  korean: Gwimwisyane
   latvian: Gümüşhane
   lithuanian: Giumiušchane
   norwegian: Gumushane
@@ -10226,6 +10545,7 @@
   hungarian: Korinthosz
   italian: Corinto
   japanese: Korintosu
+  korean: Kolintoseu
   latvian: Korinta
   lithuanian: Korintas
   norwegian: Kórinthos
@@ -10258,6 +10578,7 @@
   hungarian: Nancsang
   italian: Nanchang
   japanese: Nanshō
+  korean: Nanchangsi
   latvian: Naņčana
   lithuanian: Nančangas
   norwegian: Nanchang
@@ -10290,6 +10611,7 @@
   hungarian: Saipan
   italian: Saipan
   japanese: Saipan-jima
+  korean: Saipanseom
   latvian: Saipana
   lithuanian: Saipanas
   norwegian: Sagan
@@ -10322,6 +10644,7 @@
   hungarian: Gíza
   italian: Giza
   japanese: Gīza
+  korean: Gija
   latvian: Giza
   lithuanian: Giza
   norwegian: Giza
@@ -10354,6 +10677,7 @@
   hungarian: Phenjan
   italian: Pyongyang
   japanese: Heijō
+  korean: Pyeong Yangsi
   latvian: Phenjana
   lithuanian: Pchenjanas
   norwegian: Pyongyang
@@ -10386,6 +10710,7 @@
   hungarian: Puszan
   italian: Pusan
   japanese: Pusan
+  korean: Busangwang Yeogsi
   latvian: Pusana
   lithuanian: Busanas
   norwegian: Pusan
@@ -10418,6 +10743,7 @@
   hungarian: Szuez
   italian: Suez
   japanese: Suezu
+  korean: Suejeu
   latvian: Suvaisa
   lithuanian: Suecas
   norwegian: Suez
@@ -10450,6 +10776,7 @@
   hungarian: Hanoi
   italian: Hanoi
   japanese: Hanoi
+  korean: Hanoi
   latvian: Hanoja
   lithuanian: Hanojus
   norwegian: Hanoi
@@ -10482,6 +10809,7 @@
   hungarian: Alexandria
   italian: Alessandria dEgitto
   japanese: Arekusandoria
+  korean: Allegsandeulia
   latvian: Aleksandrija
   lithuanian: Aleksandrija
   norwegian: Alexandria
@@ -10514,6 +10842,7 @@
   hungarian: Alicante
   italian: Alicante
   japanese: Arikante
+  korean: Allikante
   latvian: Alakanta
   lithuanian: Alikante
   norwegian: Alicante
@@ -10546,6 +10875,7 @@
   hungarian: Kagosima
   italian: Kagoshima
   japanese: Kagoshima
+  korean: Gagosimasi
   latvian: Kagosima
   lithuanian: Kagošima
   norwegian: Kagoshima
@@ -10578,6 +10908,7 @@
   hungarian: Marrákes
   italian: Marrakech
   japanese: Marakeshu
+  korean: Malakesi
   latvian: Marrākeša
   lithuanian: Marakešas
   norwegian: Marrakech
@@ -10610,6 +10941,7 @@
   hungarian: Athén
   italian: Atene
   japanese: Atene
+  korean: Atene
   latvian: Atēnas
   lithuanian: Atenai
   norwegian: Athen
@@ -10642,6 +10974,7 @@
   hungarian: Damaszkusz
   italian: Damasco
   japanese: Damasukasu
+  korean: Damaseukuseu
   latvian: Damaska
   lithuanian: Damaskas
   norwegian: Damaskus
@@ -10674,6 +11007,7 @@
   hungarian: İzmir
   italian: Smirne
   japanese: Izumiru
+  korean: Ijeumileu
   latvian: Izmira
   lithuanian: Izmiras
   norwegian: Izmir
@@ -10706,6 +11040,7 @@
   hungarian: Gibraltár
   italian: Gibilterra
   japanese: Jiburarutaru
+  korean: Jibeulolteo
   latvian: Gibraltārs
   lithuanian: Gibraltaras
   norwegian: Gibraltar
@@ -10738,6 +11073,7 @@
   hungarian: Messina
   italian: Messina
   japanese: Messhīna
+  korean: Mesina
   latvian: Mesina
   lithuanian: Mesina
   norwegian: Messina
@@ -10770,6 +11106,7 @@
   hungarian: El-Arish
   italian: El-Arish
   japanese: Arīshu
+  korean: Alisi
   latvian: El-Arish
   lithuanian: El-Arish
   norwegian: Arish
@@ -10802,6 +11139,7 @@
   hungarian: Honolulu
   italian: Honolulu
   japanese: Honoruru
+  korean: Honollullu
   latvian: Honolulu
   lithuanian: Honolulu
   norwegian: Honolulu
@@ -10834,6 +11172,7 @@
   hungarian: Makaó
   italian: Macao
   japanese: Makao
+  korean: Makao
   latvian: Makao
   lithuanian: Makao
   norwegian: Macau
@@ -10866,6 +11205,7 @@
   hungarian: Fucsou
   italian: Fuzhou
   japanese: Fukushū shiti
+  korean: Pujeousi
   latvian: Fudžou
   lithuanian: Fudžou
   norwegian: Fuzhou
@@ -10898,6 +11238,7 @@
   hungarian: Tel-Aviv
   italian: Tel Aviv
   japanese: Teruabibu
+  korean: Tel Abibeu
   latvian: Telaviva
   lithuanian: Tel Avivas
   norwegian: Tel Aviv
@@ -10930,6 +11271,7 @@
   hungarian: Buin
   italian: Buin
   japanese: Buin
+  korean: Bu In
   latvian: Buin
   lithuanian: Buin
   norwegian: Gjort
@@ -10962,6 +11304,7 @@
   hungarian: Davao
   italian: Davao
   japanese: Dabao
+  korean: Dabao
   latvian: Davao
   lithuanian: Davao
   norwegian: Davao
@@ -10994,6 +11337,7 @@
   hungarian: Kolkata
   italian: Calcutta
   japanese: Korukata
+  korean: Kolkata
   latvian: Kolkata
   lithuanian: Kolkata
   norwegian: Calcutta
@@ -11026,6 +11370,7 @@
   hungarian: Nouméa
   italian: Numea
   japanese: Numea
+  korean: Numea
   latvian: Numea
   lithuanian: Numeja
   norwegian: Noumea
@@ -11058,6 +11403,7 @@
   hungarian: Suva
   italian: Suva
   japanese: Suba
+  korean: Suba
   latvian: Suva
   lithuanian: Suva
   norwegian: Suva
@@ -11090,6 +11436,7 @@
   hungarian: Calapan
   italian: Calapan
   japanese: Kara pan
+  korean: Kallapan
   latvian: Calapan
   lithuanian: Calapan
   norwegian: Calapan
@@ -11122,6 +11469,7 @@
   hungarian: Port Moresby
   italian: Port Moresby
   japanese: Pōtomoresubī
+  korean: Poteumoleujeubi
   latvian: Portmorsbi
   lithuanian: Port Morsbis
   norwegian: Port Moresby
@@ -11154,6 +11502,7 @@
   hungarian: Akmolinsk
   italian: Akmolinsk
   japanese: Akmolinsk
+  korean: Nuleusultan
   latvian: Akmolinsk
   lithuanian: Akmolinsk
   norwegian: Akmolinsk
@@ -11186,6 +11535,7 @@
   hungarian: Montréal
   italian: Montréal
   japanese: Montoriōru
+  korean: Monteuliol
   latvian: Monreāla
   lithuanian: Monrealis
   norwegian: Montréal
@@ -11218,6 +11568,7 @@
   hungarian: Sztyerlitamak
   italian: Sterlitamak
   japanese: Suteruritamaku
+  korean: Seuteleullitamakeu
   latvian: Sterļitamaka
   lithuanian: Sterlitamakas
   norwegian: Sterlitamak
@@ -11250,6 +11601,7 @@
   hungarian: Eszak-palau
   italian: North Palau
   japanese: Kita Parao
+  korean: Noseu Pallau
   latvian: North Palau
   lithuanian: Siaures Palau
   norwegian: North Palau
@@ -11282,6 +11634,7 @@
   hungarian: Saigon
   italian: Saigon
   japanese: Saigon
+  korean: Hojjiminsi
   latvian: Saigon
   lithuanian: Saigon
   norwegian: Saigon
@@ -11314,6 +11667,7 @@
   hungarian: Myitkyina
   italian: Myitkyina
   japanese: Mitchīnā
+  korean: Michina
   latvian: Myitkyina
   lithuanian: Mjičina
   norwegian: Myitkyina
@@ -11346,6 +11700,7 @@
   hungarian: Biloxi
   italian: Biloxi
   japanese: Biroku
+  korean: Billeogsi
   latvian: Biloxi
   lithuanian: Biloxi
   norwegian: Biloxi
@@ -11378,6 +11733,7 @@
   hungarian: Kujjang
   italian: Guiyang
   japanese: Kiyō
+  korean: Gu Iyangsi
   latvian: Guijana
   lithuanian: Guijangas
   norwegian: Guiyang
@@ -11410,6 +11766,7 @@
   hungarian: Diyarbakır
   italian: Diyarbakır
   japanese: Diyarubakuru
+  korean: Diyaleubakileu
   latvian: Dijarbakira
   lithuanian: Dijarbakyras
   norwegian: Diyarbakir
@@ -11442,6 +11799,7 @@
   hungarian: Patna
   italian: Patna
   japanese: Patona
+  korean: Pateuna
   latvian: Patna
   lithuanian: Patna
   norwegian: Patna
@@ -11474,6 +11832,7 @@
   hungarian: Auckland
   italian: Auckland
   japanese: Ōkurando
+  korean: Okeullaendeu
   latvian: Oklenda
   lithuanian: Oklandas
   norwegian: Auckland
@@ -11506,6 +11865,7 @@
   hungarian: Saint Louis
   italian: Saint Louis
   japanese: Sentoruisu
+  korean: Seinteulu Iseu
   latvian: Saint Louis
   lithuanian: Saint Louis
   norwegian: Saint Louis
@@ -11538,6 +11898,7 @@
   hungarian: Csangcsun
   italian: Changchun
   japanese: Chōshun
+  korean: Changchunsi
   latvian: Čančuņa
   lithuanian: Čangčunas
   norwegian: Hsinking
@@ -11570,6 +11931,7 @@
   hungarian: Szent James A Lovagokrol
   italian: San Giacomo dei Cavalieri
   japanese: Kishi No Hijiri Jemuzu
+  korean: Gisadan Ui Seinteu Jeimseu
   latvian: Saint James No Bruniniekiem
   lithuanian: Saint James Riteriai
   norwegian: Saint James Of The Knights
@@ -11602,6 +11964,7 @@
   hungarian: Surabaya
   italian: Surabaya
   japanese: Surabaya
+  korean: Sulabaya
   latvian: Surabaja
   lithuanian: Surabaja
   norwegian: Surabaya
@@ -11634,6 +11997,7 @@
   hungarian: David
   italian: David
   japanese: Dabiddo
+  korean: Dabideu
   latvian: Davida
   lithuanian: Davidas
   norwegian: San José De David
@@ -11666,6 +12030,7 @@
   hungarian: Vuhan
   italian: Wuhan
   japanese: Bukan
+  korean: Uhansi
   latvian: Uhaņa
   lithuanian: Uhanas
   norwegian: Wuhan
@@ -11698,6 +12063,7 @@
   hungarian: Hungerburg
   italian: Hungerburg
   japanese: Kiga bāgu
+  korean: Heong Gali Beogeu
   latvian: Hungerburg
   lithuanian: Hungerburg
   norwegian: Hungerburg
@@ -11730,6 +12096,7 @@
   hungarian: Port-au-Prince
   italian: Port-au-Prince
   japanese: Porutōpuransu
+  korean: Poleutopeulaengseu
   latvian: Portoprensa
   lithuanian: Port o Prensas
   norwegian: Port Au Prince
@@ -11762,6 +12129,7 @@
   hungarian: Medan
   italian: Medan
   japanese: Medan
+  korean: Medan
   latvian: Medana
   lithuanian: Medanas
   norwegian: Medan
@@ -11794,6 +12162,7 @@
   hungarian: Gqeberha
   italian: Port Elizabeth
   japanese: Pōto erizabesu
+  korean: Poteuellijabeseu
   latvian: Portelizabeta
   lithuanian: Port Elizabetas
   norwegian: Port Elizabeth
@@ -11826,6 +12195,7 @@
   hungarian: Chita
   italian: Chita
   japanese: Senri
+  korean: Chita
   latvian: Chita
   lithuanian: Chita
   norwegian: Chita
@@ -11858,6 +12228,7 @@
   hungarian: Ürümcsi
   italian: Ürümqi
   japanese: Urumuchi
+  korean: Ulumuchisi
   latvian: Urumči
   lithuanian: Urumčis
   norwegian: Urumqi
@@ -11890,6 +12261,7 @@
   hungarian: Krasznojarszk
   italian: Krasnojarsk
   japanese: Kurasunoyarusuku
+  korean: Keulaseunoyaleuseukeu
   latvian: Krasnojarska
   lithuanian: Krasnojarskas
   norwegian: Krasnoyarsk
@@ -11922,6 +12294,7 @@
   hungarian: Wichita
   italian: Wichita
   japanese: Uichita
+  korean: Wichito
   latvian: Wichita
   lithuanian: Wichita
   norwegian: Wichita
@@ -11954,6 +12327,7 @@
   hungarian: Irkutszk
   italian: Irkutsk
   japanese: Irukūtsuku
+  korean: Ileukucheukeu
   latvian: Irkutska
   lithuanian: Irkutskas
   norwegian: Irkutsk
@@ -11986,6 +12360,7 @@
   hungarian: Gorno-altajszk
   italian: Gorno-altajsk
   japanese: Goruno-Arutaisuku
+  korean: Goleunoaltaiseukeu
   latvian: Gornoaltajska
   lithuanian: Gorno Altaiskas
   norwegian: Gorno-Altaysk
@@ -12018,6 +12393,7 @@
   hungarian: Ulánbátor
   italian: Ulan Bator
   japanese: Uranbātoru
+  korean: Ullanbatoleu
   latvian: Ulanbatora
   lithuanian: Ulan Batoras
   norwegian: Ulaanbaatar
@@ -12050,6 +12426,7 @@
   hungarian: Tyumeny
   italian: Tjumen
   japanese: Chumeni
+  korean: Tyumen
   latvian: Tjumeņa
   lithuanian: Tiumene
   norwegian: Tyumen
@@ -12082,6 +12459,7 @@
   hungarian: Dugyinka
   italian: Dudinka
   japanese: Doudinka
+  korean: Dudinka
   latvian: Dudinka
   lithuanian: Dudinka
   norwegian: Dudinka
@@ -12114,6 +12492,7 @@
   hungarian: Great Falls
   italian: Great Falls
   japanese: Ōtaki
+  korean: Geuleiteupolseu
   latvian: Great Falls
   lithuanian: Great Falls
   norwegian: Great Falls
@@ -12146,6 +12525,7 @@
   hungarian: Salt Lake City
   italian: Salt Lake City
   japanese: Sorutoreikushiti
+  korean: Solteuleikeusiti
   latvian: Soltleiksitija
   lithuanian: Solt Leik Sitis
   norwegian: Salt Lake City
@@ -12178,6 +12558,7 @@
   hungarian: Winnipeg
   italian: Winnipeg
   japanese: Uinipegu
+  korean: Winipeg
   latvian: Vinipega
   lithuanian: Vinipegas
   norwegian: Winnipeg
@@ -12210,6 +12591,7 @@
   hungarian: Windhoek
   italian: Windhoek
   japanese: Uintofukku
+  korean: Binteuhukeu
   latvian: Vindhuka
   lithuanian: Vindhukas
   norwegian: Windhoek
@@ -12242,6 +12624,7 @@
   hungarian: Morelia
   italian: Morelia
   japanese: Moreria
+  korean: Molellia
   latvian: Morelija
   lithuanian: Morelija
   norwegian: Morelia
@@ -12274,6 +12657,7 @@
   hungarian: Herát
   italian: Herat
   japanese: Herāto
+  korean: Helateu
   latvian: Herāta
   lithuanian: Heratas
   norwegian: Herat
@@ -12306,6 +12690,7 @@
   hungarian: Ardabíl
   italian: Ardabil
   japanese: Arudabīru
+  korean: Aleudabil
   latvian: Ardabil
   lithuanian: Ardebilis
   norwegian: Ardabil
@@ -12338,6 +12723,7 @@
   hungarian: Campeche
   italian: Campeche
   japanese: Kanpeche-shū
+  korean: Kampecheju
   latvian: Kampeče
   lithuanian: Kampeče
   norwegian: Campeche
@@ -12370,6 +12756,7 @@
   hungarian: Heroica Guaymas
   italian: Guaymas
   japanese: Guaimasu
+  korean: Gwaimaseu
   latvian: Guaymas
   lithuanian: Gvaimasas
   norwegian: Guays
@@ -12402,6 +12789,7 @@
   hungarian: Csengtu
   italian: Chengdu
   japanese: Ch ch
+  korean: Cheongdusi
   latvian: Čendu
   lithuanian: Čengdu
   norwegian: Chengdu
@@ -12434,6 +12822,7 @@
   hungarian: Bamako
   italian: Bamako
   japanese: Bamako
+  korean: Bamako
   latvian: Bamako
   lithuanian: Bamakas
   norwegian: Bamako
@@ -12466,6 +12855,7 @@
   hungarian: Yasuj
   italian: Yasuj
   japanese: Yāsūju
+  korean: Yasujeu
   latvian: Yasuj
   lithuanian: Jasudžas
   norwegian: Yasuj
@@ -12498,6 +12888,7 @@
   hungarian: Szanandadzs
   italian: Sanandaj
   japanese: Sanandaju
+  korean: Sanandaji
   latvian: Sanandaj
   lithuanian: Senendedžas
   norwegian: Sanandaj
@@ -12530,6 +12921,7 @@
   hungarian: Dakar
   italian: Dakar
   japanese: Dakāru
+  korean: Dakaleu
   latvian: Dakara
   lithuanian: Dakaras
   norwegian: Dakar
@@ -12562,6 +12954,7 @@
   hungarian: San Luis Potosí
   italian: San Luis Potosí
   japanese: San ruisu potoshi-shū
+  korean: Sanlu Iseupotosiju
   latvian: Sanluisa Potosi
   lithuanian: San Luis Potosi
   norwegian: San Luis Potosi
@@ -12594,6 +12987,7 @@
   hungarian: Cancún
   italian: Cancún
   japanese: Kankun
+  korean: Kangkun
   latvian: Kankuna
   lithuanian: Kankunas
   norwegian: Cancún
@@ -12626,6 +13020,7 @@
   hungarian: Malé
   italian: Malé
   japanese: Mare
+  korean: Malle
   latvian: Male
   lithuanian: Male
   norwegian: Liten
@@ -12658,6 +13053,7 @@
   hungarian: Albuquerque
   italian: Albuquerque
   japanese: Arubakāki
+  korean: Aelbeokeoki
   latvian: Albukerke
   lithuanian: Albukerke
   norwegian: Albuquerque
@@ -12690,6 +13086,7 @@
   hungarian: Ciudad Obregón
   italian: Ciudad Obregón
   japanese: Shiuda oburegon
+  korean: Siudadeuobeulegon
   latvian: Ciudad Obregón
   lithuanian: Siudad Obregonas
   norwegian: Obregon City
@@ -12722,6 +13119,7 @@
   hungarian: Georgetown
   italian: Georgetown
   japanese: Jōjitaun
+  korean: Jojitaun
   latvian: Džordžtauna
   lithuanian: Džordžtaunas
   norwegian: Georgetown
@@ -12754,6 +13152,7 @@
   hungarian: Katmandu
   italian: Katmandu
   japanese: Katomanzu
+  korean: Kateumandu
   latvian: Katmandu
   lithuanian: Katmandu
   norwegian: Kathmandu
@@ -12786,6 +13185,7 @@
   hungarian: Banjul
   italian: Banjul
   japanese: Banjūru
+  korean: Banjul
   latvian: Bandžula
   lithuanian: Bandžulis
   norwegian: Banjul
@@ -12818,6 +13218,7 @@
   hungarian: Kangding
   italian: Kangding
   japanese: Kandingushiti
+  korean: Kangdingsi
   latvian: Kangding
   lithuanian: Kangding
   norwegian: Kangding
@@ -12850,6 +13251,7 @@
   hungarian: Addisz-Abeba
   italian: Addis Abeba
   japanese: Adisuabeba
+  korean: Adiseuababa
   latvian: Adisabeba
   lithuanian: Adis Abeba
   norwegian: Addis Abeba
@@ -12882,6 +13284,7 @@
   hungarian: Matamoros
   italian: Matamoros
   japanese: Matamorosu
+  korean: Matae Loseu
   latvian: Matamoros
   lithuanian: Matamoros
   norwegian: Matamoros
@@ -12914,6 +13317,7 @@
   hungarian: Meshed
   italian: Mashhad
   japanese: Mashuhado
+  korean: Masyuhadeu
   latvian: Mešheda
   lithuanian: Mešhedas
   norwegian: Mashhad
@@ -12946,6 +13350,7 @@
   hungarian: Lhasa
   italian: Lhasa
   japanese: Rasa
+  korean: Lasa
   latvian: Lhasa
   lithuanian: Lhasa
   norwegian: Lhasa
@@ -12978,6 +13383,7 @@
   hungarian: Nouakchott
   italian: Nouakchott
   japanese: Nuakushotto
+  korean: Nuagsyoteu
   latvian: Nuakšota
   lithuanian: Nuakšotas
   norwegian: Nouakchott
@@ -13010,6 +13416,7 @@
   hungarian: Kandahár
   italian: Kandahar
   japanese: Kandahāru
+  korean: Kandahaleu
   latvian: Kandahāra
   lithuanian: Kandaharas
   norwegian: Kandahar
@@ -13042,6 +13449,7 @@
   hungarian: Hargeysa
   italian: Hargheisa
   japanese: Harugeisa
+  korean: Haleugeisa
   latvian: Hargeisa
   lithuanian: Hargeisa
   norwegian: Hargeisa
@@ -13074,6 +13482,7 @@
   hungarian: Agua Prieta
   italian: Agua Prieta
   japanese: Mizu purieta.
+  korean: Mul Preieta
   latvian: Agua Prieta
   lithuanian: Agua Prieta
   norwegian: Vannprieta
@@ -13106,6 +13515,7 @@
   hungarian: Áden
   italian: Aden
   japanese: Aden
+  korean: Aden
   latvian: Adena
   lithuanian: Adenas
   norwegian: Aden
@@ -13138,6 +13548,7 @@
   hungarian: Kermansah
   italian: Kermanshah
   japanese: Kerumanshiya
+  korean: Keleumansya
   latvian: Kermānshāhān
   lithuanian: Kermansahas
   norwegian: Kermanshah
@@ -13170,6 +13581,7 @@
   hungarian: Kvetta
   italian: Quetta
   japanese: Kuetta
+  korean: Kweta
   latvian: Quetta
   lithuanian: Kveta
   norwegian: Quetta
@@ -13202,6 +13614,7 @@
   hungarian: Fortaleza
   italian: Fortaleza
   japanese: Forutareza
+  korean: Poleutalleja
   latvian: Fortaleza
   lithuanian: Fortaleza
   norwegian: Styrke
@@ -13234,6 +13647,7 @@
   hungarian: Santos
   italian: Santos
   japanese: Santosu
+  korean: Santoseu
   latvian: Santos
   lithuanian: Santos
   norwegian: Santos
@@ -13266,6 +13680,7 @@
   hungarian: Kinshasa
   italian: Kinshasa
   japanese: Kinshasa
+  korean: Kinsyasa
   latvian: Kinšasa
   lithuanian: Kinšasa
   norwegian: Léopoldville
@@ -13298,6 +13713,7 @@
   hungarian: Antananarivo
   italian: Antananarivo
   japanese: Antananaribo
+  korean: Antananalibo
   latvian: Antananarivu
   lithuanian: Antananaryvas
   norwegian: Antananarivo
@@ -13330,6 +13746,7 @@
   hungarian: Libreville
   italian: Libreville
   japanese: Rīburuvuiru
+  korean: Libeuleubil
   latvian: Librevila
   lithuanian: Librevilis
   norwegian: Libreville
@@ -13362,6 +13779,7 @@
   hungarian: Recife
   italian: Recife
   japanese: Reshife
+  korean: Hesipi
   latvian: Resifi
   lithuanian: Resife
   norwegian: Recife
@@ -13394,6 +13812,7 @@
   hungarian: Lusaka
   italian: Lusaka
   japanese: Rusaka
+  korean: Lusaka
   latvian: Lusaka
   lithuanian: Lusaka
   norwegian: Lusaka
@@ -13426,6 +13845,7 @@
   hungarian: Mombasa
   italian: Mombasa
   japanese: Monbasa
+  korean: Mombasa
   latvian: Mombasa
   lithuanian: Mombasa
   norwegian: Mombasa
@@ -13458,6 +13878,7 @@
   hungarian: La Paz
   italian: La Paz
   japanese: Rapasu
+  korean: Lapaseu
   latvian: Lapasa
   lithuanian: La Pasas
   norwegian: Fred
@@ -13490,6 +13911,7 @@
   hungarian: Stockholm
   italian: Stoccolma
   japanese: Sutokkuhorumu
+  korean: Seutogholleum
   latvian: Stokholma
   lithuanian: Stokholmas
   norwegian: Stockholm
@@ -13522,6 +13944,7 @@
   hungarian: Stornoway
   italian: Stornoway
   japanese: Sutōnōuei
+  korean: Seutoneowei
   latvian: Stornoway
   lithuanian: Stornovejus
   norwegian: Stornoway
@@ -13554,6 +13977,7 @@
   hungarian: London
   italian: Londra
   japanese: Rondon
+  korean: Leondeon
   latvian: Londona
   lithuanian: Londonas
   norwegian: London
@@ -13586,6 +14010,7 @@
   hungarian: Oslo
   italian: Oslo
   japanese: Osuro
+  korean: Oseullo
   latvian: Oslo
   lithuanian: Oslas
   norwegian: Oslo
@@ -13618,6 +14043,7 @@
   hungarian: Kandava
   italian: Kandava
   japanese: Kandaba
+  korean: Kanda Ba
   latvian: Kandava
   lithuanian: Kandava
   norwegian: Kandava
@@ -13650,6 +14076,7 @@
   hungarian: Jelgava
   italian: Jelgava
   japanese: Ierugavua
+  korean: Yelgaba
   latvian: Jelgava
   lithuanian: Jelgava
   norwegian: Jelgava
@@ -13682,6 +14109,7 @@
   hungarian: Panevezys
   italian: Panevežys
   japanese: Panevuejīsu
+  korean: Panebejiseu
   latvian: Panevēža
   lithuanian: Panevežys
   norwegian: Panevežys
@@ -13714,6 +14142,7 @@
   hungarian: Mazir
   italian: Mazyr
   japanese: Mazuiru
+  korean: Majileu
   latvian: Mazira
   lithuanian: Mozyrius
   norwegian: Mozyr
@@ -13746,6 +14175,7 @@
   hungarian: Nottingham
   italian: Nottingamia
   japanese: Nottingamu
+  korean: Noting Eom
   latvian: Notingema
   lithuanian: Notingamas
   norwegian: Nottingham
@@ -13778,6 +14208,7 @@
   hungarian: Utrecht
   italian: Utrecht
   japanese: Yutorehito
+  korean: Witeuleheuteu
   latvian: Utrehta
   lithuanian: Utrechtas
   norwegian: Utrecht
@@ -13810,6 +14241,7 @@
   hungarian: Kalinin
   italian: Kalinin
   japanese: Karīnin
+  korean: Kallinin
   latvian: Kalinin
   lithuanian: Kalininas
   norwegian: Kalinin
@@ -13842,6 +14274,7 @@
   hungarian: Tula
   italian: Tula
   japanese: Tula
+  korean: Tulla
   latvian: Tula
   lithuanian: Tula
   norwegian: Tula
@@ -13874,6 +14307,7 @@
   hungarian: Ivanovo
   italian: Ivanovo
   japanese: Ivuanovuo
+  korean: Ibanobo
   latvian: Ivanova
   lithuanian: Ivanovas
   norwegian: Ivanovo
@@ -13906,6 +14340,7 @@
   hungarian: Izsevszk
   italian: Iževsk
   japanese: Ijefusuku
+  korean: Ijebseukeu
   latvian: Iževska
   lithuanian: Iževskas
   norwegian: Izhevsk
@@ -13938,6 +14373,7 @@
   hungarian: Szczecin
   italian: Stettino
   japanese: Shuchechin
+  korean: Syuchechin
   latvian: Ščecina
   lithuanian: Ščecinas
   norwegian: Stettin
@@ -13970,6 +14406,7 @@
   hungarian: Koppenhága
   italian: Copenaghen
   japanese: Kopenhāgen
+  korean: Kopenhagen
   latvian: Kopenhāgena
   lithuanian: Kopenhaga
   norwegian: København
@@ -14002,6 +14439,7 @@
   hungarian: Kaunas
   italian: Kaunas
   japanese: Kaunasu
+  korean: Kaunaseu
   latvian: Kauņa
   lithuanian: Kaunas
   norwegian: Kaunas
@@ -14034,6 +14472,7 @@
   hungarian: Rosyth
   italian: Rosyth
   japanese: Rosaisu
+  korean: Losaiseu
   latvian: Rosyth
   lithuanian: Rosyth
   norwegian: Rosyth
@@ -14066,6 +14505,7 @@
   hungarian: Limerick
   italian: Limerick
   japanese: Rimurikku
+  korean: Limeolig
   latvian: Limerika
   lithuanian: Limerikas
   norwegian: Limerick
@@ -14098,6 +14538,7 @@
   hungarian: Palanga
   italian: Palanga
   japanese: Paranga
+  korean: Pallang Ga
   latvian: Palanga
   lithuanian: Palanga
   norwegian: Palanga
@@ -14130,6 +14571,7 @@
   hungarian: Manchester
   italian: Manconio
   japanese: Manchesutā
+  korean: Maencheseuteo
   latvian: Mančestra
   lithuanian: Mančesteris
   norwegian: Manchester
@@ -14162,6 +14604,7 @@
   hungarian: Königsberg
   italian: Königsberg
   japanese: Kēnihisuberuku
+  korean: Koenihiseubeleukeu
   latvian: Königsberg
   lithuanian: Karaliaučiaus istorija
   norwegian: Königsberg
@@ -14194,6 +14637,7 @@
   hungarian: Leeuwarden
   italian: Leeuwarden
   japanese: Rēwaruden
+  korean: Leiualeudeon
   latvian: Leuvardena
   lithuanian: Leuvardenas
   norwegian: Leeuwarden
@@ -14226,6 +14670,7 @@
   hungarian: Kazany
   italian: Kazan
   japanese: Kazan
+  korean: Kajan
   latvian: Kazaņa
   lithuanian: Kazane
   norwegian: Kazan
@@ -14258,6 +14703,7 @@
   hungarian: Aarhus
   italian: Aarhus
   japanese: Ōfusu
+  korean: Oleuhuseu
   latvian: Orhūsa
   lithuanian: Orhusas
   norwegian: Århus
@@ -14290,6 +14736,7 @@
   hungarian: Olsztyn
   italian: Olsztyn
   japanese: Orushutin
+  korean: Olsyutin
   latvian: Olština
   lithuanian: Olštynas
   norwegian: Allenstein
@@ -14322,6 +14769,7 @@
   hungarian: Hannover
   italian: Hannover
   japanese: Hanōfā
+  korean: Hanobeo
   latvian: Hannovere
   lithuanian: Hanoveris
   norwegian: Hannover
@@ -14354,6 +14802,7 @@
   hungarian: Moszkva
   italian: Mosca
   japanese: Mosukuwa
+  korean: Moseukeuba
   latvian: Maskava
   lithuanian: Maskva
   norwegian: Moskva
@@ -14386,6 +14835,7 @@
   hungarian: Liverpool
   italian: Liverpool
   japanese: Rivuapūru
+  korean: Libeopul
   latvian: Liverpūle
   lithuanian: Liverpulis
   norwegian: Liverpool
@@ -14418,6 +14868,7 @@
   hungarian: Kiel
   italian: Kiel
   japanese: Kīru
+  korean: Kil
   latvian: Ķile
   lithuanian: Kylis
   norwegian: Kiel
@@ -14450,6 +14901,7 @@
   hungarian: Lipeck
   italian: Lipeck
   japanese: Ripetsuku
+  korean: Lipecheukeu
   latvian: Ļipecka
   lithuanian: Lipeckas
   norwegian: Lipetsk
@@ -14482,6 +14934,7 @@
   hungarian: Plzeň
   italian: Pilsen
   japanese: Puruzeni
+  korean: Peuljen
   latvian: Plzeņa
   lithuanian: Pilzenas
   norwegian: Plzen
@@ -14514,6 +14967,7 @@
   hungarian: Cherbourg
   italian: Cherbourg
   japanese: Sherubūru = an = kotantan
+  korean: Sweleu Beogeu
   latvian: Cherbourg
   lithuanian: Cherbourg
   norwegian: Cherbourg
@@ -14546,6 +15000,7 @@
   hungarian: Katowice
   italian: Cattovizze
   japanese: Katovuitsue
+  korean: Katobiche
   latvian: Katovice
   lithuanian: Katovicai
   norwegian: Katowice
@@ -14578,6 +15033,7 @@
   hungarian: Essen
   italian: Essen
   japanese: Essen
+  korean: Esen
   latvian: Esene
   lithuanian: Esenas
   norwegian: Essen
@@ -14610,6 +15066,7 @@
   hungarian: Doneck
   italian: Doneck
   japanese: Donetsuiku
+  korean: Donecheukeu
   latvian: Doņecka
   lithuanian: Doneckas
   norwegian: Stalino
@@ -14642,6 +15099,7 @@
   hungarian: Drohobics
   italian: Drohobych
   japanese: Dorohobuichi
+  korean: Deulohobichi
   latvian: Drohobiča
   lithuanian: Drohobyčas
   norwegian: Drohobych
@@ -14674,6 +15132,7 @@
   hungarian: Frankfurt am Main
   italian: Francoforte sul Meno
   japanese: Furankufuruto amu main
+  korean: Peulangkeupuleuteuammain
   latvian: Frankfurte pie Mainas
   lithuanian: Frankfurtas prie Maino
   norwegian: Frankfurt
@@ -14706,6 +15165,7 @@
   hungarian: Eindhoven
   italian: Eindhoven
   japanese: Aintohōfen
+  korean: Einteuhobeon
   latvian: Eindhovena
   lithuanian: Eindhovenas
   norwegian: Eindhoven
@@ -14738,6 +15198,7 @@
   hungarian: Balakovo
   italian: Balakovo
   japanese: Barī
+  korean: Ballakobo
   latvian: Balakova
   lithuanian: Balakovas
   norwegian: Balakovo
@@ -14770,6 +15231,7 @@
   hungarian: Berlin
   italian: Berlino
   japanese: Berurin
+  korean: Beleullin
   latvian: Berline
   lithuanian: Berlynas
   norwegian: Berlin
@@ -14802,6 +15264,7 @@
   hungarian: Truro
   italian: Truro
   japanese: Tourūro
+  korean: Teululo
   latvian: Trūro
   lithuanian: Truras
   norwegian: Truro
@@ -14834,6 +15297,7 @@
   hungarian: Colmar
   italian: Colmar
   japanese: Korumāru
+  korean: Kolmaleu
   latvian: Kolmara
   lithuanian: Kolmaras
   norwegian: Colmar
@@ -14866,6 +15330,7 @@
   hungarian: Lorient
   italian: Lorient
   japanese: Rorian
+  korean: Loliang
   latvian: Lorjāna
   lithuanian: Lorjanas
   norwegian: Lorient
@@ -14898,6 +15363,7 @@
   hungarian: Számosz
   italian: Samo
   japanese: Samosu-jima
+  korean: Samoseuseom
   latvian: Sama
   lithuanian: Samas
   norwegian: Samos
@@ -14930,6 +15396,7 @@
   hungarian: Równe
   italian: Równe
   japanese: Dōtō
+  korean: Lon
   latvian: Równe
   lithuanian: Równe
   norwegian: Lik
@@ -14962,6 +15429,7 @@
   hungarian: Poznań
   italian: Poznań
   japanese: Pozunan
+  korean: Pojeunan
   latvian: Poznaņa
   lithuanian: Poznane
   norwegian: Poznań
@@ -14994,6 +15462,7 @@
   hungarian: Gent
   italian: Guanto
   japanese: Hento
+  korean: Sinsa
   latvian: Gent
   lithuanian: Gent
   norwegian: Gent
@@ -15026,6 +15495,7 @@
   hungarian: Olomouc
   italian: Olomoucco
   japanese: Oromōtsu
+  korean: Ollomoucheu
   latvian: Olomouca
   lithuanian: Olomoucas
   norwegian: Olomouc
@@ -15058,6 +15528,7 @@
   hungarian: Kassa
   italian: Cosice
   japanese: Koneche
+  korean: Kosice
   latvian: Kosice
   lithuanian: Kosice
   norwegian: Kosice
@@ -15090,6 +15561,7 @@
   hungarian: Luxemburg
   italian: Lussemburgo
   japanese: Rukusenburuku
+  korean: Lugsembuleukeu
   latvian: Luksemburga
   lithuanian: Liuksemburgas
   norwegian: Luxembourg
@@ -15122,6 +15594,7 @@
   hungarian: Zsitomir
   italian: Žytomyr
   japanese: Jitōmiru
+  korean: Jitomileu
   latvian: Žitomira
   lithuanian: Žitomyras
   norwegian: Zhytomyr
@@ -15154,6 +15627,7 @@
   hungarian: Antwerpen
   italian: Anversa
   japanese: Antōerupen
+  korean: Anteubeleupen
   latvian: Antverpene
   lithuanian: Antverpenas
   norwegian: Antwerpen
@@ -15186,6 +15660,7 @@
   hungarian: Bologna
   italian: Bologna
   japanese: Borōnya
+  korean: Bollonya
   latvian: Boloņa
   lithuanian: Bolonija
   norwegian: Bologna
@@ -15218,6 +15693,7 @@
   hungarian: Lyon
   italian: Lione
   japanese: Riyon
+  korean: Liong
   latvian: Liona
   lithuanian: Lionas
   norwegian: Lyon
@@ -15250,6 +15726,7 @@
   hungarian: Trieszt
   italian: Trieste
   japanese: Toriesute
+  korean: Teulieseute
   latvian: Trieste
   lithuanian: Triestas
   norwegian: Trieste
@@ -15282,6 +15759,7 @@
   hungarian: Craiova
   italian: Craiova
   japanese: Kurayōvua
+  korean: Keulaioba
   latvian: Krajova
   lithuanian: Krajova
   norwegian: Craiova
@@ -15314,6 +15792,7 @@
   hungarian: La Rochelle
   italian: La Rochelle
   japanese: Ra rosheru
+  korean: Lalosyel
   latvian: Larošela
   lithuanian: La Rošelis
   norwegian: La Rochelle
@@ -15346,6 +15825,7 @@
   hungarian: Arad
   italian: Arad
   japanese: Arado
+  korean: Aladeu
   latvian: Arad
   lithuanian: Arad
   norwegian: Arad
@@ -15378,6 +15858,7 @@
   hungarian: Louisville
   italian: Louisville
   japanese: Ruibiru
+  korean: Lu Ibil
   latvian: Lūivila
   lithuanian: Luisvilis
   norwegian: Louisville
@@ -15410,6 +15891,7 @@
   hungarian: Mahacskala
   italian: Machačkala
   japanese: Mahachikara
+  korean: Mahachikalla
   latvian: Mahačkala
   lithuanian: Machačkala
   norwegian: Makhachkala
@@ -15442,6 +15924,7 @@
   hungarian: Jalta
   italian: Jalta
   japanese: Yaruta
+  korean: Yalta
   latvian: Jalta
   lithuanian: Jalta
   norwegian: Yalta
@@ -15474,6 +15957,7 @@
   hungarian: Galati
   italian: Galati
   japanese: Gal gal
+  korean: Gallati
   latvian: Galati
   lithuanian: Galati
   norwegian: Galata
@@ -15506,6 +15990,7 @@
   hungarian: Detroit
   italian: Detroit
   japanese: Detoroito
+  korean: Diteuloiteu
   latvian: Detroita
   lithuanian: Detroitas
   norwegian: Detroit
@@ -15538,6 +16023,7 @@
   hungarian: Kolozsvár
   italian: Clauseburgo
   japanese: Kuruju = napoka
+  korean: Keullujinapoka
   latvian: Kluža-Napoka
   lithuanian: Klužas-Napoka
   norwegian: Cluj
@@ -15570,6 +16056,7 @@
   hungarian: Freiburg im Breisgau
   italian: Freiburg
   japanese: Furaiburuku imu buraisugau
+  korean: Peulaibuleukeu Imbeulaiseugau
   latvian: Freiburga
   lithuanian: Breisgau Freiburgas
   norwegian: Freiburg
@@ -15602,6 +16089,7 @@
   hungarian: Bilhorod-Dnyisztrovszkij
   italian: Bilhorod-Dnistrovskyj
   japanese: Biruhorodo = donisutorofusukī
+  korean: Bilholodeudeuniseuteulouseuki
   latvian: Bilhoroda-Dņistrovska
   lithuanian: Dniestro Bilhorodas
   norwegian: Den Hvite Citadellet
@@ -15634,6 +16122,7 @@
   hungarian: Boston
   italian: Boston
   japanese: Bosuton
+  korean: Boseuteon
   latvian: Bostona
   lithuanian: Bostonas
   norwegian: Boston
@@ -15666,6 +16155,7 @@
   hungarian: Vigo
   italian: Vigo
   japanese: Bīgo
+  korean: Bigo
   latvian: Bigo
   lithuanian: Vigas
   norwegian: Vigo
@@ -15698,6 +16188,7 @@
   hungarian: Toulouse
   italian: Tolosa
   japanese: Toūrūzu
+  korean: Tullujeu
   latvian: Tulūza
   lithuanian: Tulūza
   norwegian: Toulouse
@@ -15730,6 +16221,7 @@
   hungarian: Torino
   italian: Torino
   japanese: Torino
+  korean: Tolino
   latvian: Turina
   lithuanian: Turinas
   norwegian: Torino
@@ -15762,6 +16254,7 @@
   hungarian: Genova
   italian: Genova
   japanese: Jenovua
+  korean: Jenoba
   latvian: Dženova
   lithuanian: Genuja
   norwegian: Genoa
@@ -15794,6 +16287,7 @@
   hungarian: Karaman
   italian: Karaman
   japanese: Kara man
+  korean: Kalaman
   latvian: Karamana
   lithuanian: Karamanas
   norwegian: Karat
@@ -15826,6 +16320,7 @@
   hungarian: Kahramanmaraş
   italian: Kahramanmaraş
   japanese: Kafuramanmarashu
+  korean: Kalamanmalasyu
   latvian: Kahramanmaraša
   lithuanian: Kachramanmarašas
   norwegian: Heroisk
@@ -15858,6 +16353,7 @@
   hungarian: Sztara Zagora
   italian: Stara Zagora
   japanese: Sutara zagora
+  korean: Seutalajagola
   latvian: Stara Zagora
   lithuanian: Stara Zagora
   norwegian: Stara Zagora
@@ -15890,6 +16386,7 @@
   hungarian: Szulejmánijja
   italian: Sulaymaniyya
   japanese: Sureimaniya
+  korean: Sullaimaniya
   latvian: Sulaymaniyah
   lithuanian: Suleimanija
   norwegian: Sulaymaniyah
@@ -15922,6 +16419,7 @@
   hungarian: Ciudad Real
   italian: Ciudad Real
   japanese: Shiudā rearu
+  korean: Siudadeuleal
   latvian: Ciudad Real
   lithuanian: Siudad Realis
   norwegian: Ekte By
@@ -15954,6 +16452,7 @@
   hungarian: Philadelphia
   italian: Filadelfia
   japanese: Firaderufia
+  korean: Pilladelpia
   latvian: Filadelfija
   lithuanian: Filadelfija
   norwegian: Philadelphia
@@ -15986,6 +16485,7 @@
   hungarian: Columbus
   italian: Columbus
   japanese: Koronbusu
+  korean: Kolleombeoseu
   latvian: Columbus
   lithuanian: Kolumbas
   norwegian: Columbus
@@ -16018,6 +16518,7 @@
   hungarian: Faro
   italian: Faro
   japanese: Faro
+  korean: Nol I
   latvian: Faro
   lithuanian: Faro
   norwegian: Faro
@@ -16050,6 +16551,7 @@
   hungarian: Newark
   italian: Newark
   japanese: Nyūāku
+  korean: Nyueokeu
   latvian: Newark
   lithuanian: Newark
   norwegian: Newark
@@ -16082,6 +16584,7 @@
   hungarian: Ayn al-Arab
   italian: Kobanê
   japanese: Ain aru = arabu
+  korean: Kobani
   latvian: Ainelaraba
   lithuanian: Ayn al-Arab
   norwegian: Hvor Er Araberne
@@ -16114,6 +16617,7 @@
   hungarian: Cleveland
   italian: Cleveland
   japanese: Kurīburando
+  korean: Keullibeullaendeu
   latvian: Klivlenda
   lithuanian: Klivlandas
   norwegian: Cleveland
@@ -16146,6 +16650,7 @@
   hungarian: Badajoz
   italian: Badajoz
   japanese: Badahosu
+  korean: Badahoseu
   latvian: Badahosa
   lithuanian: Badachosas
   norwegian: Badajoz
@@ -16178,6 +16683,7 @@
   hungarian: Valencia
   italian: Valencia
   japanese: Barenshia
+  korean: Ballensia
   latvian: Valensija
   lithuanian: Valensija
   norwegian: Valencia
@@ -16210,6 +16716,7 @@
   hungarian: Plovdiv
   italian: Plovdiv
   japanese: Purovudifu
+  korean: Peullobeudipeu
   latvian: Plovdiva
   lithuanian: Plovdivas
   norwegian: Plovdiv
@@ -16242,6 +16749,7 @@
   hungarian: Gerona
   italian: Gerona
   japanese: Gerona.
+  korean: Gerona
   latvian: Gerona
   lithuanian: Gerona
   norwegian: Gerona
@@ -16274,6 +16782,7 @@
   hungarian: Beja
   italian: Beja
   japanese: Yamayama
+  korean: Beja
   latvian: Beja
   lithuanian: Beja
   norwegian: Beja
@@ -16306,6 +16815,7 @@
   hungarian: Van
   italian: Van
   japanese: Ban
+  korean: Seunghabcha
   latvian: Van
   lithuanian: Van
   norwegian: Van
@@ -16338,6 +16848,7 @@
   hungarian: Kastamonu
   italian: Kastamonu
   japanese: Kasutamonu
+  korean: Kaseutamonu
   latvian: Kastamonu
   lithuanian: Kastamonu
   norwegian: Kastamon
@@ -16370,6 +16881,7 @@
   hungarian: Pristina
   italian: Pristina
   japanese: Purishutina
+  korean: Peulisyutina
   latvian: Priština
   lithuanian: Priština
   norwegian: Uberørte
@@ -16402,6 +16914,7 @@
   hungarian: Tortosa
   italian: Tortosa
   japanese: Tourutōza
+  korean: Toleutoja
   latvian: Tortosa
   lithuanian: Tortosa
   norwegian: Tortosa
@@ -16434,6 +16947,7 @@
   hungarian: Sliven
   italian: Sliven
   japanese: Surivuen
+  korean: Seulliben
   latvian: Slivena
   lithuanian: Slivenas
   norwegian: Sliven
@@ -16466,6 +16980,7 @@
   hungarian: La Spezia
   italian: La Spezia
   japanese: Ra supetsuia
+  korean: Laseupechia
   latvian: Spēcija
   lithuanian: Specija
   norwegian: Krydder
@@ -16498,6 +17013,7 @@
   hungarian: Kayseri
   italian: Kayseri
   japanese: Kaiseri
+  korean: Kaiseli
   latvian: Kajseri
   lithuanian: Kaiseris
   norwegian: Kayseri
@@ -16530,6 +17046,7 @@
   hungarian: Banja Luka
   italian: Banja Luka
   japanese: Banya ruka
+  korean: Banyaluka
   latvian: Baņa Luka
   lithuanian: Bania Luka
   norwegian: Banja Luka
@@ -16562,6 +17079,7 @@
   hungarian: Baltimore
   italian: Baltimora
   japanese: Boruchimoa
+  korean: Boltimo Eo
   latvian: Baltimora
   lithuanian: Baltimore
   norwegian: Baltimore
@@ -16594,6 +17112,7 @@
   hungarian: Aomori
   italian: Aomori
   japanese: Aomori
+  korean: Aomolisi
   latvian: Aomori
   lithuanian: Aomoris
   norwegian: Aomori
@@ -16626,6 +17145,7 @@
   hungarian: Sinop
   italian: Sinop
   japanese: Shinoppu
+  korean: Sinop
   latvian: Sinop
   lithuanian: Sinop
   norwegian: Sinop
@@ -16658,6 +17178,7 @@
   hungarian: Guarda
   italian: Guarda
   japanese: Mite
+  korean: Gadeu Kadeu
   latvian: Guarda
   lithuanian: Guarda
   norwegian: Se
@@ -16690,6 +17211,7 @@
   hungarian: Csungking
   italian: Chongqing
   japanese: Ch ch
+  korean: Chungchingsi
   latvian: Čuncjina
   lithuanian: Čongčingas
   norwegian: Chongqing
@@ -16722,6 +17244,7 @@
   hungarian: Kábesz
   italian: Gabès
   japanese: Gabesu
+  korean: Gabeseu
   latvian: Gabès
   lithuanian: Gabesas
   norwegian: Gabès
@@ -16754,6 +17277,7 @@
   hungarian: Kairó
   italian: Il Cairo
   japanese: Kairo
+  korean: Kailo
   latvian: Kaira
   lithuanian: Kairas
   norwegian: Kairo
@@ -16786,6 +17310,7 @@
   hungarian: Sanghaj
   italian: Shanghai
   japanese: Shanhai
+  korean: Sanghaisi
   latvian: Šanhaja
   lithuanian: Šanchajus
   norwegian: Shanghai
@@ -16818,6 +17343,7 @@
   hungarian: Casablanca
   italian: Casablanca
   japanese: Kasaburanka
+  korean: Kasabeullangka
   latvian: Kasablanka
   lithuanian: Kasablanka
   norwegian: Casablanca
@@ -16850,6 +17376,7 @@
   hungarian: Hsziamen
   italian: Xiamen
   japanese: Amoi
+  korean: Syameonsi
   latvian: Sjameņa
   lithuanian: Siamenas
   norwegian: Xiamen
@@ -16882,6 +17409,7 @@
   hungarian: Oszaka
   italian: Osaka
   japanese: Ōsaka ichi
+  korean: Osakasi
   latvian: Osaka
   lithuanian: Osaka
   norwegian: Osaka
@@ -16914,6 +17442,7 @@
   hungarian: Annába
   italian: Annaba
   japanese: Annaba
+  korean: Annaba
   latvian: Annaba
   lithuanian: Anaba
   norwegian: Annaba
@@ -16946,6 +17475,7 @@
   hungarian: Sizuoka
   italian: Shizuoka
   japanese: Shizuoka
+  korean: Sijeuoka
   latvian: Sidzuoka
   lithuanian: Šidzuoka
   norwegian: Shizuoka
@@ -16978,6 +17508,7 @@
   hungarian: Argosz
   italian: Argo
   japanese: Arugosu
+  korean: Aleugoseu
   latvian: Argos
   lithuanian: Argos
   norwegian: Argos
@@ -17010,6 +17541,7 @@
   hungarian: Csangsa
   italian: Changsha
   japanese: Nagasa shiti
+  korean: Changsasi
   latvian: Čanša
   lithuanian: Čangša
   norwegian: Changsha
@@ -17042,6 +17574,7 @@
   hungarian: Changde
   italian: Changde
   japanese: Jōtoku
+  korean: Changdeosi
   latvian: Changde
   lithuanian: Čangde
   norwegian: Changde
@@ -17074,6 +17607,7 @@
   hungarian: Szöul
   italian: Seul
   japanese: Keijō
+  korean: Seoulteugbyeolsi
   latvian: Seula
   lithuanian: Seulas
   norwegian: Seoul
@@ -17106,6 +17640,7 @@
   hungarian: Halkída
   italian: Calcide
   japanese: Harukisu
+  korean: Halkiseu
   latvian: Chalcis
   lithuanian: Chalkide
   norwegian: Chalcis
@@ -17138,6 +17673,7 @@
   hungarian: Orán
   italian: Orano
   japanese: Oran
+  korean: Olang
   latvian: Orāna
   lithuanian: Oranas
   norwegian: Oran
@@ -17170,6 +17706,7 @@
   hungarian: Nanning
   italian: Nanning
   japanese: Nannei
+  korean: Nanningsi
   latvian: Naņnina
   lithuanian: Naningas
   norwegian: Nanning
@@ -17202,6 +17739,7 @@
   hungarian: Charlotte
   italian: Charlotte
   japanese: Shārotto
+  korean: Syalleos
   latvian: Šarlota
   lithuanian: Šarlote
   norwegian: Charlotte
@@ -17234,6 +17772,7 @@
   hungarian: Ammán
   italian: Amman
   japanese: Anman
+  korean: Amman
   latvian: Ammāna
   lithuanian: Amanas
   norwegian: Amman
@@ -17266,6 +17805,7 @@
   hungarian: Szendai
   italian: Sendai
   japanese: Sendai
+  korean: Sendaisi
   latvian: Sendai
   lithuanian: Sendajus
   norwegian: Sendai
@@ -17298,6 +17838,7 @@
   hungarian: Sevilla
   italian: Siviglia
   japanese: Sebiria
+  korean: Sebiya
   latvian: Sevilja
   lithuanian: Sevilija
   norwegian: Sevilla
@@ -17330,6 +17871,7 @@
   hungarian: Tajpej
   italian: Taipei
   japanese: Taipei
+  korean: Taibeisi
   latvian: Taipeja
   lithuanian: Taipejus
   norwegian: Taipei
@@ -17362,6 +17904,7 @@
   hungarian: Hangcsou
   italian: Hangzhou
   japanese: Kōshū
+  korean: Hangjeousi
   latvian: Handžou
   lithuanian: Hangdžou
   norwegian: Hangzhou
@@ -17394,6 +17937,7 @@
   hungarian: Limassol
   italian: Limisso
   japanese: Rimasōru
+  korean: Limasol
   latvian: Limasola
   lithuanian: Limasolis
   norwegian: Limassol
@@ -17426,6 +17970,7 @@
   hungarian: Koccsi
   italian: Kochi
   japanese: Kōchi
+  korean: Kochi
   latvian: Kočina
   lithuanian: Kočis
   norwegian: Kochi
@@ -17458,6 +18003,7 @@
   hungarian: Charleston
   italian: Charleston
   japanese: Chārusuton
+  korean: Chalseuteon
   latvian: Charleston
   lithuanian: Charleston
   norwegian: Charleston
@@ -17490,6 +18036,7 @@
   hungarian: Pátra
   italian: Patrasso
   japanese: Patora
+  korean: Pateula
   latvian: Patra
   lithuanian: Patrai
   norwegian: Patras
@@ -17522,6 +18069,7 @@
   hungarian: Teruel
   italian: Teruel
   japanese: Terueru
+  korean: Teluel
   latvian: Teruel
   lithuanian: Teruelis
   norwegian: Teruel
@@ -17554,6 +18102,7 @@
   hungarian: Hofej
   italian: Hefei
   japanese: Hēfeishiti
+  korean: Heopeisi
   latvian: Hefei
   lithuanian: Hefejus
   norwegian: Hefei
@@ -17586,6 +18135,7 @@
   hungarian: Hatjaj
   italian: Hat Yai
   japanese: Bōshi yai
+  korean: Has Yai
   latvian: Hat Yai
   lithuanian: Hatjajus
   norwegian: Hat Yai
@@ -17618,6 +18168,7 @@
   hungarian: Rabaul
   italian: Rabaul
   japanese: Rabauru
+  korean: Labaul
   latvian: Rabaul
   lithuanian: Rabaulas
   norwegian: Rabaul
@@ -17650,6 +18201,7 @@
   hungarian: Novoszibirszk
   italian: Novosibirsk
   japanese: Novuoshibirusuku
+  korean: Nobosibileuseukeu
   latvian: Novosibirska
   lithuanian: Novosibirskas
   norwegian: Novosibirsk
@@ -17682,6 +18234,7 @@
   hungarian: Apia
   italian: Apia
   japanese: Apia
+  korean: Apia
   latvian: Apija
   lithuanian: Apija
   norwegian: Apia
@@ -17714,6 +18267,7 @@
   hungarian: Liangshan
   italian: Liangshan
   japanese: Usotsuki
+  korean: Lyangsan
   latvian: Liangshan
   lithuanian: Liangshan
   norwegian: Jeg Er Slett
@@ -17746,6 +18300,7 @@
   hungarian: Suva
   italian: Suva
   japanese: Suba
+  korean: Suba
   latvian: Suva
   lithuanian: Suva
   norwegian: Suva
@@ -17778,6 +18333,7 @@
   hungarian: Seattle
   italian: Seattle
   japanese: Shiatoru
+  korean: Siaeteul
   latvian: Sietla
   lithuanian: Sietlas
   norwegian: Seattle
@@ -17810,6 +18366,7 @@
   hungarian: Kota Bharu
   italian: Kota Bharu
   japanese: Kotabaru
+  korean: Kotabalu
   latvian: Kota Bharu
   lithuanian: Kota Bharu
   norwegian: Kota Bharu
@@ -17842,6 +18399,7 @@
   hungarian: Aktöbe
   italian: Aqtöbe
   japanese: Akutobe
+  korean: Agtoebe
   latvian: Aktebe
   lithuanian: Aktobe
   norwegian: Aktobe
@@ -17874,6 +18432,7 @@
   hungarian: Halifax
   italian: Halifax
   japanese: Harifakkusu
+  korean: Haellipaegseu
   latvian: Halifax
   lithuanian: Halifax
   norwegian: Halifax
@@ -17906,6 +18465,7 @@
   hungarian: Brunei
   italian: Brunei
   japanese: Burunei
+  korean: Beulunai
   latvian: Bruneja
   lithuanian: Brunejus
   norwegian: Brunei
@@ -17938,6 +18498,7 @@
   hungarian: Perm
   italian: Perm
   japanese: Perumu
+  korean: Peleum
   latvian: Perm
   lithuanian: Perm
   norwegian: Perm
@@ -17970,6 +18531,7 @@
   hungarian: Phnompen
   italian: Phnom Penh
   japanese: Punonpen
+  korean: Peunompen
   latvian: Pnompeņa
   lithuanian: Pnompenis
   norwegian: Phnom Penh
@@ -18002,6 +18564,7 @@
   hungarian: Batavia
   italian: Batavia
   japanese: Batavuia
+  korean: Batabia
   latvian: Batavia
   lithuanian: Batavia
   norwegian: Batavia
@@ -18034,6 +18597,7 @@
   hungarian: Cork
   italian: Cork
   japanese: Kōku
+  korean: Koleukeu
   latvian: Cork
   lithuanian: Cork
   norwegian: Kork
@@ -18066,6 +18630,7 @@
   hungarian: Bangkok
   italian: Bangkok
   japanese: Bankoku
+  korean: Bangkog
   latvian: Bangkoka
   lithuanian: Bankokas
   norwegian: Bangkok
@@ -18098,6 +18663,7 @@
   hungarian: Hszian
   italian: Xi'an
   japanese: Shīan
+  korean: Siansi
   latvian: Sjiaņa
   lithuanian: Sianas
   norwegian: X Ian
@@ -18130,6 +18696,7 @@
   hungarian: Belo Horizonte
   italian: Belo Horizonte
   japanese: Beroorizonte
+  korean: Belluolijonchi
   latvian: Beluorizonti
   lithuanian: Belo Horizonte
   norwegian: Belo Horizonte
@@ -18162,6 +18729,7 @@
   hungarian: Mobile
   italian: Mobile
   japanese: Mōbiru
+  korean: Mobail
   latvian: Mobile
   lithuanian: Mobile
   norwegian: Mobil
@@ -18194,6 +18762,7 @@
   hungarian: Rosario
   italian: Rosario
   japanese: Rosario
+  korean: Losalio
   latvian: Rosario
   lithuanian: Rosarijas
   norwegian: Rosario
@@ -18226,6 +18795,7 @@
   hungarian: Newcastle
   italian: Newcastle
   japanese: Nyūkassuru
+  korean: Nyukaeseul
   latvian: Newcastle
   lithuanian: Niukaslas
   norwegian: Newcastle
@@ -18258,6 +18828,7 @@
   hungarian: Cizîr
   italian: Cizre
   japanese: Jizure
+  korean: Cizre
   latvian: Cizîr
   lithuanian: Cizîr
   norwegian: Cizîr
@@ -18290,6 +18861,7 @@
   hungarian: New Orleans
   italian: New Orleans
   japanese: Nyūōrinzu
+  korean: Nyuollieonseu
   latvian: Ņūorleāna
   lithuanian: Naujasis Orleanas
   norwegian: New Orleans
@@ -18322,6 +18894,7 @@
   hungarian: Brisbane
   italian: Brisbane
   japanese: Burisuben
+  korean: Beulijeubeon
   latvian: Brisbena
   lithuanian: Brisbanas
   norwegian: Brisbane
@@ -18354,6 +18927,7 @@
   hungarian: Townsville
   italian: Townsville
   japanese: Taunzubiru
+  korean: Taunjeubil
   latvian: Townsville
   lithuanian: Taunsvilis
   norwegian: Townsville
@@ -18386,6 +18960,7 @@
   hungarian: Guantánamo
   italian: Guantánamo
   japanese: Guantanamo
+  korean: Gwantanamo
   latvian: Guantánamo
   lithuanian: Gvantanamas
   norwegian: Guantánamo
@@ -18418,6 +18993,7 @@
   hungarian: Kizilorda
   italian: Qyzylorda
   japanese: Kuzuroruda
+  korean: Kijilloleuda
   latvian: Kizilorda
   lithuanian: Kyzylorda
   norwegian: Kzyl Orda
@@ -18450,6 +19026,7 @@
   hungarian: Urmia
   italian: Urmia
   japanese: Orūmīie
+  korean: Uleumia
   latvian: Orumiyeh
   lithuanian: Urmija
   norwegian: Orumiyeh
@@ -18482,6 +19059,7 @@
   hungarian: Colón
   italian: Colón
   japanese: Ketchō
+  korean: Kollon
   latvian: Colón
   lithuanian: Colón
   norwegian: Kolon
@@ -18514,6 +19092,7 @@
   hungarian: Malatya
   italian: Malatya
   japanese: Maratiya
+  korean: Mallatia
   latvian: Malatja
   lithuanian: Malatija
   norwegian: Malatia
@@ -18546,6 +19125,7 @@
   hungarian: Mar del Plata
   italian: Mar del Plata
   japanese: Maru deru purata
+  korean: Maleudelpeullata
   latvian: Mar del Plata
   lithuanian: Mar del Plata
   norwegian: Mar Del Plata
@@ -18578,6 +19158,7 @@
   hungarian: Havanna
   italian: L'Avana
   japanese: Habana
+  korean: Abana
   latvian: Havana
   lithuanian: Havana
   norwegian: Havana
@@ -18610,6 +19191,7 @@
   hungarian: Panama
   italian: Panama
   japanese: Panama
+  korean: Panama
   latvian: Panama
   lithuanian: Panama
   norwegian: Panama
@@ -18642,6 +19224,7 @@
   hungarian: Santo Domingo
   italian: Santo Domingo
   japanese: Santodomingo
+  korean: Santodoming Go
   latvian: Santodomingo
   lithuanian: Santo Domingas
   norwegian: Santo Domingo
@@ -18674,6 +19257,7 @@
   hungarian: Baku
   italian: Baku
   japanese: Bakū
+  korean: Baku
   latvian: Baku
   lithuanian: Baku
   norwegian: Baku
@@ -18706,6 +19290,7 @@
   hungarian: Darwin
   italian: Darwin
   japanese: Dāuin
+  korean: Dawin
   latvian: Darwin
   lithuanian: Darvinas
   norwegian: Darwin
@@ -18738,6 +19323,7 @@
   hungarian: Kemerovo
   italian: Kemerovo
   japanese: Kemerovuo
+  korean: Kemelobo
   latvian: Kemerova
   lithuanian: Kemerovas
   norwegian: Kemerovo
@@ -18770,6 +19356,7 @@
   hungarian: Tomszk
   italian: Tomsk
   japanese: Tomusuku
+  korean: Tomseukeu
   latvian: Tomska
   lithuanian: Tomskas
   norwegian: Tomsk
@@ -18802,6 +19389,7 @@
   hungarian: Melbourne
   italian: Melbourne
   japanese: Meruborun
+  korean: Melbeoleun
   latvian: Melburna
   lithuanian: Melburnas
   norwegian: Melbourne
@@ -18834,6 +19422,7 @@
   hungarian: Uliastay
   italian: Uliastaj
   japanese: Uriyasutai
+  korean: Olliaseutai
   latvian: Uliastay
   lithuanian: Ulijastajus
   norwegian: Uliastay
@@ -18866,6 +19455,7 @@
   hungarian: Topeka
   italian: Topeka
   japanese: Topika
+  korean: Topika
   latvian: Topika
   lithuanian: Topeka
   norwegian: Topeka
@@ -18898,6 +19488,7 @@
   hungarian: Ulan-ude
   italian: Ulan-ude
   japanese: Uran ude
+  korean: Ullan Ude
   latvian: Ulanude
   lithuanian: Ulan ude
   norwegian: Ulan Ude
@@ -18930,6 +19521,7 @@
   hungarian: Canberra
   italian: Canberra
   japanese: Kyanbera
+  korean: Kaenbeola
   latvian: Kanbera
   lithuanian: Kanbera
   norwegian: Canberra
@@ -18962,6 +19554,7 @@
   hungarian: Durango
   italian: Durango
   japanese: Dourango shū
+  korean: Dulang Goju
   latvian: Durango
   lithuanian: Durangas
   norwegian: Durango
@@ -18994,6 +19587,7 @@
   hungarian: Golmud
   italian: Golmud
   japanese: Gorumudo
+  korean: Geoeolmusi
   latvian: Golmud
   lithuanian: Golmud
   norwegian: Golmud
@@ -19026,6 +19620,7 @@
   hungarian: Ahváz
   italian: Ahvaz
   japanese: Afuvuāzu
+  korean: Abajeu
   latvian: Ahvāza
   lithuanian: Ahvazas
   norwegian: Ahvaz
@@ -19058,6 +19653,7 @@
   hungarian: Monrovia
   italian: Monrovia
   japanese: Monrobia
+  korean: Monlobia
   latvian: Monrovija
   lithuanian: Monrovija
   norwegian: Monrovia
@@ -19090,6 +19686,7 @@
   hungarian: Abu-Dzabi
   italian: Abu Dhabi
   japanese: Abudabi
+  korean: Abudabi
   latvian: Abū Dabi
   lithuanian: Abu Dabis
   norwegian: Abu Dhabi
@@ -19122,6 +19719,7 @@
   hungarian: Dali
   italian: Dali
   japanese: Dari
+  korean: Dalli
   latvian: Dali
   lithuanian: Dali
   norwegian: Om
@@ -19154,6 +19752,7 @@
   hungarian: Karadzs
   italian: Karaj
   japanese: Kyaraji
+  korean: Kalaji
   latvian: Karadža
   lithuanian: Karadžas
   norwegian: Kjære
@@ -19186,6 +19785,7 @@
   hungarian: Harar
   italian: Harar
   japanese: Harāru
+  korean: Halaleu
   latvian: Harar
   lithuanian: Hararas
   norwegian: Harar
@@ -19218,6 +19818,7 @@
   hungarian: Bandar-abbasz
   italian: Bandar Abbas
   japanese: Bandareatsubasu
+  korean: Kaemeoleon
   latvian: Bandar e'Abbas
   lithuanian: Bandare Abasas
   norwegian: Bandar Abbas
@@ -19250,6 +19851,7 @@
   hungarian: Birjand
   italian: Birjand
   japanese: Bīrujando
+  korean: Bileujandeu
   latvian: Birjand
   lithuanian: Birjand
   norwegian: Birjand
@@ -19282,6 +19884,7 @@
   hungarian: Kerbela
   italian: Kerbela
   japanese: Karubarā
+  korean: Kaleuballa
   latvian: Kerbela
   lithuanian: Kerbela
   norwegian: Karbala
@@ -19314,6 +19917,7 @@
   hungarian: Nedzsef
   italian: Najaf
   japanese: Najafu
+  korean: Najapeu
   latvian: Nedžefa
   lithuanian: Nadžafas
   norwegian: Najaf
@@ -19346,6 +19950,7 @@
   hungarian: Punakha
   italian: Punakha
   japanese: Punaka
+  korean: Punaka
   latvian: Punakha
   lithuanian: Punaka
   norwegian: Punakha
@@ -19378,6 +19983,7 @@
   hungarian: Bengaluru
   italian: Bangalore
   japanese: Bengarūru
+  korean: Beng Gallulu
   latvian: Bengalūru
   lithuanian: Bengalūras
   norwegian: Bangalore
@@ -19410,6 +20016,7 @@
   hungarian: Jazd
   italian: Yazd
   japanese: Yazudo
+  korean: Yajeudeu
   latvian: Yazd
   lithuanian: Jezdas
   norwegian: Yazd
@@ -19442,6 +20049,7 @@
   hungarian: Manzanillo
   italian: Manzanillo
   japanese: Mansaniyo
+  korean: Mansaniyo
   latvian: Manzanillo
   lithuanian: Mansaniljas
   norwegian: Manzanillo
@@ -19474,6 +20082,7 @@
   hungarian: El-Ajún
   italian: El Aaiún
   japanese: Aiun
+  korean: El Aiun
   latvian: Ajūna
   lithuanian: Ajūnas
   norwegian: Laayoune
@@ -19506,6 +20115,7 @@
   hungarian: Hamadán
   italian: Hamadan
   japanese: Hamadān
+  korean: Hamadan
   latvian: Hamedan
   lithuanian: Hamadanas
   norwegian: Hamedan
@@ -19538,6 +20148,7 @@
   hungarian: Yan'an
   italian: Yan'an
   japanese: Yan no shiti
+  korean: Yen Ansi
   latvian: Yan'an
   lithuanian: Yan'an
   norwegian: Y En Anne
@@ -19570,6 +20181,7 @@
   hungarian: Doha
   italian: Doha
   japanese: Dōha
+  korean: Doha
   latvian: Doha
   lithuanian: Doha
   norwegian: Doha
@@ -19602,6 +20214,7 @@
   hungarian: Culiacán Rosales
   italian: Culiacán
   japanese: Kuriakan
+  korean: Kulliakan
   latvian: Kuljakana
   lithuanian: Kuljakanas
   norwegian: Culiacán
@@ -19634,6 +20247,7 @@
   hungarian: Khuzdar
   italian: Khuzdar
   japanese: K k
+  korean: Khuzdar
   latvian: Khuzdar
   lithuanian: Khuzdar
   norwegian: Khuzdar
@@ -19666,6 +20280,7 @@
   hungarian: Kuvaitváros
   italian: Al Kuwait
   japanese: Kuuēto ichi
+  korean: Kuweiteusiti
   latvian: Kuveita
   lithuanian: Kuveitas
   norwegian: Kuwait City
@@ -19698,6 +20313,7 @@
   hungarian: Haidarábád
   italian: Hyderabad
   japanese: Haiderabādo
+  korean: Haidelabadeu
   latvian: Haidarābādu
   lithuanian: Haidarabadas
   norwegian: Hyderabad
@@ -19730,6 +20346,7 @@
   hungarian: Puebla
   italian: Puebla
   japanese: Pueburashū
+  korean: Puebeullaju
   latvian: Puebla
   lithuanian: Puebla
   norwegian: Puebla
@@ -19762,6 +20379,7 @@
   hungarian: Sáhrud
   italian: Shahrud
   japanese: Shūrudōrī
+  korean: Sya Hadeu
   latvian: Shahroud
   lithuanian: Shahroud
   norwegian: By
@@ -19794,6 +20412,7 @@
   hungarian: Juárez
   italian: Juárez
   japanese: Fuaresu
+  korean: Hualeseu
   latvian: Juárez
   lithuanian: Juárez
   norwegian: Juarez
@@ -19826,6 +20445,7 @@
   hungarian: Caracas
   italian: Caracas
   japanese: Karakasu
+  korean: Kalakaseu
   latvian: Karakasa
   lithuanian: Karakasas
   norwegian: Caracas
@@ -19858,6 +20478,7 @@
   hungarian: Siráz
   italian: Shiraz
   japanese: Shīrāzu
+  korean: Silajeu
   latvian: Širāza
   lithuanian: Širazas
   norwegian: Shiraz
@@ -19890,6 +20511,7 @@
   hungarian: Dzsibuti
   italian: Gibuti
   japanese: Jibuchi
+  korean: Jibuti
   latvian: Džibutija
   lithuanian: Džibutis
   norwegian: Djibouti
@@ -19922,6 +20544,7 @@
   hungarian: Brazzaville
   italian: Brazzaville
   japanese: Burazavuiru
+  korean: Beulajabil
   latvian: Brazavila
   lithuanian: Brazavilis
   norwegian: Brazzaville
@@ -19954,6 +20577,7 @@
   hungarian: Gaborone
   italian: Gaborone
   japanese: Haborōne
+  korean: Gabolone
   latvian: Gaborone
   lithuanian: Gaboronas
   norwegian: Gaborone
@@ -19986,6 +20610,7 @@
   hungarian: Tucumán
   italian: Tucumán
   japanese: Toukuman shū
+  korean: Tukumanju
   latvian: Tukumanas
   lithuanian: Tukumano
   norwegian: Tucuman
@@ -20018,6 +20643,7 @@
   hungarian: Maputo
   italian: Maputo
   japanese: Maputo
+  korean: Maputu
   latvian: Maputu
   lithuanian: Maputu
   norwegian: Lourenco Marques
@@ -20050,6 +20676,7 @@
   hungarian: Luanda
   italian: Luanda
   japanese: Ruanda
+  korean: Luanda
   latvian: Luanda
   lithuanian: Luanda
   norwegian: Luanda
@@ -20082,6 +20709,7 @@
   hungarian: Guayaquil
   italian: Guayaquil
   japanese: Guayakiru
+  korean: Gwayakil
   latvian: Gvajakila
   lithuanian: Gvajakilis
   norwegian: Guayaquil
@@ -20114,6 +20742,7 @@
   hungarian: Mitilini
   italian: Mitilene
   japanese: Mitirīni
+  korean: Mitillini
   latvian: Mitilini
   lithuanian: Mitilene
   norwegian: Mitilini
@@ -20146,6 +20775,7 @@
   hungarian: Winterburg
   italian: Winterburg
   japanese: Uintābāgu
+  korean: Gyeoul Beogeu
   latvian: Winterburg
   lithuanian: Winterburg
   norwegian: Winterburg
@@ -20178,6 +20808,7 @@
   hungarian: Luga
   italian: Luga
   japanese: Rūga
+  korean: Luga
   latvian: Luga
   lithuanian: Luga
   norwegian: På
@@ -20210,6 +20841,7 @@
   hungarian: Luleå
   italian: Luleå
   japanese: Rureo
+  korean: Lulle O
   latvian: Lūleo
   lithuanian: Liuleo
   norwegian: Luleå
@@ -20242,6 +20874,7 @@
   hungarian: Kirkenes
   italian: Kirkenes
   japanese: Kirukenesu
+  korean: Sileukeneseu
   latvian: Kirkenes
   lithuanian: Kirkenesas
   norwegian: Kirkenes
@@ -20274,6 +20907,7 @@
   hungarian: Vologda
   italian: Vologda
   japanese: Vuoroguda
+  korean: Bollogeuda
   latvian: Vologda
   lithuanian: Vologda
   norwegian: Vologda
@@ -20306,6 +20940,7 @@
   hungarian: Volkhov
   italian: Volchov
   japanese: Vuoruhofu
+  korean: Bolhopeu
   latvian: Volhova
   lithuanian: Volchovas
   norwegian: Volkhov
@@ -20338,6 +20973,7 @@
   hungarian: Viborg
   italian: Vyborg
   japanese: Vuiborugu
+  korean: Biboleukeu
   latvian: Viborga
   lithuanian: Vyborgas
   norwegian: Forhandler
@@ -20370,6 +21006,7 @@
   hungarian: Tartu
   italian: Tartu
   japanese: Tarutou
+  korean: Taleutu
   latvian: Tartu
   lithuanian: Tartu
   norwegian: Tartu
@@ -20402,6 +21039,7 @@
   hungarian: Penza
   italian: Penza
   japanese: Penza
+  korean: Penja
   latvian: Penza
   lithuanian: Penza
   norwegian: Penza
@@ -20434,6 +21072,7 @@
   hungarian: Csebokszári
   italian: Čeboksary
   japanese: Chebokusaru
+  korean: Chebogsali
   latvian: Čeboksari
   lithuanian: Čeboksarai
   norwegian: Cheboksary
@@ -20466,6 +21105,7 @@
   hungarian: Liepāja
   italian: Liepāja
   japanese: Riepāya
+  korean: Liepaya
   latvian: Liepāja
   lithuanian: Liepoja
   norwegian: Liepaja
@@ -20498,6 +21138,7 @@
   hungarian: Gdynia
   italian: Gdynia
   japanese: Gudinya
+  korean: Geudinia
   latvian: Gdiņa
   lithuanian: Gdyne
   norwegian: Gdynia
@@ -20530,6 +21171,7 @@
   hungarian: Malmö
   italian: Malmö
   japanese: Marume
+  korean: Malmoe
   latvian: Malme
   lithuanian: Malme
   norwegian: Malmö
@@ -20562,6 +21204,7 @@
   hungarian: Homel
   italian: Homel'
   japanese: Homeri
+  korean: Homel
   latvian: Gomeļa
   lithuanian: Gomelis
   norwegian: Gomel
@@ -20594,6 +21237,7 @@
   hungarian: Mahiljov
   italian: Mahileŭ
   japanese: Mahiryou
+  korean: Mahillyou
   latvian: Mogiļeva
   lithuanian: Mogiliavas
   norwegian: Mogilev
@@ -20626,6 +21270,7 @@
   hungarian: Cseljabinszk
   italian: Čeljabinsk
   japanese: Cheryabinsuku
+  korean: Chellyabinseukeu
   latvian: Čeļabinska
   lithuanian: Čeliabinskas
   norwegian: Chelyabinsk
@@ -20658,6 +21303,7 @@
   hungarian: Kristiansand község
   italian: Kristiansand
   japanese: Kurisuchansan
+  korean: Keuliseutiansan
   latvian: Krisjānsannas komūna
   lithuanian: Kristiansandas
   norwegian: Kristiansand
@@ -20690,6 +21336,7 @@
   hungarian: Birmingham
   italian: Boermia
   japanese: Bāmingamu
+  korean: Beoming Eom
   latvian: Birmingema
   lithuanian: Birmingamas
   norwegian: Birmingham
@@ -20722,6 +21369,7 @@
   hungarian: Galway
   italian: Galway
   japanese: Gōruuei
+  korean: Gol Wei
   latvian: Golveja
   lithuanian: Golvejus
   norwegian: Galway
@@ -20754,6 +21402,7 @@
   hungarian: Baranavicsi
   italian: Baranavičy
   japanese: Barānavuichi
+  korean: Balanabichi
   latvian: Baranaviči
   lithuanian: Baranovičiai
   norwegian: Baranarian
@@ -20786,6 +21435,7 @@
   hungarian: Sheffield
   italian: Sceffilda
   japanese: Shefīrudo
+  korean: Syepildeu
   latvian: Šefilda
   lithuanian: Šefildas
   norwegian: Sheffield
@@ -20818,6 +21468,7 @@
   hungarian: Groningen
   italian: Groninga
   japanese: Furōningen
+  korean: Heuloning Eon
   latvian: Groningena
   lithuanian: Groningenas
   norwegian: Groningen
@@ -20850,6 +21501,7 @@
   hungarian: Riga
   italian: Riga
   japanese: Riga
+  korean: Liga
   latvian: Riga
   lithuanian: Ryga
   norwegian: Riga
@@ -20882,6 +21534,7 @@
   hungarian: Hamburg
   italian: Amburgo
   japanese: Hanburuku
+  korean: Hambuleukeu
   latvian: Hamburga
   lithuanian: Hamburgas
   norwegian: Hamburg
@@ -20914,6 +21567,7 @@
   hungarian: Orel
   italian: Orel
   japanese: Oryōru
+  korean: Olel
   latvian: Orel
   lithuanian: Orel
   norwegian: Orel
@@ -20946,6 +21600,7 @@
   hungarian: Ukmerge
   italian: Ukmerge
   japanese: Ukumeruge
+  korean: Ukeumeleuge
   latvian: Ukmerģe
   lithuanian: Ukmerge
   norwegian: Ukmerge
@@ -20978,6 +21633,7 @@
   hungarian: Arnhem
   italian: Arnhem
   japanese: Ānemu
+  korean: Aleunheom
   latvian: Arnema
   lithuanian: Arnhemas
   norwegian: Arnhem
@@ -21010,6 +21666,7 @@
   hungarian: Pointe-à-Pitre
   italian: Pointe-à-Pitre
   japanese: Powantapītoru
+  korean: Puaengtapiteuleu
   latvian: Pointe-à-Pitre
   lithuanian: Puant a Pitras
   norwegian: Pointe À Pitre
@@ -21042,6 +21699,7 @@
   hungarian: Leeds
   italian: Loidi
   japanese: Rīzu
+  korean: Lijeu
   latvian: Lidsa
   lithuanian: Lidsas
   norwegian: Leeds
@@ -21074,6 +21732,7 @@
   hungarian: Stralsund
   italian: Stralsund
   japanese: Shutorāruzunto
+  korean: Syuteulaljunteu
   latvian: Štrālzunde
   lithuanian: Štralzundas
   norwegian: Stralsund
@@ -21106,6 +21765,7 @@
   hungarian: Edinburgh
   italian: Edimburgo
   japanese: Edinbara
+  korean: Edeunbeoleo
   latvian: Edinburga
   lithuanian: Edinburgas
   norwegian: Edinburgh
@@ -21138,6 +21798,7 @@
   hungarian: Joskar-Ola
   italian: Joškar-Ola
   japanese: Yoshukaru ora
+  korean: Yosikaleuolla
   latvian: Joškarola
   lithuanian: Joškar Ola
   norwegian: Yoshkar
@@ -21170,6 +21831,7 @@
   hungarian: Rosztov
   italian: Rostov Velikij
   japanese: Rosutofu
+  korean: Loseutopeu
   latvian: Rostova
   lithuanian: Rostovas
   norwegian: Rostov
@@ -21202,6 +21864,7 @@
   hungarian: Krakkó
   italian: Cracovia
   japanese: Kurakufu
+  korean: Keulakupeu
   latvian: Krakova
   lithuanian: Krokuva
   norwegian: Krakow
@@ -21234,6 +21897,7 @@
   hungarian: Marx
   italian: Marks
   japanese: Marukusu
+  korean: Marksshtadt
   latvian: Marx
   lithuanian: Marx
   norwegian: Markshtadt
@@ -21266,6 +21930,7 @@
   hungarian: Le Havre
   italian: Le Havre
   japanese: Ru āvuru
+  korean: Leuabeuleu
   latvian: Havra
   lithuanian: Havras
   norwegian: Le Havre
@@ -21298,6 +21963,7 @@
   hungarian: Belgorod
   italian: Belgorod
   japanese: Berugorodo
+  korean: Belgolodeu
   latvian: Belgoroda
   lithuanian: Belgorodas
   norwegian: Belgorod
@@ -21330,6 +21996,7 @@
   hungarian: Chicago
   italian: Chicago
   japanese: Shikago
+  korean: Sikago
   latvian: Čikāga
   lithuanian: Čikaga
   norwegian: Chicago
@@ -21362,6 +22029,7 @@
   hungarian: Portsmouth
   italian: Portsmouth
   japanese: Pōtsumasu
+  korean: Pocheumeoseu
   latvian: Portsmuta
   lithuanian: Portsmutas
   norwegian: Portsmouth
@@ -21394,6 +22062,7 @@
   hungarian: Luhanszk
   italian: Luhans'k
   japanese: Ruhānshiku
+  korean: Luhanseukeu
   latvian: Luhanska
   lithuanian: Luhanskas
   norwegian: Voroshilovgrad
@@ -21426,6 +22095,7 @@
   hungarian: Siauliai
   italian: Šiauliai
   japanese: Shaurei
+  korean: Syaullyai
   latvian: Šauļi
   lithuanian: Šiauliai
   norwegian: Siauliai
@@ -21458,6 +22128,7 @@
   hungarian: Troyes
   italian: Troyes
   japanese: Torowa
+  korean: Teulua
   latvian: Truā
   lithuanian: Trua
   norwegian: Troyes
@@ -21490,6 +22161,7 @@
   hungarian: Gmina szubin
   italian: Szubin
   japanese: Szubin commune
+  korean: Szubin Ui Gongdongche
   latvian: Gmina szubin
   lithuanian: Gmina szubin
   norwegian: Szubin Kommune
@@ -21522,6 +22194,7 @@
   hungarian: Rennes
   italian: Rennes
   japanese: Ren'nu
+  korean: Len
   latvian: Renna
   lithuanian: Renas
   norwegian: Rennes
@@ -21554,6 +22227,7 @@
   hungarian: Rotterdam
   italian: Rotterdam
   japanese: Rotterudamu
+  korean: Loteleudam
   latvian: Roterdama
   lithuanian: Roterdamas
   norwegian: Rotterdam
@@ -21586,6 +22260,7 @@
   hungarian: Strasbourg
   italian: Strasburgo
   japanese: Sutorasubūru
+  korean: Seuteulaseubuleu
   latvian: Strasbūra
   lithuanian: Strasbūras
   norwegian: Strasbourg
@@ -21618,6 +22293,7 @@
   hungarian: Łódź
   italian: Barcopoli
   japanese: Utchi
+  korean: Uchi
   latvian: Lodza
   lithuanian: Lodze
   norwegian: Łódź
@@ -21650,6 +22326,7 @@
   hungarian: Hamm
   italian: Hamm
   japanese: Hamu
+  korean: Ham
   latvian: Hamma
   lithuanian: Hamas
   norwegian: Hamm
@@ -21682,6 +22359,7 @@
   hungarian: Oppeln
   italian: Oppeln
   japanese: Opole
+  korean: Oppeln
   latvian: Oppeln
   lithuanian: Oppeln
   norwegian: Oppeln
@@ -21714,6 +22392,7 @@
   hungarian: Regensburg
   italian: Ratisbona
   japanese: Rēgensuburuku
+  korean: Legenseubuleukeu
   latvian: Rēgensburga
   lithuanian: Regensburgas
   norwegian: Regensburg
@@ -21746,6 +22425,7 @@
   hungarian: Stuttgart
   italian: Stoccarda
   japanese: Shutouttogaruto
+  korean: Syututeugaleuteu
   latvian: Štutgarte
   lithuanian: Štutgartas
   norwegian: Stuttgart
@@ -21778,6 +22458,7 @@
   hungarian: Charleroi
   italian: Charleroi
   japanese: Sharururowa
+  korean: Syaleullua
   latvian: Šarlruā
   lithuanian: Šarlerua
   norwegian: Charleroi
@@ -21810,6 +22491,7 @@
   hungarian: České Budějovice
   italian: Budweis
   japanese: Chesukē bujeyovuitsue
+  korean: Cheseukebudeyobiche
   latvian: Česke Budejovice
   lithuanian: Česke Budejovicai
   norwegian: Budweis
@@ -21842,6 +22524,7 @@
   hungarian: Biała Podlaska
   italian: Biała Podlaska
   japanese: Bianapodorasuka
+  korean: Biawapodeullaseuka
   latvian: Bjala Podlaska
   lithuanian: Palenkes Biala
   norwegian: Biała Podlaska
@@ -21874,6 +22557,7 @@
   hungarian: Metz
   italian: Metz
   japanese: Mesu
+  korean: Meseu
   latvian: Meca
   lithuanian: Mecas
   norwegian: Metz
@@ -21906,6 +22590,7 @@
   hungarian: Shostka
   italian: Šostka
   japanese: Shottoka
+  korean: Shostka
   latvian: Šostka
   lithuanian: Šostka
   norwegian: Shostka
@@ -21938,6 +22623,7 @@
   hungarian: Tábor
   italian: Tábor
   japanese: Tāboru
+  korean: Taboleu
   latvian: Tábor
   lithuanian: Taboras
   norwegian: Leir
@@ -21970,6 +22656,7 @@
   hungarian: Wrocław
   italian: Breslavia
   japanese: Vurotsuwafu
+  korean: Beulocheuwapeu
   latvian: Vroclava
   lithuanian: Vroclavas
   norwegian: Breslau
@@ -22002,6 +22689,7 @@
   hungarian: Trier
   italian: Trier
   japanese: Torīa
+  korean: Teulieo
   latvian: Trire
   lithuanian: Tryras
   norwegian: Trier
@@ -22034,6 +22722,7 @@
   hungarian: Niš
   italian: Naisso
   japanese: Nishu
+  korean: Nisi
   latvian: Niša
   lithuanian: Nišas
   norwegian: Nis
@@ -22066,6 +22755,7 @@
   hungarian: Temesvár
   italian: Timişoara
   japanese: Timishoara
+  korean: Timisyoala
   latvian: Timišoara
   lithuanian: Timišoara
   norwegian: Timisoara
@@ -22098,6 +22788,7 @@
   hungarian: Ruse
   italian: Ruse
   japanese: Ruse
+  korean: Chaeglyag
   latvian: Ruse
   lithuanian: Ruse
   norwegian: Russisk
@@ -22130,6 +22821,7 @@
   hungarian: Boise
   italian: Boise
   japanese: Boi
+  korean: Boisi
   latvian: Boisisitija
   lithuanian: Boizis
   norwegian: Boise
@@ -22162,6 +22854,7 @@
   hungarian: Bukarest
   italian: Bucarest
   japanese: Bukaresuto
+  korean: Bukulesyuti
   latvian: Bukareste
   lithuanian: Bukareštas
   norwegian: Bucureşti
@@ -22194,6 +22887,7 @@
   hungarian: Bern
   italian: Berna
   japanese: Berun
+  korean: Beleun
   latvian: Berne
   lithuanian: Bernas
   norwegian: Berne
@@ -22226,6 +22920,7 @@
   hungarian: Ljubljana
   italian: Lubiana
   japanese: Ryuburyana
+  korean: Lyubeullyana
   latvian: Ļubļana
   lithuanian: Liubliana
   norwegian: Ljubljana
@@ -22258,6 +22953,7 @@
   hungarian: Ordzhonikidze
   italian: Ordžonikidze
   japanese: Orujonikīze
+  korean: Oleujonikije
   latvian: Ordžonikidze
   lithuanian: Ordžonikidze
   norwegian: Ordzhonikidze
@@ -22290,6 +22986,7 @@
   hungarian: Besançon
   italian: Besanzone
   japanese: Buzanson
+  korean: Beujangsong
   latvian: Bezansona
   lithuanian: Bezansonas
   norwegian: Besancon
@@ -22322,6 +23019,7 @@
   hungarian: Graz
   italian: Graz
   japanese: Gurātsu
+  korean: Geulacheu
   latvian: Grāca
   lithuanian: Gracas
   norwegian: Graz
@@ -22354,6 +23052,7 @@
   hungarian: Budapest
   italian: Budapest
   japanese: Budapesuto
+  korean: Budapeseuteu
   latvian: Budapešta
   lithuanian: Budapeštas
   norwegian: Budapest
@@ -22386,6 +23085,7 @@
   hungarian: Szocsi
   italian: Soči
   japanese: Sochi
+  korean: Sochi
   latvian: Soči
   lithuanian: Sočis
   norwegian: Måle
@@ -22418,6 +23118,7 @@
   hungarian: Wels
   italian: Vels
   japanese: Vuerusu
+  korean: Belseu
   latvian: Velsa
   lithuanian: Velsas
   norwegian: Wels
@@ -22450,6 +23151,7 @@
   hungarian: San Francisco
   italian: San Francisco
   japanese: Sanfuranshisuko
+  korean: Saenpeulansiseuko
   latvian: Sanfrancisko
   lithuanian: San Fransiskas
   norwegian: San Fransisco
@@ -22482,6 +23184,7 @@
   hungarian: Kercs
   italian: Kerč'
   japanese: Keruchi
+  korean: Keleuchi
   latvian: Kerča
   lithuanian: Kerče
   norwegian: Kerch
@@ -22514,6 +23217,7 @@
   hungarian: Pozsony
   italian: Bratislava
   japanese: Burachisuravua
+  korean: Beulatiseullaba
   latvian: Bratislava
   lithuanian: Bratislava
   norwegian: Bratislava
@@ -22546,6 +23250,7 @@
   hungarian: Bayonne
   italian: Bayonne
   japanese: Baiyon'nu
+  korean: Bayon
   latvian: Baijonna
   lithuanian: Bayonne
   norwegian: Bayonne
@@ -22578,6 +23283,7 @@
   hungarian: Sacramento
   italian: Sacramento
   japanese: Sakuramento
+  korean: Saekeulamento
   latvian: Sakramento
   lithuanian: Sakramentas
   norwegian: Sacramento
@@ -22610,6 +23316,7 @@
   hungarian: Jászvásár
   italian: Iaşi
   japanese: Ya
+  korean: Iasi
   latvian: Jasi
   lithuanian: Jasai
   norwegian: Iasi
@@ -22642,6 +23349,7 @@
   hungarian: Bordeaux
   italian: Bordeaux
   japanese: Borudō
+  korean: Boleudo
   latvian: Bordo
   lithuanian: Bordo
   norwegian: Bordeaux
@@ -22674,6 +23382,7 @@
   hungarian: Asztrahán
   italian: Astrachan'
   japanese: Asutorahan
+  korean: Aseuteulahan
   latvian: Astrahaņa
   lithuanian: Astrachane
   norwegian: Astrakhan
@@ -22706,6 +23415,7 @@
   hungarian: Barcelona
   italian: Barcellona
   japanese: Baruserona
+  korean: Baleusellona
   latvian: Barselona
   lithuanian: Barselona
   norwegian: Barcelona
@@ -22738,6 +23448,7 @@
   hungarian: Sumen
   italian: Šumen
   japanese: Shumen
+  korean: Syumen
   latvian: Šumena
   lithuanian: Šumenas
   norwegian: Shummer
@@ -22770,6 +23481,7 @@
   hungarian: Vidin
   italian: Vidin
   japanese: Vuidin
+  korean: Bidin
   latvian: Vidin
   lithuanian: Vidinas
   norwegian: Vidin
@@ -22802,6 +23514,7 @@
   hungarian: Sivas
   italian: Sivas
   japanese: Suivuasu
+  korean: Sibaseu
   latvian: Sivasa
   lithuanian: Sivasas
   norwegian: Sivas
@@ -22834,6 +23547,7 @@
   hungarian: Varna
   italian: Varna
   japanese: Vuaruna
+  korean: Baleuna
   latvian: Varna
   lithuanian: Varna
   norwegian: Varna
@@ -22866,6 +23580,7 @@
   hungarian: Viseu
   italian: Viseu
   japanese: Vuizeu
+  korean: Bije U
   latvian: Viseu
   lithuanian: Vizejus
   norwegian: Viseu
@@ -22898,6 +23613,7 @@
   hungarian: Palma de Mallorca
   italian: Palma di Maiorca
   japanese: Paruma de mayoruka
+  korean: Palmademayoleuka
   latvian: Palma
   lithuanian: Maljorkos Palma
   norwegian: Palma De Mallorca
@@ -22930,6 +23646,7 @@
   hungarian: Balıkesir
   italian: Balıkesir
   japanese: Barukesuiru
+  korean: Ballikesileu
   latvian: Balikesira
   lithuanian: Balikesyras
   norwegian: Støtfanger
@@ -22962,6 +23679,7 @@
   hungarian: Podgorica
   italian: Podgorizza
   japanese: Podogoritsua
+  korean: Podeugolicha
   latvian: Podgorica
   lithuanian: Podgorica
   norwegian: Podgorica
@@ -22994,6 +23712,7 @@
   hungarian: Los Angeles
   italian: Los Angeles
   japanese: Rosanzerusu
+  korean: Loseuaenjelleseu
   latvian: Losandželosa
   lithuanian: Los Andželas
   norwegian: Englene
@@ -23026,6 +23745,7 @@
   hungarian: Porto
   italian: Porto
   japanese: Poruto
+  korean: Poleutu
   latvian: Portu
   lithuanian: Portas
   norwegian: Porto
@@ -23058,6 +23778,7 @@
   hungarian: Şanlıurfa
   italian: Şanlıurfa
   japanese: Shanruurufa
+  korean: Syanleuuleupa
   latvian: Šanliurfa
   lithuanian: Urfa
   norwegian: Urfa
@@ -23090,6 +23811,7 @@
   hungarian: Providence
   italian: Providence
   japanese: Purobidensu
+  korean: Peulobideonseu
   latvian: Providence
   lithuanian: Providence
   norwegian: Providence
@@ -23122,6 +23844,7 @@
   hungarian: Isztambul
   italian: Istanbul
   japanese: Isutanbūru
+  korean: Iseutanbul
   latvian: Stambula
   lithuanian: Stambulas
   norwegian: Istanbul
@@ -23154,6 +23877,7 @@
   hungarian: Huesca
   italian: Huesca
   japanese: Uesuka
+  korean: Ueseuka
   latvian: Huesca
   lithuanian: Hueska
   norwegian: Huesca
@@ -23186,6 +23910,7 @@
   hungarian: Peking
   italian: Pechino
   japanese: Pekin
+  korean: Beijingsi
   latvian: Pekina
   lithuanian: Pekinas
   norwegian: Beijing
@@ -23218,6 +23943,7 @@
   hungarian: Tunceli
   italian: Tunceli
   japanese: Tounjeri
+  korean: Tunjelli
   latvian: Tunceli
   lithuanian: Tunceli
   norwegian: Tunceli
@@ -23250,6 +23976,7 @@
   hungarian: Konya
   italian: Konya
   japanese: Kon'ya
+  korean: Konia
   latvian: Konja
   lithuanian: Konija
   norwegian: Konya
@@ -23282,6 +24009,7 @@
   hungarian: Haskovo
   italian: Haskovo
   japanese: Hasukovuo
+  korean: Haseukobo
   latvian: Haskova
   lithuanian: Chaskovas
   norwegian: Haskovo
@@ -23314,6 +24042,7 @@
   hungarian: Erzîngan
   italian: Arzinga
   japanese: Eruzuinziyan
+  korean: Eleujinjan
   latvian: Erzîngan
   lithuanian: Erzindzanas
   norwegian: Erzincan
@@ -23346,6 +24075,7 @@
   hungarian: Évora
   italian: Évora
   japanese: Evuora
+  korean: Ebola
   latvian: Évora
   lithuanian: Evora
   norwegian: Évora
@@ -23378,6 +24108,7 @@
   hungarian: Afyonkarahisar
   italian: Afyonkarahisar
   japanese: Afiyonkarahisāru
+  korean: Apionkalahisaleu
   latvian: Afjonkarahisara
   lithuanian: Afjonkarahisaras
   norwegian: Opium
@@ -23410,6 +24141,7 @@
   hungarian: Yambol
   italian: Jambol
   japanese: Yanboru
+  korean: Yambol
   latvian: Yambol
   lithuanian: Jambolas
   norwegian: Yambol
@@ -23442,6 +24174,7 @@
   hungarian: Gaziantep
   italian: Gaziantep
   japanese: Gazuiantepu
+  korean: Gajiantepeu
   latvian: Gaziantepa
   lithuanian: Gaziantepas
   norwegian: Gaziantep
@@ -23474,6 +24207,7 @@
   hungarian: Mostar
   italian: Mostar
   japanese: Mosutaru
+  korean: Moseutaleu
   latvian: Mostara
   lithuanian: Mostaras
   norwegian: Mostar
@@ -23506,6 +24240,7 @@
   hungarian: Montpellier
   italian: Mompellieri
   japanese: Monperie
+  korean: Mongpellie
   latvian: Monpeljē
   lithuanian: Monpelje
   norwegian: Montpellier
@@ -23538,6 +24273,7 @@
   hungarian: Burgasz
   italian: Burgas
   japanese: Buru gasu
+  korean: Buleugaseu
   latvian: Burgasa
   lithuanian: Burgasas
   norwegian: Burgas
@@ -23570,6 +24306,7 @@
   hungarian: Róma
   italian: Roma
   japanese: Rōma
+  korean: Loma
   latvian: Roma
   lithuanian: Roma
   norwegian: Roma
@@ -23602,6 +24339,7 @@
   hungarian: Firenze
   italian: Firenze
   japanese: Firentsue
+  korean: Pilenche
   latvian: Florence
   lithuanian: Florencija
   norwegian: Firenze
@@ -23634,6 +24372,7 @@
   hungarian: Nizza
   italian: Nizza
   japanese: Nīsu
+  korean: Niseu
   latvian: Nica
   lithuanian: Nica
   norwegian: Hyggelig
@@ -23666,6 +24405,7 @@
   hungarian: Tirana
   italian: Tirana
   japanese: Tirana
+  korean: Tilana
   latvian: Tirāna
   lithuanian: Tirana
   norwegian: Tirana
@@ -23698,6 +24438,7 @@
   hungarian: Trabzon
   italian: Trebisonda
   japanese: Torabuzon
+  korean: Teulabeujon
   latvian: Trabzona
   lithuanian: Trabzonas
   norwegian: Trabzon
@@ -23730,6 +24471,7 @@
   hungarian: Stralsund
   italian: Stralsund
   japanese: Shutorāruzunto
+  korean: Syuteulaljunteu
   latvian: Štrālzunde
   lithuanian: Štralzundas
   norwegian: Stralsund
@@ -23762,6 +24504,7 @@
   hungarian: Iráklio
   italian: Candia
   japanese: Irakurion
+  korean: Ilakeullio
   latvian: Iraklija
   lithuanian: Heraklionas
   norwegian: Heraklion
@@ -23794,6 +24537,7 @@
   hungarian: Ceuta
   italian: Ceuta
   japanese: Seuta
+  korean: Se Uta
   latvian: Seuta
   lithuanian: Seuta
   norwegian: Ceuta
@@ -23826,6 +24570,7 @@
   hungarian: Nagaszaki
   italian: Nagasaki
   japanese: Nagasaki
+  korean: Nagasakisi
   latvian: Nagasaki
   lithuanian: Nagasakis
   norwegian: Nagasaki
@@ -23858,6 +24603,7 @@
   hungarian: Csengcsou
   italian: Zhengzhou
   japanese: Tei shū
+  korean: Jeongjeousi
   latvian: Džendžou
   lithuanian: Džengdžou
   norwegian: Zhengzhou
@@ -23890,6 +24636,7 @@
   hungarian: Kigali
   italian: Kigali
   japanese: Kigari
+  korean: Kigalli
   latvian: Kigali
   lithuanian: Kigalis
   norwegian: Kigali
@@ -23922,6 +24669,7 @@
   hungarian: Ningpo
   italian: Ningbo
   japanese: Neiha
+  korean: Ningbosi
   latvian: Ninbo
   lithuanian: Ningbo
   norwegian: Ningbo
@@ -23954,6 +24702,7 @@
   hungarian: Ahmadábád
   italian: Amadabado
   japanese: Afumadābādo
+  korean: Ahmedabad
   latvian: Amdāvāda
   lithuanian: Ahmadabadas
   norwegian: Ahmadabad
@@ -23986,6 +24735,7 @@
   hungarian: Málaga
   italian: Malaga
   japanese: Maraga
+  korean: Mallaga
   latvian: Malaga
   lithuanian: Malaga
   norwegian: Málaga
@@ -24018,6 +24768,7 @@
   hungarian: Marsza Matrúh
   italian: Marsa Matruh
   japanese: Marusa matorūfu
+  korean: Meleusamateulu
   latvian: Marsa Matruh
   lithuanian: Mersa Matruhas
   norwegian: Marsa Matruh
@@ -24050,6 +24801,7 @@
   hungarian: Banzart
   italian: Biserta
   japanese: Bizeruto
+  korean: Bijeleute
   latvian: Bizerte
   lithuanian: Bizerta
   norwegian: Bizerte
@@ -24082,6 +24834,7 @@
   hungarian: Csingtao
   italian: Tsingtao
   japanese: Chintao shiti
+  korean: Chingdaosi
   latvian: Cjindao
   lithuanian: Čingdao
   norwegian: Qingdao
@@ -24114,6 +24867,7 @@
   hungarian: Rodosz
   italian: Rodi
   japanese: Rodosu shima
+  korean: Lodoseuseom
   latvian: Roda
   lithuanian: Rodas
   norwegian: Rhodos
@@ -24146,6 +24900,7 @@
   hungarian: Murcia
   italian: Murcia
   japanese: Murushia
+  korean: Muleusia
   latvian: Mursija
   lithuanian: Mursija
   norwegian: Murcia
@@ -24178,6 +24933,7 @@
   hungarian: Kanazava
   italian: Kanazawa
   japanese: Kanazawa
+  korean: Ganajawasi
   latvian: Kanazawa
   lithuanian: Kanadzava
   norwegian: Kanazawa
@@ -24210,6 +24966,7 @@
   hungarian: Denizli
   italian: Denizli
   japanese: Denizuri
+  korean: Denijeulli
   latvian: Denizli
   lithuanian: Denizlis
   norwegian: Lur
@@ -24242,6 +24999,7 @@
   hungarian: Mersin
   italian: Mersina
   japanese: Merusuin
+  korean: Meleusin
   latvian: Mersina
   lithuanian: Mersinas
   norwegian: Myrtle
@@ -24274,6 +25032,7 @@
   hungarian: Hongkong
   italian: Hong Kong
   japanese: Honkon
+  korean: Hongkong
   latvian: Honkonga
   lithuanian: Honkongas
   norwegian: Hong Kong
@@ -24306,6 +25065,7 @@
   hungarian: Tiencsin
   italian: Tientsin
   japanese: Amatsu
+  korean: Tyenjinsi
   latvian: Tiaņdzjiņa
   lithuanian: Tiandzinas
   norwegian: Tianjin
@@ -24338,6 +25098,7 @@
   hungarian: Palermo
   italian: Palermo
   japanese: Parerumo
+  korean: Palleleumo
   latvian: Palermo
   lithuanian: Palermas
   norwegian: Palermo
@@ -24370,6 +25131,7 @@
   hungarian: Szucsou
   italian: Suzhou
   japanese: Soshū
+  korean: Ssujeousi
   latvian: Sudžou
   lithuanian: Sudžou
   norwegian: Suzhou
@@ -24402,6 +25164,7 @@
   hungarian: Sarm es-Sejk
   italian: Sharm el-Sheikh
   japanese: Sharumu eru sheiku
+  korean: Syaleum Elsyeikeu
   latvian: Šarm eš Šeiha
   lithuanian: Šarm el Šeichas
   norwegian: Sharm El Shaikh
@@ -24434,6 +25197,7 @@
   hungarian: Moszul
   italian: Mosul
   japanese: Mōsuru
+  korean: Mosul
   latvian: Mosula
   lithuanian: Mosulas
   norwegian: Mosul
@@ -24466,6 +25230,7 @@
   hungarian: Nagoja
   italian: Nagoya
   japanese: Nakoya
+  korean: Nagoyasi
   latvian: Nagoja
   lithuanian: Nagoja
   norwegian: Nagoya
@@ -24498,6 +25263,7 @@
   hungarian: Aguascalientes
   italian: Aguascalientes
   japanese: Aguasukarientesu-shū
+  korean: Agwaseukallienteseuju
   latvian: Agvaskaljentesa
   lithuanian: Agvaskaljentesas
   norwegian: Aguascalientes
@@ -24530,6 +25296,7 @@
   hungarian: Trincomalee
   italian: Trincomalee
   japanese: Torinkomarī
+  korean: Teulingkomalli
   latvian: Trincomalee
   lithuanian: Trinkomalis
   norwegian: Trincomalee
@@ -24562,6 +25329,7 @@
   hungarian: Korfu
   italian: Corcira
   japanese: Kerukira shima
+  korean: Keleukilaseom
   latvian: Kerkira
   lithuanian: Kerkyra
   norwegian: Korfu
@@ -24594,6 +25362,7 @@
   hungarian: Balikpapan
   italian: Balikpapan
   japanese: Barikupapan
+  korean: Balligpapan
   latvian: Balikpapan
   lithuanian: Balikpapanas
   norwegian: Balikpapan
@@ -24626,6 +25395,7 @@
   hungarian: Nassau
   italian: Nassau
   japanese: Nassau
+  korean: Nasau
   latvian: Nassau
   lithuanian: Nassau
   norwegian: Nassau
@@ -24658,6 +25428,7 @@
   hungarian: Magnyitogorszk
   italian: Magnitogorsk
   japanese: Magunitogorusuku
+  korean: Mageunitogoleuseukeu
   latvian: Magņitogorska
   lithuanian: Magnitogorskas
   norwegian: Magnitogorsk
@@ -24690,6 +25461,7 @@
   hungarian: Makassar
   italian: Makassar
   japanese: Makassaru
+  korean: Makasaleu
   latvian: Makasara
   lithuanian: Makasaras
   norwegian: Makassar
@@ -24722,6 +25494,7 @@
   hungarian: Manila
   italian: Manila
   japanese: Manira
+  korean: Manilla
   latvian: Manila
   lithuanian: Manila
   norwegian: Manila
@@ -24754,6 +25527,7 @@
   hungarian: Csennai
   italian: Chennai
   japanese: Chen'nai
+  korean: Chennai
   latvian: Čennai
   lithuanian: Čenajus
   norwegian: Madras
@@ -24786,6 +25560,7 @@
   hungarian: Kuala Lumpur
   italian: Kuala Lumpur
   japanese: Kuararunpūru
+  korean: Kuallalumpuleu
   latvian: Kualalumpura
   lithuanian: Kvala Lumpūras
   norwegian: Kuala Lumpur
@@ -24818,6 +25593,7 @@
   hungarian: Kosztanaj
   italian: Qostanay
   japanese: Kosutanai
+  korean: Koseutanai
   latvian: Kustanay
   lithuanian: Kostanajus
   norwegian: Kustanay
@@ -24850,6 +25626,7 @@
   hungarian: Zlatouszt
   italian: Zlatoust
   japanese: Zuratoūsuto
+  korean: Jeullatouseuteu
   latvian: Zlatousta
   lithuanian: Zlatoustas
   norwegian: Zlatoust
@@ -24882,6 +25659,7 @@
   hungarian: Houston
   italian: Houston
   japanese: Hyūsuton
+  korean: Hyuseuteon
   latvian: Hjūstona
   lithuanian: Hiustonas
   norwegian: Houston
@@ -24914,6 +25692,7 @@
   hungarian: Montevideo
   italian: Montevideo
   japanese: Montebideo
+  korean: Montebide O
   latvian: Montevideo
   lithuanian: Montevidejas
   norwegian: Montevideo
@@ -24946,6 +25725,7 @@
   hungarian: Attu Island
   italian: Attu Island
   japanese: Attsu-jima
+  korean: Aetuseom
   latvian: Attu Island
   lithuanian: Attu Island
   norwegian: Attu Øya
@@ -24978,6 +25758,7 @@
   hungarian: Springfield
   italian: Springfield
   japanese: Supuringufīrudo
+  korean: Seupeulingpildeu
   latvian: Springfield
   lithuanian: Springfildas
   norwegian: Springfield
@@ -25010,6 +25791,7 @@
   hungarian: Pretoria
   italian: Pretoria
   japanese: Puretoria
+  korean: Peulitolia
   latvian: Pretorija
   lithuanian: Pretorija
   norwegian: Pretoria
@@ -25042,6 +25824,7 @@
   hungarian: Kujlin
   italian: Guilin
   japanese: Keirin
+  korean: Gu Ilinsi
   latvian: Guilin
   lithuanian: Guilinas
   norwegian: Guilin
@@ -25074,6 +25857,7 @@
   hungarian: Richmond
   italian: Richmond
   japanese: Ritchimondo
+  korean: Lichimeondeu
   latvian: Richmond
   lithuanian: Ričmondas
   norwegian: Richmond
@@ -25106,6 +25890,7 @@
   hungarian: Harbin
   italian: Harbin
   japanese: Harubin
+  korean: Ha Eolbinsi
   latvian: Harbina
   lithuanian: Charbinas
   norwegian: Harbin
@@ -25138,6 +25923,7 @@
   hungarian: Nakhonratcsaszima
   italian: Nakhon Ratchasima
   japanese: Nakonrachashima
+  korean: Nakonlaschasima
   latvian: Nakhon Ratchasima
   lithuanian: Nakhonratčasima
   norwegian: Nakhon Ratchasima
@@ -25170,6 +25956,7 @@
   hungarian: Szapporo
   italian: Sapporo
   japanese: Sahhoro
+  korean: Saspolosi
   latvian: Saporo
   lithuanian: Saporas
   norwegian: Sapporo
@@ -25202,6 +25989,7 @@
   hungarian: Porto Alegre
   italian: Porto Alegre
   japanese: Poruto aregure
+  korean: Poleutuallegeuli
   latvian: Portualegri
   lithuanian: Porto Alegre
   norwegian: Porto Alegre
@@ -25234,6 +26022,7 @@
   hungarian: Kars
   italian: Kars
   japanese: Karusu
+  korean: Kaleuseu
   latvian: Karsa
   lithuanian: Karsas
   norwegian: Kars
@@ -25266,6 +26055,7 @@
   hungarian: Kokand
   italian: Kokand
   japanese: Kokando
+  korean: Kokanteu
   latvian: Qo`qon
   lithuanian: Kokandas
   norwegian: Kokand
@@ -25298,6 +26088,7 @@
   hungarian: Valmiera
   italian: Wolmar
   japanese: Vuarumiera
+  korean: Balmiela
   latvian: Valmiera
   lithuanian: Valmiera
   norwegian: Valmiera
@@ -25330,6 +26121,7 @@
   hungarian: Sêrt
   italian: Siirt
   japanese: Suiiruto
+  korean: Siileuteu
   latvian: Sêrt
   lithuanian: Sirtas
   norwegian: Siirt
@@ -25362,6 +26154,7 @@
   hungarian: São Paulo
   italian: San Paolo
   japanese: Sanpauro
+  korean: Sangpaullu
   latvian: Sanpaulu
   lithuanian: San Paulas
   norwegian: São Paulo
@@ -25394,6 +26187,7 @@
   hungarian: Kizil
   italian: Kyzyl
   japanese: Kuzuru
+  korean: Keujeul
   latvian: Kizila
   lithuanian: Kyzylas
   norwegian: Kyzyl
@@ -25426,6 +26220,7 @@
   hungarian: Jakutszk
   italian: Jakutsk
   japanese: Yakūtsuku
+  korean: Yakucheukeu
   latvian: Jakutska
   lithuanian: Jakutskas
   norwegian: Yakutsk
@@ -25458,6 +26253,7 @@
   hungarian: Szamarkand
   italian: Samarcanda
   japanese: Samarukando
+  korean: Samaleukanteu
   latvian: Samarkanda
   lithuanian: Samarkandas
   norwegian: Samarkand
@@ -25490,6 +26286,7 @@
   hungarian: Omszk
   italian: Omsk
   japanese: Omusuku
+  korean: Omseukeu
   latvian: Omska
   lithuanian: Omskas
   norwegian: Omsk
@@ -25522,6 +26319,7 @@
   hungarian: Kansas City
   italian: Kansas City
   japanese: Kanzasushiti
+  korean: Kaenjaseusiti
   latvian: Kansas City
   lithuanian: Kansas City
   norwegian: Kansas City
@@ -25554,6 +26352,7 @@
   hungarian: Acapulco
   italian: Acapulco
   japanese: Akapuruko
+  korean: Akapulko
   latvian: Akapulko
   lithuanian: Akapulkas
   norwegian: Acapulco
@@ -25586,6 +26385,7 @@
   hungarian: Kabul
   italian: Kabul
   japanese: Kāburu
+  korean: Kabul
   latvian: Kabula
   lithuanian: Kabulas
   norwegian: Godkjennelse
@@ -25618,6 +26418,7 @@
   hungarian: Bogotá
   italian: Bogotà
   japanese: Bogota
+  korean: Bogota
   latvian: Bogota
   lithuanian: Bogota
   norwegian: Bogota
@@ -25650,6 +26451,7 @@
   hungarian: Maszkat
   italian: Mascate
   japanese: Masukatto
+  korean: Museukateu
   latvian: Maskata
   lithuanian: Maskatas
   norwegian: Muscat
@@ -25682,6 +26484,7 @@
   hungarian: Hermosillo
   italian: Hermosillo
   japanese: Erumoshījo
+  korean: Eleumosiyo
   latvian: Ermosiljo
   lithuanian: Hermosiljas
   norwegian: Hermosillo
@@ -25714,6 +26517,7 @@
   hungarian: Reynosa
   italian: Reynosa
   japanese: Reinosa
+  korean: Leinosa
   latvian: Reynosa
   lithuanian: Reinosa
   norwegian: Reynosa
@@ -25746,6 +26550,7 @@
   hungarian: Iransahr
   italian: Pura
   japanese: Iranshahr
+  korean: Ileonseu
   latvian: Iransahr
   lithuanian: Iransahr
   norwegian: Iranshahr
@@ -25778,6 +26583,7 @@
   hungarian: Abidjan
   italian: Abidjan
   japanese: Abijan
+  korean: Abijang
   latvian: Abidžana
   lithuanian: Abidžanas
   norwegian: Abidjan
@@ -25810,6 +26616,7 @@
   hungarian: Chihuahua
   italian: Chihuahua
   japanese: Chiwawa
+  korean: Chiwawa
   latvian: Chihuahua
   lithuanian: Čihuahua
   norwegian: Chihuahua
@@ -25842,6 +26649,7 @@
   hungarian: Berbera
   italian: Berbera
   japanese: Berubera
+  korean: Beleubela
   latvian: Berbera
   lithuanian: Berbera
   norwegian: Iester
@@ -25874,6 +26682,7 @@
   hungarian: Ouagadougou
   italian: Ouagadougou
   japanese: Wagadougū
+  korean: Wagadugu
   latvian: Vagadugu
   lithuanian: Uagadugu
   norwegian: Ouagadougou
@@ -25906,6 +26715,7 @@
   hungarian: Teherán
   italian: Teheran
   japanese: Teheran
+  korean: Tehelan
   latvian: Teherāna
   lithuanian: Teheranas
   norwegian: Teheran
@@ -25938,6 +26748,7 @@
   hungarian: Szanaa
   italian: Sana'a
   japanese: Sanā
+  korean: Sana
   latvian: Sana
   lithuanian: Sana
   norwegian: Sanaa
@@ -25970,6 +26781,7 @@
   hungarian: Chamdo
   italian: Prefettura di Qamdo
   japanese: Chamudo ichi
+  korean: Changdusi
   latvian: Chamdo
   lithuanian: Čamdo prefektūra
   norwegian: Chamdo
@@ -26002,6 +26814,7 @@
   hungarian: Accra
   italian: Accra
   japanese: Akura
+  korean: Akeula
   latvian: Akra
   lithuanian: Akra
   norwegian: Accra
@@ -26034,6 +26847,7 @@
   hungarian: Ciudad Guayana
   italian: Ciudad Guayana
   japanese: Shiudāguayana
+  korean: Siudadeugwayana
   latvian: Ciudad Guayana
   lithuanian: Siudad Guajana
   norwegian: Guayana City
@@ -26066,6 +26880,7 @@
   hungarian: Guatemala
   italian: Guatemala
   japanese: Guatemara
+  korean: Gwatemalla
   latvian: Gvatemala
   lithuanian: Gvatemala
   norwegian: Guatemala
@@ -26098,6 +26913,7 @@
   hungarian: Lahor
   italian: Lahore
   japanese: Rahōru
+  korean: Laholeu
   latvian: Lahora
   lithuanian: Lahoras
   norwegian: Lahore
@@ -26130,6 +26946,7 @@
   hungarian: Coatzacoalcos
   italian: Coatzacoalcos
   japanese: Koatsuakoarukosu
+  korean: Koateusakoalkoseu
   latvian: Coatzacoalcos
   lithuanian: Koacakoalkosas
   norwegian: Coatzacoalcos
@@ -26162,6 +26979,7 @@
   hungarian: Mazatlán
   italian: Mazatlán
   japanese: Masatoran
+  korean: Masateullan
   latvian: Mazatlán
   lithuanian: Masatlanas
   norwegian: Mazatlán
@@ -26194,6 +27012,7 @@
   hungarian: Paramaribo
   italian: Paramaribo
   japanese: Paramaribo
+  korean: Palamalibo
   latvian: Paramaribo
   lithuanian: Paramaribas
   norwegian: Paramaribo
@@ -26226,6 +27045,7 @@
   hungarian: Kermán
   italian: Kerman
   japanese: Kerumān
+  korean: Keleuman
   latvian: Kerman
   lithuanian: Kermanas
   norwegian: Kerman
@@ -26258,6 +27078,7 @@
   hungarian: Uj Kikoto
   italian: Porto Nuovo
   japanese: Atarashī pōto
+  korean: Nyupoteu
   latvian: Jauna Osta
   lithuanian: Naujas Uostas
   norwegian: Ny Port
@@ -26290,6 +27111,7 @@
   hungarian: Salisbury
   italian: Salisbury
   japanese: Sōruzuberī
+  korean: Soljeubeli
   latvian: Solsberija
   lithuanian: Solsberis
   norwegian: Salisbury
@@ -26322,6 +27144,7 @@
   hungarian: Salvador
   italian: Salvador
   japanese: Sarubadōru
+  korean: Salbadoleu
   latvian: Salvadora
   lithuanian: Salvador
   norwegian: Salvador
@@ -26354,6 +27177,7 @@
   hungarian: Huambo
   italian: Huambo
   japanese: Uanbo
+  korean: Uambu
   latvian: Nova Lisboa
   lithuanian: Huambas
   norwegian: Ny Lisboa
@@ -26386,6 +27210,7 @@
   hungarian: Rio de Janeiro
   italian: Rio de Janeiro
   japanese: Riodejaneiro
+  korean: Liudejaneilu
   latvian: Riodežaneiro
   lithuanian: Rio de Žaneiras
   norwegian: Rio De Janeiro
@@ -26418,6 +27243,7 @@
   hungarian: Vila Velha
   italian: Vila Velha
   japanese: Vuira vuērya
+  korean: Billabellya
   latvian: Vila Velha
   lithuanian: Vila Velja
   norwegian: Gamle Landsby
@@ -26450,6 +27276,7 @@
   hungarian: Tromsø község
   italian: Tromsø
   japanese: Tromsø.
+  korean: Teulomsoe
   latvian: Trumses komūna
   lithuanian: Trumse
   norwegian: Tromsø
@@ -26482,6 +27309,7 @@
   hungarian: Scapa Flow
   italian: Scapa Flow
   japanese: Sukapa furō
+  korean: Scapa Heuleum
   latvian: Scapa Flow
   lithuanian: Scapa Flow
   norwegian: Scapa Flow
@@ -26514,6 +27342,7 @@
   hungarian: Helsinki
   italian: Helsinki
   japanese: Herushinki
+  korean: Helsingki
   latvian: Helsinki
   lithuanian: Helsinkis
   norwegian: Helsinki
@@ -26546,6 +27375,7 @@
   hungarian: Karlstad
   italian: Karlstad
   japanese: Kārusutādo
+  korean: Kalseutadeu
   latvian: Kārlstade
   lithuanian: Karlstadas
   norwegian: Karlstad
@@ -26578,6 +27408,7 @@
   hungarian: Wesenberg
   italian: Wesenberg
   japanese: Uezenbāgu
+  korean: Wesenberg
   latvian: Wesenberg
   lithuanian: Wesenberg
   norwegian: Wesenberg
@@ -26610,6 +27441,7 @@
   hungarian: Petrozavodszk
   italian: Petrozavodsk
   japanese: Petorozavuōtsuku
+  korean: Peteulojabocheukeu
   latvian: Petrozavodska
   lithuanian: Petrozavodskas
   norwegian: Petrozavodsk
@@ -26642,6 +27474,7 @@
   hungarian: Pszkov
   italian: Pskov
   japanese: Pusukofu
+  korean: Peuseukopeu
   latvian: Pleskava
   lithuanian: Pskovas
   norwegian: Pskov
@@ -26674,6 +27507,7 @@
   hungarian: Karlskrona
   italian: Karlskrona
   japanese: Kārusukurūna
+  korean: Kalseukeulona
   latvian: Karlskrūna
   lithuanian: Karlskruna
   norwegian: Karlskrona
@@ -26706,6 +27540,7 @@
   hungarian: Dumfries
   italian: Dumfries
   japanese: Danfurīzu
+  korean: Deompeuliseu
   latvian: Dumfries
   lithuanian: Damfrisas
   norwegian: Dumfries
@@ -26738,6 +27573,7 @@
   hungarian: Kujbisev
   italian: Kujbyšev
   japanese: Kuibishefu
+  korean: Ku Ibisyepeu
   latvian: Kuibyshev
   lithuanian: Kuibyševas
   norwegian: Kuibyshev
@@ -26770,6 +27606,7 @@
   hungarian: Velikiye Luki
   italian: Velikie Luki
   japanese: Vuerīkie rūki
+  korean: Bellikiyeluki
   latvian: Veļikije Luki
   lithuanian: Didieji Lukai
   norwegian: Velikiye Luki
@@ -26802,6 +27639,7 @@
   hungarian: Vicebszk
   italian: Vicebsk
   japanese: Vuītsuepusuku
+  korean: Bichebseukeu
   latvian: Vitebska
   lithuanian: Vitebskas
   norwegian: Vitebsk
@@ -26834,6 +27672,7 @@
   hungarian: Rjazany
   italian: Rjazan'
   japanese: Ryazan
+  korean: Lyajan
   latvian: Rjazaņa
   lithuanian: Riazane
   norwegian: Ryazan
@@ -26866,6 +27705,7 @@
   hungarian: Leicester
   italian: Ledecestre
   japanese: Resutā
+  korean: Leseuteo
   latvian: Lestera
   lithuanian: Lesteris
   norwegian: Leicester
@@ -26898,6 +27738,7 @@
   hungarian: Dublin
   italian: Dublino
   japanese: Daburin
+  korean: Deobeullin
   latvian: Dublina
   lithuanian: Dublinas
   norwegian: Dublin
@@ -26930,6 +27771,7 @@
   hungarian: Hull
   italian: Hull
   japanese: Haru
+  korean: Heol
   latvian: Hull
   lithuanian: Hull
   norwegian: Skrog
@@ -26962,6 +27804,7 @@
   hungarian: Białystok
   italian: Białystok
   japanese: Byauisutoku
+  korean: Biawiseutokeu
   latvian: Bjalistoka
   lithuanian: Balstoge
   norwegian: Białystok
@@ -26994,6 +27837,7 @@
   hungarian: Lübeck
   italian: Lubecca
   japanese: Ryūbekku
+  korean: Lwibekeu
   latvian: Libeka
   lithuanian: Liubekas
   norwegian: Lübeck
@@ -27026,6 +27870,7 @@
   hungarian: Marijampole
   italian: Marijampole
   japanese: Mariyanpore
+  korean: Maliyampolle
   latvian: Marijampole
   lithuanian: Marijampole
   norwegian: Marijampole
@@ -27058,6 +27903,7 @@
   hungarian: Szalihorszk
   italian: Salihorsk
   japanese: Sarihorusuku
+  korean: Salliholeuseukeu
   latvian: Saļihorska
   lithuanian: Salihorskas
   norwegian: Salihorsk
@@ -27090,6 +27936,7 @@
   hungarian: Cockermouth
   italian: Cockermouth
   japanese: Kokkāmasu
+  korean: Kokeomeoseu
   latvian: Cockermouth
   lithuanian: Cockermouth
   norwegian: Cockermouth
@@ -27122,6 +27969,7 @@
   hungarian: Roszlavl
   italian: Roslavl'
   japanese: Rosuravuri
+  korean: Loseullabeul
   latvian: Roslavl
   lithuanian: Roslavlis
   norwegian: Roslavl
@@ -27154,6 +28002,7 @@
   hungarian: Rzhev
   italian: Ržev
   japanese: Rujefu
+  korean: Leujepeu
   latvian: Rzhev
   lithuanian: Rževas
   norwegian: Rzhev
@@ -27186,6 +28035,7 @@
   hungarian: Bridgetown
   italian: Bridgetown
   japanese: Burijjitaun
+  korean: Beulijitaun
   latvian: Bridžtauna
   lithuanian: Bridžtaunas
   norwegian: Bridgetown
@@ -27218,6 +28068,7 @@
   hungarian: Tambov
   italian: Tambov
   japanese: Tanbofu
+  korean: Tambopeu
   latvian: Tambova
   lithuanian: Tambovas
   norwegian: Tambov
@@ -27250,6 +28101,7 @@
   hungarian: Emden
   italian: Emden
   japanese: Emuden
+  korean: Emden
   latvian: Emden
   lithuanian: Emden
   norwegian: Emden
@@ -27282,6 +28134,7 @@
   hungarian: Minszk
   italian: Minsk
   japanese: Minsuku
+  korean: Minseukeu
   latvian: Minska
   lithuanian: Minskas
   norwegian: Minsk
@@ -27314,6 +28167,7 @@
   hungarian: Sligo
   italian: Sligo
   japanese: Suraigo
+  korean: Seullaigo
   latvian: Sligo
   lithuanian: Slaigo
   norwegian: Sligo
@@ -27346,6 +28200,7 @@
   hungarian: Koszalin
   italian: Coslino
   japanese: Kosharin
+  korean: Kosyallin
   latvian: Košalina
   lithuanian: Košalinas
   norwegian: Köslin
@@ -27378,6 +28233,7 @@
   hungarian: Gorki
   italian: Gorki
   japanese: Gākī
+  korean: Goli
   latvian: Gorki
   lithuanian: Gorki
   norwegian: Gorki
@@ -27410,6 +28266,7 @@
   hungarian: Norrköping
   italian: Norrköping
   japanese: Nōshōpingu
+  korean: Noleusyeping
   latvian: Noršēpinga
   lithuanian: Noršiopingas
   norwegian: Norrköping
@@ -27442,6 +28299,7 @@
   hungarian: Ełk
   italian: Lyck
   japanese: Euku
+  korean: E Ukeu
   latvian: Elka
   lithuanian: Lukas
   norwegian: Lyck
@@ -27474,6 +28332,7 @@
   hungarian: Münster
   italian: Münster
   japanese: Myunsutā
+  korean: Mwinseuteo
   latvian: Minstere
   lithuanian: Miunsteris
   norwegian: Münster
@@ -27506,6 +28365,7 @@
   hungarian: Lublin
   italian: Lublino
   japanese: Ruburin
+  korean: Lubeullin
   latvian: Ļubļina
   lithuanian: Liublinas
   norwegian: Lublin
@@ -27538,6 +28398,7 @@
   hungarian: Liberec
   italian: Liberec
   japanese: Riberetsu
+  korean: Libelecheu
   latvian: Libereca
   lithuanian: Liberecas
   norwegian: Liberec
@@ -27570,6 +28431,7 @@
   hungarian: Zaporizzsja
   italian: Zaporižžja
   japanese: Zaporīja
+  korean: Japolija
   latvian: Zaporižja
   lithuanian: Zaporože
   norwegian: Zaporozhye
@@ -27602,6 +28464,7 @@
   hungarian: Stanisławów
   italian: Stanisławów
   japanese: Sutanisuwafu
+  korean: Stanisławów
   latvian: Stanisławów
   lithuanian: Stanisławów
   norwegian: Stanisławów
@@ -27634,6 +28497,7 @@
   hungarian: Amiens
   italian: Amiens
   japanese: Amian
+  korean: Amiaeng
   latvian: Amjēna
   lithuanian: Amjenas
   norwegian: Amiens
@@ -27666,6 +28530,7 @@
   hungarian: Kielce
   italian: Kielce
   japanese: Kyerutsue
+  korean: Kielche
   latvian: Kelce
   lithuanian: Kelcai
   norwegian: Kielce
@@ -27698,6 +28563,7 @@
   hungarian: Ústí nad Labem
   italian: Aussig
   japanese: Ūsuchī nado rabemu
+  korean: Useutinateulabem
   latvian: Ūsti pie Labas
   lithuanian: Ūstis prie Labes
   norwegian: Aussig
@@ -27730,6 +28596,7 @@
   hungarian: Bitburg
   italian: Bitburg
   japanese: Bittoburuku
+  korean: Biteubuleukeu
   latvian: Bitburg
   lithuanian: Bitburg
   norwegian: Bitburg
@@ -27762,6 +28629,7 @@
   hungarian: Dnyipro
   italian: Dnipro
   japanese: Donipuro
+  korean: Deunipeulo
   latvian: Dnipro
   lithuanian: Dnipras
   norwegian: Dnipropetrovsk
@@ -27794,6 +28662,7 @@
   hungarian: Nantes
   italian: Nantes
   japanese: Nanto
+  korean: Nangteu
   latvian: Nante
   lithuanian: Nantas
   norwegian: Nantes
@@ -27826,6 +28695,7 @@
   hungarian: Gliwice
   italian: Glivice
   japanese: Gurivuitsue
+  korean: Geullibiche
   latvian: Glivice
   lithuanian: Glivices
   norwegian: Gleiwitz
@@ -27858,6 +28728,7 @@
   hungarian: Millerovo
   italian: Millerovo
   japanese: Mirībū
+  korean: Milleo Bolo
   latvian: Millerovo
   lithuanian: Millerovo
   norwegian: Millerovo
@@ -27890,6 +28761,7 @@
   hungarian: Lviv
   italian: Leopoli
   japanese: Rivuiu
+  korean: Libiu
   latvian: Ļvova
   lithuanian: Lvovas
   norwegian: Løver
@@ -27922,6 +28794,7 @@
   hungarian: Lille
   italian: Lilla
   japanese: Rīru
+  korean: Lil
   latvian: Lille
   lithuanian: Lilis
   norwegian: Litt
@@ -27954,6 +28827,7 @@
   hungarian: Ulm
   italian: Ulma
   japanese: Urumu
+  korean: Ulleum
   latvian: Ulma
   lithuanian: Ulmas
   norwegian: Ulm
@@ -27986,6 +28860,7 @@
   hungarian: Poltava
   italian: Poltava
   japanese: Porutavua
+  korean: Poltaba
   latvian: Poltava
   lithuanian: Poltava
   norwegian: Poltava
@@ -28018,6 +28893,7 @@
   hungarian: Párizs
   italian: Parigi
   japanese: Pari
+  korean: Pali
   latvian: Parize
   lithuanian: Paryžius
   norwegian: Paris
@@ -28050,6 +28926,7 @@
   hungarian: Nancy
   italian: Nancy
   japanese: Nanshī
+  korean: Naensi
   latvian: Nancy
   lithuanian: Nancy
   norwegian: Nancy
@@ -28082,6 +28959,7 @@
   hungarian: Liège
   italian: Liegi
   japanese: Riēju
+  korean: Lieju
   latvian: Ljēža
   lithuanian: Lježas
   norwegian: Liége
@@ -28114,6 +28992,7 @@
   hungarian: Friedrich Engels
   italian: Friedrich Engels
   japanese: Furīdorihi engerusu
+  korean: Peulideulihi Eng Gelseu
   latvian: Frīdrihs Engelss
   lithuanian: Friedrich Engels
   norwegian: Engels
@@ -28146,6 +29025,7 @@
   hungarian: Saarbrücken
   italian: Saarbrücken
   japanese: Zāruburyukken
+  korean: Jaleubeulwiken
   latvian: Zārbrikene
   lithuanian: Sarbriukenas
   norwegian: Saarbrücken
@@ -28178,6 +29058,7 @@
   hungarian: Oral
   italian: Oral
   japanese: Oraru
+  korean: Olal
   latvian: Orala
   lithuanian: Oralas
   norwegian: Uralsk
@@ -28210,6 +29091,7 @@
   hungarian: Zsolna
   italian: Zilna
   japanese: Jirina
+  korean: Jillina
   latvian: Žilina
   lithuanian: Žilina
   norwegian: Žilina
@@ -28242,6 +29124,7 @@
   hungarian: Prága
   italian: Praga
   japanese: Puraha
+  korean: Peulaha
   latvian: Prāga
   lithuanian: Praha
   norwegian: Praha
@@ -28274,6 +29157,7 @@
   hungarian: Nürnberg
   italian: Norimberga
   japanese: Nyurunberuku
+  korean: Nwileunbeleukeu
   latvian: Nirnberga
   lithuanian: Niurnbergas
   norwegian: Nürnberg
@@ -28306,6 +29190,7 @@
   hungarian: Calais
   italian: Calais
   japanese: Karē
+  korean: Kalle
   latvian: Kalē
   lithuanian: Kale
   norwegian: Calais
@@ -28338,6 +29223,7 @@
   hungarian: Hajlitott Szarv
   italian: Corno Curvo
   japanese: Wankyoku Shita Tsuno
+  korean: Gogseon Gyeongjeog
   latvian: Izliekts Rags
   lithuanian: Islenktas Ragas
   norwegian: Buet Horn
@@ -28370,6 +29256,7 @@
   hungarian: Maastricht
   italian: Maastricht
   japanese: Māsutorihito
+  korean: Maseuteuliheuteu
   latvian: Māstrihta
   lithuanian: Mastrichtas
   norwegian: Maastricht
@@ -28402,6 +29289,7 @@
   hungarian: Rouen
   italian: Rouen
   japanese: Rūan
+  korean: Luang
   latvian: Ruāna
   lithuanian: Ruanas
   norwegian: Rouen
@@ -28434,6 +29322,7 @@
   hungarian: Fiume
   italian: Fiume
   japanese: Rieka
+  korean: Liyeka
   latvian: Rijeka
   lithuanian: Rijeka
   norwegian: Elv
@@ -28466,6 +29355,7 @@
   hungarian: Zágráb
   italian: Zagabria
   japanese: Zagurebu
+  korean: Jageulebeu
   latvian: Zagreba
   lithuanian: Zagrebas
   norwegian: Zagreb
@@ -28498,6 +29388,7 @@
   hungarian: Velence
   italian: Venezia
   japanese: Vuenetsuia
+  korean: Benechia
   latvian: Venēcija
   lithuanian: Venecija
   norwegian: Venezia
@@ -28530,6 +29421,7 @@
   hungarian: Belgrád
   italian: Belgrado
   japanese: Beogurādo
+  korean: Be Ogeuladeu
   latvian: Belgrada
   lithuanian: Belgradas
   norwegian: Beograd
@@ -28562,6 +29454,7 @@
   hungarian: Dobrics
   italian: Dobrič
   japanese: Doburichi
+  korean: Dobeulichi
   latvian: Dobriča
   lithuanian: Dobričius
   norwegian: Dobrich
@@ -28594,6 +29487,7 @@
   hungarian: Bolzano
   italian: Bolzano
   japanese: Borutsuāno
+  korean: Bolchano
   latvian: Bolcāno
   lithuanian: Bolcanas
   norwegian: Bolzano
@@ -28626,6 +29520,7 @@
   hungarian: Pécs
   italian: Cinquechiese
   japanese: Pēchi
+  korean: Pecs
   latvian: Pēča
   lithuanian: Pėčas
   norwegian: Pecs
@@ -28658,6 +29553,7 @@
   hungarian: Villach
   italian: Villach
   japanese: Firahha
+  korean: Pillaheu
   latvian: Fillaha
   lithuanian: Filachas
   norwegian: Villach
@@ -28690,6 +29586,7 @@
   hungarian: Nalcsik
   italian: Nal'čik
   japanese: Narichiku
+  korean: Nalchikeu
   latvian: Naļčika
   lithuanian: Nalčikas
   norwegian: Nalchik
@@ -28722,6 +29619,7 @@
   hungarian: Szuhumi
   italian: Sukhumi
   japanese: Sufumi
+  korean: Suhumi
   latvian: Suhumi
   lithuanian: Suchumis
   norwegian: Sukhumi
@@ -28754,6 +29652,7 @@
   hungarian: Müllheim
   italian: Müllheim
   japanese: Müllheim
+  korean: Müllheim
   latvian: Müllheim
   lithuanian: Müllheim
   norwegian: Sopp
@@ -28786,6 +29685,7 @@
   hungarian: Buffalo
   italian: Buffalo
   japanese: Baffarō
+  korean: Beopeollo
   latvian: Buffalo
   lithuanian: Buffalo
   norwegian: Bøffel
@@ -28818,6 +29718,7 @@
   hungarian: Debrecen
   italian: Debrecen
   japanese: Deburetsuen
+  korean: Debeulechen
   latvian: Debrecena
   lithuanian: Debrecenas
   norwegian: Debrecen
@@ -28850,6 +29751,7 @@
   hungarian: Bécs
   italian: Vienna
   japanese: Uīn
+  korean: Bin
   latvian: Vine
   lithuanian: Viena
   norwegian: Wien
@@ -28882,6 +29784,7 @@
   hungarian: Odessza
   italian: Odessa
   japanese: Odessa
+  korean: Odesa
   latvian: Odesa
   lithuanian: Odesa
   norwegian: Odessa
@@ -28914,6 +29817,7 @@
   hungarian: Braga
   italian: Braga
   japanese: Buraga
+  korean: Beulaga
   latvian: Braga
   lithuanian: Braga
   norwegian: Braga
@@ -28946,6 +29850,7 @@
   hungarian: Gandzsa
   italian: Tesoria
   japanese: Gyanja
+  korean: Ganja
   latvian: Gendže
   lithuanian: Gendžė
   norwegian: Ganja
@@ -28978,6 +29883,7 @@
   hungarian: Mikolajiv
   italian: Mykolaïv
   japanese: Muikorāiu
+  korean: Mikollaiu
   latvian: Mikolajiva
   lithuanian: Mykolajivas
   norwegian: Mykolaiv
@@ -29010,6 +29916,7 @@
   hungarian: Sztavropol
   italian: Stavropol'
   japanese: Sutavuropori
+  korean: Seutabeulopol
   latvian: Stavropole
   lithuanian: Stavropolis
   norwegian: Stavropol
@@ -29042,6 +29949,7 @@
   hungarian: Oviedo
   italian: Oviedo
   japanese: Obiedo
+  korean: Obiedo
   latvian: Ovjedo
   lithuanian: Ovjedas
   norwegian: Oviedo
@@ -29074,6 +29982,7 @@
   hungarian: Eliszta
   italian: Elista
   japanese: Erisuta
+  korean: Elitsa
   latvian: Elista
   lithuanian: Elista
   norwegian: Elitsa
@@ -29106,6 +30015,7 @@
   hungarian: Adana
   italian: Adana
   japanese: Adana
+  korean: Adana
   latvian: Adana
   lithuanian: Adana
   norwegian: Adana
@@ -29138,6 +30048,7 @@
   hungarian: Ankara
   italian: Ankara
   japanese: Ankara
+  korean: Angkala
   latvian: Ankara
   lithuanian: Ankara
   norwegian: Ankara
@@ -29170,6 +30081,7 @@
   hungarian: Zhangbei
   italian: Zhangbei
   japanese: Chō Cha
+  korean: Jhang Eun
   latvian: Zhangbei
   lithuanian: Zhangbei
   norwegian: Zhangbei
@@ -29202,6 +30114,7 @@
   hungarian: Vlora
   italian: Valona
   japanese: Vurora
+  korean: Beulloleo
   latvian: Vļora
   lithuanian: Vliore
   norwegian: Vlore
@@ -29234,6 +30147,7 @@
   hungarian: Senjang
   italian: Shenyang
   japanese: Shin'yō
+  korean: Seon Yangsi
   latvian: Šeņjana
   lithuanian: Šenjangas
   norwegian: Mukden
@@ -29266,6 +30180,7 @@
   hungarian: Cagliari
   italian: Cagliari
   japanese: Karyari
+  korean: Kalliali
   latvian: Kaljāri
   lithuanian: Kaljaris
   norwegian: Cagliari
@@ -29298,6 +30213,7 @@
   hungarian: Pittsburgh
   italian: Pittsburgh
   japanese: Pittsubāgu
+  korean: Picheubeogeu
   latvian: Pitsburga
   lithuanian: Pitsbergas
   norwegian: Pittsburgh
@@ -29330,6 +30246,7 @@
   hungarian: Lisszabon
   italian: Lisbona
   japanese: Risubon
+  korean: Liseubon
   latvian: Lisabona
   lithuanian: Lisabona
   norwegian: Lisboa
@@ -29362,6 +30279,7 @@
   hungarian: Tarsus
   italian: Tarsus
   japanese: Tāsusu
+  korean: Joggeun
   latvian: Tarsus
   lithuanian: Tarsus
   norwegian: Tarsus
@@ -29394,6 +30312,7 @@
   hungarian: İzmit
   italian: İzmit
   japanese: Izumitto
+  korean: Ijeumiteu
   latvian: Izmita
   lithuanian: Izmitas
   norwegian: İzmit
@@ -29426,6 +30345,7 @@
   hungarian: Ragusa
   italian: Ragusa
   japanese: Ragūza
+  korean: Lagusa
   latvian: Ragusa
   lithuanian: Ragusa
   norwegian: Ragusa
@@ -29458,6 +30378,7 @@
   hungarian: Szaloniki
   italian: Salonicco
   japanese: Tessaroniki
+  korean: Tesalloniki
   latvian: Saloniki
   lithuanian: Salonikai
   norwegian: Thessaloniki
@@ -29490,6 +30411,7 @@
   hungarian: Valladolid
   italian: Valladolid
   japanese: Baryadoriddo
+  korean: Bayadollideu
   latvian: Valjadolida
   lithuanian: Valjadolidas
   norwegian: Valladolid
@@ -29522,6 +30444,7 @@
   hungarian: Livorno
   italian: Livorno
   japanese: Rivuoruno
+  korean: Liboleuno
   latvian: Livorno
   lithuanian: Livornas
   norwegian: Livorno
@@ -29554,6 +30477,7 @@
   hungarian: Marseille
   italian: Marsiglia
   japanese: Maruseiyu
+  korean: Maleuseyu
   latvian: Marseļa
   lithuanian: Marselis
   norwegian: Marseille
@@ -29586,6 +30510,7 @@
   hungarian: Taranto
   italian: Taranto
   japanese: Tāranto
+  korean: Talanto
   latvian: Taranto
   lithuanian: Tarantas
   norwegian: Taranto
@@ -29618,6 +30543,7 @@
   hungarian: Edirne
   italian: Edirne
   japanese: Edirune
+  korean: Edileune
   latvian: Edirne
   lithuanian: Edirne
   norwegian: Edirne
@@ -29650,6 +30576,7 @@
   hungarian: Anzio
   italian: Anzio
   japanese: Antsuio
+  korean: Anchio
   latvian: Ancio
   lithuanian: Ancijus
   norwegian: Anzio
@@ -29682,6 +30609,7 @@
   hungarian: Erzurum
   italian: Erzurum
   japanese: Eruzurumu
+  korean: Eleujulum
   latvian: Erzuruma
   lithuanian: Erzurumas
   norwegian: Erzurum
@@ -29714,6 +30642,7 @@
   hungarian: Leskovac
   italian: Leskovac
   japanese: Resukovuatsu
+  korean: Leseukobacheu
   latvian: Leskovaca
   lithuanian: Leskovacas
   norwegian: Leskovac
@@ -29746,6 +30675,7 @@
   hungarian: Samsun
   italian: Samsun
   japanese: Samusun
+  korean: Samsun
   latvian: Samsuna
   lithuanian: Samsunas
   norwegian: Samsun
@@ -29778,6 +30708,7 @@
   hungarian: Szarajevó
   italian: Sarajevo
   japanese: Saraevuo
+  korean: Salayebo
   latvian: Sarajeva
   lithuanian: Sarajevas
   norwegian: Sarajevo
@@ -29810,6 +30741,7 @@
   hungarian: Alexandrúpoli
   italian: Alessandropoli
   japanese: Arekusandorūpori
+  korean: Allegsandeulupolli
   latvian: Alexandroupolis
   lithuanian: Aleksandrupolis
   norwegian: Alexandroupolis
@@ -29842,6 +30774,7 @@
   hungarian: Nanking
   italian: Nanchino
   japanese: Nankin
+  korean: Nanjingsi
   latvian: Naņdzjina
   lithuanian: Nankinas
   norwegian: Nanjing
@@ -29874,6 +30807,7 @@
   hungarian: Szfaksz
   italian: Sfax
   japanese: Sufakkusu
+  korean: Seupagseu
   latvian: Sfāksa
   lithuanian: Sfaksas
   norwegian: Sfax
@@ -29906,6 +30840,7 @@
   hungarian: Dakka
   italian: Dacca
   japanese: Dakka
+  korean: Daka
   latvian: Daka
   lithuanian: Daka
   norwegian: Dacca
@@ -29938,6 +30873,7 @@
   hungarian: Naha
   italian: Naha
   japanese: Naha
+  korean: Nahasi
   latvian: Naha
   lithuanian: Naha
   norwegian: Hud
@@ -29970,6 +30906,7 @@
   hungarian: Bengázi
   italian: Bengasi
   japanese: Bengaji
+  korean: Beng Gaji
   latvian: Bengāzi
   lithuanian: Bengazis
   norwegian: Benghazi
@@ -30002,6 +30939,7 @@
   hungarian: Kalamáta
   italian: Calamata
   japanese: Karamata
+  korean: Kallamata
   latvian: Kalamáta
   lithuanian: Kalamata
   norwegian: Kalamáta
@@ -30034,6 +30972,7 @@
   hungarian: Tunisz
   italian: Tunisi
   japanese: Chunisu
+  korean: Twiniseu
   latvian: Tunisa
   lithuanian: Tunisas
   norwegian: Tunis
@@ -30066,6 +31005,7 @@
   hungarian: Aszjút
   italian: Asyūṭ
   japanese: Ashūto
+  korean: Asiuteu
   latvian: Asjūta
   lithuanian: Asjutas
   norwegian: Asyut
@@ -30098,6 +31038,7 @@
   hungarian: Maán
   italian: Ma'an
   japanese: Maān
+  korean: Maan
   latvian: Ma'an
   lithuanian: Maanas
   norwegian: Mann
@@ -30130,6 +31071,7 @@
   hungarian: Nicosia
   italian: Nicosia
   japanese: Nikoshia
+  korean: Nikosia
   latvian: Nikosija
   lithuanian: Nikosija
   norwegian: Nicosia
@@ -30162,6 +31104,7 @@
   hungarian: Asszuán
   italian: Assuan
   japanese: Asuwan
+  korean: Aseuwan
   latvian: Asuāna
   lithuanian: Asuanas
   norwegian: Aswan
@@ -30194,6 +31137,7 @@
   hungarian: Gurdaka
   italian: Hurghada
   japanese: Furugada
+  korean: Huleugada
   latvian: Hurgada
   lithuanian: Hurgada
   norwegian: Hurghada
@@ -30226,6 +31170,7 @@
   hungarian: Valletta
   italian: La Valletta
   japanese: Baretta
+  korean: Balleta
   latvian: Valleta
   lithuanian: Valeta
   norwegian: Valletta
@@ -30258,6 +31203,7 @@
   hungarian: Huang-san
   italian: Huangshan
   japanese: Kōsan
+  korean: Hwangsan
   latvian: Huangshan
   lithuanian: Huan Šanas
   norwegian: Huangshan
@@ -30290,6 +31236,7 @@
   hungarian: Hilo
   italian: Hilo
   japanese: Hiro
+  korean: Hillo
   latvian: Hilo
   lithuanian: Hilas
   norwegian: Hilo
@@ -30322,6 +31269,7 @@
   hungarian: Antakya
   italian: Antiochia
   japanese: Antakiya
+  korean: Antakia
   latvian: Antakja
   lithuanian: Antakija
   norwegian: Antakya
@@ -30354,6 +31302,7 @@
   hungarian: Batna
   italian: Batna
   japanese: Batona
+  korean: Bateuna
   latvian: Batna
   lithuanian: Batna
   norwegian: Batna
@@ -30386,6 +31335,7 @@
   hungarian: Almería
   italian: Almería
   japanese: Arumeria
+  korean: Almelia
   latvian: Almerija
   lithuanian: Almerija
   norwegian: Almeria
@@ -30418,6 +31368,7 @@
   hungarian: Port Szaíd
   italian: Porto Said
   japanese: Pōtosaido
+  korean: Poteusaideu
   latvian: Portsaida
   lithuanian: Port Saidas
   norwegian: Porten Sa
@@ -30450,6 +31401,7 @@
   hungarian: Constantine
   italian: Constantine
   japanese: Konsutantin
+  korean: Konseuteontin
   latvian: Constantine
   lithuanian: Constantine
   norwegian: Constantine
@@ -30482,6 +31434,7 @@
   hungarian: Haniá
   italian: La Canea
   japanese: Hania
+  korean: Hania
   latvian: Hanija
   lithuanian: Chanija
   norwegian: Chania
@@ -30514,6 +31467,7 @@
   hungarian: Kaohsziung
   italian: Kaohsiung
   japanese: Takao
+  korean: Gaosyungsi
   latvian: Gaoxiong
   lithuanian: Gaosiongas
   norwegian: Ga O Bror
@@ -30546,6 +31500,7 @@
   hungarian: Luxor
   italian: Luxor
   japanese: Rukusōru
+  korean: Lugsoleu
   latvian: Luksora
   lithuanian: Luksoras
   norwegian: Luxor
@@ -30578,6 +31533,7 @@
   hungarian: Cebu
   italian: Cebu
   japanese: Sebu-shū
+  korean: Sebuju
   latvian: Cebu
   lithuanian: Sebu
   norwegian: Cebu
@@ -30610,6 +31566,7 @@
   hungarian: Port Vila
   italian: Port Vila
   japanese: Pōtobira
+  korean: Poteubilla
   latvian: Vila
   lithuanian: Port Vila
   norwegian: Port Vila
@@ -30642,6 +31599,7 @@
   hungarian: Lakhnau
   italian: Lucknow
   japanese: Rakunau
+  korean: Leokeunau
   latvian: Laknava
   lithuanian: Laknau
   norwegian: Lucknow
@@ -30674,6 +31632,7 @@
   hungarian: Hagatna
   italian: Hagåtña
   japanese: Hagania
+  korean: Hagasnya
   latvian: Hagātņa
   lithuanian: Aganija
   norwegian: Hagatna
@@ -30706,6 +31665,7 @@
   hungarian: Ya'an
   italian: Ya'an
   japanese: Yāanshiti
+  korean: Yaansi
   latvian: Ya'an
   lithuanian: Ya'an
   norwegian: Kom Opp
@@ -30738,6 +31698,7 @@
   hungarian: Papeete
   italian: Papeete
   japanese: Papēte
+  korean: Papeete
   latvian: Papeete
   lithuanian: Papeete
   norwegian: Pope
@@ -30770,6 +31731,7 @@
   hungarian: Québec
   italian: Québec
   japanese: Kebekku-shū
+  korean: Kwebegju
   latvian: Kvebeka
   lithuanian: Kvebekas
   norwegian: Québec
@@ -30802,6 +31764,7 @@
   hungarian: Habarovszk
   italian: Chabarovsk
   japanese: Habarofusuku
+  korean: Habalobseukeu
   latvian: Habarovska
   lithuanian: Chabarovskas
   norwegian: Khabarovsk
@@ -30834,6 +31797,7 @@
   hungarian: Aparri
   italian: Aparri
   japanese: Aparuri.
+  korean: Apali
   latvian: Aparri
   lithuanian: Aparri
   norwegian: Aparri
@@ -30866,6 +31830,7 @@
   hungarian: Lae
   italian: Lae
   japanese: Rae
+  korean: La E
   latvian: Lae
   lithuanian: Lae
   norwegian: Nedlasting
@@ -30898,6 +31863,7 @@
   hungarian: Kunduz
   italian: Konduz
   japanese: Kundoūzu
+  korean: Kundujeu
   latvian: Kunduz
   lithuanian: Kundūzas
   norwegian: Kunduz
@@ -30930,6 +31896,7 @@
   hungarian: Palembang
   italian: Palembang
   japanese: Parenban
+  korean: Pallembang
   latvian: Palembana
   lithuanian: Palembangas
   norwegian: Palembang
@@ -30962,6 +31929,7 @@
   hungarian: Szingapúr
   italian: Singapore
   japanese: Shingapōru
+  korean: Sing Gapoleu
   latvian: Singapūra
   lithuanian: Singapūras
   norwegian: Singapore
@@ -30994,6 +31962,7 @@
   hungarian: Kingston
   italian: Kingston
   japanese: Kingusuton
+  korean: Kingseuteon
   latvian: Kingston
   lithuanian: Kingstonas
   norwegian: Kingston
@@ -31026,6 +31995,7 @@
   hungarian: Jereván
   italian: Erevan
   japanese: Ereban
+  korean: Yeleban
   latvian: Erevāna
   lithuanian: Jerevanas
   norwegian: Yerevan
@@ -31058,6 +32028,7 @@
   hungarian: Aşgabat
   italian: Aşgabat
   japanese: Ashigabāto
+  korean: Asigabateu
   latvian: Ašgabata
   lithuanian: Ašchabadas
   norwegian: Ashgabat
@@ -31090,6 +32061,7 @@
   hungarian: Milwaukee
   italian: Milwaukee
   japanese: Miruuōkī
+  korean: Mil Woki
   latvian: Milvoki
   lithuanian: Milvokis
   norwegian: Milwaukee
@@ -31122,6 +32094,7 @@
   hungarian: Buenos Aires
   italian: Buenos Aires
   japanese: Buenosuairesu
+  korean: Buenoseuaileseu
   latvian: Buenosairesa
   lithuanian: Buenos Aires
   norwegian: Buenos Aires
@@ -31154,6 +32127,7 @@
   hungarian: Hollandia
   italian: Hollandia
   japanese: Oranda
+  korean: Hollandia
   latvian: Hollandia
   lithuanian: Hollandia
   norwegian: Nederland
@@ -31186,6 +32160,7 @@
   hungarian: Ağrı
   italian: Ağrı
   japanese: Āru
+  korean: Aleu
   latvian: Qerekose
   lithuanian: Ahras
   norwegian: Qersekose
@@ -31218,6 +32193,7 @@
   hungarian: Atlanta
   italian: Atlanta
   japanese: Atoranta
+  korean: Aeteullaenta
   latvian: Atlanta
   lithuanian: Atlanta
   norwegian: Atlanta
@@ -31250,6 +32226,7 @@
   hungarian: Batman
   italian: Batman
   japanese: Battoman
+  korean: Baeteumaen
   latvian: Betmens
   lithuanian: Betmenas
   norwegian: Batman
@@ -31282,6 +32259,7 @@
   hungarian: Sydney
   italian: Sydney
   japanese: Shidonī
+  korean: Sideuni
   latvian: Sidneja
   lithuanian: Sidnejus
   norwegian: Sydney
@@ -31314,6 +32292,7 @@
   hungarian: Ramadi
   italian: Ramadi
   japanese: Ramadei
+  korean: Runadiyah
   latvian: Rumadiyah
   lithuanian: Ramadi
   norwegian: Ramadi
@@ -31346,6 +32325,7 @@
   hungarian: Asahigawa
   italian: Asahikawa
   japanese: Asahikawa
+  korean: Asahikawasi
   latvian: Asahigawa
   lithuanian: Asahikava
   norwegian: Asahikawa
@@ -31378,6 +32358,7 @@
   hungarian: Gjumri
   italian: Giumri
   japanese: Giyumuri
+  korean: Gyumli
   latvian: Gjumri
   lithuanian: Giumri
   norwegian: Gyumri
@@ -31410,6 +32391,7 @@
   hungarian: Juzsno-Szahalinszk
   italian: Južno-Sachalinsk
   japanese: Yujinosaharinsuku
+  korean: Yujeunosahallinseukeu
   latvian: Južnosahaļinska
   lithuanian: Južno Sachalinskas
   norwegian: Toyohara
@@ -31442,6 +32424,7 @@
   hungarian: Bangor
   italian: Bangor
   japanese: Bangōru
+  korean: Baeng Go Eo
   latvian: Bangor
   lithuanian: Bangoras
   norwegian: Bangor
@@ -31474,6 +32457,7 @@
   hungarian: Tijuana
   italian: Tijuana
   japanese: Tifuana
+  korean: Tihuana
   latvian: Tihuana
   lithuanian: Tichuana
   norwegian: Tijuana
@@ -31506,6 +32490,7 @@
   hungarian: Xiva
   italian: Khiva
   japanese: Hivua
+  korean: Hiba
   latvian: Hiva
   lithuanian: Chiva
   norwegian: Khiva
@@ -31538,6 +32523,7 @@
   hungarian: Aleppó
   italian: Aleppo
   japanese: Areppo
+  korean: Allepo
   latvian: Haleba
   lithuanian: Alepas
   norwegian: Aleppo
@@ -31570,6 +32556,7 @@
   hungarian: Hakkari
   italian: Hakkâri
   japanese: Yae-kan
+  korean: Hakeka
   latvian: Hakkâri
   lithuanian: Hakkâri
   norwegian: Habitat
@@ -31602,6 +32589,7 @@
   hungarian: Little Rock
   italian: Little Rock
   japanese: Ritorurokku
+  korean: Liteullog
   latvian: Litlroka
   lithuanian: Litl Rokas
   norwegian: Liten Stein
@@ -31634,6 +32622,7 @@
   hungarian: Nashville
   italian: Nashville
   japanese: Nasshubiru
+  korean: Naesyubil
   latvian: Našvila
   lithuanian: Nešvilis
   norwegian: Nashville
@@ -31666,6 +32655,7 @@
   hungarian: Biskek
   italian: Biškek
   japanese: Bishukeku
+  korean: Bisyukekeu
   latvian: Biškeka
   lithuanian: Biškekas
   norwegian: Bishkek
@@ -31698,6 +32688,7 @@
   hungarian: Omaha
   italian: Omaha
   japanese: Omaha
+  korean: Omaha
   latvian: Omaha
   lithuanian: Omaha
   norwegian: Omaha
@@ -31730,6 +32721,7 @@
   hungarian: Fokváros
   italian: Città del Capo
   japanese: Kēputaun
+  korean: Keipeutaun
   latvian: Keiptauna
   lithuanian: Keiptaunas
   norwegian: Cape Town
@@ -31762,6 +32754,7 @@
   hungarian: Szemej
   italian: Semej
   japanese: Semei
+  korean: Semei
   latvian: Semeja
   lithuanian: Semejus
   norwegian: Semipalatinsk
@@ -31794,6 +32787,7 @@
   hungarian: Ust-bargusin
   italian: Ust-bargusin
   japanese: Ust - bargusin
+  korean: Uyst Barguzin
   latvian: Ust-bargusin
   lithuanian: Ust barguzinas
   norwegian: Ust Barguzin
@@ -31826,6 +32820,7 @@
   hungarian: Reykjavík
   italian: Reykjavík
   japanese: Reikyavuīku
+  korean: Leikyabikeu
   latvian: Reikjavika
   lithuanian: Reikjavikas
   norwegian: Reykjavik
@@ -31858,6 +32853,7 @@
   hungarian: Mérida
   italian: Mérida
   japanese: Merida
+  korean: Meleuda
   latvian: Merida
   lithuanian: Merida
   norwegian: Mérida
@@ -31890,6 +32886,7 @@
   hungarian: Port Szudán
   italian: Porto Sudan
   japanese: Pōtosūdan
+  korean: Poteusudan
   latvian: Port Sudan
   lithuanian: Port Sudanas
   norwegian: Port Sudan
@@ -31922,6 +32919,7 @@
   hungarian: Rijád
   italian: Riad
   japanese: Riyado
+  korean: Liyadeu
   latvian: Rijāda
   lithuanian: Rijadas
   norwegian: Riyadh
@@ -31954,6 +32952,7 @@
   hungarian: Lancsou
   italian: Lanzhou
   japanese: Ranzudjoushiti
+  korean: Lanjeousi
   latvian: Laņdžou
   lithuanian: Landžou
   norwegian: Lanzhou
@@ -31986,6 +32985,7 @@
   hungarian: Birmingham
   italian: Birmingham
   japanese: Bāmingamu
+  korean: Beoming Eom
   latvian: Birmingema
   lithuanian: Birmingamas
   norwegian: Birmingham
@@ -32018,6 +33018,7 @@
   hungarian: La Paz
   italian: La Paz
   japanese: Rapasu
+  korean: Lapaseu
   latvian: Lapasa
   lithuanian: La Pasas
   norwegian: Fred
@@ -32050,6 +33051,7 @@
   hungarian: Managua
   italian: Managua
   japanese: Managua
+  korean: Managwa
   latvian: Managva
   lithuanian: Managva
   norwegian: Managua
@@ -32082,6 +33084,7 @@
   hungarian: Puerto Vallarta
   italian: Puerto Vallarta
   japanese: Bajachapōto
+  korean: Pueleutobayaleuta
   latvian: Puerto Vallarta
   lithuanian: Puerto Vallarta
   norwegian: Vallarta Port
@@ -32114,6 +33117,7 @@
   hungarian: Medina
   italian: Medina
   japanese: Madīna
+  korean: Medina
   latvian: Medina
   lithuanian: Medina
   norwegian: Medina
@@ -32146,6 +33150,7 @@
   hungarian: Pesavar
   italian: Peshawar
   japanese: Peshāwaru
+  korean: Pesyawaleu
   latvian: Pešāvara
   lithuanian: Pešavaras
   norwegian: Peshawar
@@ -32178,6 +33183,7 @@
   hungarian: Aszmara
   italian: Asmara
   japanese: Asumara
+  korean: Aseumala
   latvian: Asmera
   lithuanian: Asmara
   norwegian: Asmara
@@ -32210,6 +33216,7 @@
   hungarian: San Antonio
   italian: San Antonio
   japanese: San'antonio
+  korean: Saen Antonio
   latvian: Sanantonio
   lithuanian: San Antonijus
   norwegian: San Antonio
@@ -32242,6 +33249,7 @@
   hungarian: Cartagena
   italian: Cartagena
   japanese: Karutahena
+  korean: Kaleutahena
   latvian: Cartagena
   lithuanian: Kartachena
   norwegian: Cartagena
@@ -32274,6 +33282,7 @@
   hungarian: Quito
   italian: Quito
   japanese: Kito
+  korean: Kito
   latvian: Kito
   lithuanian: Kitas
   norwegian: Quito
@@ -32306,6 +33315,7 @@
   hungarian: Kartúm
   italian: Khartum
   japanese: Harutsūmu
+  korean: Haleutum
   latvian: Hartūma
   lithuanian: Chartumas
   norwegian: Khartoum
@@ -32338,6 +33348,7 @@
   hungarian: Veracruz
   italian: Veracruz
   japanese: Bera kurusushū
+  korean: Belakeuluseuju
   latvian: Verakrusa de Ignasio de la Ljave
   lithuanian: Verakrusas
   norwegian: Veracruz
@@ -32370,6 +33381,7 @@
   hungarian: Piedras Negras
   italian: Piedras Negras
   japanese: Kuroi i
+  korean: Geom Eun Dol
   latvian: Piedras Negras
   lithuanian: Piedras Negras
   norwegian: Svarte Steiner
@@ -32402,6 +33414,7 @@
   hungarian: San Salvador
   italian: San Salvador
   japanese: Sansarubadoru
+  korean: Sansalbadoleu
   latvian: Sansalvadora
   lithuanian: San Salvadoras
   norwegian: San Salvador
@@ -32434,6 +33447,7 @@
   hungarian: Bangui
   italian: Bangui
   japanese: Bangi
+  korean: Bang Gi
   latvian: Bangi
   lithuanian: Bangis
   norwegian: Bangui
@@ -32466,6 +33480,7 @@
   hungarian: Busehr
   italian: Bushehr
   japanese: Būshefuru
+  korean: Busyeleu
   latvian: Bushehr
   lithuanian: Bušehras
   norwegian: Bushehr
@@ -32498,6 +33513,7 @@
   hungarian: Monterrey
   italian: Monterrey
   japanese: Monterei
+  korean: Montelei
   latvian: Monterreja
   lithuanian: Monterejus
   norwegian: Monterrey
@@ -32530,6 +33546,7 @@
   hungarian: Belém
   italian: Belém
   japanese: Beren
+  korean: Belleng
   latvian: Belena
   lithuanian: Belenas
   norwegian: Belem
@@ -32562,6 +33579,7 @@
   hungarian: Sidi Ifni
   italian: Sidi Ifni
   japanese: Ivni
+  korean: Sidiipeuni
   latvian: Sidi Ifni
   lithuanian: Sidi Ifnis
   norwegian: Sir Ivni
@@ -32594,6 +33612,7 @@
   hungarian: Tegucigalpa
   italian: Tegucigalpa
   japanese: Tegushigarupa
+  korean: Tegusigalpa
   latvian: Tegusigalpa
   lithuanian: Tegusigalpa
   norwegian: Tegucigalpa
@@ -32626,6 +33645,7 @@
   hungarian: Dzsidda
   italian: Gedda
   japanese: Jidda
+  korean: Jida
   latvian: Džida
   lithuanian: Džida
   norwegian: Jeddah
@@ -32658,6 +33678,7 @@
   hungarian: Cayenne
   italian: Caienna
   japanese: Kaien'nu
+  korean: Kayen
   latvian: Kajenna
   lithuanian: Kajena
   norwegian: Cayenne
@@ -32690,6 +33711,7 @@
   hungarian: Bissau
   italian: Bissau
   japanese: Bisau
+  korean: Bisau
   latvian: Bisava
   lithuanian: Bisau
   norwegian: Bissau
@@ -32722,6 +33744,7 @@
   hungarian: Adelaide
   italian: Adelaide
   japanese: Aderēdo
+  korean: Aedeulleideu
   latvian: Adelaida
   lithuanian: Adelaide
   norwegian: Adelaide
@@ -32754,6 +33777,7 @@
   hungarian: Córdoba
   italian: Córdoba
   japanese: Korudoba
+  korean: Koleudoba
   latvian: Kordova
   lithuanian: Córdoba
   norwegian: Córdoba
@@ -32786,6 +33810,7 @@
   hungarian: Lilongwe
   italian: Lilongwe
   japanese: Rirongūe
+  korean: Lillong Gwe
   latvian: Lilongve
   lithuanian: Lilongve
   norwegian: Lilongwe
@@ -32818,6 +33843,7 @@
   hungarian: Kampala
   italian: Kampala
   japanese: Kanpara
+  korean: Kampalla
   latvian: Kampala
   lithuanian: Kampala
   norwegian: Kampala
@@ -32850,6 +33876,7 @@
   hungarian: Mogadishu
   italian: Mogadiscio
   japanese: Mogadishu
+  korean: Mogadisyu
   latvian: Mogadišo
   lithuanian: Mogadišas
   norwegian: Mogadishu
@@ -32882,6 +33909,7 @@
   hungarian: Antofagasta
   italian: Antofagasta
   japanese: Antofagasuta
+  korean: Antopagaseuta
   latvian: Antofagasta
   lithuanian: Antofagasta
   norwegian: Antofagasta
@@ -32914,6 +33942,7 @@
   hungarian: Lima
   italian: Lima
   japanese: Rima
+  korean: Lima
   latvian: Lima
   lithuanian: Lima
   norwegian: Lima
@@ -32946,6 +33975,7 @@
   hungarian: Hamilton
   italian: Hamilton
   japanese: Hamiruton
+  korean: Haemilteon
   latvian: Hamilton
   lithuanian: Hamiltonas
   norwegian: Hamilton
@@ -32978,6 +34008,7 @@
   hungarian: Reims
   italian: Reims
   japanese: Ransu
+  korean: Laengseu
   latvian: Reimsa
   lithuanian: Reimsas
   norwegian: Reims
@@ -33010,6 +34041,7 @@
   hungarian: Tarawa
   italian: Tarawa
   japanese: Tarawa
+  korean: Talawa
   latvian: Tarawa
   lithuanian: Tarava
   norwegian: Tarawa
@@ -33042,6 +34074,7 @@
   hungarian: Iwo Jima
   italian: Iwo Jima
   japanese: Iōjima
+  korean: Ioseom
   latvian: Iwo Jima
   lithuanian: Ivo Džima
   norwegian: Iwo Jima
@@ -33074,6 +34107,7 @@
   hungarian: Yap
   italian: Yap
   japanese: Yappu-jima
+  korean: Yapeuseom
   latvian: Yap
   lithuanian: Japas
   norwegian: Gjøre
@@ -33106,6 +34140,7 @@
   hungarian: Nauru
   italian: Nauru
   japanese: Nauru
+  korean: Naulu
   latvian: Nauru
   lithuanian: Nauru
   norwegian: Nauru
@@ -33138,6 +34173,7 @@
   hungarian: Kwajalein
   italian: Kwajalein
   japanese: Kuezerin kanshō
+  korean: Kwajallein Hwancho
   latvian: Kwajalein
   lithuanian: Kvadžaleinas
   norwegian: Kwajalein
@@ -33170,6 +34206,7 @@
   hungarian: Eniwetok
   italian: Enewetak
   japanese: Eniuetoku kanshō
+  korean: Enewetakeu Hwancho
   latvian: Eniwetok
   lithuanian: Enivetokas
   norwegian: Eniwetok
@@ -33202,6 +34239,7 @@
   hungarian: Wake
   italian: Wake
   japanese: Ueiku
+  korean: Weikeu
   latvian: Wake
   lithuanian: Wake
   norwegian: Våkne
@@ -33234,6 +34272,7 @@
   hungarian: Midway
   italian: Midway
   japanese: Middouē
+  korean: Mideuwei
   latvian: Midway
   lithuanian: Midway
   norwegian: Midtveis
@@ -33266,6 +34305,7 @@
   hungarian: Anadir
   italian: Anadyr
   japanese: Anadiri
+  korean: Anadyr
   latvian: Anadyr
   lithuanian: Anadyr
   norwegian: Anadyr
@@ -33298,6 +34338,7 @@
   hungarian: Attu Island
   italian: Attu Island
   japanese: Attsu-jima
+  korean: Aetuseom
   latvian: Attu Island
   lithuanian: Attu Island
   norwegian: Attu Øya
@@ -33330,6 +34371,7 @@
   hungarian: Leuven
   italian: Lovanio
   japanese: Rūvuen
+  korean: Loebeon
   latvian: Lēvena
   lithuanian: Levenas
   norwegian: Leuven
@@ -33362,6 +34404,7 @@
   hungarian: Santa Cruz de Tenerife
   italian: Santa Cruz de Tenerife
   japanese: Santa kurusu de tenerife
+  korean: Santakeuluseudetenelipe
   latvian: Santakrusa de Tenerife
   lithuanian: Tenerifes Santa Krusas
   norwegian: Santa Cruz Av Tenerife
@@ -33394,6 +34437,7 @@
   hungarian: San José
   italian: San José
   japanese: Sanhose
+  korean: Sanhose
   latvian: Sanhosē
   lithuanian: San Chose
   norwegian: San Jose
@@ -33426,6 +34470,7 @@
   hungarian: Guadalajara
   italian: Guadalajara
   japanese: Guadarahara
+  korean: Gwadallahala
   latvian: Gvadalahara
   lithuanian: Gvadalachara
   norwegian: Guadalajara
@@ -33458,6 +34503,7 @@
   hungarian: Unalaska
   italian: Unalaska
   japanese: Unarasuka
+  korean: Eoneollaeseukaseom
   latvian: Unalaska
   lithuanian: Unalaška
   norwegian: Unalaska
@@ -33490,6 +34536,7 @@
   hungarian: Anchorage
   italian: Anchorage
   japanese: Ankarejji
+  korean: Aengkeoliji
   latvian: Ankoridža
   lithuanian: Ankoridžas
   norwegian: Anchorage
@@ -33522,6 +34569,7 @@
   hungarian: Mexicali
   italian: Mexicali
   japanese: Mehikari
+  korean: Mehikalli
   latvian: Mehikali
   lithuanian: Meksikalis
   norwegian: Mexicali

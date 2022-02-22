@@ -28,7 +28,8 @@ languages = [
     ('yugoslav','hr'),
     ('hindi','hi'),
     ('danish','da'),
-    ('norwegian','no')
+    ('norwegian','no'),
+    ('korean','ko'),
 ]
 
 language_code = {
@@ -61,5 +62,6 @@ language_code = {
     'yugoslav':'hr',
     'hindi':'hi',
     'danish':'da',
-    'norwegian':'no'
+    'norwegian':'no',
+    'korean':'ko',
 }

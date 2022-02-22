@@ -94,7 +94,7 @@ def fill_missing_in_row(dataframe, index):
 
 
 def handle_non_latin_alphabets(new_name, language,language_code):
-    if (language in ['chinese','arab','japanese','belarusian','hindi','russian','greek','ukrainian','bulgarian','armenian','georgian']):
+    if (language in ['chinese','arab','japanese','belarusian','hindi','russian','greek','ukrainian','bulgarian','armenian','georgian','korean']):
         new_name = get_translation(new_name,dest=language_code).pronunciation
     if (language == 'chinese'):
         new_name = ''.join(new_name.split(" "))

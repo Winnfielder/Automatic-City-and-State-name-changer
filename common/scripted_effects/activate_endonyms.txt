@@ -100,6 +100,10 @@ activate_endonyms = {
                                                     apply_albanian_endonyms = yes
                                                 }
 
+        else_if = { limit = { owner = { tag = KOR } }
+                                                            apply_korean_endonyms = yes
+                                                        }
+
         else_if = { limit = { owner = { is_chinese_speaking_country = yes } }
             apply_chinese_endonyms = yes
         }
