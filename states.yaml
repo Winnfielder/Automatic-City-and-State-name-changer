@@ -574,7 +574,7 @@
   hindi: Anvitan
   hungarian: Aquitania
   italian: Aquitania
-  japanese: Akitēnu
+  japanese: 'Akitēnu '
   latvian: Akvitānija
   lithuanian: Akvitanija
   norwegian: Aquitaine
@@ -760,7 +760,7 @@
   hindi: Limosin
   hungarian: Limousin
   italian: Limosino
-  japanese: Rimūzan
+  japanese: 'Rimūzan '
   latvian: Limuzēna
   lithuanian: Limuzenas
   norwegian: Limousin
@@ -10731,7 +10731,7 @@
   bulgarian: Izmit
   chinese: Yizimite
   czech: İzmit
-  danish: İzmit
+  danish: İzmit
   dutch: İzmit
   english: Izmit
   estonian: İzmit
