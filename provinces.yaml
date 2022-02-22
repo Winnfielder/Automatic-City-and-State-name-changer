@@ -26,7 +26,7 @@
   romanian: Stavanger
   russian: Stavanger
   spanish: Stavanger
-  swedish: Stavangers kommun
+  swedish: Stavanger
   turkish: Stavanger
   ukrainian: Stavanher
   yugoslav: Stavanger
@@ -346,7 +346,7 @@
   romanian: Narvik
   russian: Narvik
   spanish: Narvik
-  swedish: Narviks
+  swedish: Narvik
   turkish: Narvik
   ukrainian: Narvik
   yugoslav: Narvik
@@ -442,7 +442,7 @@
   romanian: Rēzekne
   russian: Rezhitsa
   spanish: Rēzekne
-  swedish: Rēzekne
+  swedish: Rositten
   turkish: Rēzekne
   ukrainian: Rezekne
   yugoslav: Rezekne
@@ -698,7 +698,7 @@
   romanian: Daugavpils
   russian: Dvinsk
   spanish: Daugavpils
-  swedish: Daugavpils
+  swedish: Dünaburg
   turkish: Daugavpils
   ukrainian: Dauhavpils
   yugoslav: Daugavpils
@@ -7034,7 +7034,7 @@
   romanian: Sankt Petersburg
   russian: Leningrad
   spanish: San Petersburgo
-  swedish: Sankt Petersburg
+  swedish: Nyen
   turkish: Sankt-Peterburg
   ukrainian: Sankt-peterburh
   yugoslav: Sankt-Peterburg
@@ -7066,7 +7066,7 @@
   romanian: Tallinn
   russian: Tallin
   spanish: Tallin
-  swedish: Tallinn
+  swedish: Reval
   turkish: Tallinn
   ukrainian: Tallinn
   yugoslav: Tallinn
@@ -7098,7 +7098,7 @@
   romanian: Pernau
   russian: Pernov
   spanish: Pärnu
-  swedish: Pärnu
+  swedish: Pernau
   turkish: Pärnu
   ukrainian: Pjarnu
   yugoslav: Pärnu
@@ -7226,7 +7226,7 @@
   romanian: Jekabpils
   russian: Yekabpils
   spanish: Jēkabpils
-  swedish: Jēkabpils
+  swedish: Jakobstad
   turkish: Jēkabpils
   ukrainian: Yekabpils
   yugoslav: Jēkabpils
@@ -9815,7 +9815,7 @@
   norwegian: Ioannina
   polish: Janina
   portuguese: Janina
-  romanian: Ioannina
+  romanian: Ianina
   russian: Janina
   spanish: Ioánina
   swedish: Ioánnina
@@ -13658,7 +13658,7 @@
   romanian: Jelgava
   russian: Yelgava
   spanish: Jelgava
-  swedish: Jelgava
+  swedish: Mitau
   turkish: Jelgava
   ukrainian: Yelhava
   yugoslav: Jelgava
@@ -16289,35 +16289,35 @@
 - Province id: 6935
   StateID: 800
   albanian: Van
-  arab: Earabat naql
-  belarusian: Malienki transparcior
-  bulgarian: Kleintransporter
-  chinese: Xiangxingche
-  czech: Dodávkový automobil
-  danish: Varevogn
-  dutch: Bestelwagen
+  arab: Van
+  belarusian: Van
+  bulgarian: Van
+  chinese: Van
+  czech: Van
+  danish: Van
+  dutch: Van
   english: Van
   estonian: Van
-  finnish: Pakettiauto
-  french: Camionnette
-  german: Kleintransporter
+  finnish: Van
+  french: Van
+  german: Van
   greek: Van
-  hindi: Dvaara
+  hindi: Van
   hungarian: Van
-  italian: Furgone
+  italian: Van
   japanese: Ban
-  latvian: Furgons
+  latvian: Van
   lithuanian: Van
-  norwegian: Av
+  norwegian: Van
   polish: Van
   portuguese: Van
-  romanian: Furgonetă
-  russian: Furgon
-  spanish: Furgoneta
-  swedish: Skåpbil
-  turkish: Furgon
-  ukrainian: Furhon
-  yugoslav: Kombinirano vozilo
+  romanian: Van
+  russian: Van
+  spanish: Van
+  swedish: Van
+  turkish: Van
+  ukrainian: Van
+  yugoslav: Van
 - Province id: 6938
   StateID: 356
   albanian: Kastamonu
@@ -20346,7 +20346,7 @@
   romanian: Vîborg
   russian: Vyborg
   spanish: Víborg
-  swedish: Vibor
+  swedish: Viborg
   turkish: Vıborg
   ukrainian: Vyborh
   yugoslav: Viipuri
@@ -20378,7 +20378,7 @@
   romanian: Tartu
   russian: Tartu
   spanish: Tartu
-  swedish: Tartu
+  swedish: Dorpat
   turkish: Tartu
   ukrainian: Tartu
   yugoslav: Tartu
@@ -20474,7 +20474,7 @@
   romanian: Liepāja
   russian: Liepaja
   spanish: Liepāja
-  swedish: Liepāja
+  swedish: Libau
   turkish: Liepāja
   ukrainian: Liyepaja
   yugoslav: Liepāja
@@ -20666,7 +20666,7 @@
   romanian: Kristiansand
   russian: Kristiansann
   spanish: Kristiansand
-  swedish: Kristiansands kommun
+  swedish: Kristiansand
   turkish: Kristiansand
   ukrainian: Kristiansann
   yugoslav: Kristiansand
@@ -25306,7 +25306,7 @@
   romanian: Valmiera
   russian: Volodimirec
   spanish: Valmiera
-  swedish: Valmiera
+  swedish: Wolmar
   turkish: Valmiera
   ukrainian: Valmiyera
   yugoslav: Valmiera
@@ -26458,7 +26458,7 @@
   romanian: Tromsø
   russian: Tromse
   spanish: Tromsø
-  swedish: Tromsø kommun
+  swedish: Tromsö
   turkish: Tromsø
   ukrainian: Tromse
   yugoslav: Tromsø
@@ -26618,7 +26618,7 @@
   romanian: Petrozavodsk
   russian: Petrozavodsk
   spanish: Petrozavodsk
-  swedish: Petrozavodsk
+  swedish: Onegaborg
   turkish: Petrozavodsk
   ukrainian: Petrozavodsk
   yugoslav: Petrozavodsk

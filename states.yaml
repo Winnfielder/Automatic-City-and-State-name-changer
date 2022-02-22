@@ -397,7 +397,7 @@
   romanian: Pärnu
   russian: Pernov
   spanish: Pärnu
-  swedish: Pärnu
+  swedish: Pernau
   turkish: Pärnu
   ukrainian: Pjarnu
   yugoslav: Pärnu
@@ -2347,7 +2347,7 @@
   norwegian: Northern Transylvania
   polish: Północna Transylwania
   portuguese: Norte Da Transilvania
-  romanian: Transilvania De Nord
+  romanian: Nordul Transilvaniei
   russian: Severnaya Transilvaniya
   spanish: Transilvania Norte
   swedish: Northern Transylvania
@@ -2440,7 +2440,7 @@
   norwegian: Moldova
   polish: Mołdawia
   portuguese: Moldávia
-  romanian: Republica Moldova
+  romanian: Moldovia
   russian: Moldavija
   spanish: Moldavia
   swedish: Moldavien
@@ -4427,7 +4427,7 @@
   romanian: Trøndelag
   russian: Trendelag
   spanish: Trøndelag
-  swedish: Trøndelag fylke
+  swedish: Tröndelag
   turkish: Trøndelag
   ukrainian: Trennelah
   yugoslav: Trøndelag
@@ -4520,7 +4520,7 @@
   romanian: Karjala
   russian: Karelija
   spanish: Carelia
-  swedish: Karjala
+  swedish: Karelen
   turkish: Karjala
   ukrainian: Karelija
   yugoslav: Karjala
@@ -4551,7 +4551,7 @@
   romanian: Salla
   russian: Salla
   spanish: Salla
-  swedish: Sall
+  swedish: Salla
   turkish: Salla
   ukrainian: Salla
   yugoslav: Salla
@@ -4582,7 +4582,7 @@
   romanian: Lappi
   russian: Lapland
   spanish: Lapland
-  swedish: Lappi
+  swedish: Lapland
   turkish: Lappi
   ukrainian: Lapland
   yugoslav: Lappi
@@ -4613,7 +4613,7 @@
   romanian: Pohjanmaa
   russian: Poh'janmaa
   spanish: Ostrobotnia
-  swedish: Pohjanmaa
+  swedish: Österbotten
   turkish: Pohjanmaa
   ukrainian: Ostrobothnia
   yugoslav: Pohjanmaa
@@ -4644,7 +4644,7 @@
   romanian: Savo
   russian: Savonia
   spanish: Savonia
-  swedish: Savo
+  swedish: Savolax
   turkish: Savo
   ukrainian: Savonia
   yugoslav: Savo
@@ -5726,7 +5726,7 @@
   norwegian: Epirus
   polish: Epir
   portuguese: Epirus
-  romanian: Epirus
+  romanian: Epir
   russian: Epir
   spanish: Epiro
   swedish: Epirus
@@ -5788,7 +5788,7 @@
   norwegian: Egeerhavet
   polish: Wyspy Egejskie
   portuguese: Ilhas Egeias
-  romanian: Aegean Islands
+  romanian: Insulele Egee
   russian: Egejskie ostrova
   spanish: Islas del Egeo
   swedish: Egeiska öarna
@@ -5884,7 +5884,7 @@
   romanian: Kurzeme
   russian: Kurzeme
   spanish: Kurland
-  swedish: Kurzeme
+  swedish: Kurland
   turkish: Kurzeme
   ukrainian: Kurland
   yugoslav: Kurzeme
@@ -5915,7 +5915,7 @@
   romanian: Tartu
   russian: Tartu
   spanish: Tartu
-  swedish: Tartu
+  swedish: Dorpat
   turkish: Tartu
   ukrainian: Tartu
   yugoslav: Tartu
@@ -6039,7 +6039,7 @@
   romanian: Sankt Petersburg
   russian: Leningrad
   spanish: San Petersburgo
-  swedish: Sankt Petersburg
+  swedish: Ingermanland
   turkish: Sankt-Peterburg
   ukrainian: Sankt-peterburh
   yugoslav: Sankt-Peterburg
@@ -6690,7 +6690,7 @@
   romanian: Olonets
   russian: Olonets
   spanish: Olónets
-  swedish: Olonets
+  swedish: Petroskoj
   turkish: Olonets
   ukrainian: Olonets
   yugoslav: Olonets
@@ -23675,7 +23675,7 @@
   norwegian: West banat
   polish: West banat
   portuguese: West banat
-  romanian: West banat
+  romanian: Banatul de Vest
   russian: West banat
   spanish: West banat
   swedish: West banat
@@ -23737,7 +23737,7 @@
   norwegian: Sør Bessarabia
   polish: Południowa Besarabia
   portuguese: Southern Bessarabia
-  romanian: Cahu
+  romanian: Sudul Basarabia
   russian: Yuzhnaya Bessarabia
   spanish: Southern Bessarabia
   swedish: Southern Bessarabia
@@ -24769,35 +24769,35 @@
   yugoslav: Hatay
 - ID: 800
   albanian: Van
-  arab: Earabat naql
-  belarusian: Malienki transparcior
-  bulgarian: Kleintransporter
-  chinese: Xiangxingche
-  czech: Dodávkový automobil
-  danish: Varevogn
-  dutch: Bestelwagen
+  arab: Van
+  belarusian: Van
+  bulgarian: Van
+  chinese: Van
+  czech: Van
+  danish: Van
+  dutch: Van
   english: Van
   estonian: Van
-  finnish: Pakettiauto
-  french: Camionnette
-  german: Kleintransporter
+  finnish: Van
+  french: Van
+  german: Van
   greek: Van
-  hindi: Dvaara
+  hindi: Van
   hungarian: Van
-  italian: Furgone
+  italian: Van
   japanese: Ban
-  latvian: Furgons
+  latvian: Van
   lithuanian: Van
   norwegian: Av
   polish: Van
   portuguese: Van
-  romanian: Furgonetă
-  russian: Furgon
-  spanish: Furgoneta
-  swedish: Skåpbil
-  turkish: Furgon
-  ukrainian: Furhon
-  yugoslav: Kombinirano vozilo
+  romanian: Van
+  russian: Van
+  spanish: Van
+  swedish: Van
+  turkish: Van
+  ukrainian: Van
+  yugoslav: Van
 - ID: 801
   albanian: Mëzia
   arab: Mwysia
@@ -24884,7 +24884,7 @@
   norwegian: Sør Serbia
   polish: Southern Serbia
   portuguese: Southern Serbia
-  romanian: Southern Serbia
+  romanian: Sudul Serbiei
   russian: Southern Serbia
   spanish: Southern Serbia
   swedish: Southern Serbia
@@ -25197,7 +25197,7 @@
   romanian: Tallinn
   russian: Harju
   spanish: Tallin
-  swedish: Tallinn
+  swedish: Harrien
   turkish: Tallinn
   ukrainian: Tallinn
   yugoslav: Tallinn
@@ -25228,7 +25228,7 @@
   romanian: Harju
   russian: Viru
   spanish: Harju
-  swedish: Harju
+  swedish: Wierland
   turkish: Harju
   ukrainian: Harju
   yugoslav: Harju
