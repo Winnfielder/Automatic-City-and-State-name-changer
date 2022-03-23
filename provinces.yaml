@@ -8415,37 +8415,37 @@
   yugoslav: Magdeburg
 - Province id: 3529
   StateID: 217
-  albanian: Stalingrad
+  albanian: Volgograd
   arab: Fulghughrad
   belarusian: Valhahrad
   bulgarian: Volgograd
   chinese: Fuerjiagele
-  czech: Stalingrad
+  czech: Volgograd
   danish: Volgograd
-  dutch: Stalinstad
-  english: Stalingrad
-  estonian: Stalingrad
-  finnish: Stalingrad
-  french: Stalingrad
+  dutch: Volgograd
+  english: Volgograd
+  estonian: Volgograd
+  finnish: Volgograd
+  french: Volgograd
   german: Hindenburg
-  greek: Stalingkrant
+  greek: Volgkogkrant
   hindi: Volgograad
-  hungarian: Stalingrád
-  italian: Stalingrad
+  hungarian: Volgográd
+  italian: Volgogrado
   japanese: Vuorugogurādo
   korean: Bolgogeuladeu
-  latvian: Stalingrada
-  lithuanian: Stalingradas
-  norwegian: Stalingrad
+  latvian: Volgograda
+  lithuanian: Volgogradas
+  norwegian: Volgograd
   polish: Wołgograd
-  portuguese: Stalingrado
-  romanian: Stalingrad
+  portuguese: Volgogrado
+  romanian: Volgograd
   russian: Stalingrad
-  spanish: Stalingrado
-  swedish: Stalingrad
-  turkish: Stalingrad
+  spanish: Volgogrado
+  swedish: Volgograd
+  turkish: Volgograd
   ukrainian: Volhohrad
-  yugoslav: Stalingrad
+  yugoslav: Volgograd
 - Province id: 3530
   StateID: 50
   albanian: Karlsruhe
@@ -8981,7 +8981,7 @@
   belarusian: Carlsbad
   bulgarian: Carlsbad
   chinese: Qiaersibade
-  czech: Carlsbad
+  czech: Karlovy Vary
   danish: Karlovy Vary
   dutch: Karelsbad
   english: Carlsbad
@@ -27433,7 +27433,7 @@
   dutch: Petrozavodsk
   english: Petrozavodsk
   estonian: Petroskoi
-  finnish: Petroskoi
+  finnish: Äänislinna
   french: Petrozavodsk
   german: Petrostadt
   greek: Petrozavontsk

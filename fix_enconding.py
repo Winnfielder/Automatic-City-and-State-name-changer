@@ -14,5 +14,5 @@ def fix_encoding(dataframe_path):
                 dataframe.loc[i,language] = new_name
     write_dataframe(dataframe,dataframe_path)
 
-#fix_encoding("new_provinces.yaml")
-fix_encoding("new_states.yaml")
+fix_encoding("provinces.yaml")
+fix_encoding("states.yaml")
