@@ -15534,7 +15534,7 @@
   norwegian: Kosice
   polish: Kosice
   portuguese: Kosice
-  romanian: Districtul Košice
+  romanian: Košice
   russian: Koshitse
   spanish: Kosice
   swedish: Kosice
@@ -15963,7 +15963,7 @@
   norwegian: Galata
   polish: Galati
   portuguese: Galati
-  romanian: Galati
+  romanian: Galaţi
   russian: Galati
   spanish: Galati
   swedish: Galati
@@ -16005,37 +16005,37 @@
   yugoslav: Detroi
 - Province id: 6711
   StateID: 76
-  albanian: Kluzh-Napoka
-  arab: Kluj nabuka
-  belarusian: Kluz-napoka
-  bulgarian: Kluzh-napoka
-  chinese: Keluri-naboqia
+  albanian: Kluzh
+  arab: Kluj
+  belarusian: Kluz
+  bulgarian: Kluzh
+  chinese: Keluri
   czech: Kluž
-  danish: Cluj Napoca
+  danish: Cluj
   dutch: Klausenburg
   english: Cluj
-  estonian: Cluj-Napoca
-  finnish: Cluj-Napoca
-  french: Cluj-Napoca
+  estonian: Cluj
+  finnish: Cluj
+  french: Cluj
   german: Klausenburg
-  greek: Kloyz-Napoka
+  greek: Kloyz
   hindi: Kluj
   hungarian: Kolozsvár
   italian: Clauseburgo
-  japanese: Kuruju = napoka
-  korean: Keullujinapoka
-  latvian: Kluža-Napoka
-  lithuanian: Klužas-Napoka
+  japanese: Kuruju
+  korean: Keulluji
+  latvian: Kluža
+  lithuanian: Klužas
   norwegian: Cluj
-  polish: Kluż-Napoka
-  portuguese: Cluj-Napoca
-  romanian: Cluj-Napoca
-  russian: Kluzh-Napoka
-  spanish: Cluj-Napoca
-  swedish: Cluj-Napoca
+  polish: Kluż
+  portuguese: Cluj
+  romanian: Cluj
+  russian: Kluzh
+  spanish: Cluj
+  swedish: Cluj
   turkish: Kaloşvar
-  ukrainian: Kluzh-napoka
-  yugoslav: Cluj-Napoca
+  ukrainian: Kluzh
+  yugoslav: Cluj
 - Province id: 6712
   StateID: 50
   albanian: Frajburgu
@@ -29460,7 +29460,7 @@
   norwegian: Dobrich
   polish: Dobricz
   portuguese: Dobrich
-  romanian: Dobrici
+  romanian: Bazargic
   russian: Dobrich
   spanish: Dobrich
   swedish: Dobritj
@@ -29526,7 +29526,7 @@
   norwegian: Pecs
   polish: Pecz
   portuguese: Pécs
-  romanian: Pécs
+  romanian: Peci
   russian: Pech
   spanish: Pécs
   swedish: Pécs
@@ -32390,7 +32390,7 @@
   hindi: Toyohaara
   hungarian: Juzsno-Szahalinszk
   italian: Južno-Sachalinsk
-  japanese: Yujinosaharinsuku
+  japanese: Toyohara
   korean: Yujeunosahallinseukeu
   latvian: Južnosahaļinska
   lithuanian: Južno Sachalinskas
