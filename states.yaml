@@ -567,7 +567,7 @@
   norwegian: Champagne
   polish: Szampan
   portuguese: Champanhe
-  romanian: Șampanie
+  romanian: Champagne
   russian: Shampanskoe
   spanish: Champán
   swedish: Champagne
@@ -1079,7 +1079,7 @@
   norwegian: Wallonie
   polish: Walonia
   portuguese: Wallonie
-  romanian: Wallonie
+  romanian: Valonia
   russian: Wallonie
   spanish: Valonia
   swedish: Wallonie
@@ -1815,7 +1815,7 @@
   norwegian: Westfalen
   polish: Westfalia
   portuguese: Vestfália
-  romanian: Westfalia
+  romanian: Vestfalia
   russian: Vestfalija
   spanish: Westfalia
   swedish: Westfalen
@@ -2103,7 +2103,7 @@
   norwegian: Nedre Silesia
   polish: Dolny Śląsk
   portuguese: Baixa Silésia
-  romanian: Niederschlesien
+  romanian: Silezia Inferioară
   russian: Nizhnjaja Silezija
   spanish: Niederschlesien
   swedish: Nedre Schlesien
@@ -2231,7 +2231,7 @@
   norwegian: Vest Slovakia
   polish: Zachodnia Słowacja
   portuguese: Western Slovakia
-  romanian: Western Slovakia
+  romanian: Slovacia Vestică
   russian: Western Slovakia
   spanish: Western Slovakia
   swedish: Western Slovakia
@@ -2263,7 +2263,7 @@
   norwegian: Øst Slovakia
   polish: Wschodnia Słowacja
   portuguese: Eastern Slovakia
-  romanian: Eastern Slovakia
+  romanian: Slovacia Estică
   russian: Eastern Slovakia
   spanish: Eastern Slovakia
   swedish: Eastern Slovakia
@@ -2359,7 +2359,7 @@
   norwegian: Ost-sudetenland
   polish: Wschodni Kraj Sudecki
   portuguese: Sudetenland Oriental
-  romanian: Eastern Sudetenland
+  romanian: Sudetenlandul de Est
   russian: Vostochnaya Sudetenlanda
   spanish: Sudetenland Del Este
   swedish: Ostra Sudetenland
@@ -2423,7 +2423,7 @@
   norwegian: Northern Transylvania
   polish: Północna Transylwania
   portuguese: Norte Da Transilvania
-  romanian: Nordul Transilvaniei
+  romanian: Transilvania de Nord
   russian: Severnaya Transilvaniya
   spanish: Transilvania Norte
   swedish: Northern Transylvania
@@ -2519,7 +2519,7 @@
   norwegian: Moldova
   polish: Mołdawia
   portuguese: Moldávia
-  romanian: Moldovia
+  romanian: Moldova
   russian: Moldavija
   spanish: Moldavia
   swedish: Moldavien
@@ -4023,7 +4023,7 @@
   norwegian: Greater London-omradet
   polish: Greater London Area
   portuguese: Area Maior De Londres
-  romanian: Marea Zona Din Londra
+  romanian: Londra Mare
   russian: Bolshaya Londonskaya Oblast
   spanish: Area De Londres Greater
   swedish: Storre London-omradet
@@ -4823,7 +4823,7 @@
   norwegian: Øst Sveits
   polish: Wschodnia Szwajcaria
   portuguese: Eastern Switzerland
-  romanian: Eastern Switzerland
+  romanian: Elveția Estică
   russian: Eastern Switzerland
   spanish: Eastern Switzerland
   swedish: Eastern Switzerland
@@ -4919,7 +4919,7 @@
   norwegian: Vanlig
   polish: Wielka Nizina Węgierska
   portuguese: Grande Planície Húngara
-  romanian: Marea Câmpie Ungară
+  romanian: Câmpia Ungară
   russian: Al'fel'd
   spanish: Gran llanura húngara
   swedish: Stora ungerska slättlandet
@@ -9143,7 +9143,7 @@
   norwegian: Sor-indokina
   polish: Poludniowa Indochina
   portuguese: Indochina Do Sul
-  romanian: Sudul Indochina
+  romanian: Indochina de Sud
   russian: Yuzhnaya Indokina
   spanish: Sur Indochina
   swedish: Sodra Indokina
@@ -9847,7 +9847,7 @@
   norwegian: Leeward Islands
   polish: Wyspy Podwietrzne
   portuguese: Leeward Islands
-  romanian: Insulele Sub Vânt
+  romanian: Insulele Leeward
   russian: Leeward Islands
   spanish: Leeward Islands
   swedish: Leeward Islands
@@ -10519,7 +10519,7 @@
   norwegian: Hennes Tun
   polish: Tuwińska Republika Ludowa
   portuguese: Tannu Tuva
-  romanian: Republica Populară Tuva
+  romanian: Tannu Tuva
   russian: Uryankhay Krai
   spanish: República Popular de Tannu Tuvá
   swedish: Tuvinska folkrepubliken
@@ -10583,7 +10583,7 @@
   norwegian: Newfoundland
   polish: Nowa Fundlandia i Labrador
   portuguese: Terra Nova e Labrador
-  romanian: Newfoundland şi Labrador
+  romanian: Newfoundland
   russian: N'jufaundlend i Labrador
   spanish: Terranova y Labrador
   swedish: Newfoundland och Labrador
@@ -13015,7 +13015,7 @@
   norwegian: Uralsk
   polish: Uralsk
   portuguese: Oral
-  romanian: Oral
+  romanian: Ural
   russian: Ural'sk
   spanish: Oral
   swedish: Oral
@@ -13751,7 +13751,7 @@
   norwegian: East Bengal
   polish: Bengal Wschodni
   portuguese: East Bengal
-  romanian: East Bengal
+  romanian: Bengalul de Est
   russian: Vostochnaja Bengalija
   spanish: Bengala Oriental
   swedish: Östbengalen
@@ -14295,7 +14295,7 @@
   norwegian: Alexandria
   polish: Aleksandria
   portuguese: Alexandria
-  romanian: Alexandri
+  romanian: Alexandria
   russian: Aleksandrija
   spanish: Alejandría
   swedish: Alexandria
@@ -16503,7 +16503,7 @@
   norwegian: Northwest Sibiria
   polish: Polnocno-zachodni Syberia
   portuguese: Noroeste Da Siberia
-  romanian: Nord-vest Siberia
+  romanian: Siberia de Nord-Vest
   russian: Taymyr
   spanish: Northwest Siberia
   swedish: Northwest Sibirien
@@ -16823,7 +16823,7 @@
   norwegian: Okinawa
   polish: Prefektura Okinawa
   portuguese: Okinawa
-  romanian: Prefectura Okinawa
+  romanian: Okinawa
   russian: Okinava
   spanish: Prefectura de Okinawa
   swedish: Okinawa prefektur
@@ -16919,7 +16919,7 @@
   norwegian: Kina
   polish: Region Chūgoku
   portuguese: Região de Chugoku
-  romanian: Regiunea Chūgoku
+  romanian: Chūgoku
   russian: Tjugoku
   spanish: Región de Chūgoku
   swedish: Chugoku
@@ -16983,7 +16983,7 @@
   norwegian: Kansai
   polish: Region Kinki
   portuguese: Kansai
-  romanian: Regiunea Kansai
+  romanian: Kansai
   russian: Kansaj
   spanish: Región de Kansai
   swedish: Kansai
@@ -17047,7 +17047,7 @@
   norwegian: Tohoku
   polish: Region Tóhoku
   portuguese: Tohoku
-  romanian: Regiunea Tóhoku
+  romanian: Tohoku
   russian: Tohoku
   spanish: Región de Tóhoku
   swedish: Tohoku
@@ -17143,7 +17143,7 @@
   norwegian: Hokkaido
   polish: Hokkaido
   portuguese: Hokkaido
-  romanian: Insula Hokkaidō
+  romanian: Hokkaidō
   russian: Hokkajdo
   spanish: Hokkaidō
   swedish: Hokkaido
@@ -17168,14 +17168,14 @@
   hindi: Saakhaalin
   hungarian: Karafuto prefektúra
   italian: Karafuto
-  japanese: Karafuto-chō
+  japanese: Minami Karafuto
   korean: Galahutocheong
   latvian: South Sakhalin
   lithuanian: South Sakhalin
   norwegian: Sør Sakhalin
   polish: South Sakhalin
   portuguese: Província de Karafuto
-  romanian: South Sakhalin
+  romanian: Sahalinul de Sud
   russian: Yuzhno-Sakhalinsk
   spanish: Prefectura de Karafuto
   swedish: South Sakhalin
@@ -18583,7 +18583,7 @@
   norwegian: Northern Urals
   polish: Polnocne Urals
   portuguese: Urais Do Norte
-  romanian: Nordul Urals
+  romanian: Uralii de Nord
   russian: Severnyy Ural
   spanish: Urales Del Norte
   swedish: Norra Urals
@@ -20599,7 +20599,7 @@
   norwegian: Nordost Sibirien
   polish: Polnocno Wschodnia Syberia
   portuguese: Nordeste Da Siberia
-  romanian: Nord Est Siberia
+  romanian: Siberia de Nord-Est
   russian: Severo Vostok Sibir
   spanish: Siberia Noreste
   swedish: Nordost Sibirien
@@ -20944,14 +20944,14 @@
   hindi: Uttar Sakhaalin
   hungarian: Eszak Szahalin
   italian: North Sakhalin
-  japanese: Nosusaharin
+  japanese: Kita Karafuto
   korean: Noseu Sahallin
   latvian: North Sahalin
   lithuanian: Siaures Sachalinas
   norwegian: North Sakhalin
   polish: North Sachalin
   portuguese: North Sakhalin
-  romanian: North Sakhalin
+  romanian: Sahalinul de Nord
   russian: Severnyy Sakhalin
   spanish: Sakhalin Del Norte
   swedish: Norra Sakhalin
@@ -21847,7 +21847,7 @@
   norwegian: Nordost Canada
   polish: Polnocno Wschodnia Kanada
   portuguese: Nordeste Do Canada
-  romanian: Nord Estul Canada
+  romanian: Canada de Nord-Est
   russian: Severo Vostochnyy Kanada
   spanish: Noreste De Canada
   swedish: Nordostra Kanada
@@ -22455,7 +22455,7 @@
   norwegian: Green Cape
   polish: Republika Zielonego Przylądka
   portuguese: Cabo Verde
-  romanian: Republica Capului Verde
+  romanian: Capul Verde
   russian: Kabo-Verde
   spanish: Cabo Verde
   swedish: Kap Verde
@@ -24407,7 +24407,7 @@
   norwegian: Königsberg
   polish: Królewiec
   portuguese: Königsberg
-  romanian: Königsber
+  romanian: Königsberg
   russian: Kaliningrad
   spanish: Königsberg
   swedish: Königsberg
@@ -24503,7 +24503,7 @@
   norwegian: Sør Bessarabia
   polish: Południowa Besarabia
   portuguese: Southern Bessarabia
-  romanian: Sudul Basarabia
+  romanian: Basarabia de Sud
   russian: Yuzhnaya Bessarabia
   spanish: Southern Bessarabia
   swedish: Southern Bessarabia
@@ -24535,7 +24535,7 @@
   norwegian: North Darfur
   polish: Darfur Północny
   portuguese: Darfur do Norte
-  romanian: Statul Darfur de Nord
+  romanian: Darfurul de Nord
   russian: Severnyj Darfur
   spanish: Estado de Darfur del Norte
   swedish: Shamal Darfur
@@ -24695,7 +24695,7 @@
   norwegian: Middle Kongo
   polish: Kongo Francuskie
   portuguese: Congo Francês
-  romanian: Congo Francez
+  romanian: Congo-ul Francez
   russian: Frantsuzskoe Kongo
   spanish: Congo francés
   swedish: Franska Kongo
@@ -25143,7 +25143,7 @@
   norwegian: Mauritanske Orkenen
   polish: Pustynia Mauretanska
   portuguese: Desert Mauritaniano
-  romanian: Desert Mauritanian
+  romanian: Deșertul Mauritanian
   russian: Mavritanskaya Pustynya
   spanish: Desierto De Mauritania
   swedish: Mauretansk Oken
@@ -25399,7 +25399,7 @@
   norwegian: Ostlige Aragon
   polish: Wschodni Aragon
   portuguese: Aragao Oriental
-  romanian: Est Aragon
+  romanian: Aragon-ul de Vest
   russian: Vostochnyy Aragon
   spanish: Aragon Oriental
   swedish: Ostra Aragon
@@ -25687,7 +25687,7 @@
   norwegian: Sør Serbia
   polish: Southern Serbia
   portuguese: Southern Serbia
-  romanian: Sudul Serbiei
+  romanian: Serbia de Sud
   russian: Southern Serbia
   spanish: Southern Serbia
   swedish: Southern Serbia
